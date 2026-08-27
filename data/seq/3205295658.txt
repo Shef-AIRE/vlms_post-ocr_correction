@@ -1,0 +1,95 @@
+OCR Text: I;THE LATE FATAL AFFRAY IN CftA I
+Ground Truth: THE LATE FATAL AFFRAY IN ST. PANCRAS.
+
+OCR Text: Yesterday an inquest, which was adjourned from wea- nesday, but in which no evidence was thenrtaken, was held before Mr. Baker, at the Boot Inn, Croer atreet, St. Pancras, on view of the body of Ellen Donald, who came by her death through a quarrel with a woman of the name of Martin now in custody.
+Ground Truth: Yesterday an inquest, which was adjourned from Wednesday, but in which no evidence was then taken, was held before Mr. Baker, at the Boot Inn, Cromer-street, St. Pancras, on view of the body of Ellen Donald, who came by her death through a quarrel with a woman of the name of Martin now in custody.
+
+OCR Text: A report was very prevalent that the deceased had been murdered, and a great sensation was created in the neighbourhood in canse- quence.
+Ground Truth: A report was very prevalent that the deceased had been murdered, and a great sensation was created in the neighbourhood in consequence.
+
+OCR Text: The body of the deceased presented new marks of very severe blows on the stomach and hips
+Ground Truth: The body of the deceased presented new marks of very severe blows on the stomachs and hips.
+
+OCR Text: Mr. John Edward Ladbury, surgeon, said he had examined the body of the deceased.
+Ground Truth: Mr. John Edward Ladbury, surgeon, said he had examined the body of the deceased.
+
+OCR Text: There was a slight bruise on the right eye, on the right side of the body, there were marks of other bruises as well as over the abdomen.
+Ground Truth: There was a slight bruise on the right eye, on the right side of the body, there were marks of other bruises as well as over the abdomen.
+
+OCR Text: On opening the body there were marks of very severe inflammation, connected with the external bruises; he was of opinion that the inflamation had led to her death; the- injuries were quite sufficient to account for her death, and no doubt caused it.
+Ground Truth: On opening the body there were marks of very severe inflammation, connected with the external bruises; he was of opinion that the inflammation had led to her death; the injuries were quite sufficient to account for her death, and no doubt caused it.
+
+OCR Text: The deceased was a well made young woman, about 20 years of age, and apparently healthy,
+Ground Truth: The deceased was a well-made young woman, about 20 years of age, and apparently healthy.
+
+OCR Text: The injuries were probably caused by blows or kicks.CeSt acasi
+Ground Truth: The injuries were probably caused by blows or kicks.
+
+OCR Text: Louisa Tomkins, of IS, Sion Terrace, St. Panras, said that on Sunday the 13th inst., about a quarter before one in the afternoon, she saw the deceased go into No. 11, Sion Terrace, a house of il-fame.
+Ground Truth: Louisa Tomkins, of 18, Sion Terrace, St. Pancras, said that on Sunday the 13th inst., about a quarter before one is the afternoon, she saw the deceased go into No. 11, Sion Terrace, a house of ill-fame.
+
+OCR Text: She heard a souffle inside, and the deceased was pushed out by some one.-
+Ground Truth: She heard a scuffle inside, and the deceased was pushed out by someone.–
+
+OCR Text: Soon after Mary Martin came out, and, advancing behind the deceased, struck her on the neck, and knocked her down; and while she was lying on the ground, kicked her several times with great violence on the lower part of the body
+Ground Truth: Soon after May Martin came out, and, advancing behind the deceased, struck her on the neck, and knocked her down; and while she was lying on the ground, kicked her several times with great violence on the lower part of the body.
+
+OCR Text: The deceased was very faint, and could hardly get up.
+Ground Truth: The deceased was very faint, and could hardly get up.
+
+OCR Text: The kicks were about the abdomen and hips.
+Ground Truth: The kicks were about the abdomen and hips.
+
+OCR Text: They were both rather tipsy.
+Ground Truth: They were both rather tipsy.
+
+OCR Text: The fall was a very heavy one, and Martin afterwards pulled her violently by the hair.-
+Ground Truth: The fall was a very heavy one, and Martin afterwards pulled her violently by the hair.–
+
+OCR Text: The deceased was assisted home, but died on Sunday last.
+Ground Truth: The deceased was assisted home, but died on Sunday last.
+
+OCR Text: Martin appeared in a great passion at the time.-YAitness had not seen the deceased from that time till she was dead.
+Ground Truth: Martin appeared in a great passion at the time. —Witness had not seen the deceased from that time till she was dead.
+
+OCR Text: Elizabeth Harris, of 9, SionTerrace said she saw the brutal assault.
+Ground Truth: Elizabeth Harris, of 9, Sion Terrace said she saw the brutal assault.
+
+OCR Text: The deceased fell heavily, and having got up, proceeded a short distance, when her bonnet camie off.
+Ground Truth: The deceased fell heavily, and having got up, proceeded a short distance, when her bonnet came off.
+
+OCR Text: Martin run after her, caught her by the hair, and kicked her severely a second time.
+Ground Truth: Martin run after her, caught her by the hair, and kicked her severely a second time.
+
+OCR Text: The deceased was first taken to witness's house, when she said-'$ My godd woman, I am done done for."
+Ground Truth: The deceased was first taken to witness house, when she said— “My good woman, I am done for.”
+
+OCR Text: Margaret Jackson, the landlady of the house, No. 11, Sion-terrace, deposed that on Sunday week she heard the deceased and Mary Martin quarrelling.
+Ground Truth: Margaret Jackson, the landlady of the house, No. 11, Sion-terrace, deposed that on Sunday week she heard the deceased and Mary Martin quarrelling.
+
+OCR Text: She did not know the occasion of the quarrel, but she saw Mary Mar. tin throw the bellows at the deceased, but they did not hit her-Martin then jumped up and struck her once or twice:
+Ground Truth: She did not know the occasion of the quarrel, but she saw Mary Martin throw the bellows at the deceased, but they did not hit her—Martin then jumped up and struck her once or twice.
+
+OCR Text: Witness got the deceased out of the house, and does not know what passed afterwards.
+Ground Truth: Witness got the deceased out of the house, and does not know what passed afterwards.
+
+OCR Text: Martin left her house on Wednesday week, but witness has since caused her to be taken into custody.
+Ground Truth: Martin left her house on Wednesday week, but witness has since caused her to be taken into custody.
+
+OCR Text: Lydia Hollis of 11, Sion Terrace, said the deceased on the day in question, was called in by the witness.
+Ground Truth: Lydia Hollis of 11, Sion Terrace, said the deceased on the day in question, was called in by the witness.
+
+OCR Text: The de. ceased had some writing paper in her hand.
+Ground Truth: The deceased had some writing paper in her hand.
+
+OCR Text: Maria Murtin asked who the paper was for; the deceased said for George, (the son of the deceased's landlady) Martin, then made a snatch at it, and then they got quarrelling, and using very bad language about the paper, and a gown Martin, had lent the deceased who sent it home dirty. Martin then threw the bellows at the deceased.
+Ground Truth: Maria Martin asked who the paper was for; the deceased said for George, (the son of the deceased’s landlady) Martin, then made a snatch at it, and then they got quarreling, and using very bad language about the paper, and a gown Martin, had lent the deceased who sent it home dirty. Martin then threw the bellows at the deceased.
+
+OCR Text: This was the ause of the quarrel; the deceased then left and Mary Martin followed her; witness does not know what happen. ed afterwards,
+Ground Truth: This was the cause of the quarrel; the deceased then left and Mary Martin followed her; witness does not know what happened afterwards.
+
+OCR Text: The coronersaid there couldbelittle doubt thatthiswas ac use of manslaughter, and as their time was valuable, and the documents would take some time tilling up; and Saturday being a busy day with them, he would adjourn the inquest till Tuesday for them to sign thier verdict.
+Ground Truth: The coroner said there could be little doubt that this was a case of manslaughter, and as their time was valuable and the documents would take some time filling up; and Saturday being a busy day with them, he would adjourn the inquest till Tuesday for them to sign their verdict.
+
+OCR Text: The foreman said the verdict must be manslaughter, and assented to the proposition of the coroner.
+Ground Truth: The foreman said the verdict must be manslaughter, and assented to the proposition of the coroner.

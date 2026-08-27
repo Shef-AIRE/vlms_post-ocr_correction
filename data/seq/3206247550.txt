@@ -1,0 +1,74 @@
+OCR Text: ATTEDIPT TO KILL A WIFE.
+Ground Truth: ATTEMPT TO KILL A WIFE.
+
+OCR Text: On Friday, at Lambeth poliCe-court, Littleivooei Litth woord, 22, described as a potman, was charged with cutting and vwounding Alice Littleswoud, his wife, with al razor, at 131, Farnner's-road, Kenning- ton.park.-The wife was brought to the court in a cab; but her condition was such that it was de- cided she should not give evidence that day.
+Ground Truth: On Friday, at Lambeth police-court, Littlewood, Littlewood, 22, described as a potman, was charged with cutting and wounding Alice Littlewood, his wife, with a razor, at 131, Farmer's-road, Kennington-park. –The wife was brought to the court in a cab; but her condition was such that it was decided she should not give evidence that day.
+
+OCR Text: The prisoner appeared to feel his position very much.-
+Ground Truth: The prisoner appeared to feel his position very much.–
+
+OCR Text: The first witnuss cslled was William Palmer, who said he lived at 111, Farmner's-road, and was a labourer.
+Ground Truth: The first witness called was William Palmer, who said he lived at 131, Farmer's-road, and was labourer.
+
+OCR Text: The prisoner lodged in the back parlour with his wife and one child.
+Ground Truth: The prisoner lodged in the back parlour with his wife and one child.
+
+OCR Text: About eight o'clock on Thursday evening be heard louid screams of "Murder !' and rushed down to the prisooner's room.
+Ground Truth: About eight o'clock on Thursday evening he heard loud screams of "Murder!” and rushed down to the prisoner's room.
+
+OCR Text: Ol entering, lie sow the prisoner with a razor in his right hand.
+Ground Truth: On entering, he saw the prisoner with a razor in his right hand.
+
+OCR Text: The wife was lying on the floor, and the prisoner was ill a stooping position.
+Ground Truth: The wife was lying on the floor, and the prisoner was in a stooping position.
+
+OCR Text: I The witness noticed that the wonian's right arm was bleeding very inucli.
+Ground Truth: The witness noticed that the woman's right arm was bleeding very much.
+
+OCR Text: There was a severe struggle going on when the witness rushed forwaWl and seized the prisoner's arms and pulled him away.
+Ground Truth: There was a severe struggle going on when the witness rushed forward and seized the prisoner's arms and pulled him away.
+
+OCR Text: The prisoner then dropped the razor.
+Ground Truth: The prisoner then dropped the razor.
+
+OCR Text: Assistancewas sent for, during which the u)risoner remained very quiet, and made no attempt to escape.
+Ground Truth: Assistance was sent for, during which the prisoner remained very quiet, and made no attempt to escape.
+
+OCR Text: A doctor shortly after arrived, and dressed the woman s wounds.
+Ground Truth: A doctor shortly after arrived, and dressed the woman's wounds.
+
+OCR Text: Witness hai oly knolse parties abot a month, and both always appeared to be sober.-
+Ground Truth: Witness had only known the parties about a month, and both always appeared to be sober.–
+
+OCR Text: Bv rIr. Ihllison: Did not hear tine wife say anytlniu, hntprisonerafterwrirds asked to be allowed to kiss her.-Mr. J. IV. Coles, surgeon, of 1'17, Cambernwell New-rend, said lie was called to the house, 131, Farmer's-road, about half-past eight o'clock anlld saw the injured woman sitting on the bed in the back parlour.
+Ground Truth: By Mr. Ellison: Did not hear the wife say anything, but prisoner afterwards asked to be allowed to kiss her. –Mr. J. W. Coles, surgeon, of 197, Camberwell New-road, said he was called to the house, 131, Farmer's-road, about half-past eight o'clock, and saw the injured woman sitting on the bed in the back parlour.
+
+OCR Text: The woman was in a state of syn. cope from loss of blood.
+Ground Truth: The woman was in a state of syncope from loss of blood.
+
+OCR Text: There was a slight super- ficial woundacross the throat.
+Ground Truth: There was a slight superficial wound across the throat.
+
+OCR Text: There was a deep inicisei wound, however, on the right arm, dividing all the tissues to the hone, and two wounds oil tie thunmb of the right hand.
+Ground Truth: There was a deep incised wound, however, on the right arm, dividing all the tissues to the hone, and two wounds on the thumb of the right hand.
+
+OCR Text: Such wounds must have been caused by a sharp instrument, such as at. knife or razor.
+Ground Truth: Such wounds must have been caused by a sharp instrument, such as a knife or razor.
+
+OCR Text: At the time he feared there was danger, blt that morning she appeared to be better.
+Ground Truth: At the time he feared there was danger, but that morning she appeared to be better.
+
+OCR Text: - Polce-consatable 241 P, said he was called to the house, and found the prisoner in the pas- sage.
+Ground Truth: –Police-constable 241 P, said he was called to the house, and found the prisoner in the passage.
+
+OCR Text: H~e was being held by the first witness, who said he had attempted to cut his wife's throat.
+Ground Truth: He was being held by the first witness, who said he had attempted to cut his wife's throat.
+
+OCR Text: The prisoner said, " I should like to kiss her before I go," and on the way to the station he asked, " Is she hurt much'" and witness said he believed sire was.
+Ground Truth: The prisoner said, "I should like to kiss her before I go," and on the way to the station he asked, "Is she hurt much?" and witness said he believed she was.
+
+OCR Text: The prisoner then said, " I am very sorry for it. I d(id it in the heat of passion. When I came home I saw her in the parlour, and as she did not let me in it made me angry. I'm very sorryfor what I have done."
+Ground Truth: The prisoner then said, "I am very sorry for it. I did it in the heat of passion. When I came home I saw her in the parlour, and as she did not let me in it made me angry. I'm very sorry for what I have done."
+
+OCR Text: The prisoner was greatly excited, and cried very munch.-By Ir. 1rslhager: He really appeared to be deeply sorry.-Mr. Ellison said he would remand the prisoner to see how the wife pro. gressed.-hIr. Fiullager said he wished to mention thast the father and uncle ot the prisoner, he was in. formed, had both committed suicide, and it was be- lieved that the prisoner was not quite right in his nind.-Zr. Ellison said the attention of the surgeon would be called to that at the gaol.-The prisoner wass then remnanded.
+Ground Truth: The prisoner was greatly excited, and cried very much. —By Mr. Fullager: He really appeared to be deeply sorry. —Mr. Ellison said he would remand the prisoner to see how the wife progressed. –Mr. Fullager said he wished to mention that the father and uncle of the prisoner, he was informed, had both committed suicide, and it was believed that the prisoner was not quite right in his mind. —Mr. Ellison said the attention of the surgeon would be called to that at the gaol. —The prisoner was then remanded.

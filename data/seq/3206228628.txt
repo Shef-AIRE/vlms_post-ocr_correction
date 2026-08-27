@@ -1,0 +1,122 @@
+OCR Text: I SEIOUS CHARAGE OF INDECENT ASAULT. I
+Ground Truth: SERIOUS CHARGE OF INDECENT ASSAULT.
+
+OCR Text: (From our latest edition of last week.]
+Ground Truth: [From our latest edition of last week.]
+
+OCR Text: At the Worship-street police-court, on Thursday, the Bev. Geimge gnmall, fifty-three years of age, de- scribed as a missionary, and a teacher of ancient and modem Oriental languages, residing at 24, Welling- ton-street, Strand, was charged with having in- decently assaulted Emma Alice Parker in an omnibus in the flackney-road.
+Ground Truth: At the Worship-street police-court, on Thursday, the Rev. George Small, fifty-three years of age, described as a missionary, and a teacher of ancient and modern Oriental languages, residing at 24, Wellington-street, Strand, was charged with having indecently assaulted Emma Alice Parker in an omnibus in the Hackney-road.
+
+OCR Text: The defendant was further described as of the Uhiversity of Edinburgh, mem- ber of the Royal Asiatic society,, the Royal College of Preceptors, the Philological soglety, the Anglo- Biblcal institute, &c.
+Ground Truth: The defendant was further described as of the University of Edinburgh, member of the Royal Asiatic society, the Royal College of Preceptors, the Philological society, the Anglo-Biblical institute, &c.
+
+OCR Text: Alice Emma Parker, the prosecutrix, of 8, Kemps- ford-road South, Kennington-lane, deposed: Aboat half-past six on Wednesday night I entered an omni- bus at.the Royal-exchange.
+Ground Truth: Alice Emma Parker, the prosecutrix, of 8, Kempsford-road South, Kennington-lane, deposed: About half-past six on Wednesday night I entered an omnibus at the Royal-exchange.
+
+OCR Text: -The prisoner was-a passenger in the same vehicle.
+Ground Truth: The prisoner was a passenger in the same vehicle.
+
+OCR Text: He had an umbrella n his hand and a book on his knee.
+Ground Truth: He had an umbrella in his hand and a book on his knee.
+
+OCR Text: He sat next to me.
+Ground Truth: He sat next to me.
+
+OCR Text: I felt something press my foot,. and I moved it.
+Ground Truth: I felt something press my foot, and I moved it.
+
+OCR Text: The pressure was repeated. And I again shifted my foot, and on lookinsg down I saw bis left hand holding his umbrella, but his right I could not see in canse- quence of stooping forward.
+Ground Truth: The pressure was repeated, and I again shifted my foot, and on looking down I saw his left hand holding his umbrella, but his right I could not see in consequence of stooping forward.
+
+OCR Text: I then felt a hand upon the calf of my leg. on my stocking.
+Ground Truth: I then felt a hand upon the calf of my leg on my stocking.
+
+OCR Text: I jumped up immediately, and said that a gentleman had. placed his hand beneath my clothes.
+Ground Truth: I jumped up immediately, and said that a gentleman had placed his hand beneath my clothes.
+
+OCR Text: The omnibus was stopped, and my husband, who was outside, was called for.
+Ground Truth: The omnibus was stopped, and my husband, who was outside, was called for.
+
+OCR Text: Prisoner did not say X word.
+Ground Truth: Prisoner did not say a word.
+
+OCR Text: I was holding my dress up in my two hands.
+Ground Truth: I was holding my dress up in my two hands.
+
+OCR Text: Cross-examined: I wore a smaU crinoline.
+Ground Truth: Cross-examined: I wore a small crinoline.
+
+OCR Text: My petticoats were long.
+Ground Truth: My petticoats were long.
+
+OCR Text: I entered the omnibus at Cornhill.
+Ground Truth: I entered the omnibus at Cornhill.
+
+OCR Text: I. didnot notice 'the prisoner until he left another part ot the omnibus to take a place on my left side.
+Ground Truth: I did not notice the prisoner until he left another part of the omnibus to take a place on my left side.
+
+OCR Text: I passed him as I entered, but nothing was said or done to me then.
+Ground Truth: I passed him as I entered, but nothing was said or done to me then.
+
+OCR Text: The omnibus, which was not full when I went in, became so after the defendant hadialtered his position.
+Ground Truth: The omnibus, which was not full when I went in, became so after the defendant had altered his position.
+
+OCR Text: There were five females on the side where he sat.
+Ground Truth: There were five females on the side where he sat.
+
+OCR Text: When I got up I said nothing to the prisoner. but told a gentleman, in dbwhisper, 'of what had 'happened.
+Ground Truth: When I got up I said nothing to the prisoner, but told a gentleman, in a whisper, of what had happened.
+
+OCR Text: The omnibus was then stopped, and the prisoner, as soon as a policeman was foand, given into custody.
+Ground Truth: The omnibus was then stopped, and the prisoner, as soon as a policeman was found, given into custody.
+
+OCR Text: I do not know how long was the interval between the stoppage of the omni- bus and the giving of the prisoner into custody.
+Ground Truth: I do not know how long was the interval between the stoppage of the omnibus and the giving of the prisoner into custody.
+
+OCR Text: Prisoner saw me whisper to the gentleman when he was taken into custody.
+Ground Truth: Prisoner saw me whisper to the gentleman when he was taken into custody.
+
+OCR Text: I did not bear what reply he made; I was too confused.
+Ground Truth: I did not hear what reply he made; I was too confused.
+
+OCR Text: When I jumped up, as I have stated, Isaw prmeoners right hand, but there was nothing in it.
+Ground Truth: When I jumped up, as I have stated, I saw prisoner's right hand, but there was nothing in it.
+
+OCR Text: I went towards the door and almost felL
+Ground Truth: I went towards the door and almost fell.
+
+OCR Text: I did not return to that seat.,
+Ground Truth: I did not return to that seat.
+
+OCR Text: The om- nibus travelled fast, but did not -jolt about.
+Ground Truth: The omnibus travelled fast, but did not jolt about.
+
+OCR Text: I did not see that the road was broken up.
+Ground Truth: I did not see that the road was broken up.
+
+OCR Text: By Mr. Newton: I know it was a man's hand.
+Ground Truth: By Mr. Newton: I know it was a man's hand.
+
+OCR Text: I felt the finger squeeze my leg.
+Ground Truth: I felt the finger squeeze my leg.
+
+OCR Text: When .1 jumped up I saw his hand come from beneath my dress.
+Ground Truth: When I jumped up I saw his hand come from beneath my dress.
+
+OCR Text: - Cross- exanination 'continued: 'Aly petticoats reach the gdrund.
+Ground Truth: —Cross- examination continued: My petticoats reach the ground.
+
+OCR Text: I only held mny dress up.
+Ground Truth: I only held my dress up.
+
+OCR Text: Coiroborative evidencowas adduced. Numerous testimonials as to the prisoner's character and ability, were also bandigl in, after which Mr. Newton remarked that he should not take on bimself to decide the case, but send it to the ses- ;sions.
+Ground Truth: Corroborative evidence was adduced. Numerous testimonials as to the prisoner's character and ability were also handed in, after which Mr. Newton remarked that he should not take on himself to decide the case, but send it to the sessions.
+
+OCR Text: Prosedutri's 'evidence had been fully borne out-Mr. Vann remarked that his client's character was 'beyond effect from such' an imputation as this.
+Ground Truth: Prosecutrix's evidence had been fully borne out. —Mr. Vann remarked that his client's character was beyond effect from such an imputation as this.
+
+OCR Text: Even now the office was fill of personal friends ready to testify to his worth.-Mr. Newton observed that the higher the defendants positionthe mdre necessary was it that the whole matte. should un- dergo the strictest and mest searching inquiries.-
+Ground Truth: Even now the office was full of personal friends ready to testify to his worth. —Mr. Newton observed that the higher the defendant's position the more necessary was it that the whole matter should undergo the strictest and most searching inquiries.—
+
+OCR Text: Subsequently bail was 'accepted~ in the rev. gentle- man's surety of 3001' n w f51 I~ ~ ~~~n tw of _0
+Ground Truth: Subsequently bail was accepted, in the rev. gentleman's surety of 100l. and two of 50l.

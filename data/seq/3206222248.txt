@@ -1,0 +1,74 @@
+OCR Text: 7DELIBERATE PERJURY.
+Ground Truth: DELIBERATE PERJURY.
+
+OCR Text: On Wednesday, at the Middlesex sessions, Charles Williams, twenty-six, and C7wales Slack, seventeen, wyere indicted for stealing a purse and other articles, and Os. 2d., the property and moneys of Alfred Jay, from the person of Myra Allen J4y.-Slack pleaded guilty.
+Ground Truth: On Wednesday, at the Middlesex sessions, Charles Williams, twenty-six, and Charles Slack, seventeen, were indicted for stealing a purse and other articles, and 6s. 2d., the property and moneys of Alfred Jay, from the person of Myra Allen Jay. –Slack pleaded guilty.
+
+OCR Text: On the afternoon of Thureday,.the 16th of March, Serjeant Coatborpe, of the detective force, at Scot- land-yard, who had known Williams for three years, saw him riding by the side of the lad Slack on the top of an omnibus, in the Strand, and having a sus- picion of them, he got into a cab and watched them to Ohargin-cross, where he saw both prisoners get down.
+Ground Truth: On the afternoon of Thursday, the 16th of March, Serjeant Coathorpe, of the detective force, at Scotland-yard, who had known Williams for three years, saw him riding by the side of the lad Slack on the top of an omnibus, in the Strand, and having a suspicion of them, he got into a cab and watched them to Charing-cross, where he saw both prisoners get down.
+
+OCR Text: They afterwards got into other omnibuses, in one of whichthe robbery was committed for which they were now charged.
+Ground Truth: They afterwards got into other omnibuses, in one of which the robbery was committed for which they were now charged.
+
+OCR Text: Mr. Montague Williams, on behalf of Williams, pointed, out some discrepancies in the evidence, and said with all his care and intelligence Serjeant Coa- thorpe had this time made a mistake, and he should set up an alibi and show that WVilliams was not at the place at the time stated.
+Ground Truth: Mr. Montagne Williams, on behalf of Williams, pointed out some discrepancies in the evidence, and said with all his care and intelligence Serjeant Coathorpe had this time made a mistake, and he should set up an alibi and show that Williams was not at the place at the time stated.
+
+OCR Text: The prisoner Slack was then taken out of the dock and put into the witness-box, and he swore that the other prisoner was an entire stranger tohim, that he never walked out with him, that he was not with him at the time in question,. but a man named Tay- .lo, of Francis street, Totteulham-court-road, was the party who assisted him in the robbery; that Tayler was a different sort of man to the prisoner, and that he had a black moustache and not alight moustahe.
+Ground Truth: The prisoner Slack was then taken out of the dock and put into the witness-box, and he swore that the other prisoner was an entire stranger to him, that he never walked out with him, that he was not with him at the time in question, but a man named Taylor, of Francis street, Tottenham-court-road, was the party who assisted him in the robbery; that Taylor was a different sort of man to the prisoner, and that he had a black moustache and not a light moustache.
+
+OCR Text: Charlotte Bwrkitt, of No. ., Glohe-street, fethual- green, said on this Thursday the prisoner Williams had some words with sis wife, and he cause to her house and remained there three or four days.
+Ground Truth: Charlotte Burkitt, of No. 3, Globe-street, Bethnal-green, said on this Thursday the prisoner Williams had some words with his wife, and he came to her house and remained there three or four days.
+
+OCR Text: He was not out from the Tuesday till the time when the 'officers came, as he had vefy bad legs at the time.
+Ground Truth: He was not out from the Tuesday till the time when the officers came, as he had very bad legs at the time.
+
+OCR Text: He remained in her room with, her husband and two children.
+Ground Truth: He remained in her room with her husband and two children.
+
+OCR Text: Catherine Moseley, of No. 17, Catherine-street, City-road, said she went to Mrs. Burkitt's room on Thursday, the 16th March, and saw a stranger there, and that young man was the prisoner Williams.
+Ground Truth: Catherine Moseley, of No. 17, Catherine-street, City-road, said she went to Mrs. Burkitt's room on Thursday, the 16th March, and saw a stranger there, and that young man was the prisoner Williams.
+
+OCR Text: He was there from half-past two o'clock until half-past five, and he did not go out during that time.,
+Ground Truth: He was there from half-past two o'clock until half-past five, and he did not go out during that time.
+
+OCR Text: Two witnesses were here called by Mr. Besley, who stated that they had. repeatedly seen the two psisoners togethers, and although Williams bore a strong resemblance to his brother, who was a noto- rioss thief, they knew them perfectly well to distin- guish onefrom another.
+Ground Truth: Two witnesses were here called by Mr. Besley, who stated that they had repeatedly seen the two prisoners together, and although Williams bore a strong resemblance to his brother, who was a notorious thief, they knew them perfectly well to distinguish one from another.
+
+OCR Text: The assistant-judge very carefully summed up the evidence, andthejury returned a verdict of " Guilty."
+Ground Truth: The assistant-judge very carefully summed up the evidence, and the jury returned a verdict of "Guilty.”
+
+OCR Text: A previous conviction was then put in against the prisonerWilliamns. in 1855; when lie weas sentenced to fouryears'penal servitude, after a previous conviction.
+Ground Truth: A previous conviction was then put in against the prisoner Williams, in 1855, when he was sentenced to four years' penal servitude, after a previous conviction.
+
+OCR Text: The Assistant-judge (to the jury): I now wish to ask yoe, gentlemen, do you believe that this woman Burldit came here to commit perjury?-The foreman of the jury: Not one of the jury, my loid, believe a single word she says.Z-The assistant-judge directed her to be taken. into- custody, and ordered that she should be prosecuted for perjury.
+Ground Truth: The Assistant-judge (to the jury): I now wish to ask you, gentlemen, do you believe that this woman Burkitt came here to commit perjury? —The foreman of the jury: Not one of the jury, my loud, believe a single word she says. —The assistant-judge directed her to be taken into custody, and ordered that she should be prosecuted for perjury.
+
+OCR Text: Mrs. Moseleywasthen called forward andcautioned, and it was stated by Police-constable Miller, 148 G, that he had. frequently seen Williams go in and out of her house, and he, believed le lived with her.
+Ground Truth: Mrs. Moseley was then called forward and cautioned, and it was stated by Police-constable Miller, 148 G, that he had frequently seen Williams go in and out of her house, and he believed he lived with her.
+
+OCR Text: Mrs. Moseley had also a son called Tom, who was the asso- ciate- of thieves-The assistant-judge then ordered her to be taken into custody /also.
+Ground Truth: Mrs. Moseley had also a son called Tom, who was the associate of thieves. —The assistant-judge then ordered her to be taken into custody also.
+
+OCR Text: George Lockyer, prison officer, said the boy Slack had three nionths'imslizisonfent on the 30th of June, 1863, as a rogue and vagabond.
+Ground Truth: George Lockyer, prison officer, said the boy Slack had three months' imprisonment on the 30th of June, 1863, as a rogue and vagabond.
+
+OCR Text: Miller, the constable said that Slack was a most clever little thief, and he bad frequently jeeringly told wiiness that he was too clever for him.
+Ground Truth: Miller, the constable, said that Slack was a most clever little thief, and he had frequently jeeringly told witness that he was too clever for him.
+
+OCR Text: He always bad plenty of. money, and once bought a horse to ride about with.
+Ground Truth: He always had plenty of money, and once bought a horse to ride about with.
+
+OCR Text: James Block, 124 G, said he had known Williams -for fourteen or fifteen - years as - a thief, and he had been several times convicted.
+Ground Truth: James Block, 124 G, said he had known Williams for fourteen or fifteen years as a thief, and he had been several times convicted.
+
+OCR Text: He never knew him to. do any work, and he -was a trainer of thieves.
+Ground Truth: He never knew him to do any work, and he was a trainer of thieves.
+
+OCR Text: The assistant-judge said this was a most audacious -robbery, and any little sympathy they entertained for Slack, on account of his youth. was done away with by his getting into the box and swearing delibe- rately to that which be knew tobe false.
+Ground Truth: The assistant-judge said this was a most audacious robbery, and any little sympathy they entertained for Slack, on account of his youth, was done away with by his getting into the box and swearing deliberately to that which he knew to be false.
+
+OCR Text: He saw no reason -to make any distinction between the prisoners, and the sentence upon each of them was, that they be kept inpenal servitude for seven years;
+Ground Truth: He saw no reason to make any distinction between the prisoners, and the sentence upon each of them was, that they be kept in penal servitude for seven years.
+
+OCR Text: Serjeant Coathorpe was then ordered to stand for- ward, and the assistant-judge said the court were of opinion that they ought to mark their sense of his great activity and intelligence in following these pri-. --soners, by orderingbim to-receive areward of 21.. not for the sake of the money, but as-an expression of the feelings of the court, for the able mamuer in which he lad acted in this case.
+Ground Truth: Serjeant Conthorpe was then ordered to stand forward, and the assistant-judge said the court were of opinion that they ought to mark their sense of his great activity and intelligence in following these prisoners, by ordering him to receive a reward of 2l., not for the sake of the money, but as an expression of the feelings of the court, for the able manner in which he had acted in this case.

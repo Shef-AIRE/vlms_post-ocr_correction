@@ -1,0 +1,62 @@
+OCR Text: LAW INTELLIGENCE.
+Ground Truth: LAW INTELLIGENCE.
+
+OCR Text: COURT Or BANKRUPTCY. MONDAY.
+Ground Truth: COURT OF BANKRUPTCY. MONDAY.
+
+OCR Text: RATLWAY SPeCULATIONS.-IN Rn A. DANeaons.-This bankrupt was described as a merchant, having formezly been in business as a perfumer, receiving about 1,000 a year, and living like a gentleman.
+Ground Truth: RAILWAY SPECULATIONS. —IN RE A. DANIELLS. —This bankrupt was described as a merchant, having formerly been in business as a perfumer, receiving about £1,000 a year, and living like a gentleman.
+
+OCR Text: He disposed of his business for about 1,500, and then entered very largely into railway speculations, being at one period worth about 12,000, but his speculation resulted in avery heavy less.
+Ground Truth: He disposed of his business for about £1,500, and then entered very largely into railway speculations, being at one period worth about £12,000, but his speculation resulted in a very heavy loss.
+
+OCR Text: This ease was before the court a short tine since, upon application for certificate, and it was adjourned till this day, for the parpose of investigation, and more particularly respecting the proof of Mr. More for 614 odd, be. ing a balance of arcssnt resulting out of railway speculation.
+Ground Truth: This case was before the court a short time since, upon application for certificate, and it was adjourned till this day, for the purpose of investigation, and more particularly respecting the proof of Mr. More for £614 odd, being a balance of account resulting out of railway speculation.
+
+OCR Text: The bankrupt's debts and liabilities aneunt to about 10,000, running over a period of about three years, and tile assets appear on the b:-lanra- sheet tosbe "property, 102 9l. S-d-.
+Ground Truth: The bankrupt's debts and liabilities amount to about £10,000, running over a period of about three years, and the assets appear on the balance sheet to be "property, £162 9s. 8d."
+
+OCR Text: He commenced with a capi- tal of 3.189 14s. lid., ard the losses and expenses amount to about 10,000, the profits being stated at 2825 /s. 6d,
+Ground Truth: He commenced with a capital of £3.189 14s. 11d., and the losses and expenses amount to about £10,000, the profits being stated at £285 6s. 6d.
+
+OCR Text: Mr. More, -vho opposed, had been in business as a spirit merchant in Liverpool, and in 1859 became bankrupt, but oWing to some negligence on his own part he did not obtain his certificate until July, 1845, at which period he entered the Liverpeel market as a share broker; and he did not know what was the amount of his debts, or the dividend, if any, paid under that bankruptcy.
+Ground Truth: Mr. More, who opposed, had been in business as a spirit merchant in Liverpool, and in 1839 became bankrupt, but owing to some negligence on his own part he did not obtain his certificate until July, 1845, at which period he entered the Liverpool market as a share broker; and he did not know what was the amount of his debts, or the dividend, if any, paid under that bankruptcy.
+
+OCR Text: He was nat a sworn broker.
+Ground Truth: He was not a sworn broker.
+
+OCR Text: lie bad not offered to withdraw his opposititn upon payment of 300.-
+Ground Truth: He had not offered to withdraw his opposition upon payment of £300.
+
+OCR Text: Mr. Lawrance, on behalf of the bankrupt, stated that the last item in the account between the banktupt and Mr. More, upon which the proof of 044 odd, was now sought to be made, bore date the 11th of August.
+Ground Truth: Mr. Lawrance, on behalf of the bankrupt, stated that the last item in the account between the bankrupt and Mr. More, upon which the proof of £644 odd, was now sought to be made, bore date the 11th of August.
+
+OCR Text: The certificate was dated the 25th of July, and twenty-ens days was required for the certificate to remain at the Court of Review.
+Ground Truth: The certificate was dated the 25th of July, and twenty-one days was required for the certificate to remain at the Court of Review.
+
+OCR Text: Therefore the whole of these trattsactioets upon which the proof was made, took place at a time when Mr. More was an uncertifirated bankrupt.
+Ground Truth: Therefore, the whole of these transactions upon which the proof was made, took place at a time when Mr. More was an uncertificated bankrupt.
+
+OCR Text: Under these circumstances he (Mr. Lawrance) must sub- mit that Mr. More was not entitled to prove.-After some further die- cusston the proof was admitted fer the fall amount claimed.-Mr. Shultz, a stock-broker, stated that he had had transactions to the ex- tent of thousands of pounds with various persons, and that the bank- nupt was the most punctual of ans.-Upon the part of Mr. Ripley, a setock-broker, an adjournment of the case was prayed for.
+Ground Truth: Under these circumstances he (Mr. Lawrance) must submit that Mr. More was not entitled to prove. —After some further discussion the proof was admitted for the full amount claimed. —Mr. Shultz, a stock broker, stated that he had had transactions to the extent of thousands of pounds with various persons, and that the bankrupt was the most punctual of any. —Upon the part of Mr. Ripley, a stock-broker, an adjournment of the case was prayed for.
+
+OCR Text: Mr. Rip- ley was a creditor for 5,000, being the result of a loss upon Bir- mingham and Oxfordshire shares, occasisned by Emanuel Daniells, who, it was stated, had represented his employer to be a mnan of for- tune, but had always refused to disclose his name.
+Ground Truth: Mr. Ripley was a creditor for £5,000, being the result of a loss upon Birmingham and Oxfordshire shares, occasioned by Emanuel Daniells, who, it was stated, had represented his employer to be a man of fortune, but had always refused to disclose his name.
+
+OCR Text: Upon going, how- ever, to the ofsce of the official assignee (Mr. Edwards), a bond of Lord Ventry's tor 7,000 being mesitiesed in the bankrupt's pro- ceedings, and the same having been shown to Mr. Ripley, it was eon- cluded that the bankrupt, being tbe brother of Emanuel Daniells, was his employer, and hence the attempt to prove against this estate.
+Ground Truth: Upon going, however, to the office of the official assignee (Mr. Edwards), a bond of Lord Ventry's for £7,000 being mentioned in the bankrupt's proceedings, and the same having been shown to Mr. Ripley, it was concluded that the bankrupt, being the brother of Emanuel Daniells, was his employer, and hence the attempt to prove against this estate.
+
+OCR Text: The bankrupt denied having employed his brother in any such trane- action.-Mr. Lawrance objected to an adjournment under such cir- camstauees, and the court concarred.-Mr. Bagley and Mr. Law- rasce having been heard pro and con, his honour said that he did not consider that More stood in the position of a creditor entitled to much favour.
+Ground Truth: The bankrupt denied having employed his brother in any such transaction. —Mr. Lawrance objected to an adjournment under such circumstances, and the court concurred. —Mr. Bagley and Mr. Lawrance having been heard pro and con, his honour said that he did not consider that More stood in the position of a creditor entitled to much favour.
+
+OCR Text: The bankrupt had stated upon a former occasion that More would be unable to prove himself a creditor against this estate, but it appeared to him (the commissioner) that he was a creditor-
+Ground Truth: The bankrupt had stated upon a former occasion that More would be unable to prove himself a creditor against this estate, but it appeared to him (the commissioner) that he was a creditor.
+
+OCR Text: Upon the last occasion, also, the bankrupt stated that he had nothing to do with Wesi Rilang shares, but it appeared that he had, and he now sought to excuse himself by stating that he was merely an agent.
+Ground Truth: Upon the last occasion, also, the bankrupt stated that he had nothing to do with West Riding shares, but it appeared that he had, and he now sought to excuse himself by stating that he was merely an agent.
+
+OCR Text: The objection appeared to be, thatthebankrupthad been tradingout of his avocation as a trader; and it also appeared that he had been specu. lating in that which a trader ought not.
+Ground Truth: The objection appeared to be, that the bankrupt had been trading out of his avocation as a trader; and it also appeared that he had been speculating in that which a trader ought not.
+
+OCR Text: In order to show traders that they were not to enter into illegitimate speculation, incerring losses, and then enter into one or two legitimate speculations, for the purpose of comning to this court and being made free of all the debts, the Judgment of the court was that the certificate be suspended for twelve months, with protection from mouth to month.
+Ground Truth: In order to show traders that they were not to enter into illegitimate speculation, incurring losses, and then enter into one or two legitimate speculations, for the purpose of coming to this court and being made free of all the debts, the Judgment of the court was that the certificate be suspended for twelve months, with protection from month to month.

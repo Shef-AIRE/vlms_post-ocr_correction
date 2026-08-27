@@ -1,0 +1,44 @@
+OCR Text: EMBEZZLEMIENT BY A BECRETARY.
+Ground Truth: EMBEZZLEMENT BY A SECRETARY.
+
+OCR Text: WVilliam J 6. Fitgqibbon, 34, of King Wil- liam-street, Greenwich, secretary of the Greenwich Coffee Tavern Cotmpany (Limited), was charged on a warrant, at Greenwich police-court, on Thursday, with embezzling 181. 15s. 7d., received by him on account of the company-William Everitt, mancager of the Good Duke Humphrey coffee tavern, said the prisoner was secre- tary of the company.
+Ground Truth: William J. G. Fitzgibbon, 34, of King William-street, Greenwich, secretary of the Greenwich Coffee Tavern Company (Limited), was charged on a warrant, at Greenwich police-court, on Thursday, with embezzling 18l. 15s. 7d., received by him on account of the company. —William Everitt, manager of the Good Duke Humphrey coffee tavern, said the prisoner was secretary of the company.
+
+OCR Text: It was witness's duty Ito pay to him the moneys received> and on Sept. 6 he paid the prisoner 181. i5s. 7d.
+Ground Truth: It was witness's duty to pay to him the moneys received, and on Sept. 6 he paid the prisoner 18l. 15s. 7d.
+
+OCR Text: He should have paid the money into the [London and County bank forthwith.
+Ground Truth: He should have paid the money into the London County bank forthwith.
+
+OCR Text: He had always fanud the prieoner a first-rate |man of bnsinee s.-Wm. Charles Huntchinson, (cashier of the London anfiCeunty bank, Greenwich branch), said the Greenwich Coffee Tavern Co. (Limited) had an account at their branch.
+Ground Truth: He had always found the prisoner a first-rate man of business. —Wm. Charles Hutchinson, (cashier of the London and County bank, Greenwich branch), said the Greenwich Coffee Tavern Co. (Limited) had an account at their branch.
+
+OCR Text: The amount of 181. 15s. 7d. had not been paid in.
+Ground Truth: The amount of 18l. 15s. 7d. had not been paid in.
+
+OCR Text: The last sums . paid in were 65e. and 51., on August 31.-Serjeant Howell said that on Tuesday last he went to Liverpool, and found the prisoner detained at the police-station.
+Ground Truth: The last sums paid in were 65l. and 5l, on August 31. —Serjeant Howell said that on Tuesday last he went to Liverpool, and found the prisoner detained at the police-station.
+
+OCR Text: He said, " I am going to arrest you on a warrant for embezzling 181. 15s."
+Ground Truth: He said, "I am going to arrest you on a warrant for embezzling 18l. 15s."
+
+OCR Text: I-e said, " Yes, I plead guilty to that amount. Do vou know whether there will be any other charges preferred against me? '
+Ground Truth: He said, "Yes, I plead guilty to that amount. Do you know whether there will be any other charges preferred against me?"
+
+OCR Text: Witness replied that he did not know, and he said, " I have carefully calcu- lated everything in my me nory, and I think tnere would be about 201. or 251. at the out- side deficient, which I intended to return to the directors of the company."
+Ground Truth: Witness replied that he did not know, and he said, "I have carefully calculated everything in my memory, and I think there would be about 20l. or 25l. at the outside deficient, which I intended to return to the directors of the company."
+
+OCR Text: The witness found on him the sum of 271. 10s. in gold, Se. in silver, and a Si. note.
+Ground Truth: The witness found on him the sum of 27l. 10s. in gold, 5s. in silver, and a 5l. note.
+
+OCR Text: He bore an excellent character-Mr. Everitt, re-called, said the prisoner left behind him a cheque for 341., which he might have cashed if he had liked--slr. Wood, for the defence, said the prisoner had yielded to a sudden temptation.
+Ground Truth: He bore an excellent character. —Mr. Everitt, re-called, said the prisoner left behind him a cheque for 341., which he might have cashed if he had liked. —Mr. Wood, for the defence, said the prisoner had yielded to a sudden temptation.
+
+OCR Text: He went to Liverpool to get a situation.
+Ground Truth: He went to Liverpool to get a situation.
+
+OCR Text: The money in his possession would be returned to the company.-Ser- jeant Howell said there were painful cir- cumstances in the case which had not come out in evidence.-llfr. Saw said the prisoner had run away with a woman not his wife.-
+Ground Truth: The money in his possession would be returned to the company. —Serjeant Howell said there were painful circumstances in the case which had not come out in evidence. —Mr. Saw said the prisoner had run away with a woman not his wife.–
+
+OCR Text: Mr. Marsham committed the prisoner for four months' hard labour.
+Ground Truth: Mr. Marsham committed the prisoner for four months' hard labour.

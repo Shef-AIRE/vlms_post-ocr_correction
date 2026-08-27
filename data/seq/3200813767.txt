@@ -1,0 +1,35 @@
+OCR Text: A JEV9ISH WEDDZNG. . " I . P. . . T. l1 *I _ _
+Ground Truth: A JEWISH WEDDING.
+
+OCR Text: AT Marlborough Street Police Court, Barnett Frankell, a phunber, of Bateman Street, Soho, was summoned before Mr. Hannay by Rose Frankell, as his wife, for deserting and neg- lecting to maintain her and her children.
+Ground Truth: AT Marlborough Street Police Court, Barnett Frankell, a plumber, of Bateman Street, Soho, was summoned before Mr. Hannay by Rose Frankell, as his wife, for deserting and neglecting to maintain her and her children.
+
+OCR Text: Both parties are foreign Jews.
+Ground Truth: Both parties are foreign Jews.
+
+OCR Text: The de- fendant contended that he was not married to the complainant, but the complainant asserted that though their marriage had never been registered they were husband and wife accoHd- lug to Jewish custom, her brother explaining to the magistrate that to constitute a Jewish marriage it was only necessary for a man, in the presence of ten witlnesses, to. place a ring upon a woman's finger and utter certain prayers.
+Ground Truth: The defendant contended that he was not married to the complainant, but the complainant asserted that though their marriage had never been registered they were husband and wife according to Jewish custom, her brother explaining to the magistrate that to constitute a Jewish marriage it was only necessary for a man, in the presence of ten witnesses, to place a ring upon a woman's finger and utter certain prayers.
+
+OCR Text: The presence of a rabbi or priest was quite unnecessary, and a ring was not ovco essential, a coin or any other similar article handed by the man to the woman, to the accompanimen t of the prescribed prayers, being equally good for the purpose of the ceremony.
+Ground Truth: The presence of a rabbi or priest was quite unnecessary, and a ring was not even essential, a coin or any other similar article handed by the man to the woman, to the accompaniment of the prescribed prayers, being equally good for the purpose of the ceremony.
+
+OCR Text: Charles Shatser, a traveller, of Osborne Place, Whitechapel, informed the magistrate that complainant was married in his house to the defendant according to the Jewish religion.
+Ground Truth: Charles Shatser, a traveller, of Osborne Place, Whitechapel, informed the magistrate that complainant was married in his house to the defendant according to the Jewish religion.
+
+OCR Text: The summons was adjourned for further evidence to be given respecting the alleged mzarriagre.
+Ground Truth: The summons was adjourned for further evidence to be given respecting the alleged marriage.
+
+OCR Text: A gcntleaian, who preferred not to have his nanie made public, now attended from the Chief Rabbi, aid told the magistrate that, according to the J'ewish rites, any doupl could be narried providing there were three persons present.
+Ground Truth: A gentleman, who preferred not to have his name made public, now attended from the Chief Rabbi, and told the magistrate that, according to the Jewish rites, any couple could be married providing there were three persons present.
+
+OCR Text: Mr. Hannay: But they are not married according to English law, because the marriage has not been registered.
+Ground Truth: Mr. Hannay: But they are not married according to English law, because the marriage has not been registered.
+
+OCR Text: rJho Witness: They are not legally married according to the law -of the land.
+Ground Truth: The Witness: They are not legally married according to the law of the land.
+
+OCR Text: The de- fendant went before the ChiefRabbi, fand he had expressed his willingness to keep the children.
+Ground Truth: The defendant went before the Chief Rabbi, and he had expressed his willingness to keep the children.
+
+OCR Text: Mr. Hannay: I cannot make an order, and the slummons will be dismissed, but it seems-a great shame that such a defence should have been set up.
+Ground Truth: Mr. Hannay: I cannot make an order, and the summons will be dismissed, but it seems a great shame that such a defence should have been set up.

@@ -1,0 +1,89 @@
+OCR Text: r M.E DOMESTIC MEwlVAIT AND Ey, BABY. . .1 I
+Ground Truth: THE DOMESTIC SERVANT AND HER BABY.
+
+OCR Text: MiR. G. P. WYATT, coroner for East Surrey, held an inquest at the Railway Taverns, New-cross, nil the body of Arthur ViWilliamn Lapworth, aged eighteen days, the child of Mary Ann Ltpworth, a doeiritic servant.
+Ground Truth: MR. G. P. WYATT, coroner for East Surrey, held an inquest at the Railway Tavern, New-cross, on the body of Arthur William Lapworth, aged eighteen days, the child of Mary Ann Lapworth, a domestic servant.
+
+OCR Text: The mother eaid the child was born at 59, Hatcham Park- road.
+Ground Truth: The mother said the child was born at 59, Hatcham Park-road.
+
+OCR Text: The witness went thsere in consequence of an advertisemnent she saw in the SUliday papers.
+Ground Truth: The witness went there in consequence of an advertisement she saw in the Sunday papers.
+
+OCR Text: She agreed to pay Mrs Church, the landlady, whlo was to attend her iis. per wveek previous to her confinement, and a guinea a week aft.ivwards.
+Ground Truth: She agreed to pay Mrs. church, the landlady, who was to attend her, 15s. per week previous to her confinement, and a guinca a week afterwards.
+
+OCR Text: Nothing was said to her about the 'doctor's fee.
+Ground Truth: Nothing was said to her about the doctor’s fee.
+
+OCR Text: The medical man attended her when tho child sna sburn, hat shee cid nut seea him after- wards.
+Ground Truth: The medical man attended her when the child was born, but she did not see him afterwards.
+
+OCR Text: B3y the Coroner: She did. not understanid that it wae nece!ssary fsr a doctor to call a. second time.
+Ground Truth: By the Coroner: She did not understand that it was necessary for a doctor to call a second time.
+
+OCR Text: Mrs. Church did not ciggest that the dacte:r sbouhl not see heragain, but else o ace said to her, "The doctor has come to see the child. I suppose yro do neot aaist to son lsintT' to whicrl the witr ess replied, "No, i don't think so."
+Ground Truth: Mrs. Church did not suggest that the doctor should not see her again, but she once said to her, “The doctor has come to see the child. I suppose you do not want to see him?” to which the witness replied, “No, I don’t think so.”
+
+OCR Text: There were three other yomug children in the bucse vhben the witness first went, but two of theist were taken away last week.
+Ground Truth: There were three other young children in the house when the witness first went, but two of them were taken away last week.
+
+OCR Text: Eleanor Church, of the above address, stated that the deceased 0-as fed on milk and water.
+Ground Truth: Eleanor Church, of the above address, stated that the deceased was fed on milk and water.
+
+OCR Text: She did not think it necessary for the doctor to a ttend again after the confinement. as the patient got on very wvell.
+Ground Truth: She did not think it necessary for the doctor to attend again after the confinement as the patient got on very well.
+
+OCR Text: The Cironer: I should have thought you woild have eoished hisi to call, as you pado' hi iout of youer owsn pocket.
+Ground Truth: The Coroner: I should have thought you would have wished him to call, as you paid him out of your own pocket.
+
+OCR Text: Witness: Oh, no. The mothers have to pay thaz, and I told the last witness ss.
+Ground Truth: Witness: Oh, no. The mothers have to pay that, and I told the last witness so.
+
+OCR Text: In fact, after she got con- valescent we went together and psenred her watch arid chairs witlh which to pay his.
+Ground Truth: In fact, after she got convalescent we went together and pawned her watch and chain with which to pay him.
+
+OCR Text: The svitnrss, .o7ntinnirg, said tbat shl ian mnt a reisteLred midwife, or she would nrot have called in medical aid ; she vsas only a nuirse.
+Ground Truth: The witness, continuing, said that she was not a registered midwife, or she would not have called in medical aid; she was only a nurse.
+
+OCR Text: By the Coroner : How oslany children have yon in the houtse ia the COUrSes of a yoar-a hindred '
+Ground Truth: By the Coroner: How many children have you in the house in the course of a year—a hundred?
+
+OCR Text: T1re Witises : Oh, no, certainly not.
+Ground Truth: The Witness: Oh, no, certainly not.
+
+OCR Text: By a Juryrnan: The mother regi's- throd tise birth.
+Ground Truth: By a Juryman: The mother registered the birth.
+
+OCR Text: The wvitaess had not insured its life.
+Ground Truth: The witness had not insured its life.
+
+OCR Text: Dr. C, Wallace, of 241, New-cross-rcad, stated that he was called in on .Jnio 85.h * the child was born when he arrived ; he (lid liot see it ogairs until Saturday it. WAS then in a dying state.
+Ground Truth: Dr. C. Wallace, of 211, New-cross road, stated that he was called in on June 8th; the child was born when he arrived; he did not see it again until Saturday; it was then in a dying state.
+
+OCR Text: Tie attended it until its death, -which took plece the following day.
+Ground Truth: He attended it until its death, which took place the following day.
+
+OCR Text: By the Coroner: Is it not esusil for a niedlieia rLoan to aiteed a eonase in lice coeslnrlesent until the ninth or tenthI dusy
+Ground Truth: By the Coroner: Is it not usual for a medical man to attend a woman in her confinement until the ninth or tenth day?
+
+OCR Text: 5 The Witoiess: Yes; I callkd the next smorniiig, srnl Slts. Church said that th(\ mither of tile ehild isitul not riesire to see roe.
+Ground Truth: The Witness: Yes; I called the next morning, and Mrs. Church said that the mother of the child did not desire to see me.
+
+OCR Text: I attended tv-o other caocs in the sauce issisec rCCeiitly5' soil sas treated in the saine swsy.
+Ground Truth: I attended two other cases in the same house recently and was treated in the same way.
+
+OCR Text: The deceased was healthy when born.
+Ground Truth: The deceased was healthy when born.
+
+OCR Text: I made apost-morten examinatiosi of tie body, vlich v.'as much einsciated, arid weighesi only 41h. 'oz., the average weight bieizg between O'slb. and 7lb,
+Ground Truth: I made a post-mortem examination of the body, which was much emaciated, and weighed only 41b. 5oz., the average weight being between 61/2lb. and 7lb.
+
+OCR Text: There was scarcely arty far about thel body, saud thie sLoiaci contained a little partly-riigesteel freor.
+Ground Truth: There was scarcely any fat about the body, and the stomach contained a little partly-digested food.
+
+OCR Text: Tlhe irmeediste caruso of csleatI vias exhsitusin, remelting fronm a convnisive fit.
+Ground Truth: The immediate cause of death was exhaustion, resulting from a convulsive fit.
+
+OCR Text: The jury cev(ntrally roturned averdiclire accordance with t1he medical evidence.
+Ground Truth: The jury eventually returned a verdict in accordance with the medical evidence.

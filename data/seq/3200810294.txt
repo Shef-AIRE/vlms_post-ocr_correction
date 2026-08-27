@@ -1,0 +1,59 @@
+OCR Text: ,M*URzDERUS- ASSAULT UPON Ad . F IICSU
+Ground Truth: MURDEROUS ASSAULT UPON AN OFFICER.
+
+OCR Text: ,FLVUMAXbNA1AF1U: o tLFJP. ,v I y - As . I 2AT .the, Central Crinal Court, James H1ealy. bedty-ore, a printer, pleaded guilty to having Corn mitted a violent assault on Captain R. Ranki. Hitchijison, the vice-connul for Spain.
+Ground Truth: AT the Central Criminal Court, James Healy twenty-one, a printer, pleaded guilty to having committed a violent assault on Captain R. Ranke Hutchinson, the vice-consul for Spain.
+
+OCR Text: The prosecu- .tpr, a retired asptain, resided aloneat 1B2, Wardoilt- 'street, Oxford-streeb.
+Ground Truth: The prosecutor, a retired captain, resided alone at 182, Wardour-street, Oxford-street.
+
+OCR Text: On the night of the attacli two friends cconmpanied 'him home, but left him a- the door.
+Ground Truth: On the night of the attack two friends accompanied him home, but left him at the door.
+
+OCR Text: Soon after they had gone there was a knook at the door.
+Ground Truth: Soon after they had gone there was a knock at the door.
+
+OCR Text: The prosecutor opened it, anil the prisoner forced his way into the house and rat pstairs.
+Ground Truth: The prosecutor opened it, and the prisoner forced his way into the house and ran upstairs.
+
+OCR Text: -The procedutor, f however, succeeded in keeping a second man out.
+Ground Truth: The prosecutor, however, succeeded in keeping a second man out.
+
+OCR Text: On going~upstairS iLI search of the prisoner the latter attacked him with as coal hammer and bneat him about the head in a most !brutal manner.
+Ground Truth: Ongoing upstairs in search of the prisoner the latter attacked him with a coal hammer and beat him about the head in a most brutal manner.
+
+OCR Text: Downstairs the prisoner renewed the attack and broke two or three bottles over his head!
+Ground Truth: Downstairs the prisoner renewed the attack and broke two or three bottles over his head.
+
+OCR Text: The prisoner then escaped through a back window, but appeared to have fallen through a sky- light, and injured his head.
+Ground Truth: The prisoner then escaped through a back window, but appeared to have fallen through a sky light and injured his head.
+
+OCR Text: When arrested he made 'serios allegations against the prosecutor and said that the'aserault was.'commfitted in self defence.
+Ground Truth: When arrested he made serious allegations against the prosecutor and said that the assault was committed in self defence.
+
+OCR Text: Mr. Biros said the pelic'e, eat the ins taace of the Treasury, had made certain Inquiries with' regard to the allo- gations" made by the prisoner, and the result was embodied in a report which had been lsaid before: his lordship.
+Ground Truth: Mr. Biron said the police, at the instance of the Treasury, had made certain inquiries with regard to the allegations made by the prisoner, and the result was embodied in a report which had been laid before his lordship.
+
+OCR Text: Mr. Burnie said that if his lordship should be convinced that there was absolutely no foundation for the statements that circumstance would be a serious aggravation of an already grave offence.
+Ground Truth: Mr. Burnie said that if his lordship should be convinced that there was absolutely no foundation for the statements that circumstance would be a serious aggravation of an already grave offence.
+
+OCR Text: That wau why he desired his lordship to see the report, but as the statements in the report affected other persons, it would. nob, of course, be. possible to go into them.
+Ground Truth: That was why he desired his lordship to see the report, but as the statements in the report affected other persons, it would not, of course, be possible to go into them.
+
+OCR Text: Mr. Justice Hawkins said he was not qciite sure that such an attempt, if it occurred, would not have made as near an approach to a plea of justifiOation as could well be.
+Ground Truth: Mr. Justice Hawkins said he was not quite sure that such an attempt, if it occurred, would not have made as near an approach to a plea of justification as could well be.
+
+OCR Text: If the man was simply resisting an attack upon him he had nothing to do but to prove the fact, and-he would at once have the sympathy of everyone.
+Ground Truth: If the man was simply resisting an attack upon him he had nothing to do but to prove the fact, and he would at once have the sympathy of everyone.
+
+OCR Text: Mr. Burnie remarked that the evidence did not go to that extent.
+Ground Truth: Mr. Burnie remarked that the evidence did not go to that extent.
+
+OCR Text: It would be hard as against the prisoner to say that the etate- ment was absolutely without foundation, but he was precluded from proving it.
+Ground Truth: It would be hard as against the prisoner to say that the statement was absolutely without foundation, but he was precluded from proving it.
+
+OCR Text: The learned' judge said he was not trying the prisoner for matting false accusations against the prosecutor, hut for the offence of inflicting grievous bodily harm.
+Ground Truth: The learned judge said he was not trying the prisoner for making false accusations against the prosecutor, but for the offence of inflicting grievous bodily harm.
+
+OCR Text: He had pleaded guilty to a cruel a~nd murderous assault, and the sentence would be seven years' penal servitude.
+Ground Truth: He had pleaded guilty to a cruel and murderous assault, and the sentence would be seven years’ penal servitude.

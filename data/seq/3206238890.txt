@@ -1,0 +1,23 @@
+OCR Text: FROM THE LONDON GAZETTR
+Ground Truth: FROM THE LONDON GAZETTE.
+
+OCR Text: TUESDAY, FEBRUARY 27.
+Ground Truth: TUESDAY, FEBRUARY 27.
+
+OCR Text: LONDOE BANKRUPTS. -W. Cotton, iowndes-sqnare, Rnightsbridge-M. Le Comto D'Epineuil, Springfield-road. Bt. John'3-wood-T. J. George, Manchester-street, Man. chester-square, and Fitzroy-street, Fitzroy-square, bill. broker-G. PreslaLd, Bidder-street, Canning-town, bulidee -A. Serrano and E. Hlalpartlfdt, Great St. Helen's, pro. prietori of 'La America Tatina"1 -S. Winship, Sandring. bam-road, Dalston, and Liverpool-road, Isilngton, builder.
+Ground Truth: LONDON BANKRUPTS. –W. Cotton, Lowndes-square, Knightsbridge –M. Le Comte D'Epineuil, Springfield-road, St. John's-wood –T. J. George, Manchester-street, Manchester-square, and Fitzroy-street, Fitzroy-square, bill-broker –G. Presland, Bidder-street, Canning-town, builder –A. Serrano and E. Malpartida, Great St. Helen's, proprietors of "La America Latina" –S. Winship, Sandringham-road, Dalston, and Liverpool-road, Islington, builder.
+
+OCR Text: COUNTRY BANKtRUPTS.-T. .T. Dyer, Birminghamn, general hardware merehant-T. W. Evans, Tredegar, draper-D. Eergnson, Stapleton, farmer-W. Humberstone, Walton- ,n-the-Naze, builder-W. H. Noore, Coventry, wine mer. chant - 3. Newton, Sudbury, fishmonger-C. Robins, Redhill, livery-stablo keeper.
+Ground Truth: COUNTRY BANKRUPTS. –T.J. Dyer, Birmingham, general hardware merchant –T. W. Evans, Tredegar, draper –D. Ferguson, Stapleton, farmer –W. Humberstone, Walton-on-the-Naze, builder –W. H. Moore, Coventry, wine merchant –J. Newton, Sudbury, fishmonger –C. Robins, Redhill, livery-stable keeper.
+
+OCR Text: PRIDAY, MANEa 1.
+Ground Truth: FRIDAY, MARCH 1.
+
+OCR Text: BANRMlPTcOY ANNULLED. -W. Smith and 3. Kidder, Charch-street, Sjhoieditch, grocers.
+Ground Truth: BANKRUPTCY ANNULLED. –W. Smith and J. Kidder, Church-street, Shoreditch, grocers.
+
+OCR Text: ToAnoN BANKRUPTS.-M. D. S. Scott. Cornwall-gardens, Queen's-gate, K~ensington-1. B. C. AnIlick, Garden-corrt, romple, City.
+Ground Truth: LONDON BANKRUPTS. –M. D. S. Scott, Cornwall-gardens, Queen's-gate, Kensington –H. R. C. Mullick, Garden-court, Temple, City.
+
+OCR Text: Cov~trwtY BAwnXSth.-W. Morris. NPewport, Monmouth- shire, and Brecon, cmrier-R. W. Perkins, Swansea, Gla. morgan, merehnnt-T. Chudley, Mtarwtood, Devonshire, miller-E. 0. Cravvley, Birmingham, bntcher-G. D, Mar- brook, Birmingham, grocer.____
+Ground Truth: COUNTRY BANKRUPTS. –W. Morris, Newport, Monmouthshire, and Brecon, carrier —R. W. Perkins, Swansea, Glamorgan, merchant —T. Chudley, Marwood, Devonshire, miller —F. G. Crawley, Birmingham, butcher —G. D, Marbrook, Birmingham, grocer.

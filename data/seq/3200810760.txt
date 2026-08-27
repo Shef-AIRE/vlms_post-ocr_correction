@@ -1,0 +1,77 @@
+OCR Text: A SAD STORnY MHGM BERLIN. - , - L - .11 _' , _ ; I . nIA
+Ground Truth: A SAD STORY FROM BERLIN.
+
+OCR Text: 'A BERtiN correspondent reports the trial of a girl named Clara Wernicke, thirteen years of age, who has been sentenced to three years and three days' im- prisonment for theft and murder.
+Ground Truth: A BERLIN correspondent reports the trial of a girl named Clara Wernicke, thirteen years of age, who has been sentenced to three years and three days' imprisonment for theft and murder.
+
+OCR Text: The evidence -evealed some extraordinary circums: ances.
+Ground Truth: The evidence revealed some extraordinary circumstances.
+
+OCR Text: 'ite prisoner is the daughter of a house-painter, who, after the death of her mother, mari ied a woman who had been his housekeeper since the decease of his first wife.
+Ground Truth: The prisoner is the daughter of a house-painter, who, after the death of her mother, married a woman who had been his housekeeper since the decease of his first wife.
+
+OCR Text: This woman brought; intQ the hoese her little boy named Horrmann.
+Ground Truth: This woman brought into the house her little boy named Herrmann.
+
+OCR Text: The st.p-motlier very soon began to behave cruelly to her step-childreu; the Clara above-meiationed and two other girls.
+Ground Truth: The step-mother very soon began to behave cruelly to her step-children, the Clara above-mentioned and two other girls.
+
+OCR Text: Clara was accused of having stolen ninety pftnnige, and on May 15th of t:avingpushed her step-brother into the water and drowned him.
+Ground Truth: Clara was accused of having stolen ninety pfennige, and on May 15th of having pushed her step-brother into the water and drowned him.
+
+OCR Text: On being questioned by the president of the court, she s-id : On the 15th of May my sister Lischeu, Rerrmann, MIalwich Erdmann, and I wanted to go to Sunday scho-l.
+Ground Truth: On being questioned by the president of the court, she said: On the 15th of May my sister Lischen, Herrmann, Malwine Erdmann, and I wanted to go to Sunday school.
+
+OCR Text: On the wav Lisehen said, " I won't go home again. Mother has beaten me again with the tongs."
+Ground Truth: On the way Lischen said, "I won't go home again. Mother has beaten me again with the tongs."
+
+OCR Text: My little brother said he also would not go home, and I said so too; and then my sister said we would all drown ourselves, but before that we would ride on the roundabout in the.-1asenheide.
+Ground Truth: My little brother said he also would not go home, and I said so too; and then my sister said we would all drown ourselves, but before that we would ride on the roundabout in the Hasenheide.
+
+OCR Text: We went there and looked-at the booths, and went away at nine o'clock in the --evening.
+Ground Truth: We went there and looked at the booths, and went away at nine o'clock in the evening.
+
+OCR Text: When we came to the Kottbuser- bridge we went along the bark of the river, and Hlerrmann said, "Now we will jump in. You can push me in first; but you must be sure to jump in too,"
+Ground Truth: When we came to the Kottbuser-bridge we went along the bank of the river, and Herrmann said, "Now we will jump in. You can push me in first; but you must be sure to jump in too."
+
+OCR Text: So I lifted him up, while MIalwine Brdmann helped me, and then I let him loose, and he fell into the water.
+Ground Truth: So I lifted him up, while Malwine Erdmann helped me, and then I let him loose, and he fell into the water.
+
+OCR Text: nle callel out " Clara I" and I tried to catch him, but I could met, and then 1 got a fright.
+Ground Truth: He called out "Clara!" and I tried to catch him, but I could not, and then I got a fright.
+
+OCR Text: Then 1 went honme witb. my -sister and Slalwine ]frdmaun.
+Ground Truth: Then I went home with my sister and Malwine Erdmann.
+
+OCR Text: The nexit hoining mother asked where ferisaun was, and I said 1 didn't know.
+Ground Truth: The next morning mother asked where Herrmann was, and I said I didn't know.
+
+OCR Text: Then I was taken to, the police ollice because of the ninety pfennige, and then Malwine told all about Herrmann.
+Ground Truth: Then I was taken the police office because of the ninety pfennige, and then Malwine told all about Herrmann.
+
+OCR Text: Xa vnefledsbann, nine years old, in her evidence, said:' "WPhilee e vwre at r asenheide Clara said, 'W Wilaell four.drown ourselves. Then we shall go into Paradise 'bnd get sach a beautiful bed and such goe'd food, and be ag-aih with my good mother,'
+Ground Truth: Malwine Erdmann, nine years old, in her evidence, said: “While we were at Hasenheide Clara said, “We will all four drown ourselves. Then we shall go into Paradise and get such a beautiful bed and such good food, and be again with my good mother.”
+
+OCR Text: But I said II would not die, and little Herrmann said notching.
+Ground Truth: But I said I would not die, and little Herrmann said nothing.
+
+OCR Text: Wv~rhen we came to the Kottbuser-bridge'it was dark, and Clara led as a few steps to the right> anditbeu I helped her to lift little Herrmann over the lowirailing, and she threw him into the watero
+Ground Truth: When we came to the Kottbuser-bridge it was dark, and Clara led us a few steps to the right, and then I helped her to lift little Herrmann over the low railing, and she threw him into the water.
+
+OCR Text: lHe Calted out, "Clara, help me, I want to get out."
+Ground Truth: He called out, "Clara, help me, I want to get out."
+
+OCR Text: But Claa only said, "I won't help you, for you always tellales aboutus."
+Ground Truth: But Clara only said, "I won't help you, for you always tell tales about us."
+
+OCR Text: Then we ought to have taken' On Vurn and be thrown into the ater, but we ran SW and wvent home together .
+Ground Truth: Then we ought to have taken our turn and be thrown into the water, but we ran away and went home together.
+
+OCR Text: lla Wernicke, like. ws nine years old, was questioned and said: We waed to drown ourselves all four, Mother always h'e ed us sobadly; she beat us and starved us.
+Ground Truth: Elle Wernicke, likewise nine years old, was questioned and said: We wanted to drown ourselves all four, Mother always treated us so badly; she beat us and starved us.
+
+OCR Text: We a~ed to Ago egging every day, and if we brought ffo, we-were beaten.
+Ground Truth: We had to go begging every day, and if we brought home less than a mark we were beaten.
+
+OCR Text: Malwine swanted to die with us, and Herrmann also said he Would rather go to Paradise.
+Ground Truth: Malwine wanted to die with us, and Herrmann also said he would rather go to Paradise.

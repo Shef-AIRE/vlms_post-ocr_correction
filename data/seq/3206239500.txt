@@ -1,0 +1,14 @@
+OCR Text: -ILLEGAL WEIGHTS AND MEASURES.
+Ground Truth: ILLEGAL WEIGHTS AND MEASURES.
+
+OCR Text: IOn Monday the following cases of tradesmen having illegal scales. weights. and measures in their possession were heard before the magistrates at the Court house, Marylebone-lane:_ !
+Ground Truth: On Monday the following cases of tradesmen having illegal scales, weights, and measures in their possession were heard before the magistrates at the Court house, Marylebone lane:—
+
+OCR Text: J. Pooeclk, fishmonger, 290. Xdgware-road, scale, Joz ohort,llned lOs-T. Jones, baker, so0, rinces-street, Lis. son-grove, scales 6 drachms short, los-C. Cooley, coal. dealer, 20, Townsend-cottages, Portland-town, a 141b weight Boz short, a 71b weight 2oz short, and 3 other weights deficient, lOs-Catherine, Gescoyne, Princess Royal, 100, Cochrane-strebt, St. John's-wood, defective spirit measures, les-.
+Ground Truth: J. Pocock, fishmonger, 290, Edgware-road, scale # short, fined 10s —J. Jones, baker 50, Princes-street, Lis-son-grove, scales 6 drachms short, 10s —C. Cooley, coal-dealer. 20, Townsend-cottages, Portland-town, a 141b weight 3oz short, a 71b weight 2oz short, and 3 other weights deficient, 10s —Catherine Gascoyne, Princess Royal, 100, Cochrane-street, St. John’s-wood, defective spirit measures, 10s
+
+OCR Text: Welch. butcher, 134,, High. street, St. John'E-wood, scales Joz deficient, l0s-Re. becca Walls, marine-store dealer, '31, Great Castte-strbet }ast, scales 2oz deficient, 10s-G. Winkwortb, general dealer, 16, Wells-street, Oxford-street, scales Joz defi- clent, 20s-A. C. Browne, tallow chandler, 22, Wells- street, scales 2Sz short, 10s-1. Rippington, pork. butcher, 35, Uppier Marylebone-street, scales ,oz short, third ofeunce, 20s-t.
+Ground Truth: —H. Welch, butcher, 134, High-street, St. John’s-wood, scales 1/2oz deficient, 10s —Rebecca Wallis, marine-store dealer, 31, Great Castle-street East, scales 2oz deficient, 10s —G. Winkworth, general dealer, 16, Wells-street, Oxford-street, scales 1/2oz deficient, 20s —A. C. Browne, tallow chandler, 22, Wells-street, scales 2oz short. 10s —E. Rippington, pork-butcher, 35, Upper Marylebone-street, scales 1/4oz short, third offence, 20s
+
+OCR Text: Carter, costermonger, 7, Fitzroy- market, scales and 2 weights short, second offence, 5s.
+Ground Truth: —A. Carter, costermonger, 7, Fitzroy market, scales and 2 weights short, second offence, 5s.

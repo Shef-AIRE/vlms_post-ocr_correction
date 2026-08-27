@@ -1,0 +1,29 @@
+OCR Text: AN UNDERGRADUATE DROWPED.
+Ground Truth: AN UNDERGRADUATE DROWNED.
+
+OCR Text: ImiM. cUTHBeERT MOOn, an undergeadnate, (if Exeter College, Oxford, eon of a solicitor of Shefel.i, was drowned on Friday afternoon whilet broating on the g upper river.
+Ground Truth: MR. CUTHBERT MOORE, an undergraduate, of Exeter College, Oxford, son of a solicitor of Sheffield, was drowned on Friday afternoon whilst boating on the upper river.
+
+OCR Text: He went out shortly after twelveo'lock, in company with Mr. 0.A. Finzal and Mr. N; Poyntz, h with the intentioniof going to Eyneham.
+Ground Truth: He went out shortly after twelve o’clock, in company with Mr. C. A. Finzel and Mr. N. Poyntz, with the intention of going to Eynsham.
+
+OCR Text: At'Medlegl' t -Mr. Moore hired a Rob Roy canoe, whilst his companions 1 d engaged s Canadian.
+Ground Truth: At Medley Mr. Moore hired a Rob Roy canos, whilst his companions engaged a Canadian.
+
+OCR Text: The weather was delightfully fine; and all of them partook of Innoheon in their boats.
+Ground Truth: The weather was delightfully fine, and all of them partook of luncheon in their boats.
+
+OCR Text: 4Sr.i e Finzel and Ur. Poyntz were a ohort'jstance in front, and as they approached E'ing's ,Weir."they heardfhe F lock-keeper shouting tbo 'them.
+Ground Truth: Mr. Finzel and Mr. Poyntz were a short distance in front, and as they approached King’s Weir they heard the look-keeper shouting to them.
+
+OCR Text: At first they failed to underetand,- what' hee' said, but on looking round they l noticed: that Mr.' Moozi8re canoe had qapsized.
+Ground Truth: At first they failed to understand what he said, but on looking round they noticed that Mr. Moore’s canoe had capsized.
+
+OCR Text: They returned to thesepot..brit'he wee nowhere tobes een, and': 'at a-late hour on' Friday^-night the body'had niot'beent rtecovecad..
+Ground Truth: They returned to the spot but he was nowhere to be seen, and at a late hour on Friday night the body had not been recovered.
+
+OCR Text: A strhng' stream was runnies- at the time, and the accident occurred in an awkward bend of the river.
+Ground Truth: A strong stream was running at the time, and the accident occurred in an awkward bend of the river.
+
+OCR Text: - Mr. Moore was about nineteen years of age, and tcame from Uppingham School at the commencement of last October term.
+Ground Truth: Mr. Moore was about nineteen years of age, and came from Uppingham School at the commencement of last October term.

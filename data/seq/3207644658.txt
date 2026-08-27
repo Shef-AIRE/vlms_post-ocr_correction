@@ -1,0 +1,53 @@
+OCR Text: SOUTH DE 'ON ELECTION.
+Ground Truth: SOUTH DEVON ELECTION.
+
+OCR Text: To THE EDITOR oF mTO MORNING CHRONICLE.
+Ground Truth: TO THE EDITOR OF THE MORNING CHRONICLE.
+
+OCR Text: - ia.-I yesterday recorded my tote at hingsbridge In favour of Lord John Russell, end soon afterwards took my departurrefor London.
+Ground Truth: Sir—I yesterday recorded my vote at Kingsbridge in favour of Lord John Russell, and soon afterwards took my departure for London.
+
+OCR Text: From what I have seen and heard, I have no doubt but that the Tory candidate will prove succeesful.
+Ground Truth: From what I have seen and heard, I have no doubt but that the Tory candidate will prove successful.
+
+OCR Text: Throughout the county the walls wete marked with No Russell, " Nto Popery," and slmilaf epithets; and bills, charging Lord John with almost everytbing that is evil, were extensively circulated.
+Ground Truth: Throughout the county the walls were marked with "No Russell," "No Popery," and similar epithets; and bills, charging Lord John with almost everything that is evil, were extensively circulated.
+
+OCR Text: Reports were also afloat calculated to frighten the electors of South Devon, and Induce them to believe that Lord John would establih Popery, with all its train of persecuting horrors; but this bugbea? to frighten the good people of South Devon is nothing compared to the tyranny exercised by the Tory landholders and parish priests over theIr tenans and parishioners.
+Ground Truth: Reports were also afloat calculated to frighten the electors of South Devon, and induce them to believe that Lord John would establish Popery, with all its train of persecuting horrors; but this bugbear to frighten the good people of South Devon is nothing compared to the tyranny exercised by the Tory landholders and parish priests over their tenants and parishioners.
+
+OCR Text: It Is notorious that multitudes of landlords gave their tenants the optIon of voting contrary to conscience, or the sacrifice of their families by quitting their estates.
+Ground Truth: It is notorious that multitudes of landlords gave their tenants the option of voting contrary to conscience, or the sacrifice of their families by quitting their estates.
+
+OCR Text: Hun- dreds, it Is supposed, yielded to the claims of their fami- lics; and large numbers, known to be decided Liberals, voted for the Tory candidate to save their families from ruin,
+Ground Truth: Hundreds, it is supposed, yielded to the claims of their families; and large numbers, known to be decided Liberals, voted for the Tory candidate to save their families from ruin.
+
+OCR Text: - A farmer, with tears In his eyes, came to solicit my ad- vice under these circumstances.
+Ground Truth: A farmer, with tears in his eyes, came to solicit my advice under these circumstances.
+
+OCR Text: I hesitated as to the advice I should give, when he paused, and then exclaimed in an agony of desperation, " I am determined to do my duty, and await the consequences."
+Ground Truth: I hesitated as to the advice I should give, when he paused, and then exclaimed in an agony of desperation, "I am determined to do my duty, and await the consequences."
+
+OCR Text: I could not but ad- mire his patriotism.
+Ground Truth: I could not but admire his patriotism.
+
+OCR Text: Is It right that men and their families should be placed in this dilemrnma?
+Ground Truth: Is it right that men and their families should be placed in this dilemma?
+
+OCR Text: Ihave ver beer opposed to the ballot, but unless some other remedy can be found, from what the last few days have shown me, I am convinced of Its utility.
+Ground Truth: I have ever been opposed to the ballot, but unless some other remedy can be found, from what the last few days have shown me, I am convinced of Its utility.
+
+OCR Text: I have seen flocks of poor tenants driven to the polling pIlaee like negro slaves to the market; the squire and p-rish priest in their carriages, leading; the poor tenants of the parish following; and livery servants bringing up the cavalcade, like whippers-in, to see that none escaped.
+Ground Truth: I have seen flocks of poor tenants driven to the polling place like negro slaves to the market; the squire and parish priest in their carriages, leading; the poor tenants of the parish following; and livery servants bringing up the cavalcade, like whippers-in, to see that none escaped.
+
+OCR Text: Is this freedom of election?
+Ground Truth: Is this freedom of election?
+
+OCR Text: Can it be endured much longer?
+Ground Truth: Can it be endured much longer?
+
+OCR Text: Either let the country be given up to the aris- tocracy aind parsons, or protect the tenantsfrom worse than slavery.
+Ground Truth: Either let the country be given up to the aristocracy and parsons, or protect the tenants from worse than slavery.
+
+OCR Text: I hope the defeat in Devon will produce a remedy for this horrible evil-I am, Sir, yours respectfully, Eastcheap, May 5. R. PEEK.
+Ground Truth: I hope the defeat in Devon will produce a remedy for this horrible evil. —I am, Sir, yours respectfully, Eastcheap, May 5. R. PEEK.

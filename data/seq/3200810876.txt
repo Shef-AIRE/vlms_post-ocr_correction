@@ -1,0 +1,47 @@
+OCR Text: A PUTNIM MYSTEIRY.
+Ground Truth: A PUTNEY MYSTERY.
+
+OCR Text: ,M. Hints, coroner, hekd an inquiry at iPa!ny into the circuieistancee attending the death ou Frederick Robbins, uged forty-eight ycars, an artist, lately residing at Richmond-road, Patney, whose mutilated remains were found onl the South-Western Railway at Patney Station oil Sanday.
+Ground Truth: MR. HICKS, coroner, held an inquiry at Putney into the circumstances attending the death of Frederick Robbins, aged forty-eight years, an artist, lately residing at Richmond-road, Putney, whose mutilated remains were found on the South-Western railway at Putney Station on Sunday.
+
+OCR Text: Edwin _ixey, a brewer, of LBtanswivl; I-fonae, LIrtlepool, idontified the deceased as his brother-in-law, whom he laest saw alive three weeks ego, whell he wvas in excellent health.
+Ground Truth: Edwin Nixey, a brewer, of Brunswick House, Hartlepool, identified the deceased as his brother-in-law, whom he last saw alive three weeks ago, when he was in excellent health.
+
+OCR Text: Ie was e married man, and to wvitness's .knowledge he was not, in rnoneterv trolibles.- William tWarren, a chemist, of lichmoud'i rowtd, stated that the deceased resided with him.
+Ground Truth: He was a married man, and to witness’s knowledge he was not in monetary troubles. —William Warren, a chemist, of Richmond-road, stated that the deceased resided with him.
+
+OCR Text: Ioe sufered greatly from deafneqs, was rather short-sightod,. and wore spectacles.
+Ground Truth: He suffered greatly from deafness, was rather short-sighted, and wore spectacles.
+
+OCR Text: In consequence of the wet weather the deceased remnained at home on Senday, but at seven o'clock ivent out, saying he was going for a stroll.
+Ground Truth: In consequence of the wet weather the deceased remained at home on Sunday, but at seven o’clock went out, saying he was going for a stroll.
+
+OCR Text: As he did not return ab eleven o'clock inquiries vere made, and it was feond that the ~decdased had been discovered on the line."
+Ground Truth: As he did not return at eleven o’clock inquiries were made, and it was found that the deceased had been discovered on the line.
+
+OCR Text: He was in no monetary dificatlties, and a most unlikely mas to commit suicide.
+Ground Truth: He was in no monetary difficulties, and a most unlikely man to commit suicide.
+
+OCR Text: James William Barrowes, porter at Patney Station, stated that, after the 'ive ruinutes past ten p.m. milk train had left the station, he observed the deceased lving in the four-foot-way.
+Ground Truth: James William Burrowes, porter at Putney Station, stated that after the five minutes past ten p.m. milk train had left the station, he observed the deceased lying in the four-foot-way.
+
+OCR Text: His bat and urnbrella wVere Iving close by.
+Ground Truth: His hat and umbrella were lying close by.
+
+OCR Text: A doctor pronounced life extinct.
+Ground Truth: A doctor pronounced life extinct.
+
+OCR Text: Williamn Lavrmee, gaard of the np Kingston train, said he examined the carriages, and found a l the doors were properly closed on both sides.
+Ground Truth: William Lawrence, guard of the up Kingston train, said he examined the carriages, and found all the doors were properly closed on both sides.
+
+OCR Text: By the Jury: He noticed a slight jerk of the train, but thought it was only caused by an umbrella or stick on the line.
+Ground Truth: By the Jury: He noticed a slight jerk of the train, but thought it was only caused by an umbrella or sick on the line.
+
+OCR Text: Dr. William J. Sheppard said the deceesed, on examina tion of the body, revealed that both shoulders were crnshed, the arnie nearly ninputated, aud the chest crnshed in,
+Ground Truth: Dr. William J. Sheppard said the deceased, on examination of the body, revealed that both shoulders were crushed, the arms nearly amputated, and the chest crushed in.
+
+OCR Text: Death wvas instantaneous-
+Ground Truth: Death was instantaneous.
+
+OCR Text: The jury returned an open verdict.
+Ground Truth: The jury returned an open verdict.

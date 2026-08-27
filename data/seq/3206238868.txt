@@ -1,0 +1,68 @@
+OCR Text: ACTION FOR SEDUCTION.
+Ground Truth: ACTION FOR SEDUCTION.
+
+OCR Text: A remarkable aotion, which had been once pre- i viouslv tried without the jury agreeing to a verdict, caine before the Court of Common lPleas on Tuesday and Wednesday.
+Ground Truth: A remarkable action, which had been once previously tried without the jury agreeing to a verdict, came before the Court of Common Pleas on Tuesday and Wednesday.
+
+OCR Text: It was an action for the seduction of the plaintilf's daughter Alice.
+Ground Truth: It was an action for the seduction of the plaintiff's daughter Alice.
+
+OCR Text: The plaintiff (Mr. Reeve) was a butcher, and the defendant (Mr. Perren) a corndealer, living at Greenwich.
+Ground Truth: The plaintiff (Mr. Reeve) was a butcher, and the defendant (Mr. Perren) a corndealer, living at Greenwich.
+
+OCR Text: They had been neighbours and intimate friends for about 25 years,
+Ground Truth: They had been neighbours and intimate friends for about 25 years.
+
+OCR Text: The defendant had very frequently lent the plaintiff money, which bad been repaid, and at the tliiae when the accuation of baving seduced his daughter was. made by thei plaintiff he was a creditor of the defendint's to the amount of 388.
+Ground Truth: The defendant had very frequently lent the plaintiff money, which had been repaid, and at the time when the accusation of having seduced his daughter was made by the plaintiff he was a creditor of the defendant's to the amount of 38l.
+
+OCR Text: H' Re was A man over 50 yefrs of age, and livid with his wife andlfamily, and was in the habit of almost daily going over to the plaintiffs house.
+Ground Truth: He was a man over 50 years of age, and lived with his wife and family, and was in the habit of almost daily going over to the plaintiff's house.
+
+OCR Text: 'The plaintiff was. a widower witb hfour children living at home-tweoboys under 12 years of age and two daughters, Alice and an elder Sster, Jessie, :24.
+Ground Truth: The plaintiff was a widower with four children living at home—two boys under 12 years of age and two daughters, Alice and an elder sister, Jessie, 24.
+
+OCR Text: About Mf ay or une, 1871, sus picona arose as to Alice's condiMon.: but. the~y vwere n ot seriously entertained -until. October..
+Ground Truth: About May or June, 1871, suspicions arose as to Alice's condition, but they were not seriously entertained until October.
+
+OCR Text: At ,thas time it was ascertained that she was in tie family-. way, and she said the defendant had seduced her It April. last.
+Ground Truth: At that time, it was ascertained that she was in the family-way, and she said the defendant had seduced her in April, last.
+
+OCR Text: On the 9th of October the defendant . weat -over .to the plaintiffs, when he was charged with being the 'seducer of. Alice by the plaintiff in the presence of his two daughters.
+Ground Truth: On the 9th of October the went over to the plaintiff's, when he was charged with being the seducer of Alice by the plaintiff in the presence of his two daughters.
+
+OCR Text: The defendant at once denied It, and said he was not the father of the child, and after. wards went home and. told his wife what had been charged against, him.
+Ground Truth: The defendant at once denied it, and said he was not the father of the child, and afterwards went home and told his wife what had been charged against him.
+
+OCR Text: She went over to the plaintiff's, andsaid," it was nit ber husband but that, it was Parham who was the father of the child." .
+Ground Truth: She went over to the plaintiff's, and said, "it was not her husband, but that it was Parham who was the father of the child."
+
+OCR Text: Parham was a young man whohad been In the service of the plainti4
+Ground Truth: Parham was a young man who had been in the service of the plaintiff.
+
+OCR Text: Another young mnan named Brown, who had also been in the plaintiff's service, was salled as a wvitness by the defendant to show that Altice had been too familiar withi Parhame and him.
+Ground Truth: Another young man named Brown, who had also been in the plaintiff's service, was called as a witness by the defendant to show that Alice had been too familiar with Parham and him.
+
+OCR Text: After thig accusation defendant caused his solicitor to write. letters to the plaintiff and his daughter Jessie com. plaining, that the accusation was slanderous, and threatening proceedings if the slander were repeated.
+Ground Truth: After this accusation defendant caused his solicitor to write letters to the plaintiff and his daughter Jessie complaining that the accusation was slanderous, and threatening proceedings if the slander were repeated.
+
+OCR Text: An action was also brought by the defendant to recover the 384., and the judgment had been obtained since the first trial, but before judgment the plaintiff's goods were sold off under a bill of sale.
+Ground Truth: An action was also brought by the defendant to recover the 38l., and the judgment had been obtained since the first trial, but before judgment the plaintiff's goods were sold off under a bill of sale.
+
+OCR Text: About a weel after the first trial Alice was confined end the child was born dead..
+Ground Truth: About, a week after the first trial Alice was confined and the child was born dead.
+
+OCR Text: As uPOn the former trial, witnesses were called on. both sides.
+Ground Truth: As upon the former trial, witnesses were called on both sides.
+
+OCR Text: The daaghter Alice, who was 0iad to be of weak Intel.' leot, swore positively that the defendant and no one else bad seduied her, and the defendant as posi- tively contradicted her.
+Ground Truth: The daughter Alice, who was said to be of weak intellect, swore positively that the defendant and no one else bad seduced her, and the defendant as positively contradicted her.
+
+OCR Text: Witnesses were callea for the plaintiff to prove that the defendant had been unn ucUall familiar towards Alice, and witnesses for the defen ant to prove cbat Allo was unusually familiar ivth-Parham, and frequently with bim in private.
+Ground Truth: Witnesses were called for the plaintiff to prove that the defendant had been unusually familiar towards Alice, and witnesses for the defendant to prove that Alice was unusually familiar with Parham, and frequently with him in private.
+
+OCR Text: Buton the presen trilal do fresh witnesses were Wsaled, and, Parham, vvhi was called on the first trial by.the plaintiff, was not called by either aide on this. oc~caslou
+Ground Truth: But on the present trial no fresh witnesses were called, and Parham, who was called on the first trial by the plaintiff, was not called by either side on this occasion.
+
+OCR Text: ' The eae again occupied nearly the whole of two dys.-After a very careful' end elaborate sum. sning up 'by the learned Judge, the jury,,retired, but alter being 2ocked 'upifor four hours were dischargea ,withai giving n verdic&
+Ground Truth: The case again occupied nearly the whole of two days. –After a very careful and elaborate summing up by the learned Judge, the jury retired, but after being locked up for four hours were discharged without giving a verdict.

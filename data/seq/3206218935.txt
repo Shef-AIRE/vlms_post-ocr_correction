@@ -1,0 +1,35 @@
+OCR Text: INCREASE OF INFANTICIDE.
+Ground Truth: INCREASE OF INFANTICIDE.
+
+OCR Text: On Wednesday morning, Mr. Bedford held in- quests in the board-rooms of St. George-s, Hfanover- square, and Mlonut-strset, Grosvenor-square, in'to the cases- attending the deaths of two children, whose bodies were foud as described in the evideence.
+Ground Truth: On Wednesday morning, Mr. Bedford held in quests in the board-rooms of St. George's, Hanover square, and Mount-street, Grosvenor-square, into the cases attending the deaths of two children, whose bodies were found as described in the evidence.
+
+OCR Text: In the first case, Colonel William Frederick John- stone, residing at 23, South-street, Park-lane, stated that he was walkiug in Hyde-park at eight o'clock on Sunday morning last, and when about a hundred yards from the Grosvenor-gate towards the Marble- arch, he saw a small black leather bag, or reticule, lying under one of the seats,
+Ground Truth: In the first case, Colonel William Frederick John stone, residing at 23, South-street, Park-lane, stated that he was walking in Hyde-park at eight o'clock on Sunday morning last, and when about a hundred yards from the Grosvenor-gate towards the Marble arch, he saw a small black leather bag, or reticule, lying under one of the seats.
+
+OCR Text: Without ascertaining its contents he took it to the lodge-keeper, who did not open it for some time, when to his horror and surprise it was found to contain the dead body of a fine male child.
+Ground Truth: Without ascertaining its contents, he took it to the lodge-keeper, who did not open it for some time, when to his horror and surprise it was found to contain the dead body of a fine male child.
+
+OCR Text: Dr. William Bloxam said he Lad examined the body, which was that of a fine male child.
+Ground Truth: Dr. William Bloxam said he had examined the body, which was that of a fine male child.
+
+OCR Text: There was very considerable compression of the head and effusion of blood between the scalp and the brain.
+Ground Truth: There was very considerable compression of the head and effusion of blood between the scalp and the brain.
+
+OCR Text: He had no doubt the child had respired, and the compression of the head was sufficient to destroy life.
+Ground Truth: He had no doubt the child had respired, and the compression of the head was sufficient to destroy life.
+
+OCR Text: Theicoroner then'remearked on the extraordinary nature of the case, and that it was the first instance he knew of such a bag being used to secrete the body.
+Ground Truth: The coroner then remarked on the extraordinary nature of the case, and that it was the first instance he knew of such a bag being used to secrete the body.
+
+OCR Text: -The jury returned a verdict " That the deceased was found dead in flyde-park."
+Ground Truth: —The jury returned a verdict "That the deceased was found dead in Hyde-park."
+
+OCR Text: In the next case, the principal witness was Mr. Inspector Harris, of tho London, Chatham, and Dover railway, froet whose evidence it appeared that on- Satrday midday it was found that one of the water- closets in the ladies' waiting-room, at the Victoria station of the above railway, was out of order, and a plumber was sent for, who took the place to pieces, and discovered that the stoppage was caused by a large bundle, which, on being opened, was found to contain the dead body of a feniale child, which had evidently been placed there by one of the passengers.
+Ground Truth: In the next case, the principal witness was Mr. Inspector Harris, of the London, Chatham, and Dover railway, from whose evidence it appeared that on Saturday midday it was found that one of the water closets in the ladies' waiting-room, at the Victoria station of the above railway, was out of order, and a plumber was sent for, who took the place to pieces, and discovered that the stoppage was caused by a large bundle, which, on being opened, was found to contain the dead body of a female child, which had evidently been placed there by ono of the passengers.
+
+OCR Text: Every inquiry had been made, but no clue to the parties who had depositeithe body had been obtained.
+Ground Truth: Every inquiry had been made, but no clue to the parties who had deposited the body had been obtained.
+
+OCR Text: It having been stated by Dr. B~oxam that the child did net appsar to have been of the full period, the coroner said that, whilo the offender might be pu- nished for concealing the birth, yet this court could not deal with the case.-The jury coincided in this view, and a verdict was returned according to the evidence.
+Ground Truth: It having been stated by Dr. Bloxam that the child did not appear to have been of the full period, the coroner said that, while the offender might be punished for concealing the birth, yet this court could not deal with the case. —The jury coincided in this view, and a verdict was returned according to the evidence.

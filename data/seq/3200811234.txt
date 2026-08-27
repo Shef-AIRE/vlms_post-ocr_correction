@@ -1,0 +1,23 @@
+OCR Text: AT THE SESSIONS.
+Ground Truth: AT THE SESSIONS.
+
+OCR Text: h TeE{ January Adjourned Sessions for the County of Lon, e don, were opened on Mlonday at the Sessions House, a Clerkenwell-green, before Sir P. Edlin.
+Ground Truth: THE January Adjourned Sessions for the County of London, were opened on Monday at the Sessions House, Clerkenwell-green, before Sir P. Edlin.
+
+OCR Text: The calendar 11 contained the namnes of seventy-eight prisoners for trial in d addition to five on whom jadgment had been respited, nnd there were sixty-eight separate cases to be dealt vith--Henry Squire, tventy-seven, porter, was brought up to be sentenced for burglary, for which offence he was convicted at the December sessions.
+Ground Truth: The calendar contained the names of seventy-eight prisoners for trial in addition to five on whom judgment had been respited and there were sixty-eight separate cases to be dealt with. –Henry Squire, twenty-seven, porter, was brought up to be sentenced for burglary, for which offence he was convicted at the December sessions.
+
+OCR Text: Sir P. Edlin ordered e him to be imprisoned for six months dating from Decem- r ber 19th.
+Ground Truth: Sir P. Edlin ordered him to be imprisoned for six months dating from December 19th.
+
+OCR Text: On hearing the decision prisoner exclaimed, 'Good health to you, my lord, prosperity and good luch '
+Ground Truth: On hearing the decision prisoner exclaimed, “Good health to you, my lord, prosperity and good luck!”
+
+OCR Text: t -The same amount of punishment was meted out to two carriage thieves, James Frederick and Alfred Rich,-A carman named Alfred Samuel Braine, was sent to gs0l for five mouths for deserting his wNife and family.
+Ground Truth: –The same amount of punishment was meted out to two carriage thieves, James Frederick and Alfred Rich. –A carman named Alfred Samuel Braine, was sent to goal for five months for deserting his wife and family.
+
+OCR Text: When arrested prisoner was found to be living with another w womau.-Harry Haines, thirty-four, porter, was sent to e penal servitude for three years for breaking into a dvell e ing-house and stealing property valued at £20.
+Ground Truth: When arrested prisoner was found to be living with another woman. –Harry Haines, thirty-four, porter, was sent to penal servitude for three years for breaking into a dwelling-house and stealing property valued at £20.
+
+OCR Text: There were seven previous convictions against the prisoner.
+Ground Truth: There were seven previous convictions against the prisoner.

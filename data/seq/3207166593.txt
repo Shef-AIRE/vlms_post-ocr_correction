@@ -1,0 +1,14 @@
+OCR Text: MONEY MARKET.-MONDA1'.
+Ground Truth: MONEY MARKET. —MONDAY.
+
+OCR Text: The reneral tone of tlie Money Market to-day has been favourable to an advance, but the transactions have not been to any considerable extent.
+Ground Truth: The general tone of the Money Market to-day has been favourable to an advance, but the transactions have not been to any considerable extent.
+
+OCR Text: Consols have scarcely shown a variation, except that they terminate I higber than yesterday.
+Ground Truth: Consols have scarcely shown a variation, except that they terminate 1/2 higher than yesterday.
+
+OCR Text: The transactions in the Foreign Funds have been un- important, except in so far as concerns Spanish and Portu- guese Bonds ; the former have been quoted at 55a, and have closed within j per cent. of that quotation ; the latter have closed at 86 to J, after havinig touched upon 87.
+Ground Truth: The transactions in the Foreign Funds have been unimportant, except in so far as concerns Spanish and Portuguese Bonds; the former have been quoted at 551/2, and have closed within 1/2percent of that quotation; the latter have closed at 861/2 to 5/8, after having touched upon 87.
+
+OCR Text: It now appears that the meeting called for to-morrow of those disposed to manifest their loyal attachment to the King, will nut be made up exclusively of persons who mea- sure their loyalty by the strength of their adhesion to in Administration dictated by the Duke ot Wellington ; there is good reason to believe that a considerablc number of influential citizens, honestlv disposed to manifest the truest loyalty to their Sovereign, will avail themselves of the opportunity hV ich this meeting gives them of convey ing to the esr of the King more wholesome lessons than would be derived from the Winchester school.
+Ground Truth: It now appears that the meeting called for to-morrow of those disposed to manifest their loyal attachment to the King, will not be made up exclusively of persons who mea sure their loyalty by the strength of their adhesion to an Administration dictated by the Duke of Wellington; there is good reason to believe that a considerable number of influential citizens, honestly disposed to manifest the truest loyalty to their Sovereign, will avail themselves of the opportunity which this meeting gives them of conveying to the ear of the King more wholesome lessons than would be derived from the Winchester school.

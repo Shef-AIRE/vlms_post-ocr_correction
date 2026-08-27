@@ -1,0 +1,98 @@
+OCR Text: DETERDiNED SUICIDEI OF A VOLUNTEER 1 _ _ a A 1 6 _A
+Ground Truth: DETERMINED SUICIDE OF A VOLUNTEER.
+
+OCR Text: On Taesday Dr. F. S. Langhana held an inqiest at the St. James's workhouse, touching the death of Mr. Frederick Henry Lawton, a memaher of the 14th -Middlesex. volunteer corps, who shot himself in the month on Monday night with his rifle.
+Ground Truth: On Tuesday Dr. F. S. Langham held an inquest at the St. James's workhouse, touching the death of Mr. Frederick Henry Lawton, a member of the 14th Middlesex volunteer corps, who shot himself in the mouth on Monday night with his rifle.
+
+OCR Text: Mrs. Emma Lawton said she was the wife of the deceased, and lived at 88, Great Windmill-street,
+Ground Truth: Mrs. Emma Lawton said she was the wife of the deceased, and lived at 38, Great Windmill-street.
+
+OCR Text: She was not at home when the circumstance oc- curred.
+Ground Truth: She was not at home when the circumstance occurred.
+
+OCR Text: She left home about eight o'clock in the evening.
+Ground Truth: She left home about eight o'clock in the evening.
+
+OCR Text: Her husband was out then.
+Ground Truth: Her husband was out then.
+
+OCR Text: He had been very irregular in his habits in consequence of drink, and they had not spoken for nearly a fortnight.
+Ground Truth: He had been very irregular in his habits in consequence of drink, and they had not spoken for nearly a fortnight.
+
+OCR Text: She bad previously prevented him destroying himself.
+Ground Truth: She had previously prevented him destroying himself.
+
+OCR Text: He was a volunteer, and attempted to shoot himself with his rifle.
+Ground Truth: He was a volunteer, and attempted to shoot himself with his rifle.
+
+OCR Text: He belonged to the 14th Middlesex.
+Ground Truth: He belonged to the 14th Middlesex.
+
+OCR Text: She returned home about twenty- minutes past one, and went up to her, room, where she found him lying on the floor with the rifle across his legs.
+Ground Truth: She returned home about twenty minutes past one, and went up to her room, where she found him lying on the floor with the rifle across his legs.
+
+OCR Text: He was dressed.
+Ground Truth: He was dressed.
+
+OCR Text: She called the landlady.
+Ground Truth: She called the landlady.
+
+OCR Text: Mrs. Jane Crow! said she resided in the same house as the deceasedand his wife, they being her lodgers.
+Ground Truth: Mrs. Jane Crow said she resided in the same house as the deceased and his wife, they being her lodgers.
+
+OCR Text: She had been at home all the evening, but had not beard the discharge of firearms.
+Ground Truth: She had been at home all the evening, but had not heard the discharge of firearms.
+
+OCR Text: Mrs. Lawton called her up, and witness said, " Perhaps he is only asleep," hut Mfrs. Lawton said, ' No; he is dead, for his face isrcoldl^''
+Ground Truth: Mrs. Lawton called her up, and witness said, "Perhaps he is only asleep," but Mrs. Lawton said, "No; he is dead, for his face is cold."
+
+OCR Text: Witness went up withsthe other lodgers, and one of then opened the room door and then slanimed it to,-and they caled the police.
+Ground Truth: Witness went up with the other lodgers, and one of them opened the room door and then slammed it to, and they called the police.
+
+OCR Text: Dr. Harris came in about ive minutes.
+Ground Truth: Dr. Harris came in about five minutes.
+
+OCR Text: sHad heard from the wife that he had threatened to destroy himself.
+Ground Truth: Had heard from the wife that he had threatened to destroy himself.
+
+OCR Text: They lived' very happily together except when he was: a little in liquor.
+Ground Truth: They lived very happily together except when he was a little in liquor.
+
+OCR Text: Believed that he was a-little jealous when he had taken a drop to drink.
+Ground Truth: Believed that he was a little jealous when he had taken a drop to drink.
+
+OCR Text: Mrs. Lawton had been' engaged at the Alhambra,. and was in the habit .of being out late.
+Ground Truth: Mrs. Lawton had been engaged at the Alhambra, and was in the habit of being out late.
+
+OCR Text: During the last week she hadleft that situation, and had been home early every evening.
+Ground Truth: During the last week she had left that situation, and had been home early every evening.
+
+OCR Text: Alexander Thompson, 175 C, said thatinconse- quence of hearing screaming he went to the door of. 38, Windmill-street, and knocked.-
+Ground Truth: Alexander Thompson, 175 C, said that in consequence of hearing screaming he went to the door of 38, Windmill-street, and knocked.
+
+OCR Text: He was admitted, and went to the front room second floor, when be saw thse deceased lying with his feet towards the fire- p place and his head towards the door.
+Ground Truth: He was admitted, and went to the front room second floor, when he saw the deceased lying with his feet towards the fire place and his head towards the door.
+
+OCR Text: -His rifle was -lying away from him..
+Ground Truth: His rifle was lying away from him.
+
+OCR Text: A ribbon was attached to the trigger of the rifle.
+Ground Truth: A ribbon was attached to the trigger of the rifle.
+
+OCR Text: He did not know if the deceased | had hlis hoots on.
+Ground Truth: He did not know if the deceased had his boots on.
+
+OCR Text: Did not examine the rifle to see if it had recently been discharged. .
+Ground Truth: Did not examine the rifle to see if it had recently been discharged.
+
+OCR Text: He went off at once and reported it at tbe station.
+Ground Truth: He went off at once and reported it at the station.
+
+OCR Text: The coroner then summed up, and remarked on the extraordinary occurrence of Mrs. Crow not hear- I ing the report of the gun, when - - One of the jury said -that if the deceased had only dropped the powder in loosely and not rammed the ball home tight, the noise would not be much more than a large pop-gun.
+Ground Truth: The coroner then summed up, and remarked on the extraordinary occurrence of Mrs. Crow not hearing the report of the gun, when One of the jury said, that if the deceased had only dropped the powder in loosely and not rammed the ball home tight, the noise would not be much more than a large pop-gun.
+
+OCR Text: Had- the ball been rammed home tight it must have gone through his skull.
+Ground Truth: Had the ball been rammed home tight it must have gone through his skull.
+
+OCR Text: The jury returned a' verdict that- the deceased destroyed himself while in an unsound state of mind.
+Ground Truth: The jury returned a verdict that the deceased destroyed himself while in an unsound state of mind.

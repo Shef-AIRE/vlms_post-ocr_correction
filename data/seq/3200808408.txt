@@ -1,0 +1,68 @@
+OCR Text: ASSAULT CASE. . . . _15 Ius_ -
+Ground Truth: ASSAULT CASE.
+
+OCR Text: Ar thr- Mrnlborough-street Police courb, on Monday, altered at e3st aBarnett, London-street, and Thomas were ci SNowr.rd, Shorldcn-etreet, labourers, were charged goose t -with wilfully breaking a lamp, a table, chairs, a Now, I <ibeat of drawers, a pair of lustres, and a qnantity of Kettil gltass and china, belonging to Frederick Ellis.
+Ground Truth: AT the Marlborough-street Police court, on Monday, Herbert Barnett, London-street, and Thomas Howard, Shoulden-street, labourers, were charged with wilfully breaking a lamp, a table, chairs, a # of drawers, a pair of lustres, and a quantity of glass and china, belonging to Frederick Ellis.
+
+OCR Text: They on you were further charged with assaulting Ellis and his have ci wife.-Proseoutor said that he occupied the first perty? floor front at a house in London-street.
+Ground Truth: They were further charged with assaulting Ellis and his wife. —Prosecutor said that he occupied the first floor front at a house in London-street.
+
+OCR Text: On Saturday my thi o was r witness in this court against a man named your w Vilker, rand two women, named Rlng and Keroiski, own tb awo vere charged with stealing £20 from a hair- money ircsser, of Seaton-street, and on his returning in the earned rilternoon he found the prisoners had foroibly In t entered his apartments, and were smashing his prosec iturniture and effects.
+Ground Truth: On Saturday he was a witness in this court against a man named filler, and two women, named Ring and Keroiski, who were charged with stealing £20 from a hair-dresser, of Seaton-street, and on his returning in the afternoon he found the prisoners had forcibly entered his apartments, and were smashing his furniture and effects.
+
+OCR Text: He selzed Barnett, and at Sali sbruggled with him, and then Howard held his wife, his wil and ni great commotion followed.
+Ground Truth: He seized Barnett, and struggled with him, and then Howard held his wife, and a great commotion followed.
+
+OCR Text: Barnett was a in that lodger in the same house, but Howard was a stranger room. there.
+Ground Truth: Barnett was a lodger in the same house, but Howard was a stranger there.
+
+OCR Text: MIrs. Ellis said that after her little girl had would Anoklod the door of their room Barnett forcibly pushed becanu ; ilt open and struck her (witness), whilst Howard them I shoueod, " Give it her.'
+Ground Truth: Mrs. Ellis said that after her little girl had knocked the door of their room Barnett forcibly pushed it open and struck her (witness), whilst Howard shouted, "Give it her."
+
+OCR Text: When her husband returned cator) from the coort he a ized Howard, and there was a stealis great hubbub, and the whole house and neighbour- Cap Rhood beoamo in an uproar.
+Ground Truth: When her husband returned from the court he sized Howard, and there was a great hubbub, and the whole house and neighbourhood became in an uproar.
+
+OCR Text: The dama-e done was has m, estimatedl at £z lOs.
+Ground Truth: The damage done was estimated at £3 10s.
+
+OCR Text: Barnett said that Ellis came Mr. back drunk. and the damage was done in their Chs abruiggles.
+Ground Truth: Barnett said that Ellis came back drunk, and the damage was done in their struggles.
+
+OCR Text: None of it was done wilfully.
+Ground Truth: None of it was done wilfully.
+
+OCR Text: Howard depos saia he could not understand what iU was about, as street he had aocepted an invitation from Barnett to take cither tea with him, and knew nothing about the lodgers. was n
+Ground Truth: Howard said he could not understand what it was about, as he had accepted an invitation from Barnett to take tea with him, and knew nothing about the lodgers.
+
+OCR Text: Elis'e little daughter said that Barnetb kicked her of Pri miother, and then he smashod the lamp and other him t .hiogs with a piece of iron.
+Ground Truth: Ellis's little daughter said that Barnett kicked her mother, and then he smashed the lamp and other things with a piece of iron.
+
+OCR Text: Herfather arrivedafter the At damage had been done.
+Ground Truth: Her father arrived after the damage had been done.
+
+OCR Text: Constable 358 D said wvhen he the I we-nt after the prisoners he found them in a drunken and t ateto in the Tottenham court-road.
+Ground Truth: Constable 358 D said when he went after the prisoners he found them in a drunken state in the Tottenham court-road.
+
+OCR Text: A witness fnr rdgar Barnett, a female lodger in the same house, sard the i that. when h1i3 caine horme he struck Barnett, and cireu knoaked him down against her door.
+Ground Truth: A witness for Barnett, a female lodger in the same house, said that when Ellis came home he struck Barnett, and knocked him down against her door.
+
+OCR Text: Then they Ml r,uruggled together in Bllis's room and the furniture make was broken.
+Ground Truth: Then they struggled together in Ellis's room and the furniture was broken.
+
+OCR Text: Other witnesses spoke against the char, IilUise3.
+Ground Truth: Other witnesses spoke against the Ellises.
+
+OCR Text: They were noisy people, it was said, and whic none of the lodgers could get much rest for them. Batel
+Ground Truth: They were noisy people, it was said, and none of the lodgers could get much rest for them.
+
+OCR Text: -The conBstable said tha8 Ellis himself and everyone in Kett the houee bad been drinking.
+Ground Truth: The constable said that Ellis himself and everyone in the house had been drinking.
+
+OCR Text: When he entered all there the women " flew " downstairs and wanted to get ae the I Mrs. Ellis.
+Ground Truth: When he entered all the women "flew " downstairs and wanted to get at Mrs. Ellis.
+
+OCR Text: All the thiDgs in Ellis's room were Th *brokeu up, except the bedstead and bolster, and the Who damage could riot have been caused merely by a M: sltruggle.
+Ground Truth: All the things in Ellis's room were broken up, except the bedstead and bolster, and the damage could not have been caused merely by a struggle.
+
+OCR Text: Mr. EHannsy fined the prisoners 40t., and for s -4 03. dean %ge each, or impr.Itsrlmont for a month.
+Ground Truth: Mr. Hannay fined the prisoners 40s., and .40s damage each, or imprisonment for a month.

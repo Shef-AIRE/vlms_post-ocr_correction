@@ -1,0 +1,41 @@
+OCR Text: EXTRAORDINARY CHARGE OF PERi .. ---- - R Y-.-
+Ground Truth: EXTRAORDINARY CHARGE OF PERJURY.
+
+OCR Text: rfronrionr latest editions of last weesI -I
+Ground Truth: [From our latest editions of last week.]
+
+OCR Text: At the Central Criminal cnrt on Saturday morn- ing, Ann Porter, a tolerably good-looking young woman, was indicted for perjury.
+Ground Truth: At the Central Criminal court on Saturday morning, Ann Porter, a tolerably good-looking young woman, was indicted for perjury.
+
+OCR Text: The 'offence, as alleged, was committed in the Divorce-court; on tbe occasion of the trial of a-suit, in which the' wife of Mr. Bewick, of Tblreepwrooddball, -Northumberland, sought a divorce onthe ground of her husliand's adul- tery with one Dlary Latham, who was in the capacity of housekeeper ito Mr. Bewick when his wife was living apart from him.
+Ground Truth: The offence, as alleged, was committed in the Divorce-court, on the occasion of the trial of a suit, in which the wife of Mr. Bewick, of Threepwood-hall, Northumberland, sought a divorce on the ground of her husband's adultery with one Mary Latham, who was in the capacity of housekeeper to Mr. Bewick when his wife was living apart from him.
+
+OCR Text: The? ;risoner, who had been in MIr: ]Bewick'6 service as: a domes- tic, was one-of the witnesses called in support of the wife's petition, and she- positively .swore to acts tending to, and in one 'particular instance a real act, of adultery.
+Ground Truth: The prisoner, who had been in Mr. Bewick's service as a domestic, was one of the witnesses called in support of the wife's petition, and she positively swore to acts tending to, and in one particular instance a real act, of adultery.
+
+OCR Text: On her evidence principally the courtgrantedadivorce, notwithetaudingrthe strong. denial of its tratb given by Mr. Bewick.
+Ground Truth: On her evidence principally the court granted a divorce, notwithstanding the strong, denial of its truth given by Mr. Bewick.
+
+OCR Text: The prisoner' was new charged with perjuring herself.h
+Ground Truth: The prisoner was now charged with perjuring herself.
+
+OCR Text: Mr. Bewick was eaxamined at great length, and he,reiterdted his de- nial of committing any act which could possibly be construed as tending to adultery wibth Miss Latham:.
+Ground Truth: Mr. Bewick was examined at great length, and lie, reiterated his denial of committing any act which could possibly be construed as tending to adultery with Miss Latham.
+
+OCR Text: -Mr. Serjeant Sleigh subjected to a severe cross- examination, and elicited from-the witness, that when he married. and took his wife to Threepwood-hall, lie had two bastards under his roof, and whomn, along with the then housekeeper, be, at the instance of his wvife, turned out at the expiration of a month.
+Ground Truth: —Mr. Serjeant Sleigh subjected to a severe cross-examination, and elicited from the witness, that when he married, and took his wife to Threepwood-hall, he had two bastards under his roof, and whom, along with the then housekeeper, be, at the instance of his wife, turned out at the expiration of a month.
+
+OCR Text: He. likewvise admittedat the Divorcecourthebad swornto a statement that his wife bad committed adultery with a person named Jones, and tbat he hadl posted bills about the neighbourhood in which he lived, pro-, claiming her shame, and offering a reward of 1001. to, any person giving information regarding the) matter.
+Ground Truth: He likewise admitted at the Divorce court he bad sworn to a statement that his wife had committed adultery with a person named Jones, and that he had posted bills about the neighbourhood in which he lived, pro-claiming her shame, and offering a reward of 100l. to any person giving information regarding the matter.
+
+OCR Text: -MatytLatham;ihe housekiepei, whoappea red aboxts forty years, of age, was examined, and denie dpesi- tively that any isadue familiarity bhd ever takeF pjpaue between her. and Mr. Bewicic.
+Ground Truth: —Mary Latham, the housekeeper, who appeared about forty years of age, was examined, and denied positively that any undue familiarity had ever taken place between her and Mr. Bewick.
+
+OCR Text: The prOSecutOr was detected by one of tbe jury beckoning to the wit- nest during her examination, apdj the fact, having been stated, he was ordered to leave the court..
+Ground Truth: The prosecutor was detected by one of the jury beckoning to the wit ness during her examination, and the fact having been stated, he was ordered to leave the court.—
+
+OCR Text: Ann Ouston, wift of the gardener at Threepwood- hell, was the only othper witnessacalled, sandshe stated that the prisoner .had said to ber tbat. sie had seen nothing hetween Mliss, Lactinam apsd.M ry . Bewiek.r-
+Ground Truth: Ann Ouston, wife of the gardener at Threepwood hall, was the only other witness called, and she stated that the prisoner had said to her that she had seen nothing between Miss Latham and Mr. Bewick.—
+
+OCR Text: The learned counrsel lsaving addressvd'the, jury a ver- dict of " N~ot guilty" wras ,returned, :; ,'
+Ground Truth: The learned counsel having addressed the jury a verdict of “Not guilty" was returned.

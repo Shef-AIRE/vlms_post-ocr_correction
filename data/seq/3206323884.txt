@@ -1,0 +1,86 @@
+OCR Text: I THE SHOCKING MURDER IN SUFFOLK.
+Ground Truth: THE SHOCKING MURDER IN SUFFOLK.
+
+OCR Text: RF.-EXAMBIATEON OF TER PRISONER.
+Ground Truth: RE-EXAMINATION OF THE PRISONER.
+
+OCR Text: On Tuesday the young man Frederick Ernest Page was again brought up at the Shire hall, Ipswich, chareed with the murder of Fanny Pleasant 0larke, aged 24, a. domestic servant at Brantham, near Ipswich.
+Ground Truth: On Tuesday the young man Frederick Ernest Page was again brought up at the Shire hall, Ipswich, charged with the murder of Fanny Pleasant Clarke, aged 24, a domestic servant at Brantham, near Ipswich.
+
+OCR Text: Prisoner, before his arrest, was a clerk in the employ of Messrs. Lay and Wheeler, wine Mer- chantsColcheeter..Hemaintainedasulenademeanouir.
+Ground Truth: Prisoner, before his arrest, was a clerk in the employ of Messrs. Lay and Wheeler, wine merchants, Colchester. He maintained a sullen demeanour.
+
+OCR Text: The evidence was in the main a repetition of that given at the coroner's inquest.
+Ground Truth: The evidence was in the main a repetition of that given at the coroner's inquest.
+
+OCR Text: Testimony as to the purchase of the revolver produced at the inquestby prisoner's brrother Robert was forthcoming from George Dove, alad employed at Mr. Borebain thegun- maker's shop at Colchester.
+Ground Truth: Testimony as to the purchase of the revolver produced at the inquest by prisoner's brother Robert was forthcoming from George Dove, a lad employed at Mr. Boreham the gun maker's shop at Colchester.
+
+OCR Text: He said he knew jyi- soner very well by sight, but eould not swear whether he was, the person to whom witness sold on Tuesdaey, the 10th of August-the-day after prisoner had written to deoeased asking her to meet him on- Sunday evening August 15-a revolver, case, and boW of cartrhiges.
+Ground Truth: He said he knew prisoner very well by sight, but could not swear whether he was the person to whom witness sold on Tuesday, the 10th of August—the day after prisoner had written to deceased asking her to meet him on Sunday evening, August 15—a revolver, case, and box of cartridges.
+
+OCR Text: The revolver produced was exactly like that he sold.
+Ground Truth: The revolver produced was exactly like that he sold.
+
+OCR Text: The cartridges produced were of the same kind as he sold with the revolver.
+Ground Truth: The cartridges produced were of the same kind as he sold with the revolver.
+
+OCR Text: The person who bought them .Ws, he should think, 18 or 19 years old.-George Isom; porter-in the employ of Mes3rs... Lay and-Wheeler, winO and spirit merchants, Colchester prisoner'm late employers, said prisoner nhowe& him a six- chambered revolveri and case on Saturday morning, August14, the last: day ho was at work.
+Ground Truth: The person who bought them was, he should think, 18 or 19 years old. —George Isom, porter in the employ of Messrs. Lay and Wheeler, wine and spirit merchants, Colchester, prisoner late employers, said prisoner showed him a six chambered revolver and case on Saturday morning, August 14, the last day he was at work.
+
+OCR Text: In reply to a question from witness as to what he wanted the re- voIrer for, prisoner said he was in theihabit of leav- ing Manningtree station for his-home every Saturday.: night, and had a goodish bit to walle on a lonely country road, and If any que stopped him the sight of the revolver would frighten him.
+Ground Truth: In reply to a question from witness as to what he wanted the revolver for, prisoner said he was in the habit of leaving Manningtree station for his home every Saturday night, and had a goodish bit to walk on a lonely country road, and if any one stopped him the sight of the revolver would frighten him.
+
+OCR Text: Witness could not-swear to either revolver or case, but they looked just the same as those prisoner showed-him.-The inuiry was adfourhed.
+Ground Truth: Witness could not swear to either revolver or case, but they looked just the same as those prisoners showed him. –The inquiry was adjourned.
+
+OCR Text: OnVednesday prisoner W again brought sp. when letters were produced by Superintendent Francis Fisner and Poioe Inspeotor William elarkei of the Suffolk constabulary, which were- prored by Mr. George-Wheeler, of Coichester, to bean- the pri- soner's handwriting, requesting a meeting with the deceased.
+Ground Truth: On Wednesday prisoner was again brought up when letters were produced by Superintendent Francis Fisher and Police Inspector William Clarke, of the Suffolk constabulary, which were proved by Mr. George Wheeler, of Colchester, to be in the prisoner's handwriting, requesting a meeting with the deceased.
+
+OCR Text: George Dove, a-nld in the employ of Mr. -Boreham, oi Colohester proved tlessle of a revolver on the 10th inst and beorrc Insm, a porter in the samne employ astief poieoerstatethat theprisoner showed him a pisto on the day before the niuraer,
+Ground Truth: George Dove, a lad in the employ of Mr. Boreham, of Colchester, proved the sale of a revolver on the 10th inst., and George Isom, a porter in the same employ as the prisoner, stated that the prisoner showed him a pistol on the day before the murder.
+
+OCR Text: Mr. William aiomond, farmer of Brantham, spoke to hearing a quarrel between two persons near his lons. on the 8h inst. and to seeing -the deceased go by shortly afterwarsi the direction of her mas- ter's house.
+Ground Truth: Mr. William Hammond, farmer, of Brantham, spoke to hearing a quarrel between two persons near his house on the 8th inst., and to seeing the deceased go by shortly afterwards in the direction of her master's house.
+
+OCR Text: This was about nine o'clock in the even- ing.
+Ground Truth: This was about nine o'clock in the evening.
+
+OCR Text: The prisoner's fatbher eaid that on the night of the 15th inst. the prisoner came home -about nine o'clock rather excited, and, shortly afterwards, fol. lowed his brother Robeit up to bed,
+Ground Truth: The prisoner's father said that on the night of the 15th inst. the prisoner came home about nine o'clock rather excited, and, shortly afterwards, followed his brother Robert up to bed.
+
+OCR Text: From - a com- municatio n madeby.Robert, witnosswenrtoutaide,fol- lowed byMns. Page, and priioner wasthenin the front of the house.,
+Ground Truth: From a communication made by Robert, witness went outside, followed by Mrs. Page, and prisoner was then in the front of the house.
+
+OCR Text: After much pressure, prisoner made a statement.
+Ground Truth: After much pressure, prisoner made a statement.
+
+OCR Text: Mr. Philbriok objected to the admission of the statement, but, after a lengthened argument, the magistrates decided to admit it.
+Ground Truth: Mr. Philbrick objected to the admission of the statement, but, after a lengthened argument, the magistrates decided to admit it.
+
+OCR Text: Mr. Page, however, when asked what his son said, was soover- come that he was unable to reply, and Mr. Phil- brick, stating that the matter must be investigated before a superior tribunal, asked that the question should not be pressed.
+Ground Truth: Mr. Page, however, when asked what his son said, was so overcome that he was unable to reply, and Mr. Philbrick, stating that the matter must be investigated before a superior tribunal, asked that the question should not be pressed.
+
+OCR Text: Ur. Wills said that, under the circumstances, he had, been instructed not to press for the statement.
+Ground Truth: Mr. Mills said that, under the circumstances, he had been instructed not to press for the statement.
+
+OCR Text: Wit- ness then said that, in consequence of what his son said, he went out on the night of the murder and found blood on the cross road.
+Ground Truth: Witness then said that, in consequence of what his son said, he went out on the night of the murder and found blood on the cross road.
+
+OCR Text: When hereturned, he and his son had sdme conversation.
+Ground Truth: When he returned, he and his son had some conversation.
+
+OCR Text: Mr. Philbrick - also objected to this being repeated, and Mr. Mills. after consulting with Major Heigham, declined to press the question.
+Ground Truth: Mr. Philbrick also objected to this being repeated, and Mr. Mills, after consulting with Major Heigham, declined to press the question.
+
+OCR Text: The revolver was produc d by the prisoner's brother Robert, who was the next wit- ness, who deposed that when the prisoner gave him the weapon he also made a statement.
+Ground Truth: The revolver was produced by the prisoner's brother Robert, who was the next witness, who deposed that when the prisoner gave him the weapon he also made a statement.
+
+OCR Text: The witness as not pressed to. repea~t it,
+Ground Truth: The witness was not pressed to repeat it.
+
+OCR Text: Medical evidence was then called, showing that two bullets had entered the brain of the eceased and caused death.
+Ground Truth: Medical evidence was then called, showing that two bullets had entered the brain of the deceased and caused death.
+
+OCR Text: The prisoner was then committedfor triaL
+Ground Truth: The prisoner was then committed for trial.

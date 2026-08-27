@@ -1,0 +1,47 @@
+OCR Text: MIWDLESEX SESSIONS.
+Ground Truth: MIDDLESEX SESSIONS.
+
+OCR Text: M1ONDAY.
+Ground Truth: MONDAY.
+
+OCR Text: The April quarter sessions commenced this morning, it the Sessions-house, Clerkenwell, before Mr. Sergeant Adams, assistant judge, Mr. Witham, and other magis- rates.
+Ground Truth: The April quarter sessions commenced this morning, at the Sessions-house, Clerkenwell, before Mr. Sergeant Adams, assistant judge, Mr. Witham, and other magistrates.
+
+OCR Text: There were seventy-two prisorers for trial, seventy ofwhom were charged with felony, and two with nsisderneanour.
+Ground Truth: There were seventy-two prisoners for trial, seventy of whom were charged with felony, and two with misdemeanor.
+
+OCR Text: TEts CASE oF ASSAULTt By Two SOLICITORS.-Mr. James Phineas Davis, solicitor, of 6. Holles-street, Caven- lish square, and Mr. David John Davis, his brother, ap- peared pursuant to recognisances entered into at the last 5ession at Westminster, to receive judgment,
+Ground Truth: THE CASE OF ASSAULT BY TWO SOLICITORS. —Mr. James Phineas Davis, solicitor, of 5. Holles-street, Cavendish square, and Mr. David John Davis, his brother, appeared pursuant to recognisances entered into at the last session at Westminster, to receive judgment.
+
+OCR Text: It will be remembeered that the defendants were tried before Mr. Withamn for assaulting John O'Brien, and found guilty, when they were sentenced to pay a fine of 501. each, but were subsequently ordered to enter into recognisances to appear to-day to receive judgment, it being understood at the tiose that the sentence pronounced would not be Altered.
+Ground Truth: It will be remembered that the defendants were tried before Mr. Witham for assaulting John O'Brien, and found guilty, when they were sentenced to pay a fine of 50l. each, but were subsequently ordered to enter into recognisances to appear to-day to receive judgment, it being understood at the time that the sentence pronounced would not be altered.
+
+OCR Text: However, Mr. Sleigh, who appeared for the pro- 3ecution, now said, that on the part of his client, Mr. O'Brien, he was instructed to say, that from what had :aken place since the trial, the prosecutor was disposed sot to press for the infliction of the full fine imposed by Mr. Witham, but to ask for so much of it as the court night think consistent with the ends of justice.-Mr. Parry, for the defendants, said he was instructed to say, :hat they regretted the course that had been taken on the rial, and that they had since found that their instruc- ions to counsel with reference to the prosecutor were, in 3oint of fact, foundationless, and they desired to say so asost fally.-The assistant judge, after conferring with Mr. Witham, said Ise thought a most proper course had )een taken on both sides, and both himself and Mr. Witham thought, under all the circumstances, that the ustice of the case would be fully met by each of the de- tendants being ordered to pay a fine of 40s.-Tbe court passed sentence accordingly, and the fines having been paid, the parties left the court.
+Ground Truth: However, Mr. Sleigh, who appeared for the prosecution, now said, that on the part of his client, Mr. O'Brien, he was instructed to say, that from what had taken place since the trial, the prosecutor was disposed not to press for the infliction of the full fine imposed by Mr. Witham, but to ask for so much of it as the court night think consistent with the ends of justice. —Mr. Parry, for the defendants, said he was instructed to say, that they regretted the course that had been taken on the trial, and that they had since found that their instructions to counsel with reference to the prosecutor were, in point of fact, foundationless, and they desired to say so most fully. —The assistant judge, after conferring with Mr. Witham, said he thought a most proper course had been taken on both sides, and both himself and Mr. Witham thought, under all the circumstances, that the justice of the case would be fully met by each of the defendants being ordered to pay a fine of 40s. —The court passed sentence accordingly, and the fines having been paid, the parties left the court.
+
+OCR Text: TUESDAY.
+Ground Truth: TUESDAY.
+
+OCR Text: DIFFERENCE BETWEEN A JUDGE AND A JURY. - Three men, named Freeman, Tritton, and PhiUlips, were indicted for stealing three sovereigns from the person of a lascar, named kfassano Moydeen.
+Ground Truth: DIFFERENCE BETWEEN A JUDGE AND A JURY. —Three men, named Freeman, Tritton, and Phillips, were indicted for stealing three sovereigns from the person of lascar, named Hassano Moydeen.
+
+OCR Text: Mr. O'Brien ap- peared for the prisoners.
+Ground Truth: Mr. O'Brien appeared for the prisoners.
+
+OCR Text: This was an ordinary brothel robbery, but the trial lasted a considerable time.
+Ground Truth: This was an ordinary brothel robbery, but the trial lasted a considerable time.
+
+OCR Text: The svidence given by the prosecutor varied from the account be originally gave of the transaction, and, in .qumming up, the assistant judge said there could. be no d6ubt that the prisoners were three great scoundrels, but the evi- clence was not, in his epinion, sufficient to justify their onviction, and hse should recommend them to find then rot guilty.-The jury having considered for some time, the assis ant judge inquired what they were debating about; if it was whether they were to convict the pri- 3oners ?
+Ground Truth: The evidence given by the prosecutor varied from the account he originally gave of the transaction, and, in summing up, the assistant judge said there could be no doubt that the prisoners were three great scoundrels, but the evidence was not, in his opinion, sufficient to justify their conviction, and he should recommend them to find them not guilty. —The jury having considered for some time, the assistant judge inquired what they were debating about; if it was whether they were to convict the prisoners?
+
+OCR Text: He begged to tell them that there was not suf- icient evidence, and if they wished to consider further, :hey must retire, as he could not allow the business of :he court to be delayed.-A bailiff was then swern, and he jurv retired.
+Ground Truth: He begged to tell them that there was not sufficient evidence, and if they wished to consider further, they must retire, as he could not allow the business of the court to be delayed. —A bailiff was then sworn, and the jury retired.
+
+OCR Text: After a short absence they returned, and fouind the prisoners "`Guilty."-The assistant judge' ;aid that was a verdict against the evidence, and he carcely knew what to do.
+Ground Truth: After a short absence they returned, and found the prisoners "Guilty." —The assistant judge said that was a verdict against the evidence, and he scarcely knew what to do.
+
+OCR Text: Disapproving as he did of he verdict of thejury, lie could not act upon it as ifhe oncurred in it, but at the same time, as it was the de- ision of the jury, lie did not wish it to appear that he )aid no attention to it.
+Ground Truth: Disapproving as he did of the verdict of the jury, he could not act upon it as if he concurred in it, but at the same time, as it was the decision of the jury, he did not wish it to appear that he said no attention to it.
+
+OCR Text: Under the circumstances, be hould order the prisoners to be remanded till another ession, and in the meantime he should consider what could be the best course to take.-The prisoners were hen remanded.
+Ground Truth: Under the circumstances, he should order the prisoners to be remanded till another session, and in the meantime he should consider what would be the best course to take. —The prisoners were then remanded.

@@ -1,0 +1,56 @@
+OCR Text: EXTRAORDINARY MODE OF RESTRAININGI A DRUNKEN WIFE.
+Ground Truth: EXTRAORDINARY MODE OF RESTRAINING A DRUNKEN WIFE.
+
+OCR Text: A singular case has just been brought under the notice of the magistrate of St. Helier's, Jersey.
+Ground Truth: A singular case has just been brought under the notice of the magistrate of St. Helier's, Jersey.
+
+OCR Text: John La Roy, watchmaker, about 60 years of age, was charged with having fixed his wife's head in a species of iron mask or cage on Saturday.
+Ground Truth: John Le Roy, watchmaker, about 60 years of age, was charged with having fixed his wife's head in a species of iron mask or cage on Saturday.
+
+OCR Text: The mask was produced in Courb.
+Ground Truth: The mask was produced in Court.
+
+OCR Text: Its base consisted of a piece of rod iron, about a quarter of an inch thick formed into a ring, about eight or nine inches in, dia- meter.
+Ground Truth: Its base consisted of a piece of rod iron, about a quarter of an inch thick formed into a ring, about eight or nine inches in diameter.
+
+OCR Text: The top was a similar ring, about six inches in width.
+Ground Truth: The top was a similar ring, about six inches in width.
+
+OCR Text: These two rings were con- nected bv means of seven vertical bars of strong hoop iron, a couple of inches apart.
+Ground Truth: These two rings were connected by means of seven vertical bars of strong hoop iron, a couple of inches apart.
+
+OCR Text: The in- strument opened with a hinge in the front, was fastened at the back by means of. a padlock, and weighed three pounds.
+Ground Truth: The instrument opened with a hinge in the front, was fastened at the back by means of a padlock, and weighed three pounds.
+
+OCR Text: In the front part,. immedi- ately opposite the mouth, a piece of iron hoop bad been placed horizontally to prevent the wearer from getting anything up to her mouth, though this, it. appeared, was ineffectual, as, from the mask being rather too large, she had managed during the short time she had it on to turn it round on her head, and drink a small glass of liquor.
+Ground Truth: In the front part, immediately opposite the mouth, a piece of iron hoop had been placed horizontally to prevent the wearer from getting anything up to her mouth, though this, it appeared, was ineffectual, as, from the mask being rather too large, she had managed during the short time she had it on to turn it round on her head, and drink a small glass of liquor.
+
+OCR Text: It appeared from the evidence of the wife, that her husband forced the mask on her head Eor the first time on .atur- day when she was in a kneeling posture.
+Ground Truth: It appeared from the evidence of the wife, that her husband forced the mask on her head for the first time on Saturday when she was in a kneeling posture.
+
+OCR Text: She was seen in it by some of the neighbours, who went to the police, and gave information; and by their orders the prisoner removed the mask.i
+Ground Truth: She was seen in it by some of the neighbours, who went to the police, and gave information; and by their orders the prisoner removed the mask.
+
+OCR Text: It seems that homaade no secret of the affair, hav- ing told some of the neighbours what he Sin. tended doing, and had even asked one of the wit nesse to allow him to use her head as a model I
+Ground Truth: It seems that he made no secret of the affair, having told some of the neighbours what he intended doing, and had even asked one of the witnesses to allow him to use her head as a model!
+
+OCR Text: It also came out in evidence that the prisoner hadmade *a large box into a species of cage with iron bars, into which he was in the habit of placing his wife occa- sionally.
+Ground Truth: It also came out in evidence that the prisoner had made a large box into a species of cage with iron bars, into which he was in the habit of placing his wife occasionally.
+
+OCR Text: One of the witnesses, in describing 'the 'box, said the wife had plenty of room in it 'and received no injury, " though it was not the place for a woman to be in."-The prisoner, who treated the affair with the greatest nonchalance, said he was not aware that by doing as he had he was acting con- trary to the law.
+Ground Truth: One of the witnesses, in describing the box, said the wife had plenty of room in it and received no injury, “though it was not the place for a woman to be in." —The prisoner, who treated the affair with the greatest nonchalance, said he was not aware that by doing as he had he was acting contrary to the law.
+
+OCR Text: His wife was so addicted to drink that he did notaknow what to do with her.
+Ground Truth: His wife was so addicted to drink that he did not know what to do with her.
+
+OCR Text: He had looked herup in the house, and she bad escaped bythe windows in order to get drink.
+Ground Truth: He had looked her up in the house, and she had escaped by the windows in order to get drink.
+
+OCR Text: He hadplacedher five times in the General hospital (the workhouse), but all was of no use; she was incorrigible,'
+Ground Truth: He had placed her five times in the General hospital (the workhouse), but all was of no use; she was incorrigible.
+
+OCR Text: His, only desire was to put a stop to her drinking.-The wife (who had a half-besotted appearance) admitted the truth of what her husband said, but added that "it was her only fault."-The magistrate advised the man to make his wife-an allowance of 5s. 5per week, and get a separation.
+Ground Truth: His only desire was to put a stop to her drinking. —The wife (who had a half-besotted appearance) admitted the truth of what her husband said, but added that "it was her only fault." —The magistrate advised the man to make his wife an allowance of 5s. per week, and get a separation.
+
+OCR Text: Both of them agreed to this.- and the prisoner was fined lOs. for the assault, whieh he cheerfully paid.-The mask was confiscated by order of the magistrate.
+Ground Truth: Both of them agreed to this, and the prisoner was fined 10s. for the assault, which he cheerfully paid. —The mask was confiscated by order of the magistrate.

@@ -1,0 +1,47 @@
+OCR Text: SEQUEL TO A MIDNIGHT AFFRAY.
+Ground Truth: SEQUEL TO A MIDNIGHT AFFRAY.
+
+OCR Text: IN the Lord MVdyor's Court, on Friday, the Assistant' hit Judge (Mr, Rnxburgb) and a jury had before them rel the cases of Spicor v. Agate and Agate v. Spicer let (consolidated).
+Ground Truth: IN the Lord Mayor’s Court, on Friday, the Assistant Judge (Mr. Roxburgh) and a jury had before them the cases of Spicer v. Agate and Agate v. Spicer (consolidated).
+
+OCR Text: r[he phiiutiff in the first case, a thl housekeeper employed at 399, New Broad-street, sued fee the defendant, a bank messenger, to recover £G corn- an pensation for an assault committed upon him by the Hi defendant.
+Ground Truth: The plaintiff in the first case, a housekeeper employed at 39, New Broad-street, sued the defendant, a bank messenger, to recover £6 compensation for an assault committed upon him by the defendant.
+
+OCR Text: Mr. Watien was counsel for Spicor, andf Mr. C. A. R s-ell for the defendaut.
+Ground Truth: Mr. Watson was counsel for Spicer, and Mr. C. A. Russell for the defendant.
+
+OCR Text: It appeared Be that Spicer met. a man named Haycoek at an Odd- de fellows' meetiug, and in a conves :t tion which ensued In Spicer told R.-veock that the defendant was leaving M( his sihuation.
+Ground Truth: It appeared that’s the Spicer met a man named Haycock at an Odd-fellows’ meeting, and in a conversation which ensued Spicer told Haycock that the defendant was leaving his situation.
+
+OCR Text: In consequence of that Haycock applied wi to the bank for his post.
+Ground Truth: In consequence of that Haycock applied to the bank for his post.
+
+OCR Text: Agate was very much tvi incensed at this, and called upon HEyuooek and asked ha, him "what he meant."
+Ground Truth: Agate was very much incensed at this, and called upon Haycock and asked him “what he meant.”
+
+OCR Text: Haycock related the circum- ar stances, and after the two bad had a "friendly let glass" together, Agate, at half-past eleven at night, ga called at Spicer's house.
+Ground Truth: Haycock related the circumstances, and after the two had had a “friendly glass” together, Agate, at half-past eleven at night, called at Spicer’s house.
+
+OCR Text: Spicer was in bed, and hii according to his evidence Agate rang the bell pr violently, kicked at the door, and made such a hub- bub that he (Spicer) thought, there must be a fire, and he according!' awakened bit wife and daughters, As who all pi epzared to leave thc house in their night Yo gear.
+Ground Truth: Spicer was in bed, and according to his evidence Agate rang the bell violently, kicked at the door, and made such a hubbub that he (Spicer) thought there must be a fire, and he accordingly awakened his wife and daughters, who all prepared to leave the house in their night gear.
+
+OCR Text: Spicer ran dovn hurriedly to the door, where Fr he was confronted by Agate, who demanded to know ha "I hat he meant," and threateneI to "knock his rei eye out."
+Ground Truth: Spicer ran down hurriedly to the door, where he was confronted by Agate, who demanded to know “what he meant,” and threatened to “knock his eye out.”
+
+OCR Text: A struggle ensued, and a detective and .C policemen ruade their appearance ol the scene.
+Ground Truth: A struggle ensued, and a detective and policemen made their appearance on the scene.
+
+OCR Text: Agate va said he was " knocked silly" in about two minutes; HEI the buttons of his night shirt were torn off, and he pr was a "fair wreck,"
+Ground Truth: Agate said he was “knocked silly” in about two minutes; the buttons of his night shirt were torn off, and he was a “fair wreck.”
+
+OCR Text: Agate's ease was that he was Tc first attacked by Spictr, who pulled his beard and be stuck his knuckles into his throat.
+Ground Truth: Agate’s case was that he was fired attacked by Spicer, who pulled his beard and stuck his knuckles into his throat.
+
+OCR Text: He called his of wife to corroborate his statement, which she did in IVM an amusing manner.
+Ground Truth: He called his wife to corroborate his statement, which she did in an amusing manner.
+
+OCR Text: In the resalb the jary found th for Spicer, damaget one farthing.
+Ground Truth: In the result the jury found for Spicer, damages one farthing.
+
+OCR Text: In the eecond case w they found for the defendant.
+Ground Truth: In the second case they found for the defendant.

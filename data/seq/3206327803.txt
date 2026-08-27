@@ -1,0 +1,56 @@
+OCR Text: I ATAL Dpi3sTER IN A MINE. |
+Ground Truth: FATAL DISASTER IN A MINE.
+
+OCR Text: On We-lnesday night, when the men were about leaving their work at Tynewyddkolliery, situate in the Greater Rhondda vialey, a roar of rushing water was heard.
+Ground Truth: On Wednesday night, when the men were about leaving their work at Tynewyd decolliery, situate in the Greater Rhondda valley, a roar of rushing water was heard.
+
+OCR Text: Many succeeded in making theirescanp to the surface.
+Ground Truth: Many succeeded in making their escape to the surface.
+
+OCR Text: It *ias soon discovered, however. that 14 men and boys were missing.
+Ground Truth: It was soon discovered, however that 14 men and boys were missing.
+
+OCR Text: Several voluij Weers descended the shaft, which is 92 yards deep, ant entered kbe workings.
+Ground Truth: Several volunteers descended the shaft, which is 92 yards deep, and entered the workings.
+
+OCR Text: While the explorers were consulting what action should be taken, faint knockingsws~ere heard on the other side of the coal, at a distance, it WAS conjectuted, of a d9zen yarde.
+Ground Truth: While the explorers were consulting what action should be taken, faint knockings were heard on the other side of the coal, at a distance, it was conjectured, of a dozen yards.
+
+OCR Text: No sooner was this heard that a score of men with niandrils commencced cutting through the solid mass, nd by the sound it was soon ascertained that the imorisoned persons, consisting of five firemen and l boy among whom was Charles Morgan, were doing likewrise.
+Ground Truth: No sooner was this heard than a score of men with mandrils commenced cutting through the solid mass, and by the sound it was soon ascertained that the imprisoned persons, consisting of five firemen and a boy, among whom was Charles Morgan, were doing likewise.
+
+OCR Text: Relays of colliers worked with great enetry tbrougbout the night, and abdut six o'clock o0 Thlursday: morning Oharles Morgan's mandrii 8truckthrough and made an opening.
+Ground Truth: Relays of colliers, worked with great energy throughout the night, and about six o'clock on Thursday morning Charles Morgan's mandril struck through and made an opening.
+
+OCR Text: The next moment a terrifiu explosion, as that of a cannon, took place. but not of gas, and coal and rubbish were shot against those working to meet Morgan, and one man was terribly out about the face.
+Ground Truth: The next moment a terrific explosion, as that of a cannon, took place, but not of gas, and coal and rubbish were shot against those working to meet Morgan, and one man was terribly out about the face.
+
+OCR Text: A few moments later, on approaching the bole, it was dis- covered that Morgan bad been jammed in it, and that he was dead.
+Ground Truth: A few moments later, on approaching the hole, it was discovered that Morgan had been jammed in it, and that he was dead.
+
+OCR Text: The inundation had been so sudden as to imprison the air in the inner work- ings, and the force of this had kept back the water from the five men.
+Ground Truth: The inundation had been so sudden as to imprison the air in the inner workings, and the force of this had kept back the water from the five men.
+
+OCR Text: The moment a small hole was made by Morgan's mandril, this volume of imprisoned air collided with fatal result,
+Ground Truth: The moment a small hole was made by Morgan's mandril, this volume of imprisoned air collided with fatal result.
+
+OCR Text: Be- tween eight and nine o'clock the poor fellow's dead body was brought to the surface with only his trousers, shirt. and boots on, as he had laboured through the night, struggling for the life of him- self, his aged father, and two friends.
+Ground Truth: Between eight and nine o'clock the poor fellow's dead body was brought to the surface with only his trousers, shirt, and boots on, as he had laboured through the night, struggling for the life of himself, his aged father, and two friends.
+
+OCR Text: Shortly afterwards the remainder of the party were taken *to the wurface.
+Ground Truth: Shortly afterwards the remainder of the party were taken to the surface.
+
+OCR Text: Nine men then remained in the workings, and it was feared that all had perished.
+Ground Truth: Nine men then remained in the workings, and it was feared that all had perished.
+
+OCR Text: Mr. Galloway and the officers of the Troedyrhiw and other collieries, at four o'clock on Thursday afternoon, after penetrating as far as possible into the colliery, beard knockings ahead of them.
+Ground Truth: Mr. Galloway and the officers of the Troedyrhiw and other collieries, at four o'clock on Thursday afternoon, after penetrating as far as possible into the colliery, beard knockings ahead of them.
+
+OCR Text: It was therefore certain that some of the men left in the colliery were still alive at that hour, but there was half a mile of water from the nearest point reached and whlre they were imprisoned, and owing to a deep basin intervening, filled with water to the roof, it was feared that they could not be reached for some days.
+Ground Truth: It was therefore certain that some of the men left in the colliery were still alive at that hour, but there was half a mile of water from the nearest point reached and where they were imprisoned, and owing to a deep basin intervening, filled with water to the roof, it was feared that they could not be reached for some days.
+
+OCR Text: Intense excitement prevailed.
+Ground Truth: Intense excitement prevailed.
+
+OCR Text: Up to Friday night the imprisoned hands had not been rescued,
+Ground Truth: Up to Friday night the imprisoned hands had not been rescued.

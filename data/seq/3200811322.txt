@@ -1,0 +1,44 @@
+OCR Text: A DANGEROUS CRIMINAL. :__ rT.-- - - _, _ _ - -
+Ground Truth: A DANGEROUS CRIMINAL.
+
+OCR Text: WHEN FEntenCing W. Johnson to ten years' penal servitude at the Saei-h London Sessions, on Wedrdes- day, Sir Peter Edlin remarked: "I do not think during the whole twenty years I have been upon the bench that I have evt r had such a dangerous crimi. nal as X on before me.
+Ground Truth: WHEN sentencing W. Johnson to ten years' penal servitude at the South London Sessions, on Wednesday, Sir Peter Edlin remarked: "I do not think during the whole twenty years I have been upon the bench that I have ever had such a dangerous criminal as you before me.
+
+OCR Text: I have not tho slightest doubt that your iritention was to carry oat your threat to murder both the officers who arrested you."
+Ground Truth: I have not the slightest doubt that your intention was to carry out your threat to murder both the officers who arrested you."
+
+OCR Text: William Johnson, who is fifty, and a powerfully. built muan, was indicted for stealing two horses belonging to a Mr. Gibbs, and valued at £60.
+Ground Truth: William Johnson, who is fifty, and a powerfully built man, was indicted for stealing two horses belonging to a Mr. Gibbs, and valued at £60.
+
+OCR Text: During the afternoon of the 5th of January cerbtin informna- tion reached Detective-sergecnt Moss, L Division, and Sergeant Warne, that induced them to go to Saliabury road, Walworth, where they saw Johnson standing near two horses.
+Ground Truth: During the afternoon of the 5th of January certain information reached Detective-sergeant Moss, L Division, and Sergeant Warne, that induced them to go to Salisbury-road, Walworth, where they saw Johnson standing near two horses.
+
+OCR Text: Aloss told him that he had reason to believe the horses were stolen, and that he should arrest him.
+Ground Truth: Moss told him that he had reason to believe the horses were stolen, and that he should arrest him.
+
+OCR Text: The accused, with an oath, said he knew notbiug about the horses, and that he was not going to let two ' d's " take him.
+Ground Truth: The accused, with an oath, said he knew nothing about the horses, and that he was not going to let two "d's" take him.
+
+OCR Text: Es threw himself to the ground, tripping both the officers, and causing them to fall violently on the stone footway.
+Ground Truth: He threw himself to the ground, tripping both the officers, and causing them to fall violently on the stone footway.
+
+OCR Text: A desperate struggle cusued, and continued for about a quarter of an hour.
+Ground Truth: A desperate struggle ensued, and continued for about a quarter of an hour.
+
+OCR Text: Apeistance arriving, however, priloner was taken to the station,
+Ground Truth: Assistance arriving, however, prisoner was taken to the station.
+
+OCR Text: On the way he said to Moss, " Take that jemmy and bash moy brains out; I don't worat to go hack. "
+Ground Truth: On the way he said to Moss, "Take that jemmy and bash my brains out; I don't want to go back.”
+
+OCR Text: Johnson is a most notorious criminal, and has spent nearly all his life in penal servituede.
+Ground Truth: Johnson is a most notorious criminal, and has spent nearly all his life in penal servitude.
+
+OCR Text: Sir Peter Ed lin paid a high compliment to both Moss and Warue for their courageous conduct, endorsing the coinmendation of the grand jury with a reference to the Chief Commissioner aR being a case for an exceptional reward.
+Ground Truth: Sir Peter Edlin paid a high compliment to both Moss and Warne for their courageous conduct, endorsing the commendation of the grand jury with a reference to the Chief Commissioner as being a case for an exceptional reward.
+
+OCR Text: The judue passed high enComium upon the part played by Mr. Morris, and awarded him £3 3s., remarking that had it not been for his timely essist ance there was little doubt that the prisoner migtt have stood in another dock on a far more serious charge.
+Ground Truth: The judge passed high encomium upon the part played by Mr. Morris, and awarded him £3 3s., remarking that had it not been for his timely assistance there was little doubt that the prisoner might have stood in another dock on a far more serious charge.
+
+OCR Text: Turning to Johnson, Sir Peter Edlin said: ' I see you have seven years unexpired of your sentence of twenty years to serve yet, and that causes Tme to think you will not trouble the curb again during the remainder of your lifetime.'
+Ground Truth: Turning to Johnson, Sir Peter Edlin said: "I see you have seven years unexpired of your sentence of twenty years to serve yet, and that causes me to think you will not trouble the court again during the remainder of your lifetime."

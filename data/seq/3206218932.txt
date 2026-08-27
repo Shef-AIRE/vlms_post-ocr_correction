@@ -1,0 +1,50 @@
+OCR Text: EMIBEZZLEMENT BY A TRAVELLER On Thursday, Robert Simpson, late clerk to Messrs. Lee and Jourdein, the well-known and extensive col- liery-owners, was brought up on remand at Bow- street police-court on a charge of embezzlement.
+Ground Truth: EMBEZZLEMENT BY A TRAVELLER. On Thursday, Robert Simpson, late clerk to Messrs. Lee and Jourdein, the well-known and extensive colliery-owners, was brought up on remand at Bow-street police-court on a charge of embezzlement.
+
+OCR Text: It appears that in September, 1861, the prisoner was engaged by Mr. Jourdein upon very high recom- mendawions to take charge of one of their numerous branch establishments, situate at Putney.
+Ground Truth: It appears that in September, 1861, the prisoner was engaged by Mr. Jourdein upon very high recommendations to take charge of one of their numerous branch establishments, situate at Putney.
+
+OCR Text: His duties were to superintend the business of the Putney branch; to travel in that locality and take orders from customers ; to receive money in payment for coals supplied, and to aceountfor the sameina weckly report, which he delivered to Mir. Jourdein every Monday at the head office of the finn, 9, Lancaster- pnlace, Strand.
+Ground Truth: His duties were to superintend the business of the Putney branch; to travel in that locality and take orders from customers; to receive money in payment for coals supplied, and to account for the same in a weekly report, which he delivered to Mr. Jourdein every Monday at the head office of the firm, 9, Lancaster place, Strand.
+
+OCR Text: He was paid asalsry of 24 Ss. a week baesides travelling expenses, and be had a house at Putntey free of rent and taxes.
+Ground Truth: He was paid a salary of 2l. 8s, a week besides travelling expenses, and he had a house at Putney free of rent and taxes.
+
+OCR Text: Lately lMessrs. Lee and Jourdeha bed diseovered that a small sum which was (hue from a customer had been paid to the pri- soner, who had not accounted for it, and, as Mr. Lewis explained, such occurrenceswereveryannoyiag, as els- tomers felt it to be unpleasant to have accounts sent hi again after they had been paid.
+Ground Truth: Lately Messrs. Lee and Jourdein had discovered that a small sum which was due from a customer had been paid to the prisoner, who had not accounted for it, and, as Mr. Lewis explained, such occurrences were very annoying, as customers felt it to be unpleasant to have accounts sent in again after they had been paid.
+
+OCR Text: Upon calling on the prisoner for an explanation the prosecutors re- ceived a letter from the prisoner, acknowtledging that dauring the first eighteen months be had received about 60?1. which he had not accounted for, aind "iv- tag a list of the customers whose payments ho Lai kept back.
+Ground Truth: Upon calling on the prisoner for an explanation the prosecutors re- ceived a letter from the prisoner, acknowledging that during the first eighteen months he had received about 60l. which he had not accounted for, and giving a list of the customers whose payments he had kept back.
+
+OCR Text: In that letter he expressed great regret for his conduct, and begged hard to be forgiven for the sake of his wife and children.
+Ground Truth: In that letter he expressed great regret for his conduct, and begged hard to be forgiven for the sake of his wife and children.
+
+OCR Text: At the former hearing Mr. Lewis observed that Messrs. Lee and Jourdeia were most reluctant to prosecute the pai- souer, on account of his hitherto excellent character.
+Ground Truth: At the former bearing Mr. Lewis observed that Messrs. Lee and Jourdein were most reluctant to prosecute the prisoner, on account of his hitherto excellent character.
+
+OCR Text: He had been for many years well known and highly respected in the neighbourhood where ho resided, arnd was the very last person they would have thought capable of any dishonesty.
+Ground Truth: He had been for many years well known and highly respected in the neighbourhood where ho resided, and was the very last person they would have thought capable of any dishonesty.
+
+OCR Text: But considering the extent to which they had been robbed, having lost upwards of 3,0001, by the defalettions of clerks during the last two years, they felt they had no course but to give the prisoner into custody.
+Ground Truth: But considering the extent to which they had been robbed, having lost upwards of 3,000l. by the defalcations of clerks during the last two years, they felt they had no course but to give the prisoner into custody.
+
+OCR Text: Mr. Hall said it would be best to take that course In every instance.-fr: Lewis said thait when ap- peals were made and letters written similar to thatof the prisoner, speaking in a most affecting manner of baa wife and children, kind-hearted people found it sery much against the grain to act with severity and harshness.
+Ground Truth: Mr. Hall said it would be best to take that course in every instance. —Mr. Lewis said that when appeals were made and letters written similar to that of the prisoner, speaking in a most affecting manner of his wife and children, kind-hearted people found it very much against the grain to act with severity and harshness.
+
+OCR Text: MIessrs. Lee and Jona-dein head therefore forgiven several dishonest clercs, but they felt that, they could not go on in such a course for ever.
+Ground Truth: Messrs. Lee and Jourdein had therefore forgiven several dishonest clerks, but they felt that they could not go on in such a course for ever.
+
+OCR Text: Upon the case being called on on Thursday, how- ever, Mr. Lewis said that some representations had been made by the prisoner's friends, which induced the prosecutors to believe that a lenient course might properly be adopted.
+Ground Truth: Upon the case being called on Thursday, however, Mr. Lewis said that some representations had been made by the prisoner's friends, which induced the prosecutors to believe that a lenient course might properly be adopted.
+
+OCR Text: His friends, it appeared, were willing to send him abroad, and there to find some eiphoyment for him.
+Ground Truth: His friends, it appeared, were willing to send him abroad, and there to find some employment for him.
+
+OCR Text: Hoping that the imprisonment and ansiety he bad already undergone might operate am awarning for the future, Messrs. Lee and Jourdein were desirous, with the magistrate's permission, to withdraw from the prosecution.
+Ground Truth: Hoping that the imprisonment and anxiety he had already undergone might operate as a warning for the future, Messrs. Lee and Jourdein were desirous, with the magistrate's permission, to withdraw from the prosecution.
+
+OCR Text: He wished distinctly to assure the magistrate that they acted thus purely from motives of compassion, and not with a view to any compromise, which, if offered, would Lave been Indignantly refused.
+Ground Truth: He wished distinctly to assure the magistrate that they acted thus purely from motives of compassion, and not with a view to any compromise, which, if offered, would have been Indignantly refused.
+
+OCR Text: Mr. Hall discharged the prisoner, observing that he ought to feel deeply indebted to the prosecutors for their kindness.
+Ground Truth: Mr. Hall discharged the prisoner, observing that he ought to feel deeply indebted to the prosecutors for their kindness.

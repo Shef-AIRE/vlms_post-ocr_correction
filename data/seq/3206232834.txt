@@ -1,0 +1,14 @@
+OCR Text: SPORT1N G l NTELLIGENOE.
+Ground Truth: SPORTING INTELLIGENCE.
+
+OCR Text: - WOLVMITAMITON MMMNG.
+Ground Truth: WOLVERHAMPTOIN MEETING.
+
+OCR Text: TU38DAY.-EZVIle PIt.-Plleslpotentlary, S yrs, 3Bt! 2b (1): Zisoa, aged, hot 2I1O (2); Remus, a yr, 7t41'b 18).
+Ground Truth: TUESDAY. —Enville Plate. —Plenipotentiary, 3 yrs, 6st 121b (1): Zisca, aged, 7st 101b (2); Remus 8 yrs, 7st 41b (3).
+
+OCR Text: fatshullStake5.-Sportsnan *3 yrs7at2,ib4) -The Boy, 2 ym, ost 121b (2); Fancy Boy, 2 yrs, Ca 121b] ()
+Ground Truth: Patshull Stakes. –Sportsman, 6 yrs, 7st 21b (1); The Boy, 2 yrs, 6st 121b (2); Fancy Boy, 2 yrs, 6st 121b (3).
+
+OCR Text: StaftordbShrs Nursery Haudicap.-Prlncess, est 121b (1);
+Ground Truth: Staffordshire Nursery Handicap. –Princess, 6st 121b (1);

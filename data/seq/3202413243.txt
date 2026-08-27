@@ -1,0 +1,95 @@
+OCR Text: POLICE INTELLIGENCE.
+Ground Truth: POLICE INTELLIGENCE.
+
+OCR Text: MAXSION HOUSE.
+Ground Truth: MANSION HOUSE.
+
+OCR Text: Omnibus Robbery.-On Wednesday a well dressed woman, named Hary- Smith, was brought before the Lord Mayor, charged with having robbed a lady of a purse containing a cheque for 62 lls. 6d. and a sovereign, in an ornibus.
+Ground Truth: Omnibus Robbery. —On Wednesday a well-dressed woman, named Mary Smith, was brought before the Lord Mayor, charged with having robbed a lady of a purse containing a cheque for £62 17s. 6d. and a sovereign, in an omnibus.
+
+OCR Text: Mrs. Mary Margaret Fitton, of Clifton-row, Old Kent-road, said: Yesterday, between two and three o'clock, I went into one of the Old Kent-road osunibuses, for the purpose of coming into the City.
+Ground Truth: Mrs. Mary Margaret Fitton, of Clifton-row, Old Kent-road, said: Yesterday, between two and three o'clock, I went into one of the Old Kent-road omnibuses, for the purpose of coming into the City.
+
+OCR Text: Soon afterwards the prisoner came into the omnibus, and sat next to me.
+Ground Truth: Soon afterwards the prisoner came into the omnibus, and sat next to me.
+
+OCR Text: I had aseertained that my purse was in my pocket after she took her seat.
+Ground Truth: I had ascertained that my purse was in my pocket after she took her seat.
+
+OCR Text: In the courseof thejouney I felt a pull at my dress, and on looking down saw the prisoner's hand hanging down.
+Ground Truth: In the course of the journey I felt a pull at my dress, and on looking down saw the prisoner's hand hanging down.
+
+OCR Text: I got out at tse top of King Wiliam. street, and the prisoner got down at the same time.
+Ground Truth: I got out at the top of King William street, and the prisoner got down at the same time.
+
+OCR Text: She observed to me that the crossing was a very dangerous one, and I immediately missed my purse, and putting my hand on her arm I accused her of having taken it.
+Ground Truth: She observed to me that the crossing was a very dangerous one, and I immediately missed my purse, and putting my hand on her arm I accused her of having taken it.
+
+OCR Text: It contained a cheque upon the Bank for 62 17s. 6d. and a sovereign.
+Ground Truth: It contained a cheque upon the Bank for £62 17s. 6d. and a sovereign.
+
+OCR Text: She said that I had better search the omnibus, and I gave her in charge to a policeman.
+Ground Truth: She said that I had better search the omnibus, and I gave her in charge to a policeman.
+
+OCR Text: The purse and cheque produced by the police are those I was robbed of.
+Ground Truth: The purse and cheque produced by the police are those I was robbed of.
+
+OCR Text: Hannah Curtain, a milkwoman, said: I went this morning, at twenty minutes before eight, to the King's Head Tavern, in the Poultry; with milk, and as I was coming away I sew behind the oulter door of the passage on the floor something which I picked up, and found to be this purse and piece of paper (the cheque).
+Ground Truth: Hannah Curtain, a milkwoman, said: I went this morning, at twenty minutes before eight, to the King's Head Tavern, in the Poultry, with milk, and as I was coming away I saw behind the outer door of the passage on the floor something which I picked up, and found to be this purse and piece of paper (the cheque).
+
+OCR Text: They were lying down apart from each other.
+Ground Truth: They were lying down apart from each other.
+
+OCR Text: The prisoner protested that she knew nothing wvhatever of the purse or the cheque.
+Ground Truth: The prisoner protested that she knew nothing whatever of the purse or the cheque.
+
+OCR Text: The Lord Mayor com- mitted her to Newgste for trial.
+Ground Truth: The Lord Mayor committed her to Newgate for trial.
+
+OCR Text: GUILDHALL.
+Ground Truth: GUILDHALL.
+
+OCR Text: Robbery of Children.-On Wednesday, Etizabeth Sokaloski, a young girl about fourteen years of age, was brought up before Alderman Lawrence, for further examination, relative to a variety of charges of robbing little children of portions of their wearing apparel.
+Ground Truth: Robbery of Children. —On Wednesday, Elizabeth Sokaloski, a young girl about fourteen years of age, was brought up before Alderman Lawrence, for further examination, relative to a variety of charges of robbing little children of portions of their wearing apparel.
+
+OCR Text: The court was thronged with children of all ages, who were in attendance to identify the prisoner, against whom there were from twenty to thirty distinct charges of felony.
+Ground Truth: The court was thronged with children of all ages, who were in attendance to identify the prisoner, against whom there were from twenty to thirty distinct charges of felony.
+
+OCR Text: The system pursued by the prisoner was that of following children, and so ascertaining their Christian names, by which she immediately addressed them, at the same time making the most anxious inquiries after the health of their parents.
+Ground Truth: The system pursued by the prisoner was that of following children, and so ascertaining their Christian names, by which she immediately addressed them, at the same time making the most anxious inquiries after the health of their parents.
+
+OCR Text: She then told them that her mother had just brought over from France a quantity of dolls and other toys, and offered to give some to the children if they would give her something to carry them in, and, under such pretences, she deprived them of various articles of their wearing apparel.
+Ground Truth: She then told them that her mother had just brought over from France a quantity of dolls and other toys, and offered to give some to the children if they would give her something to carry them in, and, under such pretences, she deprived them of various articles of their wearing apparel.
+
+OCR Text: In one instance, she took the gold ear-rings from the ears of a child, and in a great many others she contented herself with cloaks, bonnets, shawls, and boots.
+Ground Truth: In one instance, she took the gold ear-rings from the ears of a child, and in a great many others she contented herself with cloaks, bonnets, shawls, and boots.
+
+OCR Text: The prisoner cried very bitterly during the examination, and stated in her defence that her father was a Pole, and had been dead about four years, and that she had been three years in the Convent School in France, which she left just before Christmas; but, unfortunately, she fell into bad com- pany, and was induced to commit the wicked acts she was charged with.
+Ground Truth: The prisoner cried very bitterly during the examination, and stated in her defence that her father was a Pole, and had been dead about four years, and that she had been three years in the Convent School in France, which she left just before Christmas; but, unfortunately, she fell into bad company, and was induced to commit the wicked acts she was charged with.
+
+OCR Text: An officer who was present said he knew the prisoner and her parents, and they were a bad lot all altogether, the father being still alive and convicted, if not already trans- ported.
+Ground Truth: An officer who was present said he knew the prisoner and her parents, and they were a bad lot all altogether, the father being still alive and convicted, if not already transported.
+
+OCR Text: The prisoner said her real name was Feten, and that Sokaloski was only her father-in-law.
+Ground Truth: The prisoner said her real name was Feten, and that Sokaloski was only her father-in-law.
+
+OCR Text: Alderman Lawrence said he should not send her for trial, as was at first intended, but would commit her to the House of Correction for three months,
+Ground Truth: Alderman Lawrence said he should not send her for trial, as was at first intended, but would commit her to the House of Correction for three months.
+
+OCR Text: WORSHIP-STREET.
+Ground Truth: WORSHIP-STREET.
+
+OCR Text: Brutal Robbery.-On Tuesday, a middle-aged man, named Tinies Fletchser, was charged with having been con- cerned with a number of other men who have escaped appre- heusion, in the following scandalous robbery :-An infirm and aged man named John Dove, by trade a weaver, had contrived for a number of years past to save a small portion of his scanty earnings, and, for better security, deposited the amount in the Whitechapel Savings-bank.
+Ground Truth: Brutal Robbery. —On Tuesday, a middle-aged man, named James Fletcher, was charged with having been concerned with a number of other men who have escaped apprehension, in the following scandalous robbery: —An infirm and aged man named John Dove, by trade a weaver, had contrived for a number of years past to save a small portion of his scanty earnings, and, for better security, deposited the amount in the Whitechapel Savings-bank.
+
+OCR Text: Thinking it better, however, on Tuesday, to invest his money in another way, be went to the bank at four o'clock and withdrew the whole of it, receiving two bank-notes for 5 and 10 each, a number of sovereigns, and a small quantity of silver, with which lie was on his way home to Minerva-street, Hackney, when be went into a public- house.
+Ground Truth: Thinking it better, however, on Tuesday, to invest his money in another way, he went to the bank at four o'clock and withdrew the whole of it, receiving two bank-notes for £5 and £10 each, a number of sovereigns, and a small quantity of silver, with which he was on his way home to Minerva-street, Hackney, when he went into a public house.
+
+OCR Text: Before lie could dink what he had ordered the prisoner and three other men, who, he felt satisfied, had been watching him, suddenly entered and invited him to drink with them; this he declined to do, and, after pressing hum uselessly for some time, one of them called for a glass of spirits, put it to his lips, and forced a portion of the contents into his mouth.
+Ground Truth: Before he could drink what he had ordered the prisoner and three other men, who, he felt satisfied, had been watching him, suddenly entered and invited him to drink with them; this he declined to do, and, after pressing him uselessly for some time, one of them called for a glass of spirits, put it to his lips, and forced a portion of the contents into his mouth.
+
+OCR Text: He jerked his head aside to avoid it, and while doing so saw one of the other men Ponying something out. of another glass into his; thisconvinced him that it wasapremeditated attempt to stupify and rob him, and he therefore refused to drink any more and hurried out of the house, but he had only got a few yards when he was overtaken by those four men and several others, two of whom kaid hold of each of his arms, under pretence of assist. ig him, and " helped" him along till they got to a beer-shop, into which they thrust him, in spite of his effects to disengage himself, and, notwithstanding his positive meussel to drink any- thing, called for ebme ale, and compelled him to swallow a small portion of it,
+Ground Truth: He jerked his head aside to avoid it, and while doing so saw one of the other men pouring something out of another glass into his; this convinced him that it was a premeditated attempt to stupify and roh him, and he therefore refused to drink anymore and hurried out of the house, but he had only got a few yards when he was overtaken by those four men and several others, two of whom laid hold of each of his arms, under pretence of assisting him, and "helped" him along till they got to a beer-shop, into which they thrust him, in spite of his efforts to disengage himself, and, notwithstanding his positive refusal to drink anything, called for some ale, and compelled him to swallow a small portion of it.
+
+OCR Text: This hie had nO sooner drank than he became ad
+Ground Truth: This he had no sooner drank than he became so

@@ -1,0 +1,74 @@
+OCR Text: OUTRAGE ON, A MARRIED WOMAN.
+Ground Truth: OUTRAGE ON A MARRIED WOMAN.
+
+OCR Text: At the Gloucester assizes, on Monday, William Mustow was indicted for a rape on the 22nd of June last at Marshfield.
+Ground Truth: At the Gloucester assizes, on Monday, William Mustow was indicted for a rape on the 22nd of June last at Marshfield.
+
+OCR Text: The proseoutrix, Fanny Hill, was the wife of John Hill, shepherd, in the service of Mr. J. C. Fry, a large farmer in the parish of Marshfield, and the prisoner, who is a married man, was groom in the service of the same gentleman.
+Ground Truth: The prosecutrix, Fanny Hill, was the wife of John Hill, shepherd, in the service of Mr. J. C. Fry, a large farmer in the parish of Marshfield, and the prisoner, who is a married man, was groom in the service of the same gentleman.
+
+OCR Text: The prosecutrix and the prisoner lived in cottages adjoining one another, there being no other houses within a quarter of a mile.
+Ground Truth: The prosecutrix and the prisoner lived in cottages adjoining one another, there being no other houses within a quarter of a mile.
+
+OCR Text: The husband of the prosecutrix left home on Friday, June 22nd, and did not return that night.
+Ground Truth: The husband of the prosecutrix left home on Friday, June 22nd, and did not return that night.
+
+OCR Text: She went to bed at nine o'clock, and at twelve o'clock she was awakened by a rattling at her cottage door.
+Ground Truth: She went to bed at nine o'clock, and at twelve o'clock she was awakened by a rattling at her cottage door.
+
+OCR Text: She rose, looked out of the window and saw the prisoner 'below
+Ground Truth: She rose, looked out of the window, and saw the prisoner below.
+
+OCR Text: He asked her to come down and give kin some matches.
+Ground Truth: He asked her to come down and give him some matches.
+
+OCR Text: She got the matches and threw the box out of the window to him.
+Ground Truth: She got the matches and threw the box out of the window to him.
+
+OCR Text: He then went away.
+Ground Truth: He then went away.
+
+OCR Text: He shortly returned, called to her, and asked her to come down end warm some water.
+Ground Truth: He shortly returned, called to her, and asked her to come down and warm some water.
+
+OCR Text: This she declined to do, and thersu on he said he would break in and kill her if she did not.
+Ground Truth: This she declined to do, and thereupon he said he would break in and kill her if she did not.
+
+OCR Text: He then got on. the porch over the cottage door, sod placed hand' on the window sill of her bedroom, hut she struck him with a bed key and he dropped down.
+Ground Truth: He then got on the porch over the cottage door, and placed his hand on the window sill of her bedroom, but she struck him with a bed key and he dropped down.
+
+OCR Text: He then began breaking in the lower window with a stone.
+Ground Truth: He then began breaking in the lower window with a stone.
+
+OCR Text: She ran downstairs and rushed out of the house try- ing to get away.
+Ground Truth: She ran downstairs and rushed out of the house trying to get away.
+
+OCR Text: He ran after her, caught her, and dragged her into the house.
+Ground Truth: He ran after her, caught her, and dragged her into the house.
+
+OCR Text: After the struggle, in which she was severely injured and completely ex- hausted, be accomplished his purpose.
+Ground Truth: After the struggle, in which she was severely injured and completely exhausted, be accomplished his purpose.
+
+OCR Text: He put his hand over her mouth to prevent her screamingandsthe bit a niece-of flesh oit of one of his fingers.
+Ground Truth: He put his hand over her mouth to prevent her screaming and she bit a piece of flesh out of one of his fingers.
+
+OCR Text: He then left her and returned to his cottage.
+Ground Truth: He then left her and returned to his cottage.
+
+OCR Text: She, on hear. ing his door close, put on her shawl and went to her nearest neighbours, aroused thein, and related what had happened.
+Ground Truth: She, on hearing his door close, put on her shawl and went to her nearest neighbours, aroused them, and related what had happened.
+
+OCR Text: A witnessnam ed Ruth Gaisford said the prosecutrix had come to her house at about one o'clock in a state of exditement, with her hair down her back, and bleeding from a wound on her head, and as, they returned to her cottage she described the treatment sie had received.
+Ground Truth: A witness named Ruth Gaisford said the prosecutrix had come to her house at about one o'clock in a state of excitement, with her hair down her back, and bleeding from a wound on her head, and as, they returned to her cottage she described the treatment she had received.
+
+OCR Text: A man named Fry was called up, and he sent at once for the police, and went with &erjeant Midwinter to the prisoner's cottage.
+Ground Truth: A man named Fry was called up, and he sent at once for the police, and went with Serjeant Midwinter to the prisoner's cottage.
+
+OCR Text: They called to him, and as he did not open his door they burst it open and went upstairs, and found the prisoner sitting on his bed with his finger tied up and bleeding from a wound recently received.
+Ground Truth: They called to him, and as he did not open his door they burst it open and went upstairs, and found the prisoner sitting on his bed with his finger tied up and bleeding from a wound recently received.
+
+OCR Text: The prisoner was taken to the police-station, and on being charged, 'said it was all the - drink, and he wished he was in -
+Ground Truth: The prisoner was taken to the police-station, and on being charged, said it was all — the drink, and he wished he was in –.
+
+OCR Text: His lordship having summed up, the jury found a verdict of " Guilty," and the prisoner was sentenced to fifteen years' penal servitude.
+Ground Truth: His lordship having summed up, the jury found a verdict of "Guilty," and the prisoner was sentenced to fifteen years' penal servitude.

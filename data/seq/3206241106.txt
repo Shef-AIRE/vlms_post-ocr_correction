@@ -1,0 +1,68 @@
+OCR Text: |THE ALLEGED MLTRDER AT BRENTFORD.
+Ground Truth: THE ALLEGED MURDER AT BRENTFORD.
+
+OCR Text: On Saturday, at the Brentford Petty sessions, Charles Hicks, a shoemaker, 36 years of age, was charged with killing a man named Bernard Bur- gess, a platelayer on the Great Western railway.
+Ground Truth: On Saturday, at the Brentford Petty sessions, Charles Hicks, a shoemaker, 36 years of age, was charged with killing a man named Bernard Burgess, a platelayer on the Great Western railway.
+
+OCR Text: Hlicks was lodging with Burgess and his wife, and had been in the house two years.
+Ground Truth: Hicks was lodging with Burgess and his wife, and had been in the house two years.
+
+OCR Text: Before he went there Burgess and his wife lived comfortably to- gether, but lately it would appear that Burgess sus- pected his lodger of undue familiarity with his wife, ;vho was about 10 years younger than himself, but about the same age as the prisoner.
+Ground Truth: Before he went there Burgess and his wife lived comfortably together, but lately it would appear that Burgess suspected his lodger of undue familiarity with his wife, who was about 10 years younger than himself, but about the same age as the prisoner.
+
+OCR Text: The son has stated that his father accused Hicks of taking his motberto the theatre alld keeping her out all night, but when closely questioned on the subject he de- nied that there was any truth in the report, though his father was quarrelling with Hicks about it on Saturday, the 12th inst.
+Ground Truth: The son has stated that his father accused Hicks of taking his mother to the theatre and keeping her out all night, but when closely questioned on the subject he denied that there was any truth in the report, though his father was quarrelling with Hicks about it on Saturday, the 12th inst.
+
+OCR Text: On the 14th the prisoner was seen to follow the deceased man out of the house, go up to him behind, seize hold of him by the collar and shake him.
+Ground Truth: On the 14th the prisoner was seen to follow the deceased man out of the house, go up to him behind, seize hold of him by the collar and shake him.
+
+OCR Text: He was heard to say, " I will take care you don't say anything against me. I will murder you if I am hung for it."
+Ground Truth: He was heard to say, "I will take care you don't say anything against me. I will murder you if I am hung for it."
+
+OCR Text: Deceased did not strike the prisoner or offer any provocotion, but appeared to be trying to get away from Hicks.
+Ground Truth: Deceased did not strike the prisoner or offer any provocation, but appeared to be trying to get away from Hicks.
+
+OCR Text: The latter struck Burgess under the ear with his fist.
+Ground Truth: The latter struck Burgess under the ear with his fist.
+
+OCR Text: The blow felled the old man, who remained on the ground, and never stirred a fterwards.
+Ground Truth: The blow felled the old man, who remained on the ground, and never stirred afterwards.
+
+OCR Text: The affair took place in the Catherine Wheel-yard, and hearing a disturbance the neighbours went out and attempted to carry Burgess indoors, the prisoner offering some resistance.
+Ground Truth: The affair took place in the Catherine Wheel-yard, and hearing a disturbance the neighbours went out and attempted to carry Burgess indoors, the prisoner offering some resistance.
+
+OCR Text: A surgeon was sent for, and he could not obtain any information as to what had occurred, either from Mrs. Burgess, her daughter, or the prisoner.
+Ground Truth: A surgeon was sent for, and he could not obtain any information as to what had occurred, either from Mrs. Burgess, her daughter, or the prisoner.
+
+OCR Text: Burgess died the next day, and a post-mortem examination showed an injury to the brain, which might have been caused by such a blow with the fist as the one given by Hicks. and there was also a small punctured wound, which was probably caused by deceased's head coming in contact with some of the stones in the Catherine Wheel-yard.-
+Ground Truth: Burgess died the next day, and a post-mortem examination showed an injury to the brain, which might have been caused by such a blow with the fist as the one given by Hicks, and there was small punctured wound, which was probably caused by deceased's head coming in contact with some of the stones in the Catherine Wheel-yard.—
+
+OCR Text: Inspector Tarling entered the house shortly after the occurrence, and found the surgeon examining the wounds, and the prisoner, Mrs. B rrgess, and her daughter, in an ad joining room.
+Ground Truth: Inspector Tarling entered the house shortly after the occurrence, and found the surgeon examining the wounds, and the prisoner, Mrs. Burgess, and her daughter, in an adjoining room.
+
+OCR Text: The wife, in aaswer to a question is to what had happened to her husband, said, " He has been accusing me of improper conduct."
+Ground Truth: The wife, in answer to a question as to what had happened to her husband, said, "He has been accusing me of improper conduct."
+
+OCR Text: The 'prisoner was then taken intocustody, saying, "I am very sorry; after lodging here two years it has come to this."
+Ground Truth: The prisoner was then taken into custody, saying, "I am very sorry; after lodging here two years it has come to this."
+
+OCR Text: It appeared from the evidence of a Thames lighterman, hdamed Joseph Taylor, that on coming out of his house, Burgess met him, and said, "Hicks is on to me again. Here he comes ; he means settling me."
+Ground Truth: It appeared from the evidence of a Thames lighterman, named Joseph Taylor, that on coming out of his house, Burgess met him, and said, "Hicks is on to me again. Here he comes; he means settling me.”
+
+OCR Text: Prisoner followed, saying, "You are a deceitful old man."
+Ground Truth: Prisoner followed, saying, "You are a deceitful old man."
+
+OCR Text: Burgess, referring to what had transpired in the house, said, "I never said it."
+Ground Truth: Burgess, referring to what had transpired in the house, said, "I never said it."
+
+OCR Text: This witness then went indoors, but on hearing that the old man was dead, he went to lift him up, when the prisoner struck him.
+Ground Truth: This witness then went indoors, but on hearing that the old man was dead, he went to lift him up, when the prisoner struck him.
+
+OCR Text: The Prisoner: I should like the surgeon's as- sistant to be called to show that I carried Burgess into a room, where the doctor examined him.-Mr. Gillingham, Dr. Earle's assistant, was then sent for, and on arriving said the prisoner carried Burgess into another room.-The Prisoner : Did not I say, "Lay down, father?"-lr. Gillingham:* You made soine remark of that kind.
+Ground Truth: The Prisoner: I should like the surgeon's assistant to be called to show that I carried Burgess into a room, where the doctor examined him. —Mr. Gillingham, Dr. Earle's assistant, was then sent for, and on arriving said the prisoner carried Burgess into another room. –The Prisoner: Did not I say, 'Lay down, father?" –Mr. Gillingham: You made some remark of that kind.
+
+OCR Text: Burgess was then alive.
+Ground Truth: Burgess was then alive.
+
+OCR Text: -The prisonerwas then committed for trial at the Central Criminal court for the wilful murder of Burgess.
+Ground Truth: –The prisoner was then committed for trial at the Central Criminal court for the wilful murder of Burgess.

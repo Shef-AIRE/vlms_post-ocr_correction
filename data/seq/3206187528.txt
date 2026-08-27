@@ -1,0 +1,53 @@
+OCR Text: THE COURT.
+Ground Truth: THE COURT.
+
+OCR Text: On Monday, the Queen Dowager left her residence, Bauhy-house, Bushy-park, accompanied by the Duahess Ida of Saxe Weimar, for the purpose of witnessing the naval review off Spitheaf.
+Ground Truth: On Monday, the Queen Dowager left her residence, Bushy-house, Bushy-park, accompanied by the Duchess Ida of Saxe Weimar, for the purpose of witnessing the naval review of Spithead.
+
+OCR Text: On Tuesday the Queen and Prince Albert, accompanied by their Majesties the King and Queen of the Belgians, left Buckiagham- palace is a carriage-and-four, at a quarter past nine o'clock in the morning, escorted by a party of the 4th Light 1Bragoons, for the terminus of the South-Western Railway at Nine Eints, whence they proceeded by a epe- ciol train for the purpose of being present at the naval review at Portsmoutls, and afterwards of proceedi :g to Osborne-house, Isle of Wight.
+Ground Truth: On Tuesday the Queen and Prince Albert, accompanied by their Majesties the King and Queen of the Belgians, left Buckingham palace in a carriage-and-four, at a quarter past nine o'clock in the morning, escorted by a party of the 4th Light Dragoons, for the terminus of the South-Western Railway at Nine Elms, whence they proceeded by a special train for the purpose of being present at the naval review at Portsmouth, and afterwards of proceeding to Osborne-house, Isle of Wight.
+
+OCR Text: On VWednesday the Queen and PrinceAlbert, and tbeirtajeeties tleKiogarid Queen of the Belgians, walked in the pleasure grounds adjacent to the mansion.
+Ground Truth: On Wednesday the Queen and Prince Albert, and their Majesties the King and Queen of the Belgians, walked in the pleasure grounds adjacent to the mansion.
+
+OCR Text: Her Majesty and her Royal Consort, and their Belgian rajesties, afterwards drove out in two pony carriages, with outriders, to King's key, returning through the Barton estate to Osborne house.
+Ground Truth: Her Majesty and her Royal Consort, and their Belgian Majesties, afterwards drove out in two pony carriages, with outriders, to King's key, returning through the Barton estate to Osborne house.
+
+OCR Text: On Thursday, the Queen and Prince Albert, accompanied by their Majestles the King and Queen of the Belgians, attended by the Royal suite, left Osborne-house, em- barked on board the Royal yacht for Gosport, and travelled to town by a special train on the South-Western Rail- way.
+Ground Truth: On Thursday, the Queen and Prince Albert, accompanied by their Majesties the King and Queen of the Belgians, attended by the Royal suite, left Osborne-house, embarked on board the Royal yacht for Gosport, and travelled to town by a special train on the South-Western Railway.
+
+OCR Text: From the Nine Elms terminus, the august party proceeded to Buckiigham Palace, in three earriages and four, escorted by a party of the 4th Light Dragoons.
+Ground Truth: From the Nine Elms terminus, the august party proceeded to Buckingham Palace, in three carriages and four, escorted by a party of the 4th Light Dragoons.
+
+OCR Text: At four o'clock, their Majesties the King and Queens of the Belgians left Buckingham Palace in a carriage and four, on their return to the continent.
+Ground Truth: At four o'clock, their Majesties the King and Queen of the Belgians left Buckingham Palace in a carriage and four, on their return to the continent.
+
+OCR Text: Their Ma- jesties and suite proceeded to the Bricklayerse Arms station, and left by a special train an the South Eastert Railway for Dover, en roate to Ostend.
+Ground Truth: Their Majesties and suite proceeded to the Bricklayers' Arms station, and left by a special train on the South Eastern Railway for Dover, en route to Ostend.
+
+OCR Text: In the evening, her Majesty and his Royal Highness Prince Albert, went tothe Italian Opera.
+Ground Truth: In the evening, her Majesty and his Royal Highness Prince Albert, went to the Italian Opera.
+
+OCR Text: Her Majesty the Queen Dowager, and their Serene Hightesses the Duchess Ida, the Princesses and Prince Edward of Saxe Weirmar, left Ryde and were conveyed in a sleacopacket to Gosport, and thence, by a speccal train an the South Western Railway, to the Nine Elms teruicnus, proceeding in five carriages to Marlborougb-house.
+Ground Truth: Her Majesty the Queen Dowager, and their Serene Highnesses the Duchess Ida, the Princesses and Prince Edward of Saxe Weimar, left Ryde and were conveyed in a steam packet to Gosport, and thence, by a special train on the South Western Railway, to the Nine Elms terminus, proceeding in five carriages to Marlborough house.
+
+OCR Text: O2 Friday, the Queen held a Court at Buckioglram Palace.
+Ground Truth: On Friday, the Queen held a Court at Buckingham Palace.
+
+OCR Text: Afterwards, the Queen Dowager paid a visit to her Majesty, accompanied by their Serene Highnessee the Duchess Ida of Saxe Wei- roar, and the Princesses Anna and Amelia of Saxe Wei- mar.
+Ground Truth: Afterwards, the Queen Dowager paid a visit to her Majesty, accompanied by their Serene Highnesses the Duchess Ida of Saxe Weimar, and the Princesses Anna and Amelia of Saxe Weimar.
+
+OCR Text: The Illustrious party partook of a dejecner with the Queen and Prince Albert, and afterwards returned to Marlborough-house.
+Ground Truth: The illustrious party partook of a dejeuner with the Queen and Prince Albert, and afterwards returned to Marlborough-house.
+
+OCR Text: In the afternoon, bit Royal Highness Prince Albert presided at a meeting of the Commission for promoting and encouraging the Fine Arts in the rebuilding the Palace of Westminster.
+Ground Truth: In the afternoon, his Royal Highness Prince Albert presided at a meeting of the Commission for promoting and encouraging the Fine Arts in the rebuilding the Palace of Westminster.
+
+OCR Text: To- day (Saturday) her Majesty and his Royal Highness Prince Albert, accompanied by the Infant Rrryal Family, and attended by a limited saite, left Buckingham Palace for Osborne house, where the Court wilt remain until the prorogation of Parliameust.
+Ground Truth: Today (Saturday) her Majesty and his Royal Highness Prince Albert, accompanied by the Infant Royal Family and attended by a limited suite, left Buckingham Palace for Osborne house, where the Court will remain until the prorogation of Parliament.
+
+OCR Text: Within a day or two after- wards, her Majesty and his Royal Highness will take their departure, in tire royal yacht, from tire Isle of Wight, anid proceed direct to the continent, en roale to Germany.
+Ground Truth: Within a day or two afterwards, her Majesty and his Royal Highness will take their departure, in the royal yacht, from the Isle of Wight, and proceed direct to the continent, en route to Germany.
+
+OCR Text: The Infant Royal Family will remain at Osborne-house during the absence of the Court.
+Ground Truth: The Infant Royal Family will remain at Osborne-house during the absence of the Court.

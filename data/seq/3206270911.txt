@@ -1,0 +1,26 @@
+OCR Text: IRELAND.
+Ground Truth: IRELAND.
+
+OCR Text: Mr. William Johnson Roberts, a So'icitor, of Pembroke-road, Dublin, reported to the police on Mslonday that during the night ho heard a noise, and goingb downstairs with a sword in his hand en. countered a burglair, who fired a revolver twrice at Mr. Roberts.
+Ground Truth: Mr. William Johnson Roberts, a solicitor, of Pembroke-road, Dublin, reported to the police on Monday that during the night he heard a noise, and going downstairs with a sword in his hand en countered a burglar, who fired a revolver twice at Mr. Roberts.
+
+OCR Text: Neither shot took effecet.
+Ground Truth: Neither shot took effect.
+
+OCR Text: Mr. R~oberts then attacked the man writh his sword and wrounded him in sev-eral places; but he managed to escape by the back door.
+Ground Truth: Mr. Roberts then attacked the man with his sword and wounded him in several places; but he managed to escape by the back door.
+
+OCR Text: CHOrED BY A PIEC1D OF BEEp.-Mr. Carttar held an inquest at the Merry Criclketers, Lower- road, Deptford, on Monday, on the body of Benja. min Bean Ling, aged five years, son of George Ling, bootmaker, of 270, Lower-road.
+Ground Truth: CHOKED BY A PIECE OF BEEF. —Mr. Carttar held an inquest at the Merry Cricketers, Lower-road, Deptford, on Monday, on the body of Benjamin Bean Ling, aged five years, son of George Ling, bootmaker, of 270, Lower-road.
+
+OCR Text: On Satur- day, at dinner time, the boy's mother placed a piece of beef in his plate, intending, as usual, to cut it into emai pieces, but whilst she turned to place a kettle upon tho fire, he cut off a piece of beef in his plate, and choked in attempting to swallow it.
+Ground Truth: On Saturday, at dinner time, the boy's mother placed a piece of beef in his plate, intending, as usual, to cut it into small pieces, but whilst she turned to place a kettle upon the fire, he cut off a piece of beef in his plate, and choked in attempting to swallow it.
+
+OCR Text: His father gave him some water, and put his finger down his throat, but could not reach it.
+Ground Truth: His father gave him some water, and put his finger down his throat, but could not reach it.
+
+OCR Text: The boy turned black in the face, and was laid on a bed, and Dr. Farraker, of Plough-road, Rotherhithe, was sent for, and arrived in aibot five minutes, when he pronounced the boy dead.
+Ground Truth: The boy turned black in the face, and was laid on a bed, and Dr. Farraker, of Plough-road, Rotherhithe, was sent for, and arrived in about five minutes, when he pronounced the boy dead.
+
+OCR Text: The juryreturnedaverdict " Thatdeceased' was accidentally choked whilst attempting to swal- low a piece of beef."
+Ground Truth: The jury returned a verdict "That deceased was accidentally choked whilst attempting to swallow a piece of beef."

@@ -1,0 +1,104 @@
+OCR Text: THE MURDER AT PORTSEA,
+Ground Truth: THE MURDER AT PORTSEA.
+
+OCR Text: On Monday, John Hughes was indibted before Mr. Justice Keating for the wilful murde- of, Maria ele- ments, at Portsea, on the 4th of June.
+Ground Truth: On Monday, John Hughes was indicted before Mr. Justice Keating for the wilful murder of Maria Clements, at Portsea, on the 4th of June.
+
+OCR Text: It appeared from the evidence that the prisoner was a private soldier in the 26th regiment of foot, quartered at Cambridge barracks, at Portsea.
+Ground Truth: It appeared from the evidence that the prisoner was a private soldier in the 26th regiment of foot, quartered at Cambridge barracks, at Portsea.
+
+OCR Text: The deceased woman, Maria Clements, was the wife of Charles Clements, a stoker belonging to the Diadem, kving in the harbour, and he was frequently detained on board the sbip.
+Ground Truth: The deceased woman, Maria Clements, was the wife of Charles Clements, a stoker belonging to the Diadem, lying in the harbour, and he was frequently detained on board the ship.
+
+OCR Text: On Sunday, the 4th of June, in the afternoon, the prisoner and two of his com6 rades, Parker and O'Neil, left the barracks andwent to the Queen's Head public-house, which was near Montague-street.
+Ground Truth: On Sunday, the 4th of June, in the afternoon, the prisoner and two of his comrades, Parker and O'Neil, left the barracks and went to the Queen's Head public-house, which was near Montague-street.
+
+OCR Text: '-Mrs. Clermieuts came into the public house, accompanied by her two children,
+Ground Truth: Mrs. Clements came into the public house, accompanied by her two children.
+
+OCR Text: She ordered a pint of beer, and then sat dotin in a' bair by the prisoner, with whom she got into conversa- tion about Ireland.
+Ground Truth: She ordered a pint of beer, and then sat down in a chair by the prisoner, with whom she got into conversation about Ireland.
+
+OCR Text: The prisoner took her eldest child on his knee.
+Ground Truth: The prisoner took her eldest child on his knee.
+
+OCR Text: After Mrs. Clements had drunk. Ler pint of beer,' she ordered two quarts of beer for the soldiers, and they all. partook of it.
+Ground Truth: After Mrs. Clements had drunk her pint of beer, she ordered two quarts of beer for the soldiers, and they all partook of it.
+
+OCR Text: ' The time arrived for- the soldiers to return to barracks, and Parker'tried to persuade the piisoner to go with him. to the barracks, but he said he should stay out with the woman.
+Ground Truth: The time arrived for the soldiers to return to barracks, and Parker tried to persuade the prisoner to go with him to the barracks, but be said he should stay out with the woman.
+
+OCR Text: All the party then went to the bar and had some beer.
+Ground Truth: All the party then went to the bar and had some beer.
+
+OCR Text: The prisoner endeavoured to induce Mrs. Clements to go home.
+Ground Truth: The prisoner endeavoured to induce Mrs. Clements to go home.
+
+OCR Text: He took one of the children in his arms, and led the other to the door of Clement's house.
+Ground Truth: He took one of the children in his arms, and led the other to the door of Clement's house.
+
+OCR Text: He put' the chil- dren downon the step of the door, and returned to. the public-house and again begged the woman to. comehome.
+Ground Truth: He put the children down, on the step of the door, and returned to the public-house and again begged the woman to come home.
+
+OCR Text: The landlady' said, "What have yot to do with theworuan? She is a married woman."
+Ground Truth: The landlady said, "What have you to do with the woman? She is a married woman."
+
+OCR Text: The prisoner said, "She is a towiiy' (of the' same town) '6fini, and I want t6 see ier safefliome."
+Ground Truth: The prisoner said, "She is a 'towny' (of the same town) of mine, and I want to see her safe home."
+
+OCR Text: He. then went and fetched the children back again to the public-house,' and eventually the prisoner add the woman and her children went to Clemrnat houge.
+Ground Truth: He then went and fetched the children back again to the public-house, and eventually the prisoner and the woman and her children went to Clements house.
+
+OCR Text: She tried to open the dbor, but could not, ant she went to the house of one Davis and asked him to come and 'open the door, forher.
+Ground Truth: She tried to open the door, but could not, and she went to the house of one Davis and asked him to come and open the door for her.
+
+OCR Text: The prisontr, how- ever, followed her, and said .that, he had opened the door, and then the prisoner, Mrs. Clements, and the children, went into the house and shit the door.
+Ground Truth: The prisoner, however, followed her, and said that, he had opened the door, and then the prisoner, Mrs. Clements, and the children, went into the house and shut the door.
+
+OCR Text: This was about half-past' nine o'clock.
+Ground Truth: This was about half-past nine o'clock.
+
+OCR Text: ''The next morning, about six o'clock, the decea'sed's- eldest child, about five years of age, was heard crying out-' side the door, " Oh, my mother, mynpoor mothers!"
+Ground Truth: The next morning, about six o'clock, the deceased's eldest child, about five years of age, was heard crying outside the door, "Oh, my mother, my poor mother!"
+
+OCR Text: She was quite. naked.;
+Ground Truth: She was quite naked.
+
+OCR Text: Mrs. Harris, a neighbour, wvent into the housee and found Mrs. Clements lying on'her back onrtle foor with her clothes up. round her waist, quite dead, cold, and stiff.
+Ground Truth: Mrs. Harris, a neighbour, went into the house, and found Mrs. Clements lying on her back on the floor with her clothes up round her waist, quite dead, cold, and stiff.
+
+OCR Text: She was without shoes -or stockings.
+Ground Truth: She was without shoes or stockings.
+
+OCR Text: Upon examining the body there were five ,distinct marks of teeth.io6her I face, and neok.
+Ground Truth: Upon examining the body there were five distinct marks of teeth on her face, and neck.
+
+OCR Text: The death of the woman, in the' opinion of the surgeon, was caused by one of. these bites, which-took effect upon the Windpipe, producing suffocation.
+Ground Truth: The death of the woman, in the opinion of the surgeon, was caused by one of these bites, which took effect upon the windpipe, producing suffocation.
+
+OCR Text: The, prisoner was not in barracks all' that night, and 'did not' return there till twenty minutes before seven the next morning.
+Ground Truth: The prisoner was not in barracks all that night, and did not return there till twenty minutes before seven the next morning.
+
+OCR Text: Inquiries were made.
+Ground Truth: Inquiries were made.
+
+OCR Text: The husband of the deceased had been on board the ship all night.
+Ground Truth: The husband of the deceased had been on board the ship all night.
+
+OCR Text: The prisoner was taken into custody, and in his pockets two stockings wete fobnd, whi!E Clements at first said had belonged to liswife ; heknew them because she had a very short foot, and was in the habit when she bought stockings of cutting off part of the feet; but upon further examination he found they were not hers.
+Ground Truth: The prisoner was taken into custody, and in his pockets two stockings were found, which Clements at first said had belonged to his wife; he knew them because she had a very short foot, and was in the habit when she bought stockings of cutting off part of the feet; but upon further examination he found they were not hers.
+
+OCR Text: 'When before the magistrate the prisoner said he had left the womnau at the door of her house, had then gone to another public-house, and then to another house, where he remained all night, and did not return to barracks until .after six in the morning.
+Ground Truth: When before the magistrate the prisoner said he had left the woman at the door of her house, had then gone to another public-house, and then to another house, where he remained all night, and did not return to barracks until after six in the morning.
+
+OCR Text: For the defence a woman called i' Loo" stated that the prisoner came to her about twelve o'clock that night, and remainedwith her till six o'clock the next morning.
+Ground Truth: For the defence a woman called "Loo" stated that the prisoner came to her about twelve o'clock that night, and remained with her till six o'clock the next morning.
+
+OCR Text: The stockings found upon the prisoner were hers.
+Ground Truth: The stockings found upon the prisoner were hers.
+
+OCR Text: The jury retired for a short time, and then re- turned a verdict of "Gluflty."
+Ground Truth: The jury retired for a short time, and then returned a verdict of "Guilty."
+
+OCR Text: Sentence of death was passed upon the prisoner.
+Ground Truth: Sentence of death was passed upon the prisoner.

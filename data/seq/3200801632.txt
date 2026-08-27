@@ -1,0 +1,68 @@
+OCR Text: KILLED BY THE DOVER EXPRESS.
+Ground Truth: KILLED BY THE DOVER EXPRESS.
+
+OCR Text: E Or Satarday morning, about six o'clock, a platelayer 3 named David Hayden, of Shortlands, in the employ of the London, Chatham, and Dover Railway Company . was knocked down and killed by the Dover express near Beckenham Junction Station.
+Ground Truth: ON Saturday morning, about six o’clock, a platelayer named David Hayden, of Shortlands, in the employ of the London, Chatham, and Dover Railway company was knocked down and killed by the Dover express near Beckenham Junction Station.
+
+OCR Text: It appears that the deceased was going to his work, walking up the line between or near the up rails.
+Ground Truth: It appears that the deceased was going to his work, walking up the line between or near the up rails.
+
+OCR Text: This is contrary to 3 the custom, because in such a position he was in the r way of trains approaching from behind, which he would r be less likely to notice than those approaching from the front.
+Ground Truth: This is contrary to the custom, because in such a position he was in the way of trains approaching from behind, which he would be less likely to notice than those approaching from the front.
+
+OCR Text: The driver pulled up after the accident and gave information at Beckenham Station, and the deceased was found lying unconscious but not actually dead on the line, his head bearing umnistakeable evi. dence that it bad been struck by the engine.
+Ground Truth: The driver pulled up after the accident and gave information at Beckenham Station, and the deceased was found lying unconscious but not actually dead on the line, his head bearing unmistakable evidence that it had been struck by the engine.
+
+OCR Text: He died on the way to St. George's Hospital.
+Ground Truth: He died on the way to St. George’s Hospital.
+
+OCR Text: A 1nROXINENT speaker at a free traders' meeting at I Madrid, on Monday, stated that there are in Spain more than a million and a half male adults occupied in t different industries and liberal professions, and these, with the excsption of some 59,000 Catalans, are eager for free trade; while of these Catalans 54,000 are from L Barcelona.
+Ground Truth: A PROMINENT speaker at a free trader’s meeting at Madrid, on Monday, stated that there are in Spain more than a million and a half male adults occupied in different industries and liberal professions, and these, with the exception of some 59,000 Catalans, are eager for free trade; while of these Catalans 54,000 are from Barcelona.
+
+OCR Text: Ar the Bow-street Police-court, on Monday, John Mahony was charged with assault. John Donally, of New Temple-buildings, said that about seven o'clock on Saturday evening he was sitting in a bar in the Black Horse public-house in Bedfordbury, when he saw the prisoner being ejected from one of the com- partments.
+Ground Truth: AT the Bow-street Police-court, on Monday, John Mahony was charged with assault, John Donally, of New Temple-buildings, said that about seven o’clock on Saturday evening he was sitting in a bar in the Black Horse public-house in Bedfordbury, when he saw the prisoner being ejected from one of the compartments.
+
+OCR Text: Prisoner was put outside, but afterwards came into the bar in which witness was,
+Ground Truth: Prisoner was put outside, but afterwards came into the bar in which witness was.
+
+OCR Text: The prisoner l made some remarks to him and struck him on the cheek.
+Ground Truth: The prisoner made some remarks to him and struck him on the cheek.
+
+OCR Text: He closed with the man and got him on the ground, and in the struggle the prisoner bit his hand.
+Ground Truth: He closed with the man and got him on the ground, and in the struggle the prisoner bit his hand.
+
+OCR Text: A constable was fetched and the prisoner was given in charge.
+Ground Truth: A constable was fetched and the prisoner was given in charge.
+
+OCR Text: Sergeant White, the gaoler, said that the prisoner belonged to a very bad gang of men, and had beencharged several times,
+Ground Truth: Sergeant White, the gaoler, said that the prisoner belonged to a very bad gang of men, and had been charged several times.
+
+OCR Text: Prisoner was sentenced to six wleeks' imprisonment,
+Ground Truth: Prisoner was sentenced to six weeks’ imprisonment.
+
+OCR Text: ON Monday, at the Bow-street Police-court, James Foley was charged 'with assault.
+Ground Truth: ON Monday, at the Bow-street Police-court, James Foley was charged with assault.
+
+OCR Text: Thomas R nwick, of Queen-street, Long Acre, said that on Saturday night at about twelve o'clock he was standing at his door when he saw the prisoner come up behind an old man, jump on his back, knock him down, and hit him.
+Ground Truth: Thomas Ronwick, of Queen-street, Long Acre, said that on Saturday night at about twelve o’clock he was standing at his door when he saw the prisoner come up behind and old man, jump on his back, knock him down, and hit him.
+
+OCR Text: The person assaulted was in witness's employ.
+Ground Truth: The person assaulted was in witness’s employ.
+
+OCR Text: A police. man was sent for, and witness held the prisoner till he arrived.
+Ground Truth: A police-man was sent for, and witness held the prisoner till he arrived.
+
+OCR Text: While he was detaining the man he struck him in the eye, and kicked at him.
+Ground Truth: While he was detaining the man he struck him in the eye, and kicked at him.
+
+OCR Text: The pri soner had just come out of the Clock House public. house, where it was said that he had twisted a woman's nose and broken it.
+Ground Truth: The prisoner had just come out of the Clock House public house, where it was said that he had twisted a woman’s nose and broken it.
+
+OCR Text: The prisoner stated that if he was locked up he would put a knife into the prosecutor when he came out, and would be hanged for him.
+Ground Truth: The prisoner stated that if he was locked up he would put a knife into the prosecutor when he came out, and would be hanged for him.
+
+OCR Text: A constable said that he saw the prisoner assault Mr. Renwick.
+Ground Truth: A constable said that he saw the prisoner assault Mr. Ronwick.
+
+OCR Text: The accused had been several times convicted, and was now sentenced to two months' imprisonment for the assault, and afterwards to find a surety-in glo to be of good behaviour for eight months.
+Ground Truth: The accused had been several times convicted, and was now sentenced to two months’ imprisonment for the assault, and afterwards to find a surety in £10 to be of good behaviour for eight months.

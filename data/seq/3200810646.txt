@@ -1,0 +1,50 @@
+OCR Text: FATAL ACCIDZNT TO A GROOrM.
+Ground Truth: FATAL ACCIDENT TO A GROOM.
+
+OCR Text: Lil AT the Lambeth Coroner's Court, on Thursday, Mr. s n G. P. Wyatt held an inquest on the body of Edgar T or Waghorn, aged fourteen years, a groom in the employ X he of bir Henry Davies, and lately living at No. 49, he Queen's-gate-mews, Belgravia. James Waghorn, a 3d plnmber, of Hunton, near Maidstone, ideutified the d body as being that of his son.
+Ground Truth: AT the Lambeth Coroner's Court, on Thursday, Mr. G. P. Wyatt held an inquest on the body of Edgar Waghorn, aged fourteen years, a groom in the employ of Sir Henry Davies, and lately living at No. 49, Queen's-gate-mews, Belgravia, James Waghorn, a plumber, of Hunton, near Maidstone, identified the body as being that of his son.
+
+OCR Text: Percy Waghorn, ad whose head was swathed in surgical bandages, said t ,le that the deceased was his brother.
+Ground Truth: Percy Waghorn, whose head was swathed in surgical bandages, said that the deceased was his brother.
+
+OCR Text: They were both t he employed at the same stable,
+Ground Truth: They were both employed at the same stable.
+
+OCR Text: On Mlonday after- E n. noon they were exercising two of his maAter's horses, t ce and had proceeded as far as the Surrey side of t ry Chelsea-bridge when both the animals became at frightened at the shrieks of the whistles on the river t el and the shouts of the people attending the race for E as the " Do-gett's Coat and Badge," which was being g ty rowed at the time.
+Ground Truth: On Monday afternoon they were exercising two of his master's horses, and had proceeded as far as the Surrey side of Chelsea-bridge when both the animals became frightened at the shrieks of the whistles on the river and the shouts of the people attending the race for the “Doggett's Coat and Badge,” which was being rowed at the time.
+
+OCR Text: Tlhe horses dashed through he Battersea Park into the square, where they both es collided with i nmiller's van which happened to be ty passing at the time.
+Ground Truth: The horses dashed through Battersea Park into the square, where they both collided with a miller's van which happened to be passing at the time.
+
+OCR Text: Deceased, whose horse was cy killed on the spot, was thrown underneath the vane on one of the hind wheels of which passed over his chest.
+Ground Truth: Deceased, whose horse was killed on the spot, was thrown underneath the vane one of the hind wheels of which passed over his chest.
+
+OCR Text: he Witness's horse mounted the back of the van, and he threw him into the road on his head he remembered ce no more as he was rendered unconscious.
+Ground Truth: Witness's horse mounted the back of the van, and threw him into the road on his head; he remembered no more as he was rendered unconscious.
+
+OCR Text: By a Juryman: Deceased was a good horseman ard was used to animals.
+Ground Truth: By a Juryman: Deceased was a good horseman and was used to animals.
+
+OCR Text: Witiness had hold of the head of the horse ridden by deceased at the time they bolted, but was compelled to. let go, or he would have been ,in pulled out of his saddle.
+Ground Truth: Witness had hold of the head of the horse ridden by deceased at the time they bolted, but was compelled to let go, or he would have been pulled out of his saddle.
+
+OCR Text: IHe could have steadied his ,th own horse, but instead of so doing went in pursuit of ed his brother, who had evidently lost all control over he his animial.
+Ground Truth: He could have steadied his own horse, but instead of so doing went in pursuit of his brother, who had evidently lost all control over his animal.
+
+OCR Text: Police-constable Thomas JE dwards, 517 ue V Division, who was on duty near the spot, after ro- attempting to arrest the progress of last witnesSs 1 )m horse, which was ultimately captured uninjured,4 ia went to the assistance of deceased, and subsequently ta conveyed him to St. Thomas's Hospital in a cab, of where he was seen by the house surgeon and at once l in admitted.
+Ground Truth: Police-constable Thomas Edwards, 517 V Division, who was on duty near the spot, after attempting to arrest the progress of last witness's horse, which was ultimately captured uninjured, went to the assistance of deceased, and subsequently conveyed him to St. Thomas's Hospital in a cab, where he was seen by the house surgeon and at once admitted.
+
+OCR Text: Dr. J. 11. Box stated that when ho saw . or deceased he was suffering from shock to the system en and internal hemorrhage.
+Ground Truth: Dr. J. R. Box stated that when he saw deceased he was suffering from shock to the system and internal hemorrhage.
+
+OCR Text: He also bad a large scalp m, wound and fractured skull; He died about an hour .an after his admission.
+Ground Truth: He also had a large scalp wound and fractured skull; He died about an hour after his admission.
+
+OCR Text: A post-mortem examination ochhad been made on the body, which showed that ve- deceased had five ribs fractured, as well as a lacerated de lung.
+Ground Truth: A post-mortem examination had been made on the body, which showed that deceased had five ribs fractured, as well as a lacerated lung.
+
+OCR Text: The immediate cause of death was collapse ,to consequent upon the injuries.
+Ground Truth: The immediate cause of death was collapse consequent upon the injuries.
+
+OCR Text: The coroner having . [en commented upon the sad nature of the case, the jury ed returned a verdict of accidental death.
+Ground Truth: The coroner having commented upon the sad nature of the case, the jury returned a verdict of accidental death.

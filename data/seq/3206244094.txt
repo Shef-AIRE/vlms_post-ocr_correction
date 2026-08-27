@@ -1,0 +1,68 @@
+OCR Text: UNFOUNDED POLICE CHARGE.
+Ground Truth: UNFOUNDED POLICE CHARGE.
+
+OCR Text: On Thursday MosS Posner, 22, of short stature, the son of a master tailor, carrying on business in the High-street of Kensing- ton, surrendered to his bail at Hammer- smith polioe-court to answer the charge of being disorderly and assaulting Police-con- stable (Cotterell, 26 T R., by kicking him on the groin while in the execution of his duty.-At the last examination it was alleged that Serjeaut Pontin caused the prisoner to be charged because he told him to pay his father the balf-crown which he had borrowed of him.
+Ground Truth: On Thursday Moss Posner, 22, of short stature, the son of a master tailor, carrying on business in the High-street of Kensington, surrendered to his bail at Hammersmith police-court to answer the charge of being disorderly and assaulting Police-constable Cotterell, 26 T R., by kicking him on the groin while in the execution of his duty. –At the last examination it was alleged that Serjeant Pontin caused the prisoner to be charged because he told him to pay his father the half-crown which he had borrowed of him.
+
+OCR Text: The serjeant, on oath, positively denied ever bor- rowing a half-crown of the prisoner's father, though the latter stated that be came into his shop and asked for one, which he lent him.-The constable was now recalled and questioned by Mr. Besley.
+Ground Truth: The serjeant, on oath, positively denied ever borrowing a half-crown of the prisoner's father, though the latter stated that he came into his shop and asked for one, which he lent him. —The constable was now recalled and questioned by Mr. Besley.
+
+OCR Text: He said he had not been to the divisional surgeon about the kick.
+Ground Truth: He said he had not been to the divisional surgeon about the kick.
+
+OCR Text: The prisoner kicked him with his toe, but being so close to him he was not able to kick him with force.
+Ground Truth: The prisoner kicked him with his toe, but being so close to him he was not able to kick him with force.
+
+OCR Text: He believed the prisoner intended to kick him with force.-1lr. Posner, the father, was recalled.
+Ground Truth: He believed the prisoner intended to kick him with force. —Mr. Posner, the father, was recalled.
+
+OCR Text: He said that en re- turning frolm the station SerjeantPontin followed saying, "I'owe you half a crown. here it is."
+Ground Truth: He said that on returning from the station Serjeant Pontin followed, saying, "I owe you half a crown. here it is."
+
+OCR Text: Witness said he did not wish to have any communication with him, went iii and slammed the door.-Mr. Besley called William Littlefield, a decorator, who said that he came up and heard the prisoner say " Insgtead of interfering with mue, you had better pay nmy fatner the half-crown you owe him."
+Ground Truth: Witness said he did not wish to have any communication with him, went in and slammed the door. —Mr. Besley called William Littlefield, a decorator, who said that he came up and heard the prisoner "Instead of interfering with me, you say had better pay my father the half-crown you owe him.”
+
+OCR Text: The serjeant said, "We don't want any of your nonsense, you bled better go indoors; we wont have your loiterin: about here."
+Ground Truth: The serjeant said, “We don't want any of your nonsense, you had better go indoors; we won't have you loitering about here.”
+
+OCR Text: He then took hold of the prisoner and forced him towards the back entrance of his h1oULse.
+Ground Truth: He then took hold of the prisoner and forced him towards the back entrance of his house.
+
+OCR Text: The prisoier said, - I will have nlo more of this; I have been ilterrered with once or twice before; I shall cAI my father, and he will see into this.'
+Ground Truth: The prisoner said, "I will have no more of this; I have been interfered with once or twice before; I shall call my father, and he will see into this."
+
+OCR Text: lie then rang the bell.
+Ground Truth: He then rang the bell.
+
+OCR Text: Mr. Posner came down and asked the serjeant thesncAn- ing of the bother, saud whby his son Wias aniioyed in that manner.
+Ground Truth: Mr. Posner came down and asked the serjeant the meaning of the bother, and why his son was annoyed in that manner.
+
+OCR Text: When lie said he would see into it the serjeant turned round to the coistable and[ told him to charge the prisoner, who was then takep to the station.
+Ground Truth: When he said he would see into it the serjeant turned round to the constable and told him to charge the prisoner, who was then taken to the station.
+
+OCR Text: There was no act of violence by the prisoner.
+Ground Truth: There was no act of violence by the prisoner.
+
+OCR Text: -Mr. (ieosge Wright Ravenhillresidingiii the leiglibourhocrd, said le was pissing, and heard the police tell the prisoner to go home.
+Ground Truth: –Mr. George Wright Ravenhill, residing in the neighbourhood, said he was passing, and heard the police tell the prisoner to go home.
+
+OCR Text: He said lie was talking to a friend oand vas not doing any harm.
+Ground Truth: He said he was talking to a friend and was not doing any harm.
+
+OCR Text: Something was said about half a crown, eind thfen one of the officers pushed hinm.
+Ground Truth: Something was said about half a crown, and then one of the officers pushed him.
+
+OCR Text: He saw tile father come out, and heard him say his son should go to the station, but they should not push hin about.
+Ground Truth: He saw the father come out, and heard him say his son should go to the station, but they should not push him about.
+
+OCR Text: Witness swore the prisoner did not kick the constable.
+Ground Truth: Witness swore the prisoner did not kick the constable.
+
+OCR Text: If lie bad kicked him lie must have seen it, as the prisoner vas short sndthe constable tall.-
+Ground Truth:  If he had kicked him he must have seen it, as the prisoner was short and the constable tall.—
+
+OCR Text: The plrisoner's bhother was called, and con- firmed the statement of his father as to Serjeant Pontin offering to repay him the balf-crown lie oswed him.-rIr. Bridge said the prisoner must be discharged, as he did not believe the prisoner was guilty.
+Ground Truth: The prisoner's brother was called, and confirmed the statement of his father as to Serjeant Pontin offering to repay him the half-crown he owed him. —Mr. Bridge said the prisoner must be discharged, as he did not believe the prisoner was guilty.
+
+OCR Text: He would not say more than that there ought to be an inquiry into the conduct of the ser- jeant and constable.
+Ground Truth: He would not say more than that there ought to be an inquiry into the conduct of the serjeant and constable.

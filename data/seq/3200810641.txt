@@ -1,0 +1,104 @@
+OCR Text: THE STABBING ArFRAY IN CLERKEN WELL.
+Ground Truth: THE STABBING AFFRAY IN CLERKENWELL.
+
+OCR Text: deci onI Ml. S. F. L.trcHXAi,. coroner, held an inquiry at mar mln St. Bartholomew's Hospital with respect to the death a r mcn of John Reed, twenty-one, a meat-market porter, of mar tillStamford-street, Blackfriars, who is alleged to have decn L been stabbed by a boot and shoe maker named, the oa eohrt Rosenliranz, in a shop in St. John- bed Ias street, Clerkenwell.
+Ground Truth: MR. S. F. LANGHAM, coroner, held an inquiry at St. Bartholomew's Hospital with respect to the death of John Reed, twenty-one, a meat-market porter, of Stamford-street, Blackfriars, who is alleged to have been stabbed by a boot and shoe maker named Robert Rosenkranz, in a shop in St. John-street, Clerkenwell.
+
+OCR Text: Robert Somerville, a little boy, pris Ee deposed that he lived at 6, Rahere-street, Clerken- poli en well, and CYSe employed at Rosenkranz's shop.
+Ground Truth: Robert Somerville, a little boy, deposed that he lived at 5, Rahere-street, Clerkenwell, and was employed at Rosenkranz's shop.
+
+OCR Text: 'on bet Saturday morning three men entered the shop.
+Ground Truth: On Saturday morning three men entered the shop.
+
+OCR Text: They will ; picked nip a pair of boots, and were going to walk out inqi em of the shop with them when the accused stopped wa rk- them and took the boots away.
+Ground Truth: They picked up a pair of boots, and were going to walk out of the shop with them when the accused stopped them and took the boots away.
+
+OCR Text: Reed, the deceased, add ice afterwards picked up a box of matches from the .mn f bench, and then takingn up a chair, struck the. the o accused on the back three times with it.
+Ground Truth: Reed, the deceased, afterwards picked up a box of matches from the bench, and then taking up a chair, struck the accused on the back three times with it.
+
+OCR Text: The to E Coroner: What was that for? Did he say any-. wa3 Xes thing?
+Ground Truth: The Coroner: What was that for? Did he say anything?
+
+OCR Text: The Witness: He did not say a word. I dea the was then sent for the police, but the three men arn refnsed to let me leave the shop.
+Ground Truth: The Witness: He did not say a word. I was then sent for the police, but the three men refused to let me leave the shop.
+
+OCR Text: At 'this time by y RDsenkranz had a shoemaker's knife in his hand, ai. Uliand the deceased ran against it.
+Ground Truth: At this time Rosenkranz had a shoemaker's knife in his hand, and the deceased ran against it.
+
+OCR Text: The Coroner: Now par ersdid the accused take the knife up to strike the, me. has deceased with ?
+Ground Truth: The Coroner: Now did the accused take the knife up to strike the deceased with?
+
+OCR Text: - The Witness: No, sir.
+Ground Truth: The Witness: No, sir.
+
+OCR Text: The It's of deceased fell on to the knife in a struggle with my the ut. master.
+Ground Truth: The deceased fell on to the knife in a struggle with my master.
+
+OCR Text: Mr. Rlosenkranz was cutting leather at the the time, and he used the-knife in self-defence.
+Ground Truth: Mr. Rosenkranz was cutting leather at the time, and he used the knife in self-defence.
+
+OCR Text: The The hCod Coroner: Who told you to say " self-defence ?"
+Ground Truth: The Coroner: Who told you to say "self-defence?"
+
+OCR Text: The aw< )ck- Witn ess: Iheard someone sayso.
+Ground Truth: The Witness: I heard someone say so.
+
+OCR Text: Herbert Winfred,of for s to 151, Great Saffron-hill, a butcher's porter, stated that uas her onSaturday morning he was standing outside63,-St. see John-street, and saw Reedreeland fall against the shop. 'ai a
+Ground Truth: Herbert Winfred, of 151, Great Saffron-hill, a butcher's porter, stated that on Saturday morning he was standing outside 63, St. John-street, and saw Reedreel and fall against the shop.
+
+OCR Text: The witness at once went up to him, and found that 'Iba L in he vas bleeding front a wound in the chest.
+Ground Truth: The witness at once went up to him, and found that he was bleeding from a wound in the chest.
+
+OCR Text: He- he d a turned to the witness, exclaiming, " Oh, Sid, I ha-v Ftha o n"' been stabbed ! and added that the man ini-the shop ten had done it.
+Ground Truth: He turned to the witness, exclaiming, "Oh, Sid, I have been stabbed!" and added that the man in the shop had done it.
+
+OCR Text: By the Coroner: I was not.one of 'the Gre three men who entered the shop, and know nothing' He further of the occurrence.
+Ground Truth: By the Coroner: I was not one of the three men who entered the shop, and know nothing further of the occurrence.
+
+OCR Text: The boy, Somerville me (recalled) said he *as certain that the 'witness wasi'-GOV oue of the men whom he saw in the shop
+Ground Truth: The boy Somerville (recalled) said he was certain that the witness was one of the men whom he saw in the shop.
+
+OCR Text: .W-'-rWnfr'' d"u Mr. It ia falsehood.
+Ground Truth: Winfred: It is a falsehood.
+
+OCR Text: The Boy (bursting into tears) 'It the his' is not.
+Ground Truth: The Boy (bursting into tears): It is not.
+
+OCR Text: Mr. Osborn, solicitor for the accused, ehloit d the Lee from' the witness that he had been with R eedphat ' -ay 'morning. 'Plice-constable Stevens deposedoibeing ' the us"i called to the shop on the morning referreidto:
+Ground Truth: Mr. Osborn, solicitor for the accused, elicited from the witness that he had been with Reed that morning Police-constable Stevens deposed to being called to the shop on the morning referred to.
+
+OCR Text: He ' ear- found Reed lying outside it, bleeding from a wounn ] m-ith in the chest, and at once bad him placed in a cab and' on his conveyed to the hospital.
+Ground Truth: He found Reed lying outside it, bleeding from a wound in the chest, and at once had him placed in a cab and conveyed to the hospital.
+
+OCR Text: Subsequently, on the door PcI ents being opened, Winfred pointed to Rosenkranz, who wo ,uts, was in the passage, and said, " He is the man."
+Ground Truth: Subsequently, on the door being opened, Winfred pointed to Rosenkranz, who was in the passage, and said, "He is the man."
+
+OCR Text: ty Ho The Mr. Oshorn: Winfred was then the worse for drink. uno
+Ground Truth: By Mr. Osborn: Winfred was then the worse for drink.
+
+OCR Text: die He afterwards arrested the accused.
+Ground Truth: He afterwards arrested the accused.
+
+OCR Text: Police-constable New' 244 G stated that he asked the deceased when at the e at hospital how the affair occurred, but he replied, "I kets shan't tell you."
+Ground Truth: Police-constable 244 G stated that he asked the deceased when at the hospital how the affair occurred, but he replied, "I shan't tell you.”
+
+OCR Text: Robert Rosenkranz, the accused, GE that was then sworn, but his evidence was not proceeded jol ting with, as the jury said they were satisfied it was a Poa ,ion, pure accident.
+Ground Truth: Robert Rosenkranz, the accused, was then sworn, but his evidence was not proceeded with, as the jury said they were satisfied it was a pure accident.
+
+OCR Text: Dr.WN'ag;errdeposedthatthe deceased tog was was received at the hospital suffering from a stab in pet here the chest.
+Ground Truth: Dr. Wagger deposed that the deceased was received at the hospital suffering from a stab in the chest.
+
+OCR Text: He rallied, and two days afterwards an £6 Peon operaraou was soccessfully performed.
+Ground Truth: He rallied, and two days afterwards an operation was successfully performed.
+
+OCR Text: I He seemed sec ,use to progress very favourably, but died suddenly on the due Sunday.
+Ground Truth: He seemed to progress very favourably, but died suddenly on Sunday.
+
+OCR Text: Subsequently the witness made a post- pnl rane mortem, and found that pericarditis and inflammation icc was of the peritoneum had been set up as a result of the th( .eted injury to the chest.
+Ground Truth: Subsequently the witness made a post-mortem, and found that pericarditis and inflammation of the peritoneum had been set up as a result of the injury to the chest.
+
+OCR Text: Death resulted.
+Ground Truth: Death resulted.
+
+OCR Text: The coroner the re. summed up, and the jury eventually returned a ha4 pre- verdict of accidental death.
+Ground Truth: The coroner summed up, and the jury eventually returned a verdict of accidental death.

@@ -1,0 +1,50 @@
+OCR Text: CHILD MURDER AND MUTILATION.
+Ground Truth: CHILD MURDER AND MUTILATION.
+
+OCR Text: On Tuesday, considerable excitement prevailed in Feckham and its vicinity from the discovery of the body of a female child in the house of Mr. Whitby, a highly respectable inhabitant of James. street, Commercial-road, Peckham, which had undergone the most extraordinary mutilation by the inhuman mother.
+Ground Truth: On Tuesday, considerable excitement prevailed in Peckham and its vicinity from the discovery of the body of a female child in the house of Mr. Whitby, a highly respectable inhabitant of James- street, Commercial-road, Peckham, which had undergone the most extraordinary mutilation by the inhuman mother.
+
+OCR Text: It appears that on or about the 16th instant, a young woman, named Mercy Steer, servant to Mr. Whitby, seemed to be in very ill-health, and her mistress con- ceived that all was not right.
+Ground Truth: It appears that on or about the 16th instant, a young woman, named Mercy Steer, servant to Mr. Whitby, seemed to be in very ill-health, and her mistress conceived that all was not right.
+
+OCR Text: She, however, left her ser- vice on the 29th inst, without any elucidation taking place, and proceeded to her native village, a place called Billinghurst, near Petwvorth, in the county of Sussex.
+Ground Truth: She, however, left her service on the 20th inst., without any elucidation taking place, and proceeded to her native village, a place called Billinghurst, near Petworth, in the county of Sussex.
+
+OCR Text: Having there continued in an ill state of health she found it necessary to obtain medical advice, and the re- sult of which was, that she was found to have been re- -cently delivered of a child.
+Ground Truth: Having there continued in an ill state of health she found it necessary to obtain medical advice, and the result of which was, that she was found to have been recently delivered of a child.
+
+OCR Text: Giving no satisfactory ac- count of this, the circumstance was communicated to Mr. Hay, one of the churchwardens of Billinghurst, who, having ascertained that Mary Steer had been in service at Peckham, a communication was at once forwarded to Mr. Superintendent Lund, of the P division, who placed the matter in the hands of the police, who pro- ceeded to the house of Mr. Whitby, for the purpose of making an examination.
+Ground Truth: Giving no satisfactory account of this, the circumstance was communicated to Mr. Hay, one of the churchwardens of Billinghurst, who, having ascertained that Mary Steer had been in service at Peckham, a communication was at once forwarded to Mr. Superintendent Lund, of the P division, who placed the matter in the hands of the police, who proceeded to the house of Mr. Whitby, for the purpose of making an examination.
+
+OCR Text: Ort searching the chamber which had been occupied by the woman Steer, there at irst appeared no indications of any child birth having recently taken p lace.
+Ground Truth: On searching the chamber which had been occupied by the woman Steer, there at first appeared no indications of any child birth having recently taken place.
+
+OCR Text: A closer inspection, however, .shswed that the sheets, blankets, and bedding, had been recently washed, with a view to remove any stains, but -on the pillows thece were some visible traces of blood.
+Ground Truth: A closer inspection, however, showed that the sheets, blankets, and bedding, had been recently washed, with a view to remove any stains, but on the pillows there were some visible traces of blood.
+
+OCR Text: A further search showea some marks On the boards of the floor, to obliterate which, some evident, though ineffec- tualattempts had been made.
+Ground Truth: A further search showed some marks on the boards of the floor, to obliterate which, some evident, though ineffectual, attempts had been made.
+
+OCR Text: A closerinvestigation brought to light a piece of bedside carpeting, saturated with unequivocal marks of a recent child-birth.
+Ground Truth: A closer investigation brought to light a piece of bedside carpeting, saturated with unequivocal marks of a recent child-birth.
+
+OCR Text: This discovery led to a more searching examination, -and after removing the pan of the water-closet, the right hand of an isfantwas discovered on the top of the soil.
+Ground Truth: This discovery led to a more searching examination, and after removing the pan of the water-closet, the right hand of an infant was discovered on the top of the soil.
+
+OCR Text: Proceeding further in the examin ation, the various frag. hents of the body of a newly.bern female child were drought forth, but which had been separated into so many minute portions, as to be almost calculated to destroy all traces of the previous existence of any human body.
+Ground Truth: Proceeding further in the examination, the various fragments of the body of a newly-born female child were brought forth, but which had been separated into so many minute portions, as to be almost calculated to destroy all traces of the previous existence of any human body.
+
+OCR Text: The object of this mutilation, it would seem, was to torce the respective portions through the soil pipe, fee which purpose the skull had been divided logitudinally, .ad the vertebrae had undergone a similar process.
+Ground Truth: The object of this mutilation, it would seem, was to force the respective portions through the soil pipe, for which purpose the skull had been divided longitudinally, and the vertebrae had undergone a similar process.
+
+OCR Text: The bands had beenamputatbd at the wrists, and the feet at the ankles, the arls at the elbows, the thighs at the hips, and the abdomen divided into several particles.
+Ground Truth: The hands had been amputated at the wrists, and the feet at the ankles, the arms at the elbows, the thighs at the hips, and the abdomen divided into several particles.
+
+OCR Text: As a mlatter of course, thse heart, spleen, and other portions of the.-intestines were also subdivided.
+Ground Truth: As a matter of course, the heart, spleen, and other portions of the intestines were also subdivided.
+
+OCR Text: From a cursory -viewv it would appear that the child was born alive, and must therefore have been subjected to horrid mutilation ~by the inhuman mother.
+Ground Truth: From a cursory view it would appear that the child was born alive, and must therefore have been subjected to horrid mutilation by the inhuman mother.
+
+OCR Text: The woman Mercy Steer is now under the surveil- lance of the Sussex constabulary, and wheen sufficientlyl restored to h ealth will be brought to London, in order to ;nntergo the necessary judicial inquiry.
+Ground Truth: The woman Mercy Steer is now under the surveillance of the Sussex constabulary, and when sufficiently restored to health will be brought to London, in order to undergo the necessary judicial inquiry.

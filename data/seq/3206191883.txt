@@ -1,0 +1,53 @@
+OCR Text: BURGLARY, AND HORBIBLE BRUTALITY.
+Ground Truth: BURGLARY, AND HORRIBLE BRUTALITY.
+
+OCR Text: Yesterday (Saturday) the metropolitan police received infor- mation of a robbery, attended with circumstances of almost un- paralleled brutality, having been committed in the parish of Bradwell, near Coggeshall, Essex, on the night of Friday, the 17th inst.
+Ground Truth: Yesterday (Saturday) the metropolitan police received information of a robbery, attended with circumstances of almost unparalleled brutality, having been committed in the parish of Bradwell, near Coggeshall, Essex, on the night of Friday, the 17th inst.
+
+OCR Text: From the information received, it appears that be- tween eleven and twelve o'clock, three, men, having their faces blackened, broke into the house of an elderly man named James Finch.
+Ground Truth: From the information received, it appears that between eleven and twelve o’clock, three men, having their faces blackened, broke into the house of an elderly man named James Finch.
+
+OCR Text: His housekeeper, who slept below, hearing a noise at the back of the house, crept to the door, which she found nearly broken in.
+Ground Truth: His housekeeper, who slept below, hearing a noise at the back of the house, crept to the door, which she found nearly broken in.
+
+OCR Text: Before she had time to get back the door was broken in, when the men entered.
+Ground Truth: Before she had time to get back the door was broken in, when the men entered.
+
+OCR Text: She gave an instant alarm, and her master came down in his night clothes.
+Ground Truth: She gave an instant alarm, and her master came down in his night clothes.
+
+OCR Text: He cried out " Murder !" when one of the fellows placed his hands over his mouth, whilst another held a bludgeon over his head, and threatened to beat his brains out if he did not hold his tongue.
+Ground Truth: He cried out “Murder!” when one of the fellows placed his hands over his mouth, whilst another held a bludgeon over his head, and threatened to beat his brains out if he did not hold the tongue.
+
+OCR Text: They then pro- ceeded to ransack the house, and found gold and silver to the amount of X6.
+Ground Truth: They then proceeded to ransack the house, and found gold and silver to the amount of £6.
+
+OCR Text: They no doubt expected to find a much larger sum, for in spite of every assurance to the contrary they continued to examine the place, even ripping open the beds, &c.
+Ground Truth: They no doubt expected to find a much larger sum, for inspite of every assurance to the contrary they continued to examine the place, even ripping open the beds, &c.
+
+OCR Text: Still disappointed, they made a fire, upon which they placed the housekeeper, and held her there until her clothes became ignited.
+Ground Truth: Still disappointed, they made a fire, upon which they placed the housekeeper, and held her there until her clothes became ignited.
+
+OCR Text: They then released her, and partially extinguished the flames about her clothing.
+Ground Truth: They then released her, and partially extinguished the flames about her clothing.
+
+OCR Text: They continued their demands for more money, and seized the old man; they placed him also on the lire, which, however, by that time, had nearly gone out.
+Ground Truth: They continued their demands for more money, and seized the old man; they placed him also on the fire, which, however, by that time, had nearly gone out.
+
+OCR Text: They then tied his legs and hands together, and forced him up stairs; there they tied a rope round his neck, and drew him up to a beam till he was nearly strangled; then taking him down again, one of the nen put a knife to his throat, and threatened him with instant death if he did not tell where his money was concealed.
+Ground Truth: They then tied his legs and hands together, and forced him up stairs; there they tied a rope round his neck, and drew him up to a beam till he was nearly strangled; then taking him down again, one of the men put a knife to his throat, and threatened him with instant death if he did not tell where his money was concealed.
+
+OCR Text: The old mas entreated them to spare his ki, and assured them that they had taken every farthing he possessed.
+Ground Truth: The old man entreated them to spare his life, and assured them that they had taken every farthing he possessed.
+
+OCR Text: Being at last con- vinced of their mistake, they sat down to refresh- themselves bringing forward unscrupulously what the house contained, and compelling their unwilling host to sup with them.
+Ground Truth: Being at last convinced of their mistake, they sat down to refresh themselves, bringing forward unscrupulously what the house contained, and compelling their unwilling host to sup with them.
+
+OCR Text: They then helped themselves to four hams, and half the contents of a barrel of pork, which they carried away in a sack.
+Ground Truth: They then helped themselves to four hams, and half the contents of a barrel of pork, which they carried away in a sack.
+
+OCR Text: Having forced the old man up stairs with his housekeeper, they took their departure and have not yet been heard of
+Ground Truth: Having forced the old man up stairs with his housekeeper, they took their departure and have not been heard of.
+
+OCR Text: A reward is offered for their apprehension.
+Ground Truth: A reward is offered for their apprehension.

@@ -1,0 +1,53 @@
+OCR Text: I ACCIDENTS ON THE THAMES. , I
+Ground Truth: ACCIDENTS ON THE THAMES.
+
+OCR Text: About 10 o'clock on Sunday night a boat accident occurred off Horseshoe wharf, Bankside, Southwark, which resulted in the loss of three lives.
+Ground Truth: About 10 o'clock on Sunday night a boat accident occurred off Horseshoe wharf, Bankside, Southwark, which resulted in the loss of three lives.
+
+OCR Text: A youth named John Jacobs, aged 16, residing at 67, Lower Thames-street. in the employ of Messrs. Gasley and Welch, barge 'owners, started from Custom-house- quay after dinner on Sunday afternoon for a row up the river in a boat belonging to his employers, and was joined by a man named Johnson, a barge watch. man.
+Ground Truth: A youth named John Jacobs, aged 16, residing at 67, Lower Thames-street, in the employ of Messrs. Gasley and Welch, barge owners, started from Custom-house-quay after dinner on Sunday afternoon for a row up the river in a boat belonging to his employers, and was joined by a man named Johnson, a barge watchman.
+
+OCR Text: They crossed over to London-bridge stairs and wentashore to get some drink.
+Ground Truth: They crossed over to London-bridge stairs and went ashore to get some drink.
+
+OCR Text: Here they made the acquaintance of three girls, who pressed them to take them for a row.
+Ground Truth: Here they made the acquaintance of three girls, who pressed them to take them for a row.
+
+OCR Text: They all went as far as Battersea, and after remaining there some time returned on the ebb tide.
+Ground Truth: They all went as far as Battersea, and after remaining there some time returned on the ebb tide.
+
+OCR Text: All went well until they reached the Horseshoe wharf, between Cannon-street and South- wark bridge.
+Ground Truth: All went well until they reached the Horseshoe wharf, between Cannon-street and Southwark bridge.
+
+OCR Text: Jobnrsoi was then lying in the stern of the boat, and the lad Jacobs was plying the oars, when-probably owing to the darkness-the boat ran foul of a number of barges, and began to over- turn.
+Ground Truth: Johnson was then lying in the stern of the boat, and the lad Jacobs was plying the oars, when—probably owing to the darkness—the boat ran foul of a number of barges, and began to overturn.
+
+OCR Text: Johnson leaped up, and succeeded in getting on the barges, with one of the gills, but the others were sucked down togetb erwith the boat, and drowned.
+Ground Truth: Johnson leaped up, and succeeded in getting on the barges, with one of the girls, but the others were sucked down together with the boat, and drowned.
+
+OCR Text: Johnson and the girl, whose name has not transpired, made their way to the Bermondsev- street police-station and gave information of what had occurred, and the Thames police were at once communicated with, but though dragging took place immediately the bodies were not recovered.
+Ground Truth: Johnson and the girl, whose name has not transpired, made their way to the Bermondsey-street police-station and gave information of what had occurred, and the Thames police were at once communicated with, but though dragging took place immediately the bodies were not recovered.
+
+OCR Text: A por. tion of the boat has been found, from which it is con- cluded that either theboat collapsed when it struck the barge, or has since been cut in two by a passing tug.
+Ground Truth: A portion of the boat has been found, from which it is concluded that either the boat collapsed when it struck the barge, or has since been cut in two by a passing tug.
+
+OCR Text: The lad Johnson, it is stated, had only had three weeks' experience on the Thames. and the spot where the disaster occurred is stated to be one qf the most dangerous eddies on the river.
+Ground Truth: The lad Johnson, it is stated, had only had three weeks' experience on the Thames, and the spot where the disaster occurred is stated to be one of the most dangerous eddies on the river.
+
+OCR Text: On Sunday night, when the steamer Glen Rosa was off the Lobster, Gravesend, on her return from Clacton-on-Sea, one of her floats got Icose.
+Ground Truth: On Sunday night, when the steamer Glen Rosa was off the Lobster, Gravesend, on her return from Clacton-on-Sea, one of her floats got loose.
+
+OCR Text: At the time a lady was sitting on one of the paddle-boxes, and when the float struck the flans she was precipi- tated into the river.
+Ground Truth: At the time a lady was sitting on one of the paddle-boxes, and when the float struck the flaps she was precipitated into the river.
+
+OCR Text: Being a good swimmer, although injured on her head, sb e managed to keep afloat until one of the male passengers jumped over- board.
+Ground Truth: Being a good swimmer, although injured on her head, she managed to keep afloat until one of the male passengers jumped overboard.
+
+OCR Text: A boat then put off to their rescue, and both were saved.
+Ground Truth: A boat then put off to their rescue, and both were saved.
+
+OCR Text: A sad death occurred to an excursionist named Robert Clayton, aged 24. of 42, Luke-street. Nor. folk-terrace, Millwall, off Rosherville, about half- past 10 o'clock on Monday morning.
+Ground Truth: A sad death occurred to an excursionist named Robert Clayton, aged 24, of 42, Luke-street, Norfolk-terrace, Millwall, off Rosherville, about half-past 10 o'clock on Monday morning.
+
+OCR Text: He was sitting on the side rail of the passenger steamer Princess of Wales. when, tbrough some unexplained cause, he overbalanced, fell overboard, and was drowned, all efforts to save him being ot no avail.
+Ground Truth: He was sitting on the side rail of the passenger steamer Princess of Wales, when, through some unexplained cause, be overbalanced, fell overboard, and was drowned, all efforts to save him being of no avail.

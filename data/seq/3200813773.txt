@@ -1,0 +1,44 @@
+OCR Text: TEE WxTBILmiDOg MiIYSTERY, fl1.^.._ A. *L .^OnLL .lL _1 *L .1' D_
+Ground Truth: THE WIMBLEDON MYSTERY.
+
+OCR Text: O.N Thursday the 29th tilt., at the Local Board Oflices, Wimbledon, Mr. A. Braxton Hicks held an inquiry with reference to the death of a man unknown, whose body was found on Monday night in a field off Kingswood Road with a deep wound in the throat, and a knife by the side of it.
+Ground Truth: ON Thursday the 29th ult., at the Local Board Offices, Wimbledon, Mr. A. Braxton Hicks held an inquiry with reference to the death of a man unknown, whose body was found on Monday night in a field off Kingswood Road with a deep wound in the throat, and a knife by the side of it.
+
+OCR Text: Ernest Lanslcy, a farrier, of 3, Bendon Terrace, Bendoii Road, Wandswortb, stated that on Monday night he was walking along a ath- way by the side of a field at the top of Kings- wood Road, when a middle-aged gentleman called his attention to the deceased, who was lying groaning in the centro of the field, about thirty yards from the road.
+Ground Truth: Ernest Lansley, a farrier, of 3, Bendon Terrace, Bendon Road, Wandsworth, stated that on Monday night he was walking along a path way by the side of a field at the top of Kingswood Road, when a middle-aged gentleman called his attention to the deceased, who was lying groaning in the centre of the field, about thirty yards from the road.
+
+OCR Text: There was a great deal of blood about the man's head, and a buteber's knife was lying on the ground close by.
+Ground Truth: There was a great deal of blood about the man's head, und a butcher's knife was lying on the ground close by.
+
+OCR Text: When the witness arrived the man was apparently ndeavouring to again get hold of the knife, and was stretching out his hand towards it.
+Ground Truth: When the witness arrived the man was apparently endeavouring to again get hold of the knife, and was stretching out his hand towards it.
+
+OCR Text: He was bleeding profusely, and the awitness, thinking he would attempt to further injure himself, picked up the knife and threw it some distance off.
+Ground Truth: He was bleeding profusely, and the witness, thinking he would attempt to further injure himself, picked up the knife and threw it some distance off.
+
+OCR Text: A butcher's boy came up shortly afterwards,and the witness sent him for the police and a doctor, but the man died before the latter arrived.
+Ground Truth: A butcher's boy came up shortly afterwards, and the witness sent him for the police and a doctor, but the man died before the latter arrived.
+
+OCR Text: Police-constable Henry Searle, 210 V, said the deceased lived for about six minutes after he was discovered.
+Ground Truth: Police-constable Henry Searle, 210 V, said the deceased lived for about six minutes after he was discovered.
+
+OCR Text: There were traces on the ground showing that the deceased had struggled very much after he received the 'wound in the throat, but there was no sus- picion of foul play.
+Ground Truth: There were traces on the ground showing that the deceased had struggled very much after he received the wound in the throat, but there was no suspicion of foul play.
+
+OCR Text: The deceased appeared to be a labourer, and no evidence of identification was forthcoming.
+Ground Truth: The deceased appeared to be a labourer, and no evidence of identification was forthcoming.
+
+OCR Text: His description had been circulated as followNs:-Age 43 to 45, height about 5ft 6in, complexion and hair dark, eyes grey, moustache sandy, no teeth in front of upper jaw, large ulcerated wound on inside of left leg, scar from carbuncle on right knee; deceased was wearing a black overcoat with the name "J. W. Gaze, 113, Fleet Street, London," on the collar, fancy blue vest with black spots, groy mixture trousers, a brown Cardigan jacket, much worn, and Blucher boots.
+Ground Truth: His description had been circulated as follows: --Age 43 to 45, height about 5ft 6in, complexion and hair dark, eyes grey, moustache sandy, no teeth in front of upper jaw, large ulcerated wound on inside of left leg, scar from carbuncle on right knee; deceased was wearing a black overcoat with the name "J. W. Gaze, 113, Fleet Street, London," on the collar, fancy blue vest with black spots, grey mixture trousers, a brown Cardigan jacket, much worn, and Blucher boots.
+
+OCR Text: Twopence in cash, an empty medicine bottle, and a handker- chief was all the property found on the.body.
+Ground Truth: Twopence in cash, an empty medicine bottle, and a handkerchief was all the property found on the body.
+
+OCR Text: Dr. Hargreaves said that death was due to a cut in the throat, extending from ear to ear, the jugular vein being entirely severed, while the left carotid artery and the whindpipe were almost cut through.
+Ground Truth: Dr. Hargreaves said that death was duo to a cut in the throat, extending from ear to ear, the jugular vein being entirely severed, while the left carotid artery and the windpipe were almost cut through.
+
+OCR Text: Undoubtedly the wound was self-inflicted.
+Ground Truth: Undoubtedly the wound was self-inflicted.
+
+OCR Text: The jury returned a verdict of " Suicide while temporarily insane."
+Ground Truth: The jury returned a verdict of "Suicide while temporarily insane."

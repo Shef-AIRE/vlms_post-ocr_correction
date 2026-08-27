@@ -1,0 +1,59 @@
+OCR Text: CENTRAL CR gonA COURT, YESTERDAY
+Ground Truth: CENTRAL CRIMINAL COURT, YESTERDAY.
+
+OCR Text: IILLING A Boy WITH A BRICKBAT.-;VWiitLd, i D Getow surrendered to take his trial for the iialislutiighiter of George Olayton Roe.
+Ground Truth: KILLING A BOY WITH A BRICKBAT. –William Weston surrendered to take his trial for the manslaughter of George Clayton Roe.
+
+OCR Text: j'lie dleceased was a latd 12 years old, and it appearetd that en the 25th of October he and som:;e other b rys were phityin in SAllitiaiicii-row, Lanibeti, whei the prisouer, accompflnietl by aI wOnIalb, weot into a uinst-vardl close liy.
+Ground Truth: The deceased was a lad 12 years old, and it appeared that on the 25th of October he and some other boys were playing in Salamanca-row, Lambeth, when the prisoner, accompanied by a woman, went into a dust-yard close by.
+
+OCR Text: 'The deceas;ed ati 0so011e of the other boys followedlo them ald tile prisonler beois annoyed at their colduct took up aL brickbat a'lit threw it ait the deceased, anld bit lIus onl the back of the head, thereby inflicting w>ounds woLich resulted iii tetainis, or lock-iaw, anid death eusued.-T'he jiry found thu prisoner "Guilty."
+Ground Truth: The deceased and some of the other boys followed them, and the prisoner being annoyed at their conduct, took up a brickbat and threw it at the deceased, and hit him on the back of the head, thereby inflicting wounds which resulted in tetanus, of lock-jaw, and death ensued. —The jury found the prisoner "Guilty".
+
+OCR Text: Seiltence Was postponed.
+Ground Truth: Sentence was postponed.
+
+OCR Text: I; LLD IN Till', sTILEIt.-
+Ground Truth: KILLED IN THE STREET.
+
+OCR Text: illioaa Harmness surreii. dered to take lis trlill for ite nim:siilaiighter of John Bakler.--Tlie trnisiectiii liit qtestion occurred oil the night of the 5th of Novemiber, about 12 o'clock.-Th'e prisoner was driviiia a pon°y ill at cait on whicli there wats another mali and a wvomian, and it was alleged that the pl isoiler was driving at a very fast pace.
+Ground Truth: —William Farmen surrendered to take his trial for the manslaughter of John Baker. –The transaction in question occurred on the night of the 8th of November, about 12 o'clock. —The prisoner was driving a pony in a cart on which there was another man and a woman, and it was alleged that the prisoner was driving at a very fast pace.
+
+OCR Text: The deceased, who was a working aiwa, was atanding in the road, 0s(t lie was knaclied dlowil, alid received an injury in the temiiple. which canoled his death.-ITe defence w;as that the unfortunate affair wsas the result of accident.-The jury retorned Ia verdict of '' Not guilty.'
+Ground Truth: The deceased, who was a working man, was standing in the road, and he was knocked down, and received an injury in the temple, which caused his death. —The defence was that the unfortunate affair was the result of accident. –The jury returned a verdict of "Not guilty."
+
+OCR Text: IRiECEIVING STOLEN (ooDS.-
+Ground Truth: RECEIVING STOLEN GOODS.
+
+OCR Text: 'ThOsa6o Brettou, 49, and Susan Bretton, his wife, were indicted for receivinlga large quantity of property, knowing it to hliye hesli stolen.-The inale prissner wits at cabinan, having stables in Mlontagule-m11ews, Russell-squiare, aiid the Police from information they received searching lilS place, : great quantity of property, the produce of various robberies, was discoyered.-'iie jury "Acquittel " the wvoinan, and found the mail 'Guilty."
+Ground Truth: —Thomas Bretton, 49, and Susan Bretton, his wife, were indicted for receiving a large quantity of property, knowing it to have been stolen. –The male prisoner was a cabman, having stables in Montague-mews, Russell-square, and the police from information they received searching his place, a great quantity of property, the produce of various robberies, was discovered. –The jury "Acquitted" the woman, and found the man "Guilty."
+
+OCR Text: Xe was sentenced to five years' penal servitulde,
+Ground Truth: He was sentenced to five years' penal servitude.
+
+OCR Text: ALLnrnlD OUTRAGn.-Five young menmtanied Geoigc A lieln aged 17, lrfJliao kinghit, aged 17, Will:iam Ao in- kins, azged 20, 'Johe Gsoldsmith, aged 17. alud Chafles Alies, afged 19, wele 1iit upoll their trial for a felonilouis assaulIt U)011 Sarlah l Warwick, 1S years of age.-The pro- secutrix, Sarah Warwvick, t illodest, respectalble-lookhilug girl, said her patrents resided at Holloway, and she seas ell-aged as iL srvIlilt with a AIr. Rlowley, vs ho kept a grocer's shop at Ilentish.towvn.
+Ground Truth: ALLEGED OUTRAGE. –Five young men named George Allen, aged 17, William Knight, aged 17, William Jenkins, aged 20, John Goldsmith, aged 17. and Charles Allen, aged 19, were put upon their trial for a felonious assault upon Sarah Warwick, 18 years of age. –The prosecutrix, Sarah Warwick, a modest, respectable-looking girl, said her parents resided at Holloway, and she was engaged as a servant with a Mr. Rowley, who kept a grocer's shop at Kentish-town.
+
+OCR Text: She lefi that service on the lIth of October, :nid went to her maother's house, and on Suniay, the 19th of October, she went ouit for a walk in the afterniooai ansI met the prisoner klnight, whom she i:id icnown a short tiiee before, anzd lie : skefl her to take a short sallk c ith bin', aiid saie consented.
+Ground Truth: She left that service on the 16th of October, and went to her mother's house, and on Sunday, the 19th of October, she went out for a walk in the afternoon and met the prisoner Knight, whom she had known a short time before, and he asked her to take a short walk with him, and she consented.
+
+OCR Text: Thiey walked together for some tiie, and she said she niusst go home, aid the prisoner toill her he would pay her or- dinary fare.
+Ground Truth: They walked together for some time, and she said she must go home, and the prisoner told her he would pay her ordinary fare.
+
+OCR Text: They were at thls time in the Ansos-road, TIfnell-parlc-atlonely 1dace-aiid whele they cattle letnr some uniiiiisled hosses knight shosedl her ilto oue of them, in id all the other prisolneis camiie in.
+Ground Truth: They were at this time in the Anson-road, Tufnell-park–a lonely place–and when they cane near some unfinished houses Knight shoved her into one of them, and all the other prisoners came in.
+
+OCR Text: The wituess theou descrilesl what ovcvcred, alnd sai.l that she was forced down * and every oe i ofthe prisoiners insulted her.
+Ground Truth: The witness then described what occurred, and said that she was forced down, and every one of the prisoners insulted her.
+
+OCR Text: She tried to call ni1t, and one oh the prisoners told her that if she madie it noise hie woolid iteat her with a1 brickbat.
+Ground Truth: She tried to call out, and one of the prisoners told her that if she made a noise he would beat her with a brickbat.
+
+OCR Text: Te priaoisall then wont assay, leaving her ill at most exhausted condition.
+Ground Truth: The prisoners all then went away, leaving her in a most exhausted condition.
+
+OCR Text: She positively swore to the idenitity of the whole of the prisoners as being the persoits who insualted her.-The prisoners acknowledued thatt wiat they had done wais with the consent of the prosecutrix.-A witness stated tb:t the only 'means of access to the house wa:s across a pank.-T'he jary, after 20 mainutes' deliberation, found the prisoners Not guilty."
+Ground Truth: She positively swore to the identity of the whole of the prisoners as being the persons who insulted her. –The prisoners acknowledged that what they had done was with the consent of the prosecutrix. —A witness stated that the only means of access to the house was across a plank. —The jury, after 20 minutes' deliberation, found the prisoners “Not guilty.”
+
+OCR Text: THF (IHARGE AGAIN'ST MR. FROGGATT.-UPOII the ap- plication o2 Mr. Warner Sleigh, who is instructedl for tile defence of the trial of Mr. Edward Froggatt, the solici- tor, who vas convicted of beiig concerned in thie De Goncourt turf frauds, and who is charged as a fraudulent trustee with misaPpropriating a large sum of money, the case was utostponed to tie next session on the ground that prisonler had not had time to prepare his defence.
+Ground Truth: THE CHARGE AGAINST MR. FROGGATT. —Upon the application of Mr. Warner Sleigh, who is instructed for the defence of the trial of Mr. Edward Froggatt, the solicitor, who was convicted of being concerned in the De Goncourt turf frauds, and who is charged as a fraudulent trustee with misappropriating a large sum of money, the case was postponed to the next session on the ground that prisoner had not had time to prepare his defence.

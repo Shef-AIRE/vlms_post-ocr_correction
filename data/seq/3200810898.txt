@@ -1,0 +1,56 @@
+OCR Text: T3E POLICE AND THE PUBLIC,
+Ground Truth: THE POLICE AND THE PUBLIC.
+
+OCR Text: AT the West London Police-Court on Monday, a middle-aged wvoman, who had a bandage over the right eye, was among the applicants, and she com- plein d of the violence of a constable of the X Division.
+Ground Truth: AT the West London Police-court on Monday, a middle-aged woman, who had a bandage over the right eye, was among the applicants, and she complained of the violence of a constable of the X Division.
+
+OCR Text: She stated that on Saturday night she fetched half a pint of beer for her supper, and while talking to a female the constable pushed her off the herb into the road, injuring her eye.
+Ground Truth: She stated that on Saturday night she fetched half a pint of beer for her supper, and while talking to a female the constable pushed her off the kerb into the road, injuring her eye.
+
+OCR Text: The applicant attempted to remove the bandage, but was stopped by the magistrate, who said he did not wish to see her eve, and requested her to-cover it over.
+Ground Truth: The applicant attempted to remove the bandage, but was stopped by the magistrate, who said he did not wish to see her eye, and requested her to cover it over.
+
+OCR Text: He wanted to know how her eye was injured.
+Ground Truth: He wanted to know how her eye was injured.
+
+OCR Text: Appli- cant: I was insensible when picked up.
+Ground Truth: Applicant: I was insensible when picked up.
+
+OCR Text: Mr. Plow- den: Were you sober ?
+Ground Truth: Mr. Plowden: Were you sober?
+
+OCR Text: Applicant: Yes.
+Ground Truth: Applicant: Yes.
+
+OCR Text: The con- stable, who was in court, volunteered a statement.
+Ground Truth: The constable, who was in court, volunteered a statement.
+
+OCR Text: He said he was on duty in St. Ann's-road, when he was called to ejecta man from the Kenilworth Oastle.
+Ground Truth: He said he was on duty in St. Ann's-road, when he was called to eject a man from the Kenilworth Castle.
+
+OCR Text: In the struggle outside the woman was accidentally knocked down.
+Ground Truth: In the struggle outside the woman was accidentally knocked down.
+
+OCR Text: In answer to the magistrate, the con - stable said the applicant was tbe worse for drink.
+Ground Truth: In answer to the magistrate, the constable said the applicant was the worse for drink.
+
+OCR Text: She was standing on the herb, and missed her footing.
+Ground Truth: She was standing on the kerb, and missed her footing.
+
+OCR Text: The applicant was recalled and asked by the magis- trate if she suggested that the constable pushed her off the kerb.
+Ground Truth: The applicant was recalled and asked by the magistrate if she suggested that the constable pushed her off the kerb.
+
+OCR Text: The Applicant: I don't know what else he did.
+Ground Truth: The Applicant: I don't know what else he did.
+
+OCR Text: She also told the magistrate that she had witnesses.
+Ground Truth: She also told the magistrate that she had witnesses.
+
+OCR Text: Mr. Plowden: 'Take a summons.
+Ground Truth: Mr. Plowden: Take a summons.
+
+OCR Text: IEXEMPLAIIY SerNTNce troit CUFrrTY.-At Farn- ham Petty Sessions, William Newman, carter, of Hungry-Illl, was summoned by the Royal Society for the Prevention of Cruelty to Animals for working a horse while the animal was in an unfit state, owing to severe and painful lameness; and Williamni New- maani contractor, also of Hungry-hill, and father of the other 'defendant, was summoned for'cauiing the horse to be worked.
+Ground Truth: EXEMPLARY SENTENCE FOR CRUELTY. —At Farnham Petty Sessions, William Newman, carter, of Hungry-hill, was summoned by the Royal Society for the Prevention of Cruelty to Animals for working a horse while the animal was in an unfit state, owing to severe and painful lameness; and William Newman, contractor, also of Hungry-hill, and father of the other defendant, was summoned for causing the horse to be worked.
+
+OCR Text: The Bench considered the case a bad one, and fined the young defendant'zO2 6s, in- eluding costs, and sent the other defendant to prison for two months with bard labour; without the option of paying a fine, but with costs.
+Ground Truth: The Bench considered the case a bad one, and fined the young defendant £2 6s., including costs, and sent the other defendant to prison for two months with hard labour, without the option of paying a fine, but with costs.

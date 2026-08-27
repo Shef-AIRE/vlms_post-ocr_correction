@@ -1,0 +1,17 @@
+OCR Text: | .U~IOU8 -.MLGE OF ABDUOTION. ]
+Ground Truth: CURIOUS CHARGE OF ABDUCTION.
+
+OCR Text: 'Onrh rsy r rikMwm ile, was iu-' dicted.~;at th l alyfrmidemeanour., in havneu' unlawfully taken &-girl unamed- Oha~!OOta Foster. undier the agIf16yas from thei cusod And ooptrol,-of (hotoFseher mother.-
+Ground Truth: On Thursday Frederick Martin, soldier, was indicted at the Old Bailey for misdemeanor, in having unlawfully taken a girl named Charlotte Foster, under the age of 16 years, from the custody and control of Charlotte Foster, her mother.–
+
+OCR Text: .The defendant :wa:I Ir~e'i~e Ooldmtreamz guards, and was sttoe ; eintons barracks.,
+Ground Truth: The defendant was a private in the Coldstream guards, and was stationed at Wellington barracks.
+
+OCR Text: 'The prosocntrix -was rthe daughterofo a poor widow, 'whp'o6Gqpie'a~hOiie, the back -in,[dows',Of, *biA~ '1 Ithe bmackyard. and the evidence, went to show.that the young woman was consatYnte habit-of: looking out, of-the; windowan hoig communication with the~soldier,
+Ground Truth: The prosecutrix was the daughter of a poor widow, who occupied a house, the back windows of which looked into the barrack-yard, and the evidence, went to show that the young woman was constantly in the habit of looking out of the window, and holding communication with the soldiers.
+
+OCR Text: 'Teprsnra- pieared to bate fornied, an intimnacy wt e, n repeatedly~ asked her-.to go away fromhehoe.A length he wrote her the following lettr
+Ground Truth: The prisoner appeared to have formed an intimacy with her, and he repeatedly asked her to go away from her home. At length he wrote her the following letter:-
+
+OCR Text: My dabarestlitte darling,-I wlll'neest~yUa h p appointed MAt O nieOelc.Bl' l ta e wt *you, but do not letanoieeeyn;rth.wllflw yea. You' cannot beiehonul' bey-rm your own loving IovOr, F.R E~I
+Ground Truth: My dearest little darling, —I will meet you at the place appointed at nine o'clock. Bring all that you can with you, but do not let any one see you, or they will follow you. You cannot believe how much I love you. —From your own loving lover, F. MARTIN.

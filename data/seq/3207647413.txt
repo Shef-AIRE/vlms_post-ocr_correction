@@ -1,0 +1,71 @@
+OCR Text: LAW NOTICR.N.-Tizr D)*v.
+Ground Truth: LAW NOTICES. -THIS DAY.
+
+OCR Text: VICE.CHANCELLOR'S COURT, LINCOLN't-INN.
+Ground Truth: VICE.CHANCELLOR'S COURT, LINCOLN'S.INN.
+
+OCR Text: sittinflg at ten.
+Ground Truth: Sittings at ten.
+
+OCR Text: 're~te v Borrow, motlon per order; after which, the first side o: petitons from the lust printed list of the 21st-Alussiteld v MNube tald, rstetred.
+Ground Truth: Preece v Barrow, motion per order; after which, the first side of petitions from the last printed list of the 21st-Musefield v Musefield, restored.
+
+OCR Text: BANKRU'PTCTCOURT, BASINGHAL-.STRIET,
+Ground Truth: BANKRUPTCY COURT, BASINGHALL-STREET.
+
+OCR Text: Brfore Mr.Commiuuiorner iMlatAltr I
+Ground Truth: Before Mr. Commissioner MERIVALE.
+
+OCR Text: W. C Empeoru, of Letmina.tou-priors, Wartrwtkilhine, cuonle, .criorrer, at eleven, naudit-- I.tr. t'Pler, P'I'h rit, Vi iart, Ruin, coal merchaLt,, at cicerl, au3, titr e d tletid .. J t: Porker, r tile Steel yard, p1per Thames m ltreett. leatdrercharit, at twelve, audit and dividend- "erge (lisbY, of titlurtelo'd ati'krt. rarSt deal-r nIO st-etstnan, at one, sutldt-Jhet ofDeacoti, trtiers street, (Infr I street. tphollsterer, at halll palt tie, audit
+Ground Truth: W. C. Empson, of Leamington-priors, Warwickshire, money scrivener, at eleven; audit--George Telfer, of Phoenix Wharf, City Basin, coal merchant, at eleven, adjourned dividend—William Parker, of the Steel yard, Upper Thames street, lead-merchant, at twelve, audit and dividend—George Cilsby, of Hungerford market, corn dealer and seedsman, at one: audit—John Deacon, of Berners street, Oxford-street, upholsterer, at half past one, audit
+
+OCR Text: Before Mr. Cvtnlu issnorFAr IAL
+Ground Truth: Before Mr. Commissioner FANK.
+
+OCR Text: J~ha Mealevt iroi l(burt-e-rSlret, 1 i, toCau re, frr tge mat, faiturer, at ledeu mdiit- t 11 ilentdler. "ot S0tth 'treT. t, Ur, .ne sqoare. wive ierchutt utd tat tr, at ,te, (t 1r ot a's gote,- Aoriarm Mooire, of WelIla rto, Italgttin, l nuilulr, at to0 choiwe or amigneev.
+Ground Truth: John Mealey, of Cranbourne-street, Leicester square, fringe-manufacturer, at eleven: audit-R. B. Bender, of South street, Grosvenor square, wine merchant and tailor, at one, choice of assignees Abraham Moore, of Welle row, Islington, builder, at two, choice of assignees.
+
+OCR Text: Iteftire br. ('omrissioser Qis1 Kuiti.
+Ground Truth: Before Mr. Commissioner Bolroyd.
+
+OCR Text: Joion Shilelds, of Bridge -w., Lalin-th, v ir, mini r, at rie, dviidend- John Wellp, of ht. James's i-lAcs. taour, at taelt,'; owi dcrni-AlOff tt aUd Broevn, of ( oaaell ,tre.t, blud reawkers, at ote dividend.
+Ground Truth: John Shields, of Bridge row, Lambeth, wire worker, at eleven. Dividend-John Wells, of St. James's place, tailor, at twelve: dividend—Moffatt and Brown, of Goswell-street, blue makers, at one dividend.
+
+OCR Text: E('( LhitAS'I'l( Al. (')I'R'l't
+Ground Truth: ECCLESIASTICAL COURTS.
+
+OCR Text: Sittirgs it, Mc bactri a, r Sr,, 1
+Ground Truth: [Sittings in Michaelmas Term, 1835.]
+
+OCR Text: AR(CHi'' COU(RI'
+Ground Truth: ARCHES COURT.
+
+OCR Text: lIt Meusiots, Monday, Nor 4th Sesmton. 'I tuirdt,, Nov. 2d. 2d 6"&1ioi, \Vedsttedav, Nov 11. Pi e DRy, ye orsdav, itec . 'd Yttilon, Wreduesday, Nosr It, i
+Ground Truth: 1st Session, Monday, Nov. 2. 4th Session, Thursday, Nov. 26. 2d Session, Wednesday, Nov. 11. Bye Day, Thursday, Dec. 3. 3d Session, Wednesday, Nov. 18.
+
+OCR Text: ADMIRALTY (OlRT.
+Ground Truth: ADMIRALTY COURT.
+
+OCR Text: Ist eittion, Thursday. Nov. S 4th s.i,,,, Friar' Nou. 3 2i Senior, Thursdar, Nov. ' Bee tIy, grid ec, tc. 4. id Session, Thursdon, Nov. 19 i
+Ground Truth: 1st Session, Thursday, Nov. 5. 4th Session, Friday Nov. 27. 2d Session, Thursday, Nov. 2 Bye Day, Friday, Dec. 4. 3d Session, Thursday, Nov. 19.
+
+OCR Text: PREROGATItVi ('UtRT.
+Ground Truth: PREROGATIVE COURT.
+
+OCR Text: ]Ii Segcion, Friiiay, Nu, t. 4th "t'riootu, iiolulnv. N, . 30. 7d Session, Saturday, Nov. 14. Byve P'vTuesdaY, ltem 6. ,d Sstsion, Saturday, No, '1
+Ground Truth: 1st Session, Friday, Nov. 6. 4th Session, Monday, Nov. 30. 2d Session, Saturday, Nov. 14. Bye Day, Tuesday, Dec. 8. 3d Session, Saturday, Nov, 21.
+
+OCR Text: AP'PEALSi.
+Ground Truth: APPEALS.
+
+OCR Text: Ift Sosanion Saturday, NOV. 4th astsioe. Tutaday. tin. IR 2d Sessiont, Monday, Nov lVt. lyg liay, %'r ejiueW.. Dect. . Sd Stessoti, Tuesda), N', 24.
+Ground Truth: 1st Session, Saturday, Nov. 7 4th Session, Tuesday, Dec. 1. 2d Session, Monday, Nov. 16. Bye Day, Wednesday, Dec. 9. 3d Session, Tuesday, Nov, 24.
+
+OCR Text: CO NSNI STORV ('()I' R'I
+Ground Truth: CONSISTORY COURT.
+
+OCR Text: St 'esstott, 'rfiesday, No, 1(I I 4th >essoion, Wedtdeelav. l'i -. 2d SeSSalnTuesday, Nt, 1 liye Ilii, Tbusnda. Item 0. 3d Slesutto, Wedueidda;, N'o 2 i
+Ground Truth: 1st Session, Tuesday, Nov. 10. 4^(th) Session Wednesday, Dec.2. 2d Session, Tuesday, Nov. 17. Bye Day, Thursday, Dec. 10. 3^(rd) Session, Wednesday, Nov. 25.
+
+OCR Text: Caveat Day-Prerogative-WVedteodiav, Ile. :m Fltes ('otrt Iayv-(Consiotory-- Weitteiday, Ile,. 3v, Default lis,-Admiralty- Tburod.,y, Iet 3!
+Ground Truth: Caveat Day – Prerogative – Wednesday, Dec. 30. Extra Court Day – Consistory – Wednesday, Dec, 30. Default Day – Admiralty – Thursday, Dec. 31.

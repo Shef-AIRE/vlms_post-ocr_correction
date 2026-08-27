@@ -1,0 +1,53 @@
+OCR Text: THE RIGHT TO HOLD A FAIR.
+Ground Truth: THE RIGHT TO HOLD A FAIR.
+
+OCR Text: At the Lambeth police-court, Mr. William Wale, the proprietor of the Manor-house tavern and exten- sive grounds opposite Manor-place, Walworth, and close to the Royal Surrey-gardens, appeared to a summons, taken out by direction of the commis- sioners of police, charging him with having allowed a fair to be held on a piece of ground of which he was the occupier, without lawful authority.
+Ground Truth: At the Lambeth police-court, Mr. William Wale, the proprietor of the Manor-house tavern and extensive grounds opposite Manor-place, Walworth, and close to the Royal Surrey-gardens, appeared to a summons, taken out by direction of the commissioners of police, charging him with having allowed a fair to be held on a piece of ground of which he was the occupier, without lawful authority.
+
+OCR Text: Mr. Lund, superintendent of police, stated that on the morning of the 17th he visited the gardens be- hind the defendants house, and saw them fitted up in all particulars resembling a fair, with the exception of the absence of wild beasts.
+Ground Truth: Mr. Lund, superintendent of police, stated that on the morning of the 17th he visited the gardens behind the defendant's house, and saw them fitted up in all particulars resembling a fair, with the exception of the absence of wild beasts.
+
+OCR Text: There was a rifle and shooting gallery, two swings, four gingerbread stalls, one wheel of fortune, three wheels for games of chance, a platform for dancing dogs, a show for the performance of canary birds, a tight rope for dancing, a booth called the gallery of illustration, and a weighing and lifting machine.
+Ground Truth: There was a rifle and shooting gallery, two swings, four gingerbread stalls, one wheel of fortune, three wheels for games of chance, a platform for dancing dogs, a show for the performance of canary birds, a tight rope for dancing, a booth called the gallery of illustration, and a weighing and lifting machine.
+
+OCR Text: He sent for Mr. Wale, and told him he was acting in violation of the law and amenable to act of parliament, as the place was a fair to all intents and purposes.
+Ground Truth: He sent for Mr. Wale, and told him he was acting in violation of the law and amenable to act of parliament, as the place was a fair to all intents and purposes.
+
+OCR Text: Mr. Wale replied that it was only a "1 fancy fair," but he (Mr. Lund) advised him to clear the ground, for that a number of his neighbours would be very much an- noyed at it.
+Ground Truth: Mr. Wale replied that it was only a "fancy fair," but he (Mr. Lund) advised him to clear the ground, for that a number of his neighbours would be very much annoyed at it.
+
+OCR Text: The defendant replied that he could not do so, and witness then gave directions to the inspector and Sergeant Coppin to keep an eye on it, and he (Mr. Lund) himself had visited it on the different days.
+Ground Truth: The defendant replied that he could not do so, and witness then gave directions to the inspector and Sergeant Coppin to keep an eye on it, and he (Mr. Lund) himself had visited it on the different days.
+
+OCR Text: On one occasion, seeing 200 children there under six- teen years of age, he sent for Mr. Wale to speak to him, but he refused to come to him, and the message he sent to him was that if he wished to see him he must come to him.
+Ground Truth: On one occasion, seeing 200 children there under sixteen years of age, he sent for Mr. Wale to speak to him, but he refused to come to him, and the message he sent to him was that if he wished to see him he must come to him.
+
+OCR Text: Besides the charge for admission, additional charges were made for some of the exhibi- tions on the ground.
+Ground Truth: Besides the charge for admission, additional charges were made for some of the exhibitions on the ground.
+
+OCR Text: For the canary birds an addi- tion was made.
+Ground Truth: For the canary birds an addition was made.
+
+OCR Text: The charge for admission for' the first day was one shilling, and the other days sixpence, but orders were given for admission.
+Ground Truth: The charge for admission for the first day was one shilling, and the other day’s sixpence, but orders were given for admission.
+
+OCR Text: Mr. Child, who appeared for the defendant, con- tended that the entertainments on the grounds did not constitute a fair, and that summonses might with equal propriety be taken against the proprietors of the Crystal Palace.
+Ground Truth: Mr. Child, who appeared for the defendant, contended that the entertainments on the grounds did not constitute a fair, and that summonses might with equal propriety be taken against the proprietors of the Crystal Palace.
+
+OCR Text: Mr. Elliott (the magistrate) said that there was no round for considering the place a fair.
+Ground Truth: Mr. Elliott (the magistrate) said that there was no ground for considering the place a fair.
+
+OCR Text: Under the provisions of the Police Act the 2nd and 3rd Vic., cap. 47, a fair was a place for the purchase and sale of merchandise, and where a toll was charged, and therefore there was no pretence to call the exhibition described as a fair.
+Ground Truth: Under the provisions of the Police Act the 2nd and 3rd Vic., cap. 47, a fair was a place for the purchase and sale of merchandise, and where a toll was charged, and therefore there was no pretence to call the exhibition described as a fair.
+
+OCR Text: If it was held to be so there would be an end to all sorts of amusements, and the summons against the defendant in this case was dismissed.
+Ground Truth: If it was held to be so there would be an end to all sorts of amusements, and the summons against the defendant in this case was dismissed.
+
+OCR Text: Considerable applause followed the decision of his worship, and on its subsiding a gentleman, who re- presented himself as an inhabitant of the neighbour- hood, rose, and representing the place as a most in- tolerable nuisance, entreated his worship's assistance on his own behalf and on that of his neighbours, to put a stop to or, at least, abate it.
+Ground Truth: Considerable applause followed the decision of his worship, and on its subsiding a gentleman, who represented himself as an inhabitant of the neighbourhood, rose, and representing the place as a most intolerable nuisance, entreated his worship's assistance on his own behalf and on that of his neighbours, to put a stop to or, at least, abate it.
+
+OCR Text: Mr. Elliott replied that all places of amusement must be more or less an annoyance to people in their immediate vicinity; but if the defendant, as a publi- can, had been guilty of any violation of his licence, he was amenable for it.
+Ground Truth: Mr. Elliott replied that all places of amusement must be more or less an annoyance to people in their immediate vicinity; but if the defendant, as a publican, had been guilty of any violation of his licence, he was amenable for it.
+
+OCR Text: His (Mr. Elliott's) judgment only went to this, that in his opinion the defendant had not violated the act of parliament under which the proceedings had been taken.
+Ground Truth: His (Mr. Elliott's) judgment only went this, that in his opinion the defendant had not violated the act of parliament under which the proceedings had been taken.

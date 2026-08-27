@@ -1,0 +1,26 @@
+OCR Text: ALtrEGxD ILLEGAL ENTERTAINSIENTS. -a
+Ground Truth: ALLEGED ILLEGAL ENTERTAINMENTS.
+
+OCR Text: James Cox and Henry Hall were sum- a moned to Lambeth police-court on Wednes- q 'day at the instance of the Newington vestry, for unlawfully keeping a certain disorderly L place for public musiC'and entertainment of a a like kind without a licence from the last p quarter sessions, contrary to the provisions of the 25th George II., 6ep. 36.
+Ground Truth: James Cox and Henry Hall were summoned to Lambeth police-court on Wednesday at the instance of the Newington vestry, for unlawfully keeping a certain disorderly place for public music and entertainment of a like kind without a licence from the last quarter sessions, contrary to the provisions of the 25th George II., cap. 36.
+
+OCR Text: Evidence was given to the effect that a kind of fair tl was held upon a piece of waste land in the i rear of some houses in the Walworth-road.
+Ground Truth: Evidence was given to the effect that a kind of fair was held upon a piece of waste land in the rear of some houses in the Walworth-road.
+
+OCR Text: There were swings, steam roundabouts, stalls, and other adjuncts of a fair.
+Ground Truth: There were swings, steam roundabouts, stalls, and other adjuncts of a fair.
+
+OCR Text: Complaint had been made of the noise, particularly with re- gard to the steam organs attached" to the vu roundabouts.
+Ground Truth: Complaint had been made of the noise, particularly with regard to the steam organs attached to the roundabouts.
+
+OCR Text: A large number of persons L congregated upon the ground, particularly c at night.
+Ground Truth: A large number of persons congregated upon the ground, particularly at night.
+
+OCR Text: Long arguments were held on both sides, and police and other evidence T taken, but there had been no particular dis-( turbance or any charges brought before the T Court arising out of such fair.
+Ground Truth: Long arguments were held on both sides, and police and other evidence taken, but there had been no particular disturbance or any charges brought before the Court arising out of such fair.
+
+OCR Text: Mr. Biron a at length dismissed the summons against B Hall, but decided to commit Cox for trial at hi 'the sessions, admitting him, however, to bail. ol
+Ground Truth: Mr. Biron at length dismissed the summons against Hall, but decided to commit Cox for trial at the sessions, admitting him, however, to bail.
+
+OCR Text: -There was a second case against some parties for a similar offence with regard to a' plot of ground situate at Eagle-yard, Wal- worth-road, but this matter was adjourned n3 to see if the defendants would abatethe at alleged nuisance, and then to allow of the at vestry proceeding further or not.
+Ground Truth: –There was a second case against some parties for a similar offence with regard to a plot of ground situate at Eagle-yard, Walworth-road, but this matter was adjourned to see if the defendants would abate the alleged nuisance, and then to allow of the vestry proceeding further or not.

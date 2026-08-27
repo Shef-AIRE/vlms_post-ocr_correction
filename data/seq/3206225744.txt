@@ -1,0 +1,68 @@
+OCR Text: THB WIGAN COLLIERY MURDER.
+Ground Truth: THE WIGAN COLLIERY MURDER.
+
+OCR Text: The cause e6tbre known as the Wigan colliery murder ' was again the subject of judicial investiga- tion on Monday, and the mystery and complications which have surrounded the crime led to every part of the court being filled to overflowing, and excited the most intense interest.
+Ground Truth: The cause célébre known as the Wigan colliery murder was again the subject of judicial investigation on Monday, and the mystery and compilations which have surrounded the crime led to every part of the court being filled to overflowing, and excited she most intense interest.
+
+OCR Text: Two prisoners, Thomas Grime and Thomas Walton, were each indicted for the crime, but the trial of Grimewas first proceeded with.
+Ground Truth: Two prisoners, Thomas Grime and Thomas Walton, were each indicted for the crime, bus the trial of Grime was first proceeded with.
+
+OCR Text: He was qujetljand respectably dressed, and during the trial was atten- tive and watchful, but did not manifest any intense emotion.
+Ground Truth: He was quietly and respectably dressed, and during the trial was attentive and watchful, but did not manifest any intense emotion.
+
+OCR Text: The case for the crown was opened by Mir. Aspinall, who stated that the deceased, James Barton, was an engineer.employed at a colliery called Bulkhouse pit, between Ohorley and Wigan.
+Ground Truth: The case for the crown was opened by Mr. Aspinall, who stated that the deceased, James Barton, was an engineer employed at a colliery called Bulkhouse pit, between Chorley and Wigan.
+
+OCR Text: He was last seen alive on the night of the 2nd of January, 1863, when he went, as was usual, to take his night turn at minding the fires of the pumping-engine attached- to the colliery.
+Ground Truth: He was last seen alive on the night of the 2nd of January, 1863, when he went, as was usual, to take his night turn at minding the fires of the pumping engine attached to the colliery.
+
+OCR Text: He had two sons who took turns with him at this work, and it was the old man's turn that night.
+Ground Truth: He had two sons who took turns with m at this work, and it was the old man's turn that night.
+
+OCR Text: At eight o'clock that night the old man was seen in the cabin belonging to the colliery; but at a quarter to three or three o'clock next morning, when one of the men came to work, Barton couldnot be found.
+Ground Truth: At eight o'clock that night the old man was seen in the cabin belonging to the colliery; but at a quarter to three or three o'clock next morning, when one of the men came to work, Barton could not be found.
+
+OCR Text: Search was made everywhere, but unavail- ingly.
+Ground Truth: Search was made everywhere, but unavailingly.
+
+OCR Text: During the search a muffler belonging to Barton was foundin the cabin, and it was noticed that it was burnt, but no suspicion was excited by the circumstance at this time.
+Ground Truth: During the search a muffler belonging to Barton was found in the cabin, and it was noticed that it was burnt, but no suspicion was excited by the circumstance at this time.
+
+OCR Text: When the furnaces were looked at, to see if they required firing-up, soine appearances were discovered, and on further investi- gation unmistakable signs of portions of a human body having -been consumed there were disclosed.
+Ground Truth: When the furnaces were looked at, to see if they required firing-up, some appearances were discovered, and on further investigation unmistakable signs of portions of a human body having been consumed there we disclosed.
+
+OCR Text: Traces of blood, portions of flesh, and bones (which could be identified as human bones) being found there, as well as buttons, and other indestructible portions of a man's dress; and these were portions of -the body and dress of the man Barton.
+Ground Truth: Traces of blood, portions of flesh, and bones (which could be identified as human bones) being found there, as well as buttons, and other indestructible portions of a man's dress, and these were portions of the body and dress of the man Barton.
+
+OCR Text: A reward was offered for the discovery of the, murderers; but along time elapsed withbut any result, and it was not until a year or so ago that some circumstances arose which-led to the apprehension of certain per- sons.
+Ground Truth: A reward was offered for the discovery of the murderers; but a long time elapsed without any result, and it was not until a year or so ago that some circumstances arose which led to the apprehension of certain persons.
+
+OCR Text: During the investigations against these per- sons it became necessary to search a canal in the county, in order to discover a watch which it was known Barton had with him at the time he was murdered.
+Ground Truth: During the investigations against these persons it became necessary to search a canal in the county, in order to discover a watch which, it was known Barton had with him at the time he was murdered.
+
+OCR Text: This searh cauised a great deal of talk inl the neighbourhood, and ultimately coming to the knowledge of the prisoner's brother and father, who lived at Chorley, they recollected that the prisoner, who had come home about five o'clock on the morn- ing oif the murdeg' had been dealing with a watch, which, as fat as their memory went, corresponded with the-watch of the murdered man.
+Ground Truth: This search caused a great deal of talk in the neighbourhood, and ultimately coming to the knowledge of the prisoner's brother and father, who lived at Chorley, they recollected that the prisoner, who had come home about five o'clock on the morning of the murder, had been dealing with a watch, which, as far as their memory went, corresponded with the watch of the murdered man.
+
+OCR Text: The prisoner had been sent to Dartmoor in the meantime, where he was serving a term of penal servitude for another- offence, when he was arrested for this crime.
+Ground Truth: The prisoner had been sent to Dartmoor in the meantime, where he was serving a term of penal servitude for another offence, when he was arrested for this crime.
+
+OCR Text: The learned counsel said that in all the statements of the prisoner, though he admitted being present at the murder, he very carefully abstained from saying, whether he took any personal part in the outrage; but Mr. Aspinall submitted that if the prisoner only ac'eompanied the murderers and shared in the common object of the murder he was equally guilty.
+Ground Truth: The learned counsel said that in all the statements of the prisoner, though he admitted being present at the murder, he very carefully abstained from saying whether he took any personal part in the outrage; bye Mr. Aspinall submitted that if the prisoner only accompanied the murderers and shared in the common object of the murder he was equally guilty.
+
+OCR Text: A number of witnesses were then examined, after. which Mr. Pope, for the defence, contended that his, client ought not to be convicted on the statements- made against him.
+Ground Truth: A number of witnesses were then examined, after which Mr. Pope, for the defence, contended that his client ought not to be convicted on the statements made against him.
+
+OCR Text: Mr. Baron Martin having summed up, the jury' found a verdict of "Guilty."
+Ground Truth: Mr. Baron Martin having summed up, the jury found a verdict of "Guilty."
+
+OCR Text: His lordship then sentenced the prisoner to death in the usual manner, holding out no hopes of mercy.
+Ground Truth: His lordship then sentenced the prisoner to death in the usual manner, holding out no hopes of mercy.
+
+OCR Text: The prisoner, who. throughout the trial manifested the greatest stolidity, then walked firmly frem the dock.
+Ground Truth: The prisoner, who throughout the trial manifested the greatest stolidity, then walked firmly from the dock.
+
+OCR Text: Thomas Walton, also indicted for the murder of Barton; was arraigned during the afternoon.
+Ground Truth: Thomas Walton, also indicted for the murder of Barton, was arraigned during the afternoon.
+
+OCR Text: Counsel for the prosecution, however, declined to proceed with the case, and the prisoner was 'discharged. Walton, it will be recollected, also made a confession when -intoxicated, but when-sober he denied its tratb.
+Ground Truth: Counsel for the prosecution, however, declined to proceed with the case, and the prisoner was discharged Walton, it will be recollected, also made a confession when intoxicated, but when solar he denied its truth.

@@ -1,0 +1,77 @@
+OCR Text: -.THEAIP.. ,
+Ground Truth: THE ARMY.
+
+OCR Text: WABROFFICE, JULY 15.
+Ground Truth: WAR–OFFICE, JULY 15.
+
+OCR Text: 3th Regiment od Dreguo Letenant Elonourable H~erenlee Lsangtbrd Doyle Rowley to be ca~ptainby purahsase, vice Powell who retires; Cornet Richard Hienry Cnarre to be lieutenant., by 7Tlndal de.Vcufl has been permittedta retlre from the serice by. the sale of his com. mision.
+Ground Truth: 6th Regiment of Dragoons–Lieutenant Honourable Hercules Langford Boyle Bowley to be captain, by purchase, vice Powell, who retires; Cornet Richard Henry Currie to be lieutenant, by purchase, vice Rowley. 7th Light Dragoons–Cornet John Tindal-de-Veulle has been permitted to retire from the service by, the sale of his commission.
+
+OCR Text: 10th Light Dragoons-&stant-Surgoon A]5xander Machay Macbeth, from the 3ard Feot, to be atit-urgeon, vice Jamnes Macbeth, who exchanges,
+Ground Truth: 10th Light Dragoons–Assistant-Surgeon Alexander Mackay Macbeth, from the 38rd Foot, to be assistant-surgeon, vice. James Macbeth, who exchanges.
+
+OCR Text: 12th Light Drsponae-Llentenant.Andrev GemmneDgfromn the 76tsh Foot, to be heutenant, vice Fuller, wvho exchanges.
+Ground Truth: 12th Light Dragoons–Lieutenant Andrew Gammell, from the 76th Foot, to be lieutenant, vice Fuller, who exchanges.
+
+OCR Text: 1et or Grenaoier RDegimnt of Foot GoardsLientenent end Captain George Grey Boost to be eaptai and llcutensantoolonei, by purchase, vice Wes4, who rettres; Ensig and Lie utenrat Wlliam Gordon Cameron to be lieutenant ani captain, by pur- chase, vice Boun,
+Ground Truth: 1st or Grenadier Regiment of Foot Guards––Lieutenant and Captain George Grey Rous to be captain and lieutenant-colonel, by purchase, vice West, who retires; Ensign and Lieutenant William Gordon Cameron to be lieutenant and captain, by purchase, vice Rous.
+
+OCR Text: 12th Foet-Ensign and Adjutant Innis Colin Munro to have the rank of lieutenant; Ensign F. C. D'Epinay Barclay to be heutenant, by purchase, vice Garner, who retires; James Hut. ton Clutterbuck, Gent, to be ensign, by purchase, vice Barclay.
+Ground Truth: 12th Foot–Ensign and Adjutant Innis Colin Munro to have the rank of lieutenant; Ensign F. C. DʼEpinay Barclay to be lieutenant, by purchase, vice Garner, who retires; James Hutton Clutterbuck, Gent, to be ensign, by purchase, vice Barclay.
+
+OCR Text: IMth Foot-Richard Nugent Clayton, Gent, to be ensign, by purchase, vice Tyacke, appointed to the 22nd Foot.
+Ground Truth: 18th Foot–Richard Nugent Clayton, Gent, to be ensign, by purchase, vice Tyacke, appointed to the 22nd Foot.
+
+OCR Text: 18th Poet-Arthur Scott, Gent, to be easign, by purchase, vice Fitzmaurcie, appointed to the 72nd Regimen.
+Ground Truth: 18th Foot–Arthur Scott, Gent, to be ensign, by purchase, vice Fitzmaurice, appointed to the 72nd Regiment.
+
+OCR Text: 2Snd Foot-Ensign Walter Macpherson to be lieutenant, by purchase, vice George Onslow Deane, who retires; Ensign Thomas Tyacke, from the 13th Foot, to be ensign, vice Mae- phereoa.
+Ground Truth: 22nd Foot–Ensign Walter Macpherson to be lieutenant, by purchase, vice George Onslow Deane, who retires; Ensign Thomas Tracke, from the 18th Foot, to be ensign, vice Macpherson.
+
+OCR Text: 23rd Foot-LIeutenant Augustus Applewhaite, from the 64th Foot, to be First Lieutenant, vice Dirkens4 who exchanges.
+Ground Truth: 23rd Foot–Lieutenant Augustus Applewhaite, from the 64th Foot, to be First Lieutenant, vice Dickens, who exchanges.
+
+OCR Text: 88th Feot-Lleutenant William Gandy, from the 44th Foot, to be Lieutenant, vice Wilson, who exchangee.
+Ground Truth: 29th Foot–Lieutenant William Gandy, from the 44th Foot, to be Lieutenant, vice Wilson, who exchanges.
+
+OCR Text: 51st Foot-Captain Robert Hole Walter, trrom the 73rd Foot, to be captain, vims Barry, who exchanges.
+Ground Truth: 31st Foot–Captain Robert Hole Walters, from the 73rd Foot, to be captain, vice Barry, who exchanges.
+
+OCR Text: 33rd Foot-Assistant-surgeon James, Macbeth, M.D., from the 10th Light Dragoons, to be assistant-surgeon, vice A. M. Macbeth, who exchanes.
+Ground Truth: 33rd Foot–Assistant-surgeon James Macbeth, M.D., from the 10th Light Dragoona, to be assistant-surgeon, vice A, M. Macbeth, who exchanges.
+
+OCR Text: 44th Foot-Lieutenant George Saville Wilson, firam the 28th Foot, to be lieutenant. vice Gandy, who exchanges, July 15.
+Ground Truth: 47th Foot–Lieutenant George Saville Wilson, from the 28th Foot, to be lieutenant, vice Gandy, who exchanges, July 15.
+
+OCR Text: 47th Foot-Ensign Henry James Buchanan to be lieutenant, by purchase, vice Xangle, who retiree; Alfred Henderson White, Gent, to be ensign, by purchase, vice Buchanan.
+Ground Truth: 47th Foot–Ensign Henry James Buchanan to be lieutenant, by purchase, vice. Nangle, who retires; Alfred Henderson White, Gent, to be ensign, by purchase, vice Buchanan.
+
+OCR Text: 63rd Foot-Captain Witliam Frederick Adams Colman, from the 80th Foot, to be captaln,vice George E. Hilier, who retires upon half-pay of the d0th Foot.
+Ground Truth: 53rd Foot–Captain William Frederick Adams Colman, from the 80th Foot, to be captain, vice George E. Hillier, who retires upon half pay of the 80th Foot.
+
+OCR Text: ft0th Foot-Lieutenaast Edward Rawlinge Hannam, from the Bth Foot, to be paymaster, vice Fitz Gerald, appsinted to the 80th Foot; Lieutenant Richard Harcourt Robinson to be ad- jutant, vice Kenny, promoted.
+Ground Truth: 60th Foot–Lieutenant Edward Rawlings Hannam, from the 8th Foot, to paymaster, vice Fitz Gerald, appointed to the 30th Foot; Lieutenant Richard Harcourt Robinson to be adjutant, vice Kenny, promoted.
+
+OCR Text: 64th Foot-Lieutenant Robert Vaughan Dicklns, from the 23rd Foot, to be lieutenant, vice Applewbaite, who exchauges.
+Ground Truth: 64th Foot–Lieutenant Robert Vaughan Dickins, from the 23rd Foot, to be lieutenant, vice Applewhaite, who exchanges.
+
+OCR Text: 72nd Foot-Lieutenant Arthur Wade to be captain, by pur- chase, vice Cavendish Spsneer Boyle, who retiree; Ensig Oswald Barton Feildeu to he lieutenant, by purchase, vice ade; Ensign the Honourable Alexander Temple Fittzaurice, from the 18th Foot, to be esignf viee Feilden.
+Ground Truth: 72nd Foot–Lieutenant Arthur Wade to be captain, by purchase, vice Cavendish Spencer Boyle, who retires; Ensign Oswald Barton Feilden to be lieutenant, by purchase, vice Wade; Ensign the Honourable Alexander Temple Fitzmaurice, from the 18th Foot, to be ensign, vice Fellden.
+
+OCR Text: 7Srd Foot-Captain Wiliam Henry Barry, from the 31st Foot, to be captain, vice Walters, who exchanges.
+Ground Truth: 73rd Foot–Captain William Henry Barry, from the 31st Foot, to be captain, vice Walters, who exchanges.
+
+OCR Text: 76th Foot-Lieutenant Charles Francis Fuller, from the 12th Light Dragoons, to be lieutenant,'vice Gammel3, whe exchanged.
+Ground Truth: 76th Foot–Lieutenant Charles Francis Fuller, from the 12th Light Dragoons, to be lieutenant, ‘vice Gammell, whe exchanges.
+
+OCR Text: 85th Foot-Lieutenant Frederick Sitwell to be captain, by pturchase, vice Keyt, wpho retires; Ensign Montaga Barton to be lieutenant, by purchase, vice Sitwell; Robert Kirkpatrick Taylor to be ensign, by purchase, vice Barton.
+Ground Truth: 85th Foot–Lieutenant Frederick Sitwell to be captain, by purchase, vice Keyt, who retires; Ensign Montagu Barton to be lieutenant, by purchase, vice Sitwell; Robert Kirkpatrick Taylor to be ensign, by purchase, vice Barton.
+
+OCR Text: 86thFoot-Lieutenant Richard Francis Holmes, from the 97th Foot, to be lieutenant, vice Dawes who'excbangee.
+Ground Truth: 86th Foot–Lieutenant Richard Francis Holmes, from the 97th Foot, to be lieutenant, vice Dawes, who exchanges.
+
+OCR Text: 97th Poot-Lieutenant Edward Alleyne Dawes, from the 89th Foot, to be lieutenant, vice Holmes, who exchangec.
+Ground Truth: 97th Foot–Lieutenant Edward Alleyne Dawes, from the 89th Foot, to be lieutenant, vice Holmes, who exchanges.
+
+OCR Text: RosrersL SrAFP.-John Ogilvy, M.B., to be assistant~sur- goon to the forces, vice Henry Carr Lucas, deceased
+Ground Truth: HOSPITAL STAFF. –John Ogilvy, M.B., to be assistant-surgeon to the forces, vice Henry Carr Lucas, deceased.

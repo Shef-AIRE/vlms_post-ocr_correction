@@ -1,0 +1,56 @@
+OCR Text: C3URIOUS ACTION AGAINST XRS. rIdONmON'S f MIOTHER,
+Ground Truth: CURIOUS ACTION AGAINST MRS. MONSON'S MOTHER.
+
+OCR Text: SAT Manchester Assizes, on Thursday, the case of the t Laneash~ire Reversionary Interest Company v. Day, in which Mr. Monson is concerned, was heard.
+Ground Truth: AT Manchester Assizes, on Thursday, the case of the Lancashire Reversionary Interest Company v. Day, in which Mr. Monson is concerned, was heard.
+
+OCR Text: Its public interest turned on t+he facb that defendant, Mrs. e DY, is the mother of Mrs. Monson, and among the e witnesses was Mrs. Monson herself.
+Ground Truth: Its public interest turned on the fact that defendant, Mrs. Day, is the mother of Mrs. Monson, and among the witnesses was Mrs. Monson herself.
+
+OCR Text: Ib had somen ,t bearing on the Ardlamout matter, as showing the n' sort of monetary transactions in which Monson was , engaged.
+Ground Truth: It had some bearing on the Ardlamont matter, as showing the sort of monetary transactions in which Monson was engaged.
+
+OCR Text: The issue of the case, which had reference Lt to a loan of ;C600 by the plaintiff company, was h briefly whether or not the Signature of Mrs. Day was t, really her signature or a forgery.
+Ground Truth: The issue of the case, which had reference to a loan of £600 by the plaintiff company, was briefly whether or not the signature of Mrs. Day was really her signature or a forgery.
+
+OCR Text: One of the clauses of the document which was in question was alleged to be written personally by Mr. Cecil Hambrough, whose death is now the subject of inquiry.
+Ground Truth: One of the clauses of the document which was in question was alleged to be written personally by Mr. Cecil Hambrough, whose death is now the subject of inquiry.
+
+OCR Text: Mrs. Monson's evidence was that on September 19;h, d 1890, Mrs. Day, her husband, and herself executed A the deed in question, and Mrs. Day signed the docu- 10 nent.
+Ground Truth: Mrs. Monson's evidence was that on September 19th, 1890, Mrs. Day, her husband, and herself executed the deed in question, and Mrs. Day signed the document.
+
+OCR Text: She was familiar with her mother's hand- of writing, and she was also confident that the attesting cn clause was in Hambrough's writing, with which she md was also acquainted.
+Ground Truth: She was familiar with her mother's hand-writing, and she was also confident that the attesting clause was in Hambrough's writing, with which she was also acquainted.
+
+OCR Text: In her cross-examination Mrs. tt Monson said .that she had occasionally been much id troubled for money since her marriage, and her hus- 31. band had latterly been a good deal in the hands of ed money-lenders.
+Ground Truth: In her cross-examination Mrs. Monson said that she had occasionally been much troubled for money since her marriage, and her husband had latterly been a good deal in the hands of money-lenders.
+
+OCR Text: The evidence of Monson, which was ,m taken on commission at Edinburgh, was corroboralive.
+Ground Truth: The evidence of Monson, which was taken on commission at Edinburgh, was corroborative.
+
+OCR Text: as Mr. Yates, on behalf of the defendant, said he did as not hesitate to saggesb that the signature to the deed h was a forgery by Monson.
+Ground Truth: Mr. Yates, on behalf of the defendant, said he did not hesitate to suggest that the signature to the deed was a forgery by Monson.
+
+OCR Text: Mrs. Monson had given evidence against her mother, but they must bear in mind that this case might have an important bearing upon another and a graver case, and when she faced ed the necessity of sacrificing either her husband or her )n. mother, wifelike she 'stuck to her husband.
+Ground Truth: Mrs. Monson had given evidence against her mother, but they must bear in mind that this case might have an important bearing upon another and a graver case, and when she faced the necessity of sacrificing either her husband or her mother, wife like she stuck to her husband.
+
+OCR Text: Spedc. ree mens of Lieutenant Hambrough's writing were put, to- i but nothing farther of a sensational nature Sr- occurred during the hearing ofthe caee.
+Ground Truth: Specimens of Lieutenant Hambrough's writing were put, in, but nothing further of a sensational nature occurred during the hearing of the case.
+
+OCR Text: Mr. Yates, en Q.C., addressing the jury on behalf of Mrs. Day, ion oontended that the si.-sature was a forgery.
+Ground Truth: Mr. Yates, Q.C., addressing the jury on behalf of Mrs. Day, contended that the signature was a forgery.
+
+OCR Text: Ie of asked the jury whether they did not think that Monson, who had forged one deed and was practised 'ii the art, was likely to 'do it again when he was hard up.
+Ground Truth: He asked the jury whether they did not think that Monson, who had forged one deed and was practised in the art, was likely to do it again when he was hard up.
+
+OCR Text: They knew his position, writs were pouring in, he was in want of money, and he had done this sort of thing before.
+Ground Truth: They knew his position, writs were pouring in, he was in want of money, and he had done this sort of thing before.
+
+OCR Text: Mr. Smyley, for the plaintiff, 'expressed surprise at the audacity of Mr. Yates in tstating'that Monson had forged other deeds.
+Ground Truth: Mr. Smyley, for the plaintiff, expressed surprise at the audacity of Mr. Yates in stating that Monson had forged other deeds.
+
+OCR Text: No DS; D such thing had been proved, and it was most unfair ie m, to bring uch accusations against a man over whose; 2 2ss head such a serious charge was at present resting.
+Ground Truth: No, such thing had been proved, and it was most unfair to bring such accusations against a man over whose head such a serious charge was at present resting.
+
+OCR Text: siist Ar tbh''orieution of aonnel's res the jury at, .oneeetUTW a zierdict'for Mrs.' Day.
+Ground Truth: At the conclusion of counsel's address, the jury at once returned a verdict for Mrs. Day.

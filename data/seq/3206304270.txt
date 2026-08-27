@@ -1,0 +1,44 @@
+OCR Text: MURDER AND slTElDED ,msVW. I
+Ground Truth: MURDER AND INTENDED SUICIDE.
+
+OCR Text: Yesttrday, (Saturday), at wh inquest hel OY a re coved a~r having 11en pree ted efetou hir sel Baetrein Ite aprpeats theati. onTedymringelasdreu, Shotrditeb, information wn- thi parisear ,o thi ie Mr. MVceadows, the eumn enirig officer otherih ' t em following extraordithrY case oi child murder, in the Regent's canal, Haggtrston5, by the unfortunate. mother, end of the attempted suicide of to atter, who is at present lying in Shoreditth workhoue, where she was removedaifter having been prevented effectinggher self- destrection.
+Ground Truth: Yesterday, (Saturday), at an inquest held by Mr. Baker, the coroner, at the Victory, Kingsland-road, Shoreditch, information was communicated to him by Mr. Meadows, the summoning officer of the parish, of the following extraordinary case of child murder, in the Regent's canal, Haggerston, by the unfortunate mother, and of the attempted suicide of the latter, who is at present lying in Shoreditch workhouse, where she was removed after having been prevented effecting herself destruction.
+
+OCR Text: It appears that on Tuesday morning last, about eleven o'cloci , as monae en were pos itg down Great Cawnbridg54tree Haggenston, near the bridge which tryverses the Qte sen's-road, they owerved a female who was holding a burdit in her hand, plunpe into the iwngtl
+Ground Truth: It appears that on Tuesday morning last, about eleven o'clock, as some men were passing down Great Cambridge-street, Haggerston, near the bridge which traverse the Queen's-road, they observed a female who was holding a bundle in her hand, plunge into the canal.
+
+OCR Text: Several of tain went to her assistonce, and c-. cned;e4 in bringing her to the towing-path.
+Ground Truth: Several of them went to her assistance, and succeeded in bringing her to the towing-path.
+
+OCR Text: While they* were so eomgaged, an Infant was observed to he struggling ine the water, and Which had tscaped out of a handker. chief in which it was subsequently ascertained it had been wrapped up.
+Ground Truth: While they were so engaged, an infant was observed to be struggling in the water, and which had escaped out of a handkerchief in which it was subsequently ascertained it had been wrapped up.
+
+OCR Text: The poor baby soon sunk.
+Ground Truth: The poor baby soon sunk.
+
+OCR Text: Mr. Hoopern surgeon, Quep's-roadr and Mr. t oyd, surgeon, Mansfieldh d rs et, also afforded every necessaory assistanc e
+Ground Truth: Mr. Hooper, surgeon, Queen's-road, and Mr. Lloyd, surgeon, Mansfield-street, also afforded every necessary assistance.
+
+OCR Text: The next fdy she was reb moved to hhoreditch workhouse, and has been attynded to by Mr. Charke, the house surgeon
+Ground Truth: The next day she was removed to Shoreditch workhouse, and has been attended to by Mr. Clarke, the house-surgeon.
+
+OCR Text: She still ren pis there inavery preCariosgstate.
+Ground Truth: She still remains there in a very precarious state.
+
+OCR Text: Thernaete oftoeunftr- twmate mother is dary Ann Capron, and she resided at No.d7ady, mrs. Grae. Coalolarbour-gane, Qaekney-road.
+Ground Truth: The name of the unfortunate mother is Mary Ann Capron, and she resided at No. 7, James-street, Coal Harbour-lane, Hackney-road.
+
+OCR Text: She is a single woman, about te-reet-fie years of age, and very respectable Teonexted.
+Ground Truth: She is a single woman, about twenty-five years of age, and very respectably connected.
+
+OCR Text: She was deli- vered about five o'clock on Tuesday morning unknowrn to her parent, rho charged her with having been encednte and who suspeCted that her delivery had taken place, thieh she denied.
+Ground Truth: She was delivered about five o'clock on Tuesday morning unknown to her parent, who charged her with having been enceinte, and who suspected that her delivery had taken place, which she denied.
+
+OCR Text: She le t her home unknown to thenr, having folded her infant up in a blue handkerchief.
+Ground Truth: She left her home unknown to them, having folded her infant up in a blue handkerchief.
+
+OCR Text: In her passage to the womal, ohich is but a e.horb distance from her residence, sevhar her tsons savn her, who re- marked that she was in a Etate of great excitemeat, and occasionally spots of blood were along her path.
+Ground Truth: In her passage to the canal, which is but a short distance from her residence, several persons saw her, who remarked that she was in a state of great excitement, and occasionally spots of blood were along her path.
+
+OCR Text: Mr. Meadowys is in possession of the handkerchief.
+Ground Truth: Mr. Meadows is in possession of the handkerchief.

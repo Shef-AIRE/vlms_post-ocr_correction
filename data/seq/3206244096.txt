@@ -1,0 +1,44 @@
+OCR Text: I A mEucRHANT'S DIVORCE CASE.
+Ground Truth: A MERCHANT'S DIVORCE CASE.
+
+OCR Text: The case of " Frentzel v. Frentzel, Steiner, and Welch," came before the Divorce division on Thursday.-This was the petition of the husband for a dissol"- tion of his marriage on the ground of his wife's adultery with the co-respondents.
+Ground Truth: The case of "Frentzel v. Frentzel, Steiner, and Welch," came before the Divorce division on Thursday. —This was the petition of the husband for a dissolution of his marriage on the ground of his wife's adultery with the co-respondents.
+
+OCR Text: Answers were filed denying theeharges, and the respondent charged her husband with cruel ty, and prayed for a judicial separation on that gronnd,-From the opening of coun- sel, it appeared that the parties were mar- ried Sept. 2') 1856, and petitioner is a silk mnerehaut.
+Ground Truth: Answers were filed denying the charges, and the respondent charged her husband with cruelty, and prayed for a judicial separation on that ground. —From the opening of counsel, it appeared that the parties were married Sept. 29, 1856, and petitioner is a silk merchant.
+
+OCR Text: After the marriage the parties resided at Stoke Nwvincton, and su~bse- quently the respondent gave way to habits ofintenperence, and there wasa separation, the petitioner allowing his wife 801. per annum.
+Ground Truth: After the marriage the parties resided at Stoke Newington, and subsequently the respondent gave way to habits of intemperance, and there was a separation, the petitioner allowing his wife 80l. per annum.
+
+OCR Text: At that time hi badnot sufficient evidence to bring a suit for divorce, but subsequently obtained the testbimony of servants.-Tbe petitioner was called and spoke to the facts of the marriage, andi in cross-examination deposed to quarrels be- tween lhimsself and his wife.
+Ground Truth: At that time, he had not sufficient evidence to bring a suit for divorce, but subsequently obtained the testimony of servants. –The petitioner was called and spoke to the facts of the marriage, and in cross-examination deposed to quarrels between himself and his wife.
+
+OCR Text: On one occasion his wife was hurt, but she was a great actress.
+Ground Truth: On one occasion his wife was hurt, but she was a great actress.
+
+OCR Text: He had known Steiner for 20 years.
+Ground Truth: He had known Steiner for 20 years.
+
+OCR Text: He separatetl frous his wife in 1876, and charged her with coesutitting adultery.
+Ground Truth: He separated from his wife in 1876, and charged her with committing adultery.
+
+OCR Text: The suit weas instituted in Jantuary of last year.
+Ground Truth: The suit was instituted in January of last year.
+
+OCR Text: Dr. Welch was living in Stoke Newington-roal with his wife.
+Ground Truth: Dr. Welch was living in Stoke Newington-road with his wife.
+
+OCR Text: He first called Dr. Welch in to his wife, who pretended to have taken poison.
+Ground Truth: He first called Dr. Welch in to his wife, who pretended to have taken poison.
+
+OCR Text: Dr. Welch was frequently at the bhuse, and used to join in the whist parties.
+Ground Truth: Dr. Welch was frequently at the house, and used to join in the whist parties.
+
+OCR Text: A great deal of other evidence was given to show the visits of the co-respondent, and one witness went so far as to state that at midnight he observed the respondent and co-respondent in a position more than suggestive of adultery.-The case was not con.cluded when the Cottrt rose.
+Ground Truth: A great deal of other evidence was given to show the visits of the co-respondent, and one witness went so far as to state that at midnight be observed the respondent and co-respondent in a position more than suggestive of adultery. –The case was not concluded when the Court rose.
+
+OCR Text: The case was continued on Friday, and the jury de- liber ated for some hours.
+Ground Truth: The case was continued on Friday, and the jury deliberated for some hours.
+
+OCR Text: At the rising of thet Curt, at a late hour, they acquitted Steiner of being guilty of adultery, and the netiticner of brin guilty of cruelty; but Said that whether Dr. Welch and the re- sattndent hald been guilty of mniscosnduct, they were unable to agree, and were dis- charged,
+Ground Truth: At the rising of the Court, at a late hour, they acquitted Steiner of being guilty of adultery, and the petitioner of being guilty of cruelty; but said that whether Dr. Welch and the respondent had been guilty of misconduct, they were unable to agree, and were discharged.

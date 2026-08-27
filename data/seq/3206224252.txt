@@ -1,0 +1,59 @@
+OCR Text: I THE ROBBERY OF CEWELLERY IN NEW BOND-STREET.
+Ground Truth: THE ROBBERY OF JEWELLERY IN NEW BOND-STREET.
+
+OCR Text: I On W~ednesday, ~Megaiet. O'Grixdi, and Ellen O'Gre~y, mother and daughter, charged with being concerned in stealing a pair of diamond earrings and other articles of jewellery, of the value of 3101., the [property of Mr. Joseph Pake, jeweller, of New Bond- street, were again brought up at Marlborough-street police-court.
+Ground Truth: On Wednesday, Margaret O'Grady and Ellen O'Grady, mother and daughter, charged with being concerned in stealing a pair of diamond earrings and other articles of jewellery, of the value of 310l, the property of Mr. Joseph Pake, jeweller, of New Bond-street, were again brought up at Marlborough-street police-court.
+
+OCR Text: James Holmes, assistant to Mr. Mellish, pawn- broker, of 15, Duke-street, Grosvenor-square, said that he knew the elder prisoner
+Ground Truth: James Holmes, assistant to Mr. Mellish, pawn-broker, of 15, Duke-street, Grosvenor-square, said that he knew the elder prisoner.
+
+OCR Text: On the 23rd of December, in the evening, she brought a pair of ear. rings -to pledge, and he offered her Bs. on them, which she took.-Mr. Tyrwbitt: You thought your. self safe in advancing 5s. on articles worth 701.
+Ground Truth: On the 23rd of December, in the evening, she brought a pair of earrings to pledge, and be offered her 5s. on them, which she took. —Mr. Tyrwhitt: You thought yourself safe in advancing 5s. on articles worth 70l.
+
+OCR Text: 'The witness said there were between sixty and seventy persons in the shop at the time.
+Ground Truth: The witness said there were between sixty and seventy persons in the shop at the time.
+
+OCR Text: (The ear- rings were .produced.)
+Ground Truth: (The earrings were produced.)
+
+OCR Text: He was not sure the earrings were the same that he took in.
+Ground Truth: He was not sure the earrings were the same that he took in.
+
+OCR Text: He only just glanced at the earrings and lent the money.
+Ground Truth: He only just glanced at the earrings and lent the money.
+
+OCR Text: -He owned that he was very careless in taking them in.
+Ground Truth: He owned that he was very careless in taking them in.
+
+OCR Text: Mr. Lewis asked the witness whether, had the ear- sings been paste, he would have lent Ps. on thens- The witness answered that he should, as they would have been worth the money.
+Ground Truth: Mr. Lewis asked the witness whether, had the earrings been paste, he would have lent 5s. on them. —The witness answered that he should, as they would have been worth the money.
+
+OCR Text: Mr. Tyrwhitt observed that if business was carried On in such a way, pawnbrokers' shops would become most dangerous places; in fact; nothing else but re- ceiving-houses.-The witness said that if he had looked carefully at the earrings he would have seen that 'they were diamonds.
+Ground Truth: Mr. Tyrwhitt observed that if business was carried on in such a way, pawnbrokers' shops would become most dangerous places; in fact, nothing else but receiving-houses. —The witness said that if he had looked carefully at the earrings he would have seen that they were diamonds.
+
+OCR Text: Mr. Ilellish being absent, they were a baud short, and very busy, it being be. tween half-past seven and eight o'clock when they were pledged.
+Ground Truth: Mr. Mellish being absent, they were a hand short, and very busy, it being between half past seven and eight o'clock when they were pledged.
+
+OCR Text: They were redeemed on the 28th by a woman, hut he could not say whether by the pri- soner or not.
+Ground Truth: They were redeemed on the 28th by a woman, but he could not say whether by the prisoner or not.
+
+OCR Text: Mr. Pyke said that had the earrings been paste, the pawnbroker would not have lent anything on them.-r.. Tyrwbitt remarked that all he had to say was, that valuable articles were dealt with in these places in a very careless way.
+Ground Truth: Mr. Pyke said that had the earrings been paste, the pawnbroker would not have lent anything on them. —Mr. Tyrwhitt remarked that all he had to say was, that valuable articles were dealt with in these places in a very careless way.
+
+OCR Text: Pawnbrokers ought to be aware of the value of such things; in- deed, it was their business.
+Ground Truth: Pawnbrokers ought to be aware of the value of such things; indeed, it was their business.
+
+OCR Text: The elder prisoner said that she went to the St. George's baths that evening to obtain payment of something a person owed her, and on her return from the baths she picked up the earrings in the mews.
+Ground Truth: The elder prisoner said that she went to the St. George's baths that evening to obtain payment off something a person owed her, and on her return from the baths she picked up the earrings in the mews.
+
+OCR Text: Mr. Tyrwhitt observed that the elder prisoner had stated that her daughter, who was a dancer. at a theatre, had the earrings from a gentleman; that her daughter had a ring to match in her possession, and that was the way she became possessed of them; nxow she said that she got them in Grosvenor-mews.
+Ground Truth: Mr. Tyrwhitt observed that the elder prisoner had stated that her daughter, who was a dancer at a theatre, had the earrings from a gentleman; that her daughter had a ring to match in her possession, and that was the way she became possessed of them; now she said that she got them in Grosvenor mews.
+
+OCR Text: She would be able to' make her statemes~t.bn her trial, and it' would be for the jury to say whether they believed her.
+Ground Truth: She would be able to make her statement on her trial, and it would be for the jury to say whether they believed her.
+
+OCR Text: Ir. Mellish wished to say that he was quite igno. rant of the pledgisag of the earrings.
+Ground Truth: Mr. Mellish wished to say that he was quite ignorant of the pledging of the earrings.
+
+OCR Text: The elder prisoner, after being cautioned by the magistrate, said that she picked up the earrings, and must, suffer for it.-She was then committed for trial, and her daughter was discharged.
+Ground Truth: The elder prisoner, after being cautioned by the magistrate, said that she picked up the earrings, and must suffer for it. —She was then committed for trial, and her daughter was discharged.

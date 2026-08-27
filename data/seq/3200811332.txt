@@ -1,0 +1,74 @@
+OCR Text: SEOCKING DEATH OF A BRIDEGROOM.
+Ground Truth: SHOCKING DEATH OF A BRIDEGROOM.
+
+OCR Text: A TERRIBLE accident, which terminated fatally, occurred - at Hatfield Peverel Station on the Colchetter line of the Great Eastern Railway, Iate on Mlonday night.
+Ground Truth: A TERRIBLE accident, which terminated fatally, occurred at Hatfield Peverel Station on the Colchester line of the Great Eastern Railway, late on Monday night.
+
+OCR Text: William Humphreys, a brickkmaker's foreman, of Hatfield Peverel, had been to London to be married that day, end on his return the train stopped just outside the station.
+Ground Truth: William Humphreys, a brickmaker's foreman, of Hatfield Peverel, had been to London to be married that day, and on his return the train stopped just outside the station.
+
+OCR Text: Humphreys, believing he had reached the platform. stepped out, and fell beneath the wheels, the train pro- ceeding and passing over his legs and arm before he could get up,
+Ground Truth: Humphreys, believing he had reached the platform, stepped out, and fell beneath the wheels, the train proceeding and passing over his legs and arm before he could get up.
+
+OCR Text: The unfortunate man was shockingly mutilated, but he retained consciousness and murmured, "DI mear , to think I should come to this l"
+Ground Truth: The unfortunate man was shockingly mutilated, but he retained consciousness and murmured, "Dear me, to think I should come to this!"
+
+OCR Text: No doctor was in the train, so the sufferer was placed in the brake vanj and conveyed to Witham, where he was placed in the waitiiig- room,
+Ground Truth: No doctor was in the train, so the sufferer was placed in the brake van and conveyed to Witham, where he was placed in the waiting room.
+
+OCR Text: Two doctors commenced an operation ueon him,. but, after one leg had been amputated and whle the other was being taken off, he passed away while nder the influence of chloroform.
+Ground Truth: Two doctors commenced an operation upon him, but, after one leg had been amputated and while the other was being taken off, he passed away while under the influence of chloroform.
+
+OCR Text: His marriage certifiEat was found in his pocket.
+Ground Truth: His marriage certificate was found in his pocket.
+
+OCR Text: EXTRAORDINARY ATTEMPT To COMMIT SUIornxD-& prisoner namned Griffin, in Belfast Gaol, seized aglas5 from a passing warder, broke it, end tried, to ewallorw the fragments.
+Ground Truth: EXTRAORDINARY ATTEMPT TO COMMIT SUICIDE. —A prisoner named Griffin, in Belfast Gaol, seized a glass from a passing warder, broke it, and tried to swallow the fragments.
+
+OCR Text: A lisree piece-stuck in his throst, Infliting a frightful gash.
+Ground Truth: A large piece stuck in his throat, inflicting a frightful gash.
+
+OCR Text: H~e has been comnmitted for trial en the charge of attempting suicide.
+Ground Truth: He has been committed for trial on the charge of attempting suicide.
+
+OCR Text: ATTEMPTED SUICIDE AT LUDGATE.HItL STATION.-Onf Sunday night wheni the officials were locking-uP the station for the night a respectably dressed man, aged about thirty, was discovered in one of the. lavatocies with his throat cat..
+Ground Truth: ATTEMPTED SUICIDE AT LUDGATE-HILL STATION. —On Sunday night when the officials were locking-up the station for the night a respectably dressed man, aged about thirty, was discovered in one of the lavatories with his throat cut.
+
+OCR Text: He: was in an unconscious condi- tion, and the penknife with which he had inflicted tie wound was embedded in his neck.
+Ground Truth: He was in an unconscious condition, and the penknife with which he had inflicted the wound was embedded in his neck.
+
+OCR Text: After the injury had been attended t6 by a doctor the patient was removed to St. Bartholomew's Hospital, where he lies in a citical state.
+Ground Truth: After the injury had been attended to by a doctor the patient was removed to St. Bartholomew's Hospital, where he lies in a critical state.
+
+OCR Text: There was nothing upon him to lead to identifca- tion; he poisessed neither money nor valuables, ad his sole belonig apeared to be a Prayer-book and a few tracts.o
+Ground Truth: There was nothing upon him to lead to identification; he possessed neither money nor valuables, and his sole belongings appeared to be a Prayer-book and a few tracts.
+
+OCR Text: The fficPials at Ludgate-hill say lhe is a frequent traveller from that station.
+Ground Truth: The officials at Ludgate-hill say he is a frequent traveller from that station.
+
+OCR Text: PILLAGING A GABDEN.-At the Kingston-on-Tbanmes County Bench, on Saturday, two respectable-lookiug young men, Arthur Warren, a lithographer, and Alfred TProtmen, a cook, living at Tolworth, Surbiton, were charged with stealing four rose trees, vPalue £1, from a garden oin Surbiton-hill on the 15th inst.
+Ground Truth: PILLAGING A GARDEN. —At the Kingston-on-Thames County Bench, on Saturday, two respectable-looking young men, Arthur Warren, a lithographer, and Alfred Trotman, a cook, living at Tolworth, Surbiton, were charged with stealing four rose trees, value £1, from a garden on Surbiton-hill on the 15th inst.
+
+OCR Text: Detective Burdoc'rstated he received information from Mr. Jobi Farmer,the owner, that the roses had been stolen, and he went to Warren's house, where Trotman also lived.
+Ground Truth: Detective Burdock stated he received information from Mr. John Farmer, the owner, that the roses had been stolen, and he went to Warren's house, where Trotman also lived.
+
+OCR Text: One of the stolen trees was planted in the front garden, and he found the other three in a coal-cellar at the rearof the house.
+Ground Truth: One of the stolen trees was planted in the front garden, and he found the other three in a coal-cellar at the rear of the house.
+
+OCR Text: There were four other rose trees standinWg against the wall.
+Ground Truth: There were four other rose trees standing against the wall.
+
+OCR Text: The prisoners gave different versions -asto how they became possessed of the trees, sond were taken. to the police-station.
+Ground Truth: The prisoners gave different versions as to how they became possessed of the trees, and were taken to the police-station.
+
+OCR Text: Trotmnan now pleaded guilty, but Warren denied the theft.
+Ground Truth: Trotman now pleaded guilty, but Warren denied the theft.
+
+OCR Text: He said they were oeming fhode from London when they passed the proM 'eutor'sgaiden.
+Ground Truth: He said they were coming home from London when they passed the prosecutor's garden.
+
+OCR Text: Trotman said he would like to avesom rose trees, and went into the garden and pulled up four, saying they would never be missed.
+Ground Truth: Trotman said he would like to have some rose trees, and went into the garden and pulled up four, saying they would never be missed.
+
+OCR Text: The chairman (Hr. W. Y. Cookcurn) said it was a disgraceful theft for men in the prisoners positions, but as it was their first DffeLca they would be fined 48s. 6d. or fourteen days' bard labour.
+Ground Truth: The chairman (Mr. W. Y. Cookburn) said it was a disgraceful theft for men in the prisoners' positions, but as it was their first offence they would be fined 48s, 6d. or fourteen days' hard labour.

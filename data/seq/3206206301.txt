@@ -1,0 +1,164 @@
+OCR Text: ALLEGED MURDER BY A MOTHER.
+Ground Truth: ALLEGED MURDER BY A MOTHER.
+
+OCR Text: A woman, who gave the name of Mar-y IngZli, aged forty, residing at 52, Turnmill-street, Clerken- wvell, weas charged at the Clerkenwell police-coart, on Monday, with violently assaulting her daughter, Mary Ingliss, and thereby causing her death.
+Ground Truth: A woman, who gave the name of Mary Ingliss, aged forty, residing at 52, Turnmill-street, Clerkenwell, was charged at the Clerkenwell police-court, on Monday, with violently assaulting her daughter, Mary Ingliss, and thereby causing her death.
+
+OCR Text: Thes case excited a good deal of interest amongst the inhabitants of the neighbourhood, owing to the bad conduct of the defendant.
+Ground Truth: The case excited a good deal of interest amongst the inhabitants of the neighbourhood, owing to the bad conduct of the defendant.
+
+OCR Text: The deceased had been dying for some time past, and although the doctor who had been attending her informed the prisoner that she could survive only a few days, she had been drunk everyday, and in the constant habit of ill-using the deceased.
+Ground Truth: The deceased had been dying for some time past, and although the doctor who had been attending her informed the prisoner that she could survive only a few days, she had been drunk every day, and in the constant habit of ill-using the deceased.
+
+OCR Text: The prisoner's husband is represented as a sober, respectable man, but quite heart-broken through the disgraceful conduct of the prisoner.
+Ground Truth: The prisoner's husband is represented as a sober, respectable man, but quite heart-broken through the disgraceful conduct of the prisoner.
+
+OCR Text: The latter, on being placed in the dock, pretended to be out of her sense;, put her hands together, said she was innocent, and that this was all a conspiracy to ruin her.
+Ground Truth: The latter, on being placed in the dock, pretended to be out of her senses, put her hands together, said she was innocent, and that this was all a conspiracy to ruin her.
+
+OCR Text: Mrs. Sarah Rutherford said: I reside at 24, Eagle- court, John's-lane.
+Ground Truth: Mrs. Sarah Rutherford said: I reside at 24, Eagle-court, John's-lane.
+
+OCR Text: This morning I heard some chil. dren crying and saying that their mother was mur- lering their sister.
+Ground Truth: This morning I heard some children crying and saying that their mother was murdering their sister.
+
+OCR Text: I went up stairs, and in a dirty room I saw the defendant, who wan abusing the de- ceased, and making use of very disgusting language.
+Ground Truth: I went upstairs, and in a dirty room I saw the defendant, who was abusing the deceased, and making use of very disgusting language.
+
+OCR Text: l saw the def endant draw the deceased by the breast out of bed and pull her by the hair about the room.
+Ground Truth: I saw the defendant draw the deceased by the breast out of bed and pull her by the hair about the room.
+
+OCR Text: Before this the defendant had pulled the deceased half out of bed,
+Ground Truth: Before this the defendant had pulled the deceased half out of bed.
+
+OCR Text: There could be no doubt about the defendant being drunk.
+Ground Truth: There could be no doubt about the defendant being drunk.
+
+OCR Text: She was informed that the deceased was served the same on the previous night by the mother.
+Ground Truth: She was informed that the deceased was served the same on the previous night by the mother.
+
+OCR Text: She had never seen the prisoner or the deceased until that morning.
+Ground Truth: She had never seen the prisoner or the deceased until that morning.
+
+OCR Text: The deceased died a few minutes after.
+Ground Truth: The deceased died a few minutes after.
+
+OCR Text: The defendant here exclaimed it was all false, and that the witness had never been in the room in her life.
+Ground Truth: The defendant here exclaimed it was all false, and that the witness had never been in the room in her life.
+
+OCR Text: Witness continued: The defendant said that her daughter should never die upon the bed, if she did she would be-
+Ground Truth: Witness continued: The defendant said that her daughter should never die upon the bed, if she did she would be —.
+
+OCR Text: Mrs. Anna Higgs said: I was sitting at the door this morning when I was called to the deceased.
+Ground Truth: Mrs. Anna Higgs said: I was sitting at the door this morning when I was called to the deceased.
+
+OCR Text: I went upstairs and found defendant pinching the face of the deceased.
+Ground Truth: I went upstairs and found defendant pinching the face of the deceased.
+
+OCR Text: The defendant was pulling de- ceased's hair, and said if she did not get out of bed she would " bash" her down on the floor.
+Ground Truth: The defendant was pulling deceased's hair, and said if she did not get out of bed she would "bash" her down on the floor.
+
+OCR Text: The de- ceased asked me to lift her out of bed, so that she might lie upon the floor; and when I was lifting the deceased out, the prisoner came behind me and as- saulted me.
+Ground Truth: The deceased asked me to lift her out of bed, so that she might lie upon the floor; and when I was lifting the deceased out, the prisoner came behind me and assaulted me.
+
+OCR Text: From her violence I hurt my back, and feel the effects of it now.
+Ground Truth: From her violence I hurt my back, and feel the effects of it now.
+
+OCR Text: The prisoner made use of the most frightful imprecations against both the de- ceased and her (witness).
+Ground Truth: The prisoner made use of the most frightful imprecations against both the deceased and her (witness).
+
+OCR Text: The deceased said that. die when she would, her mother had killed her, and wished her dead.
+Ground Truth: The deceased said that, die when she would, her mother had killed her, and wished her dead.
+
+OCR Text: The prisoner was a very dissipated woman, and left her children for weeks to look after themselves.
+Ground Truth: The prisoner was a very dissipated woman, and left her children for weeks to look after themselves.
+
+OCR Text: The prisoner appeared to her to have been drinking in the morning.
+Ground Truth: The prisoner appeared to her to have been drinking in the morning.
+
+OCR Text: The p=isoner here made a great noise; and said her "dear husband could otherwise prove; the poor dear dead child she had always loved and looked after in the most affectionate manner."
+Ground Truth: The prisoner here made a great noise; and said her "dear husband could otherwise prove; the poor dear dead child she had always loved and looked after in the most affectionate manner.”
+
+OCR Text: Mr. Tyrwhitt inquired if the prisoner was then per- fectly sober ?-Sergeant Wotton said she had been the same ever since she Was locked up.
+Ground Truth: Mr. Tyrwhitt inquired if the prisoner was then perfectly sober? —Sergeant Wotton said she had been the same ever since she was locked up.
+
+OCR Text: She was a very dissipated woman, and he was informed that she had not been properly sober for years.
+Ground Truth: She was a very dissipated woman, and he was informed that she had not been properly sober for years.
+
+OCR Text: Mrs. Riggs, in continuation, said that the deceased died about ten minutes after the prisoner's violence.
+Ground Truth: Mrs. Higgs, in continuation, said that the deceased died about ten minutes after the prisoner's violence.
+
+OCR Text: The room and bed were in such a state that she would not have put a dog in, "leave alone a Chris- tian."
+Ground Truth: The room and bed were in such a state that she would not have put a dog in, "leave alone a Christian."
+
+OCR Text: All the time she was attending to the de- ceased the prisoner was abusing her.
+Ground Truth: All the time she was attending to the deceased the prisoner was abusing her.
+
+OCR Text: Police-constable Taylor said the prisoner was a very drunken woman, and he had often been com- plained to about her dissipated habits.
+Ground Truth: Police-constable Taylor said the prisoner was a very drunken woman, and he had often been complained to about her dissipated habits.
+
+OCR Text: Her husband was a respectable working man.
+Ground Truth: Her husband was a respectable working man.
+
+OCR Text: lIts. Mary Ann Peck said. I went up to the pri. seoner's room this morning, and saw the prisoner pull the deceased out of bed.
+Ground Truth: Ms. Mary Ann Peck said: I went up to the prisoner's room this morning, and saw the prisoner pull the deceased out of bed.
+
+OCR Text: The prisoner also scratched the deceased's face, and the marks are now plainly visible.
+Ground Truth: The prisoner also scratched the deceased's face, and the marks are now plainly visible.
+
+OCR Text: The prisoner, who was the worse for liquor, said to the deceased, with an oath, "You shall not sleep or die upon my bed."
+Ground Truth: The prisoner, who was the worse for liquor, said to the deceased, with an oath, "You shall not sleep or die upon my bed."
+
+OCR Text: She then pulled the de- ceased out of bed, and made use of dreadful language.
+Ground Truth: She then pulled the deceased out of bed, and made use of dreadful language.
+
+OCR Text: Since the prisoner's daughter was taken ill and con- fined to her bed the prisoner has often pulled her out of bed of a night.
+Ground Truth: Since the prisoner's daughter was taken ill and confined to her bed the prisoner has often pulled her out of bed of a night.
+
+OCR Text: The prisoner made the de- ceased go on the streets for a livelihood, and has waited for the money of a morning.
+Ground Truth: The prisoner made the deceased go on the streets for a livelihood, and has waited for the money of a morning.
+
+OCR Text: The prisoner was a very wicked woman, and had got drunk on the proceeds of her own daughter's prostitution-The prisoner here made a great noise, and said she w as a "pure" woman.
+Ground Truth: The prisoner was a very wicked woman, and had got drunk on the proceeds of her own daughter's prostitution. —The prisoner here made a great noise, and said she was a "pure" woman.
+
+OCR Text: leir. Tyrwhitt inquired how long after the pri- soner's violence the poor girl lived.-Witness: Not more than ten minutes; hut before she expired she said if she died her mother was the cause of her death.
+Ground Truth: Mr. Tyrwhitt inquired how long after the prisoner's violence the poor girl lived. —Witness: Not more than ten minutes; but before she expired she said if she died her mother was the cause of her death.
+
+OCR Text: Dr. Goddard said he had attended the deceased for some time, and found her suffering from consump tion.
+Ground Truth: Dr. Goddard said he had attended the deceased for some time, and found her suffering from consumption.
+
+OCR Text: He had advised her to go into the infirmary, but she had refused.
+Ground Truth: He had advised her to go into the infirmary, but she had refused.
+
+OCR Text: He had told the friends that the deceased could not live long, and had told them to keep her quiet.
+Ground Truth: He had told the friends that the deceased could not live long, and had told them to keep her quiet.
+
+OCR Text: MIr. Tyrwhitt: Are you of opinion that the vio- lence used by prisoner upon her daughter would at celerate her death?-Witness: Yes.
+Ground Truth: Mr. Tyrwhitt: Are you of opinion that the violence used by prisoner upon her daughter would accelerate her death? —Witness: Yes.
+
+OCR Text: Mr. Tyrwbitt (to the prisoner): Have you anything to say in answer to this charge?
+Ground Truth: Mr. Tyrwhitt (to the prisoner): Have you anything to say in answer to this charge?
+
+OCR Text: If you are pretend' ing to be mad it will make no impression here; but, if you are mad, your case shall be seen into by the proper authorities.
+Ground Truth: If you are pretending to be mad it will make no impression here; but, if you are mad, your case shall be seen into by the proper authorities.
+
+OCR Text: The prisoner, in the most cool manner, said all the witnesses lad sworn falsely, and one of them had been drinking with her the night previously.
+Ground Truth: The prisoner, in the most cool manner, said all the witnesses had sworn falsely, and one of them had been drinking with her the night previously.
+
+OCR Text: She then put her hands together, and said, " Oh, yes, I am innocent, and everybody swears false against me."
+Ground Truth: She then put her hands together, and said, "Oh, yes, am innocent, and everybody swears false against me."
+
+OCR Text: Mr. Tyrwhitt said that there might be some diffi- culty in the case.
+Ground Truth: Mr. Tyrwhitt said that there might be some difficulty in the case.
+
+OCR Text: He was willing to suppose that a person who, according to the statements before him, bad been drunk for years, did not know all that she was about; but there was one thing quite clear, that when the witness went to help the girl she was as- saulted.
+Ground Truth: He was willing to suppose that a person who, according to the statements before him, bad been drunk for years, did not know all that she was about; but there was one thing quite clear, that when the witness went to help the girl she was assaulted.
+
+OCR Text: He should order the defendant to pay a fine of St., or, in default of payment, to be imprisoned in the house of correction, without hard labour, for the assault on the witness Higgs.
+Ground Truth: He should order the defendant to pay a fine of 3l., or, in default of payment, to be imprisoned in the house of correction, without hard labour, for the assault on the witness Higgs.
+
+OCR Text: The prisonerhere said she was being wronged, and wanted to know what she could do.
+Ground Truth: The prisoner here said she was being wronged, and wanted to know what she could do.
+
+OCR Text: Mr. Tyrwhitt ordered the prisoner to be taken away, and said that a more cruel, hateful, and disgraceful case was never brought before him.-The prisoner was then removed, screaming loudly.
+Ground Truth: Mr. Tyrwhitt ordered the prisoner to be taken away, and said that a more cruel, hateful, and disgraceful case was never brought before him. —The prisoner was then removed, screaming loudly.

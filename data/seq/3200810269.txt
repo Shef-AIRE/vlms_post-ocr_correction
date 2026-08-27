@@ -1,0 +1,59 @@
+OCR Text: BETTING CLUBS AND EMBEZZLEMENTS. __ . . I .
+Ground Truth: BETTING CLUBS AND EMBEZZLEMENTS.
+
+OCR Text: HARRY AuGusrus KRUSE, twenty-four, clerk, of Northwold-road, Upper Clapton, was before Mr. Haden Corser at North London Police-court, on Monday, on:& charge of embpzzling various sums of money collected by him on behalf of his employers Messrs. Matthew Rose and Sons, drapers, of Mare- street, Hackney.
+Ground Truth: HARRY AUGSTUS KRUSE, twenty-four, clerk, of Northwold-road, Upper Clapton, was before Mr. Haden Corser at North London Police-court, on Monday, on a charge of embezzling various sums of money collected by him on behalf of his employers Messrs. Matthew Rose and Sons, drapers, of Mare-street, Hackney.
+
+OCR Text: Mr. Samuels prosecuted, and Mr. Young defended.
+Ground Truth: Mr. Samuels prosecuted, and Mr. Young defended.
+
+OCR Text: The evidence showed that the prisoner had been employed by Messrs. Rose as col. lector for twelve months prior to last September, when he absconded.
+Ground Truth: The evidence showed that the prisoner had been employed by Messrs. Rose as collector for twelve months prior to last September, when he absconded.
+
+OCR Text: Soon after that his receipt book was sent back, pointing out the sums which he had received and not paid in.
+Ground Truth: Soon after that his receipt book was sent back, pointing out the sums which he had received and not paid in.
+
+OCR Text: Mr. Corser: What is the total amount of the defalcations?
+Ground Truth: Mr. Corser: What is the total amount of the defalcations?
+
+OCR Text: Mr. Young: The prosecutors have very generously agreed to proceed on one ch.rge only, viz., £2 3a. 4d., received from Mr. Llewellyo, of Coborn-road, Bow.
+Ground Truth: Mr. Young: The prosecutors have very generously agreed to proceed on one charge only, viz., £2 3s. 4d., receive from Mr. Llewellyo, of Coborn-road, Bow.
+
+OCR Text: Mr. Corser: What is the total amount?
+Ground Truth: Mr. Corser: What is the total amount?
+
+OCR Text: Mr. Young: £39.
+Ground Truth: Mr. Young: £39.
+
+OCR Text: Mr. Mold, prosecutor's cashier, said he had not recerved the various amounts which had boen marked by the accused.
+Ground Truth: Mr. Mold, prosecutor’s cashier, said he had not received the various amounts which had been market by the accused.
+
+OCR Text: Mr. Corser: What wages had be?
+Ground Truth: Mr. Corser: What wages had he?
+
+OCR Text: Mr. Rose: Thirty-five shillings a week,
+Ground Truth: Mr. Rose: Thirty-five shillings a week.
+
+OCR Text: Mr. Young said the prisoner pleaded guilty, and expressed great sorrow; but he had given due notice to the prosecutors, so that there might recoup themselves from the (4carantee Society.
+Ground Truth: Mr. Young said the prisoner pleaded guilty, and expressed great sorrow; but he had given due notice to the prosecutors, so that there might recoup themselves from the Guarantee Society.
+
+OCR Text: Mr. Ross: Oh, don't think for one moment that we are pressing the Case because of the meney not having been recovered.
+Ground Truth: Mr. Ross: Oh, don’t think for one moment that we are pressing the case because of the money not having been recovered.
+
+OCR Text: Detective-sergeant Whitlock, of the J Division, said he apprehended the prisoner at Totten- ham on Saturday night, when the latter replied, to the reading of the warrant, II All right; I had the money, and shall plead guilty to it."
+Ground Truth: Detective-sergeant Whitlock, of the J Division, said he apprehended the prisoner at Tottenham on Saturday night, when the latter replied, to the reading of the warrant, “All right; I had the money, and shall plead guilty to it.”
+
+OCR Text: Mr. Young said thd prisoner had been taken, to a club of which he was not a member, and there induced to gamble.
+Ground Truth: Mr. Young said the prisoner had been taken to a club of which he was not a member, and there induced to gamble.
+
+OCR Text: He took several small sums of his master's money, and made notes of them in the hope of repaying them.
+Ground Truth: He took several small sums of his master’s money, and made notes of them in the hope of repaying them.
+
+OCR Text: Bat he became hopelessly involved, and sent baek his books and absconded.
+Ground Truth: But he became hopelessly involved, and sent back his books and absconded.
+
+OCR Text: Since then the pri- soner had had three months' serious illness as a con- sequence of over worry.
+Ground Truth: Since then the prisoner had three months’ serious illness as a consequence of over worry.
+
+OCR Text: Mr. Coreer remanded tbe prisoner to consider what lhe would do with him.
+Ground Truth: Mr. Corser remanded the prisoner to consider what he would do with him.

@@ -1,0 +1,74 @@
+OCR Text: ACTION AGAINPS A COMEDIAN. . A - .1 I- * - - -- - -rnnn.
+Ground Truth: ACTION AGAINST A COMEDIAN.
+
+OCR Text: AT the Southlwark County CuU:t, on Monday morn- ing, before his Honour Judge Holroyd, the caee of Didcott v. Macdermot, wa3 heard,
+Ground Truth: AT the Southwark County Court, on Monday morning, before his Honour Judge Holroyd, the case of Didcott v. Macdermots was heard.
+
+OCR Text: Mr. Armstronga colicitor, appeared for the pltintiff, who, he sti., yvas a musical and draniacie agent.
+Ground Truth: Mr. Armstrong, solicitor, appeared for the plaintiff, who, he said, was a musical and dramatic agent.
+
+OCR Text: Defendant was a comedian and vocalist, and w3S also Ell agent, and I the action wag brought against him to recover the sam of £35 l13. Sl., beiDgt commission due upon t engagenlent; procurtd fur him by the plaintiff.
+Ground Truth: Defendant was a comedian and vocalist, and was also an agent, and the action was brought against him to recover the sum of £35 11s. 8d., being commission due upon engagements procured for him by the plaintiff.
+
+OCR Text: Tsi eI trst item wias COuvlaiiSSsion at five per cent ,p2 Ir. Macdermoat's eeg ge.e 'nt at tho Lmindo I' vii c at 120 per week, on wvhical engagement there wo-e twenty-three weo!.s' commission due tip to July 29.h.
+Ground Truth: The first item was commission at five percent upon Mr. Macdermott's engagement at the London Pavilion at £20 per week, on which engagement there were twenty-three weeks' commission due up to July 29th.
+
+OCR Text: Then ;here weas cmlqseijn at five per cent. upon s Mr. Macderm('.t's engegemenrts at the (Camlorire 1uaic E .dl I'~ {. I) lumr ek, arnd awt Collins's at £]*2 12't.tI per week ; upon tcvn engagemniei at Elinburgh and E N~ewecatle at; -130 PCI. weuk 3nd -L;c the Star. in Dablin, at £40 per nvcd.
+Ground Truth: Then there was commission at five per cent upon Mr. Macdermott's engagements at the Cambridge Music Hall £15 per week, and at Collins's at £12 12s. per week; upon two engagements at Edinburgh and Newcastle at £30 per week and at the Star, in Dublin, at £40 per week.
+
+OCR Text: Mr. 14. AnclrewE, the t plaintiCife ClrL!, wVxc called to prove the claim, and produce d thbe eontratcc se ilre.pect of which the action was brought.
+Ground Truth: Mr. R. Andrews, the plaintiff's clerk, was called to prove the claim, and produced the contracts in respect of which the action was brought.
+
+OCR Text: The def rudat s id he was quite pre- } paered to iay 8bc pltaintiff £21 ls..S.,and had brougfht a; chequle xvi h huinl folr thlait sam.
+Ground Truth: The defendant said he was quite prepared to pay the plaintiff £24 1s. 8d., and had brought a cheque with him for that sum.
+
+OCR Text: lHe saidhe objected t to pay cotrmlision up-,n all re enga3gements.
+Ground Truth: He said he objected to pay commission upon all re engagements.
+
+OCR Text: Not only t was that unusual, bat- His Honour: I never saw an engager( nt Upon wlhich there was not commission t payah'e upnn re-engeg:-tuentq.
+Ground Truth: Not only as that unusual, but-- His Honour: I never saw an engagement upon which there was not commission payable upon re-engagements.
+
+OCR Text: M.Ir. Armstrong: Mr. ()iddcctt. made tlis man. He was nobody before Mr. t Didectt took himt up.
+Ground Truth: Mr. Armstrong: Mr. Didcott made this man. He was nobody before Mr. Didcott took him up.
+
+OCR Text: Tiit Defendant (excitedly) r wwj tktacderynott before Mr. Didcott ever came into te business,.
+Ground Truth: The Defendant (excitedly): I was Macdermott before Mr. Didcott ever came into the business.
+
+OCR Text: Mr. Armstrong : You are t .n aeent ymor-eli?
+Ground Truth: Mr. Armstrong: You are an agent yourself?
+
+OCR Text: PIefevdeant: No, I am not an agent.
+Ground Truth: Defendant: No, I am not an agent.
+
+OCR Text: Mr. Armsntrorg : What does 'Macdermott'e Univers l Dratmatic ard Musical Agency " mean, then?
+Ground Truth: Mr. Armstrong: What does "Macdermott's Universal Dramatic and Musical Agency" mean, then?
+
+OCR Text: l)efendant : That is my brother. Edlward Macdermott.
+Ground Truth: Defendant: That is my brother, Edward Macdermott.
+
+OCR Text: lr. At mstrong: Don't you know that the usu.1 crmmnsiion is ten per cent. ?
+Ground Truth: Mr. Armstrong: Don't you know that the usual commission is ten percent.?
+
+OCR Text: Defendant: Not with a man of my reputation. Big turns like myself pay five per cent.
+Ground Truth: Defendant: Not with a man of my reputation. Big turns like myself pay five per cent.
+
+OCR Text: lis honour remarked that where a man put his hand t-o a certain document, and t that doemnent was broughlt into court, he could not go away irem it.
+Ground Truth: His honour remarked that where a man put his hand to a certain document, and that document was brought into court, he could not go away from it.
+
+OCR Text: Heo gave jatdgment for the plaintiff 'or the amount claimed.
+Ground Truth: He gave judgment for the plaintiff for the amount claimed.
+
+OCR Text: 'hle defendant oflered to hand over his cheque for ;£24 1a. 81
+Ground Truth: The defendant offered to hand over his cheque for £24 1s. 8d.
+
+OCR Text: M-. Arnistrongg: We would rat her not takc his cheque, sir.
+Ground Truth: Mr. Armstrong: We would rather not take his cheque, sir.
+
+OCR Text: Difn- dant (exc-tcdly) : He laes borrowed money of me and ray family. I have been brought here to be insulted.
+Ground Truth: Defendant (excitedly): He has borrowed money of me and my family. I have been brought here to be insulted.
+
+OCR Text: Mr. Ddcott : He has sihid he is nuot an agent. I shall be able to prove righlt up to the hilt that he is an agent.
+Ground Truth: Mr. Didcott: He has said he is not an agent. I shall be able to prove right up to the hilt that he is an agent.
+
+OCR Text: T he parties lhen lef ; the court.
+Ground Truth: The parties then left the court.

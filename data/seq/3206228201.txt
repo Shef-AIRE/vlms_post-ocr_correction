@@ -1,0 +1,71 @@
+OCR Text: EXTRAORDINARY ATTEMPT TO URDER.
+Ground Truth: EXTRAORDINARY ATTEMPT TO MURDER.
+
+OCR Text: : rFom ourlatest editions of last week.1*
+Ground Truth: [From our latest editions of last week.]
+
+OCR Text: On Saturday, Capt. John Orwin, lateimaster of the ship Copse, weas charged at the Thames police-court with feloniously cutting and wonndiig Henley Cuck-. more, cook and steward of the same vessel, with in-. tent to murder him.
+Ground Truth: On Saturday, Capt. John Orwin, late master of the ship Copse, was charged at the Thames police-court with feloniously cutting and wounding Henry Cuckmore, cook and steward of the same vessel, with intent to murder him.
+
+OCR Text: Mr. 'Charles Young, solicitor, defended the pri- soner, who is a man about thirty years of age, with large red beard and moustache.
+Ground Truth: Mr. Charles Young, solicitor, defended the prisoner, who is a man about thirty years of age, with large red beard and moustache.
+
+OCR Text: He did not betray any indications of insamity, nor. is that line of de- fence to be set up for him.
+Ground Truth: He did not betray any indications of insanity, nor is that line of de fence to be set up for him.
+
+OCR Text: Prisoner had been brought from Lisbon in custody..
+Ground Truth: Prisoner had been brought from Lisbon in custody.
+
+OCR Text: Henry Onolrmore iwsa examined at egreat lengthj and deposed to an- attempt having been made to cat his throat in his berth en the 21st 0X last July, while the ship, was at sea.
+Ground Truth: Henry Cuckmore was examined at great length, and deposed to an attempt having been made to cut his throat in his berth on the 21st of last July, while the ship was at sea.
+
+OCR Text: That attaqk was made by the prisoner, who charged another man with the offenoe.
+Ground Truth: That attack was made by the prisoner, who charged another man with the offence.
+
+OCR Text: After that the prisoner gave witness a .bottle of opium, and wanted him to put it in the men's coffee.
+Ground Truth: After that the prisoner gave witness a bottle of opium, and wanted him to put it in the men's coffee.
+
+OCR Text: He proposed that they should kill theiwbole of the crow, and then run the vessel to some port and sell her.
+Ground Truth: He proposed that they should kill the whole of the crow, and then run the vessel to some port and sell her.
+
+OCR Text: Witness, however, refused to have anything to do with the (iabolioal plot.
+Ground Truth: Witness, however, refused to have anything to do with the diabolical plot.
+
+OCR Text: The captain- repeated the proposiion on several occasions, and rather than, join in it witness attempted to jump overboard, but was prevented.
+Ground Truth: The captain repeated the proposition on several occasions, and rather than join in it witness attempted to jump overboard, but was prevented.
+
+OCR Text: On the night of the Slst Jnly wit- ness was again attackedw and severely stabbed.
+Ground Truth: On the night of the 31st July witness was again attacked, and severely stabbed.
+
+OCR Text: He raised an alarm, ,and then became insensible.
+Ground Truth: He raised an alarm, and then became insensible.
+
+OCR Text: When he came to himself he was lying on a bed in the Cabin, and found the captain was in irons.
+Ground Truth: When he came to himself he was lying on a bed in the cabin, and found the captain was in irons.
+
+OCR Text: The mate took comman'd ef ihe vessel, and took her to Lisbon, and saw the British consul, who sent the men home.
+Ground Truth: The mate took command of the vessel, and took her to Lisbon, and saw the British consul, who sent the men home.
+
+OCR Text: Af ter some confirmatory evidence the prisoner was remanded.
+Ground Truth: After some confirmatory evidence the prisoner was remanded.
+
+OCR Text: SENDsNna BAD MRAT TO MARKE.-On Friday, at Guildh'all, Gerard Samson, of Preston, Dorsetshire, a butcher, wvas summoned for sending six pieces of diseased beef to Leadenhall-market for human food.
+Ground Truth: SENDING BAD MEAT TO MARKET. —On Friday, at Guildhall, Gerard Samson, of Preston, Dorsetshire, a butcher, was summoned for sending six pieces of diseased beef to Leadenhall-market for human food.
+
+OCR Text: -Mr. Baylis said this was a very aggravated case.
+Ground Truth: —Mr. Baylis said this was a very aggravated case.
+
+OCR Text: A I farmer'residing near Prestonhada cow that had been I afflicted with " bearing down" in July and pre. vusly in January, so that she WAS in a very diseased ate from inhwammation.
+Ground Truth: A farmer residing near Preston had a cow that had been afflicted with "bearing down" in July and previously in January, so that she was in a very diseased state from inflammation.
+
+OCR Text: in other respects the cow was X dine animinl, and wvorth about ISl., but in con-: sequence of the disease the animal was labonring cender it was sold -for the stun of 51.
+Ground Truth: In other respects, the cow was a fine animal, and worth about 18l., but in consequence of the disease the animal was labouring under it was sold for the sum of 5l.
+
+OCR Text: After thee de-; fendant had had the cowv, and found the condition it' was in, he went to the farmer from whome be bought It, and offered to lose half the 5?. if ie would lose the ither half.
+Ground Truth: After the defendant had had the cow, and found the condition it was in, he went to the farmer from whom he bought it, and offered to lose half the 5l. if he would lose the other half.
+
+OCR Text: ' The farner refused, and then he had the cow killed and dressed.
+Ground Truth: The farmer refused, and then he had the cow killed and dressed.
+
+OCR Text: Some portions 'of the meat were given to the defendant's pis, and the rest he seat up to ondlonwhere it arrived in a most stinkingV state from the disessed condition 'of the, animal--The Inspectors' of emeat having proved the above fasts, Sir Be. Cardeis sentenced 'the prmanner to a mon' herd Iabour.-Mr. Chilott, thefarmer,. wa then called forward, and told by Sir H Cardei tht he 'wa almost as culpable as the defendant, and 8bht have been placed at 'his side had ho been sent to th old Baidley.
+Ground Truth: Some portions of the meat were given to the defendant's pigs, and the rest be sent up to London, where it arrived in a most stinking state from the diseased condition of the animal. —The inspectors of meat having proved the above facts, Sir B. Carden sentenced the prisoner to a month's hard labour. —Mr. Chilcott, the farmer, was then called forward, and told by Sir R. Carden that he was almost as culpable as the defendant, and might have been placed at his side had he been sent to the Old Bailey.

@@ -1,0 +1,59 @@
+OCR Text: YESTERDAY'S INQUESTS.
+Ground Truth: YESTERDAY'S INQUESTS.
+
+OCR Text: SUPPOSED CHILD MURDER AT PENGE,
+Ground Truth: SUPPOSED CHILD MURDER AT PENGE.
+
+OCR Text: Yesterday Alr. William Carter. coroner for East Surrey, held an inquest at the Pamleyn Arms hotel, Beckenhiam-road, Penge, on the body of a female child which was discovered in the garden of a gentlemen's house.
+Ground Truth: Yesterday Mr. William Carter, coroner for East Surrey, held an inquest at the Pamleyn Arms hotel, Beckenham-road, Penge, on the body of a female child which was discovered in the garden of a gentlemen's house.
+
+OCR Text: Mr. G. F. Cummings, of Fir lodge, Penge, said that on Wednesday morning he was walking through the garden in the front of the house about 10 o'clock, when he discovered a large brown paper parcel lying amongst some growing shrubs.
+Ground Truth: Mr. G. F. Cummings, of Fir lodge, Penge, said that on Wednesday morning he was walking through the garden in the front of the house about 10 o'clock, when he discovered a large brown paper parcel lying amongst some growing shrubs.
+
+OCR Text: The garden was enclosed with close wooden rails, and the spot where the body was found was about six yards from the public road.
+Ground Truth: The garden was enclosed with close wooden rails, and the spot where the body was found was about six yards from the public road.
+
+OCR Text: Witness sent for the police, and when the parcel was opened it was seen to contain the body of a child. and it was taken to the Penge police-station.
+Ground Truth: Witness sent for the police, and when the parcel was opened it was seen to contain the body of a child, and it was taken to the Penge police-station.
+
+OCR Text: SerJeant Bis- sett, of the Peuge police, said the detectives were now engaged isnuking inquiry into the matter, but up to the present they had failed to trace the per- son to whom the child belonged.
+Ground Truth: Serjeant Bissett, of the Penge police, said the detectives were now engaged making inquiry into the matter, but up to the present they had failed to trace the person to whom the child belonged.
+
+OCR Text: Upon opening the paper of the parcel the body was found deposited in a calico bag.
+Ground Truth: Upon opening the paper of the parcel the body was found deposited in a calico bag.
+
+OCR Text: The coroner did not take any medical evidence, and the jury returned an open verdict, leaving the police to follow up the mystery.
+Ground Truth: The coroner did not take any medical evidence, and the jury returned an open verdict, leaving the police to follow up the mystery.
+
+OCR Text: AN UNEXPECTED SUICIDE.
+Ground Truth: AN UNEXPECTED SUICIDE.
+
+OCR Text: Yesterday afternoon Dr. Diplock, the coroner for West Middlesex, held a long inquiry at 33, High- street, N otting-hill, relative to the death of Blary Ward, aged 49, the wife of a tradesman carrying on the business of a plumber at the above address.
+Ground Truth: Yesterday afternoon Dr. Diplock, the coroner for West Middlesex, held a long inquiry at 33, Highstreet, Notting-hill, relative to the death of Mary Ward, aged 49, the wife of a tradesman carrying on the business of a plumber at the above address.
+
+OCR Text: Robert Ward, the husband, stated that deceased for some times past hal ,een ina very debilitated and nervous condition.
+Ground Truth: Robert Ward, the husband, stated that deceased for some time past had been in a very debilitated and nervous condition.
+
+OCR Text: On Wedlesdav evening he and his wife went out to visit a neighbour; but while on the journey she expressed her intention of going horne first, and returning.
+Ground Truth: On Wednesday evening he and his wife went out to visit a neighbour; but while on the journey she expressed her intention of going home first, and returning.
+
+OCR Text: She did not return, and witness afterwards went home, when lie found his wife in an insensible condition in an upstairs room.
+Ground Truth: She did not return, and witness afterwards went home, when he found his wife in an insensible condition in an upstairs room.
+
+OCR Text: An empty laudannim bottle, labelled " poison," was on a table beside her.
+Ground Truth: An empty laudanum bottle, labelled "poison," was on a table beside her.
+
+OCR Text: Medical aid wasat once resorted to, but deceased died or. Thursday.
+Ground Truth: Medical aid was at once resorted to, but deceased died on Thursday.
+
+OCR Text: Mr. W. A. Frost, surgeon, of 47, Ladbrole-square,K-enisingtoli, said death was due to narcotic poisoning.
+Ground Truth: Mr. W. A. Frost, surgeon, of 47, Ladbroke-square, Kensington, said death was due to narcotic poisoning.
+
+OCR Text: He found a cicatrice on deceased's throat, which indicated a previos attemi)t at sdicide.
+Ground Truth: He found a cicatrice on deceased's throat, which indicated a previous attempt at suicide.
+
+OCR Text: Mir. H. Sugar, chemist, High-street, Notting-hill, said the deceased pur- chased the laudunum from him, stating that she wanted it to cure her son's toothache.
+Ground Truth: Mr. H. Sugar, chemist, High-street, Notting-hill, said the deceased purchased the laudanum from him, stating that she wanted it to cure her son's toothache.
+
+OCR Text: The jury returned a verdict " That deceased died fiom laudanun' taken by herself whilst of unsound mind."
+Ground Truth: The jury returned a verdict “That deceased died from laudanum taken by herself whilst of unsound mind."

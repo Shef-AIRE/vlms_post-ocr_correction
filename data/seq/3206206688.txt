@@ -1,0 +1,68 @@
+OCR Text: A WOMAN PASSING AS A MAN. a"k n~~^
+Ground Truth: A WOMAN PASSING AS A MAN.
+
+OCR Text: vun oa=uroaylast, a mam was found drowned at Mode Wheel, on the river frwell, in the township of Pendlebury, in the borough of Salford.
+Ground Truth: On Saturday last, a man was found drowned at Mode Wheel, on the river Irwell, in the township of Pendlebury, in the borough of Salford.
+
+OCR Text: On going to tske the inquest in the afternoon, the body appeared to be that of a man about fifty or sixty years of age.
+Ground Truth: On going to take the inquest in the afternoon, the body appeared to be that of a man about fifty or sixty years of age.
+
+OCR Text: From the evidence it appeared that a man named Yates, employed at the Mode Wheel works, dis- covered the body in a nearly erect position at half- past six that morning, in the sluiee leading from the river Irwell.
+Ground Truth: From the evidence it appeared that a man named Yates, employed at the Mode Wheel works, discovered the body in a nearly erect position at half past six that morning, in the sluice leading from the river Irwell.
+
+OCR Text: With the assistance of a man named James Moyles, he got the body out of the water, and conveyed it to the Swan inn, Pendlebury, where it lay until Saturday night,
+Ground Truth: With the assistance of a man named James Moyles, he got the body out of the water, and conveyed it to the Swan inn, Pendlebury, where it lay until Saturday night.
+
+OCR Text: MaMy Gorton, who keeps a beer-shop near the Swan inn, stated that on Friday afternoon this man came to her house, and remained from three o'clock until five.
+Ground Truth: Mary Gorton, who keeps a beer-shop near the Swan inn, stated that on Friday afternoon this man came to her house, and remained from three o'clock until five.
+
+OCR Text: He a ppeared perfectly sober.
+Ground Truth: He appeared perfectly sober.
+
+OCR Text: During the time he remained he asked for a glass of beer and a pipe of tobacco, and had four glasses in all, for which he paid sixpence.
+Ground Truth: During the time be remained he asked for a glass of beer and a pipe of tobacco, and had four glasses in all, for which he paid sixpence.
+
+OCR Text: Before leaving he inquired of her at what time the gates of the lodge leading to Mode Wheel were closed for the night.
+Ground Truth: Before leaving he inquired of her at what time the gates of the lodge leading to Mode Wheel were closed for the night.
+
+OCR Text: She inquired whe- ther he was going to Manchester, when he replied, "No, to Throttle Nest."
+Ground Truth: She inquired whether he was going to Manchester, when he replied, "No, to Throttle Nest."
+
+OCR Text: The witness said " he ap- peared to be upset in his mind," and she had no fur. ther conversation with him.
+Ground Truth: The witness said "he appeared to be upset in his mind," and she had no further conversation with him.
+
+OCR Text: He was a stranger to her before this.
+Ground Truth: He was a stranger to her before this.
+
+OCR Text: One of the jury remarked, that if it was the per- son he supposed, he knew him well,
+Ground Truth: One of the jury remarked, that if it was the person he supposed, he knew him well.
+
+OCR Text: His name was Henry Stokes; but though he was known by this name he was not a man, and his proper name was Harriet Stokes.
+Ground Truth: His name was Henry Stokes; but though he was known by this name he was not a man, and his proper name was Harriet Stokes.
+
+OCR Text: She had assumed the name and garb of a man for a great number of years, and had served an apprenticeship as a bricksetter, after working as a journeyman, and then for several years in business, having constructed many of the warehouses, chapels, and dwelling-houses in the neighbourhood of Man- chester, the last work being the erection of a factory chimney for Mr. Simpson.
+Ground Truth: She had assumed the name and garb of a man for a great number of years, and had served an apprenticeship as a bricksetter, after working as a journeyman, and then for several years in business, having constructed many of the warehouses, chapels, and dwelling houses in the neighbourhood of Manchester, the last work being the erection of a factory chimney for Mr. Simpson.
+
+OCR Text: The coroner then directed two women to examine the body, who came back tittering, saying it was true; it was the body of a woman.
+Ground Truth: The coroner then directed two women to examine the body, who came back tittering, saying it was true; it was the body of a woman.
+
+OCR Text: Harriett Taylor, who lives in the neighbourhood, said she knew Stokes well.
+Ground Truth: Harriett Taylor, who lives in the neighbourhood, said she knew Stokes well.
+
+OCR Text: He was a bricksetter.
+Ground Truth: He was a bricksetter.
+
+OCR Text: The proper name was Harriet Stokes, but he went by the name of Harry Stokes.
+Ground Truth: The proper name was Harriet Stokes, but he went by the name of Harry Stokes.
+
+OCR Text: Some years ago Stokes married a women in Manchester.
+Ground Truth: Some years ago Stokes married a woman in Manchester.
+
+OCR Text: They lived to- gether as man and wife, and kept a beershop, in Quay street, Manchester.
+Ground Truth: They lived together as man and wife, and kept a beershop, in Quay street, Manchester.
+
+OCR Text: Several of the jury recol- lected the case, and that ballads were composed and sung in the streets on its being known that the sup- posed man was a woman.-The verdict was " Found drowned. Supposed suicide."
+Ground Truth: Several of the jury recollected the case, and that ballads were composed and sung in the streets on its being known that the supposed man was a woman. —The verdict was "Found drowned. Supposed suicide."
+
+OCR Text: Since the inquest we have ascertained from inqui- ries that it is stated that about twenty five years ago this woman was married to a female, who made com- plaint that her husband was not a man, and left her in consequence.
+Ground Truth: Since the inquest we have ascertained from inquiries that it is stated that about twenty-five years ago this woman was married to a female, who made com plaint that her husband was not a man, and left her in consequence.

@@ -1,0 +1,44 @@
+OCR Text: | DARING ROBB RY AT A CHURCH.
+Ground Truth: DARING ROBBERY AT A CHURCH.
+
+OCR Text: On Monday morning, at an early hour, it was dis- covered that a most daring robbery had been committed in the vestry-room of the parish church of St. Giles. without, Cripplegate, by some expert thieves.
+Ground Truth: On Monday morning, at an early hour, it was discovered that a most daring robbery had been committed in the vestry-room of the parish church of St. Giles- without, Cripplegate, by some expert thieves.
+
+OCR Text: Late in the evening before (Sunday), the potman of Mr. Wiltshire, whose establishment adjoins the yard of the church at the back, nearly contiguous to the window of the vestry-room, heard something like a tapping at a pane of glass, and a sudden rustling as he passed his master's back door, before the hour of clos. ing.
+Ground Truth: Late in the evening before (Sunday), the potman of Mr. Wiltshire, whose establishment adjoins the yard of the church at the back, nearly contiguous to the window of the vestry room, heard something like a tapping at a pane of glass, and a sudden rustling as he passed his master’s back door, before the hour of closing.
+
+OCR Text: Not taking any farther notice of this circum. stance, however, he made fast the back entrance, and with the family retired to rest.
+Ground Truth: Not taking any further notice of this circumstance, however, he made fast the back entrance, and with the family retired to rest.
+
+OCR Text: On Monday morning when he took down the back shutters, he found the vestry window in the churchyard broken, and the let. tice-work torn from its place.
+Ground Truth: On Monday morning when he took down the back shutters, he found the vestry window in the churchyard broken, and the lattice-work torn from its place.
+
+OCR Text: He immediately inform. ed his master, who sent for the churchwarden, Mr. John Scholes, of the White Hforse, Cripplepate, who having instantly proceeded to inspect the .premises, with the sexton, Mr. Johns, found that the vestry had been entered, and the master key of the iron safes ab- stracted from its usual plaee of keeping.
+Ground Truth: He immediately informed his master, who sent for the churchwarden, Mr. John Scholes, of the White Horse, Cripplegate, who having instantly proceeded to inspect the premises, with the sexton, Mr. Johns, found that the vestry bad been entered, and the master key of the iron safes abstracted from its usual place of keeping.
+
+OCR Text: The thief or thieves hadevidently enteredby theopening in thewin. daw, which they had caused by a most ingenious cut. ting away of the glass.
+Ground Truth: The thief or thieves had evidently entered by the opening in the window, which they had caused by a most ingenious cutting away of the glass.
+
+OCR Text: They had apparently carefully examined the safe and its contents, and succeeded in taking away the whole of the gold and silver there de- posited, which, however, in consequence of the heavy clearance of the amount of the former week's accumu- lation, was not a very considerable sum,
+Ground Truth: They had apparently carefully examined the safe and its contents, and succeeded in taking away the whole of the gold and silver there deposited, which, however, in consequence of the heavy Clearance of the amount of the former week's accumulation, was not a very considerable sum.
+
+OCR Text: Several of the drawers ia the vestry-room had been " prised," or forced with a lever, the marks of such an application of power being unmistafkeably evident.
+Ground Truth: Several of the drawers in the vestry-room had been “prised,” or forced with a lever, the marks of such an application of power being unmistakably evident.
+
+OCR Text: The thieves hav- ing been defeated in obtaining any important amount of plunder, then forced the door from the vestry lead- ing into the church, and apparently attempted to force the contribution-box and the plate.chest, which resist. ed their efforts; for though the fastenings are violates, the contents remain secure.
+Ground Truth: The thieves having been defeated in obtaining any important amount of plunder, then forced the door from the vestry leading into the church, and apparently attempted to force the contribution-box and the plate-chest, which resisted their efforts; for though the fastenings are violated, the contents remain secure.
+
+OCR Text: Being thus foiled, it ap. pears that they then opened the closet containing the "tent," or "sacramental" wine.
+Ground Truth: Being thus foiled, it appears that they then opened the closet containing the “tent,” “or sacramental” wine.
+
+OCR Text: This, it appears, was not according to their palate, as they left the bottle upon the floor, and the glass they had used, partially filled, standing beside it, but a small portion having been used from the bottle.
+Ground Truth: This, it appears, was not according to their palate, as they left the bottle upon the floor, and the glass they had used, partially filled, standing beside it, but a small portion having been used from the bottle.
+
+OCR Text: `[he closet containing the best wine was not touched, ner were some pounds in money in the sexton's drawer.
+Ground Truth: The closet containing the best wine was not touched, nor were some pounds in money in the sexton’s drawer.
+
+OCR Text: The fellows having re- galed themselves, left the vestry in a state of confusion, leaving behind them the bags which contained the money they had stolen, and the iron safes apen.
+Ground Truth: The fellows having regaled themselves, left the vestry in a state of confusion, leaving behind them the bags which contained the money they had stolen, and the iron safes open.
+
+OCR Text: It is supposed that they obtained admission on Sunday even- ing to the churchyard, where one or more of them secreted themselves, and that, awaiting their opportu. nity, they effected the robbery about midnight, and subsequently decamped by the vicarage-bouse, which at the present time is not inhabited.
+Ground Truth: It is supposed that they obtained admission on Sunday evening to the churchyard, where one or more of them secreted themselves, and that, awaiting their opportunity, they effected the robbery about midnight, and subsequently decamped by the vicarage-house, which at the present time is not inhabited.

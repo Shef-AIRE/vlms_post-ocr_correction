@@ -1,0 +1,53 @@
+OCR Text: I TRIALS AT THE MIDDLESEX SESSIONS
+Ground Truth: TRIALS AT THE MIDDLESEX SESSIONS
+
+OCR Text: The October adjourned quarter sessions com- menced on Mon4ay at the sessions house, Clerken- well-green.
+Ground Truth: The October adjourned quarter sessions commenced on Monday at the sessions house, Clerkenwell-green.
+
+OCR Text: The calendar contained the names of sixty-six prisoners.
+Ground Truth: The calendar contained the names of sixty-six prisoners.
+
+OCR Text: EMBEZZLEMENT.-GeGorePryor, thirty-seven, was indicted for embezzling the sums of 11. 2s. and It. Is., received by him for and on account of Raynbam Stewart, his master.-Mr. Raynhain Stewart said he was a coal merchant at 202, City-road, and the pri- soner-was in his service at 22s. a-week, and he was authorised to receive money for, the coals he de- livered.
+Ground Truth: EMBEZZLEMENT. —George Pryor, thirty-seven, was indicted for embezzling the sums of 1l. 2s. and 1l. 1s., received by him for and on account of Raynham Stewart, his master. —Mr. Raynham Stewart said he was a coal merchant at 202, City-road, and the prisoner was in his service at 22s. a-week, and he was authorised to receive money for the coals he delivered.
+
+OCR Text: On the 10th, at about six o'clock in the morning, witness gave him the orders for the de- livery of the coals, but he never accounted for the money.-Evidence was given by the persons who re- ceived the coals that they had paid the prisoner the money for them and obtained his receipt.-The jury found the prisoner " Guil*t," and he was sentenced to nine months' hard labour.
+Ground Truth: On the 10th, at about six o'clock in the morning, witness gave him the orders for the delivery of the coals, but he never accounted for the money. —Evidence was given by the persons who received the coals that they had paid the prisoner the money for them and obtained his receipt. —The jury found the prisoner "Guilty," and he was sentenced to nine months' hard labour.
+
+OCR Text: THEFT BY A LoDGno .-Louis Fasva, thirty-two, a Frenchman, was indicted for stealing a watch, two chains, and other articles, value 401., the property of Theresa Gallemart, in her dwelling-house.-The pri- soner lodged at No. 61, Greek-street, and on the evening of the 9th of October the proseentrix, a young woman, on her return home, missed a gold watch, two chains, five rings, two purses, and a pair of earrings, the whole being of the value of 401.-
+Ground Truth: THEFT BY A LODGER. —Louis Favar, thirty-two, a Frenchman, was indicted for stealing a watch, two chains, and other articles, value 40l., the property of Theresa Gallemart, in her dwelling-house. —The prisoner lodged at No. 61, Greek-street, and on the evening of the 9th of October the prosecutrix, a young woman, on her return home, missed a gold watch, two chains, five rings, two purses, and a pair of earrings, the whole being of the value of 40l.—
+
+OCR Text: From information Henry Dawson, 22 A reserve, re- ceived he went to the Euston station of the London and North-western railway, and there saw the pri- soner on the platform with a portmanteau.
+Ground Truth: From information Henry Dawson, 22 A reserve, received he went to the Euston station of the London and North-western railway, and there saw the prisoner on the platform with a portmanteau.
+
+OCR Text: He was wearing two rings, watch, and chain, and had the purse in his pocket.
+Ground Truth: He was wearing two rings, watch, and chain, and had the purse in his pocket.
+
+OCR Text: Some of the other articles were found at a pawnbroker'-The prisoner was found "Gulty."-The assistant-judge sentenced him to hard labour for eighteen months.
+Ground Truth: Some of the other articles were found at a pawnbroker's. —The prisoner was found "Guilty." —The assistant-judge sentenced him to hard labour for eighteen months.
+
+OCR Text: BUEOLA~tT. -S neuel Meads, 'twenty-one. and George Henderson, tbirty-seven. were severally in- dicted, Meads for breaking and entering the dnelliag- house of Charles White, -and stealing therein eight plated dishes, value 401., his, property, and George Henderson for receiving part of th e property, well knowing it to have been stolen.-Meads pleaded " Guilty."
+Ground Truth: BURGLARY. —Samuel Meads, twenty-one, and George Henderson, thirty-seven, were severally indicted, Meads for breaking and entering the dwelling house of Charles White, and stealing therein eight plated dishes, value 40l., his property, and George Henderson for receiving part of the property, well knowing it to have been stolen. —Mends pleaded "Guilty."
+
+OCR Text: -The prosecutor lives at 68, Portland- road, Notting-bill, and on Tuesday, the 1st of (c- tober, from what Mrs. White was told by her daugh- ters, she went to an upstairs bedroom, and there found the window open and a large quantity of pro- perty taken away.
+Ground Truth: —The prosecutor lives at 68, Portland-road, Notting-hill, and on Tuesday, the 1st of October, from what Mrs. White was told by her daughters, she went to an upstairs bedroom, and there found the window open and a large quantity of property taken away.
+
+OCR Text: The police were communicated -with, and on Serjeant Urban, 10 'X, going to the place aid examining theprernisesj he foundthat some one haa clambered up by the stock-pipe, and thus got into the house by the bedroom window.
+Ground Truth: The police were communicated with, and on Serjeant Urban, 10 X, going to the place and examining the premises, he found that someone had clambered up by the stock-pipe, and thus got into the house by the bedroom window.
+
+OCR Text: The pri- soners had been near the place on that night, and were both soon afterwards taken into custody.
+Ground Truth: The prisoners had been near the place on that night, and were both soon afterwards taken into custody.
+
+OCR Text: When Meads was at the station-house he was ob- served to be very fidgety, put his hand into his pocket several times, and threw away a piece of paper.
+Ground Truth: When Meads was at the station-house he was observed to be very fidgety, put his hand into his pocket several times, and threw away a piece of paper.
+
+OCR Text: On being searched five of the stolen spoons were found in his pocket.
+Ground Truth: On being searched five of the stolen spoons were found in his pocket.
+
+OCR Text: He said he had taken them, but the other prisoner knew nothing about it.-The jury acquitted Henderson.
+Ground Truth: He said he had taken them, but the other prisoner knew nothing about it. —The jury acquitted Henderson.
+
+OCR Text: -A long list of previous convictions were proved against the prisoner Mleads.
+Ground Truth: —A long list of previous convictions were proved against the prisoner Meads.
+
+OCR Text: -The assistanit-judge sentenced him to be kept in penal servitude for seven years.
+Ground Truth: —The assistant-judge sentenced him to be kept in penal servitude for seven years.

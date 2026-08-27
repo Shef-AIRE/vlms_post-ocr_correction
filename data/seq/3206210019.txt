@@ -1,0 +1,53 @@
+OCR Text: MIDDLESEX SESSIONS, I - --C
+Ground Truth: MIDDLESEX SESSIONS.
+
+OCR Text: The December sessions enmenced on Monday morning.
+Ground Truth: The December sessions commenced on Monday morning.
+
+OCR Text: The first issue of the calendar eontaine,! the names of 80 prisoners, 66 charged with felony soid 14 with msnidemeanouir.
+Ground Truth: The first issue of the calendar contained the names of 80 prisoners, 66 charged with felony and 14 with misdemeanor.
+
+OCR Text: TnE WATCH ROBBERY AT na.QsCr08S._oThst case taken was that of a prisoner named &obisn who was tried at the last sessions on a charge of steal. Ing a watch from the person of a 96 n whose name to the jurors was unknown, near the Victoria hotel ERing's cross.
+Ground Truth: THE WATCH ROBBERY AT KING'S CROSS. —The first case taken was that of a prisoner named Robinson, who was tried at the last sessions on a charge of stealing a watch from the person of a man whose name to the jurors was unknown, near the Victoria hotel, King's cross.
+
+OCR Text: On that occasion thke jury were dls. charged at midnight without a verdlict, being unable. to agree.
+Ground Truth: On that occasion the jury were discharged at midnight without a verdict, being unable to agree.
+
+OCR Text: The evidence given onL Shat trial was again gone into, zand two a~dditional witnesses were ex. amnised whose evidence removed the donbt which ex isted on the fomer trial, and the prisoner was fouce., " Guilty."-Loekkver and lHoulaham, the prison effi. core, said the priSoner was keown in the gaols, but they were not then prepared to Stats what he adM been there for.
+Ground Truth: The evidence given on that trial was again gone into, and two additional witnesses were examined whose evidence removed the doubt which existed on the former trial, and the prisoner was found "Guilty." —Lockyer and Houlshamn, the prison officers, said the prisoner was known in the gaols, but they were not then prepared to state what he had been there for.
+
+OCR Text: U~pon this sonteuca was respted till next session, to allow of inquiry besog made.
+Ground Truth: Upon this sentences was respited till next session, to allow of inquiry being made.
+
+OCR Text: Taco JxWcon ROBBEBY BY A YOEIT.-WOO. Qiles seventeen, a simple and inoffensive-loking led, was indicted for stealing 49 watches, 157 watchguacd chains, 65 ear-rings. 2 diamond cresses, 489 finger. rings, 204 brocches, 80 bracelets, 50 loket,, 300 shirt. studs, 12 sets of waistcoat buttons, 200 seals ad charms, 189 breast pine, and 221. in money, the geode, &c., of Herbert Henderson, his master in his dwell. ing-lcuae.-He pleaded guilty.-The prosecutor, P jeweller, in Regent-street and Piccadilly, stated, it answer to questions pet by the court, that the pri. soner had beon errand boy in his service, and had pro. vided himself with false keys, by means of which, on Sunday, the 16th of September, he got Into the shop, during his master's absence, and packed up the pro. perty mentioned in the charge in two bags,
+Ground Truth: THE JEWEL ROBBERY BY A YOUTH. —Wm Gales, seventeen, a simple and inoffensive looking lad, we indicted for stealing 49 watches, 157 watch guard chains, 65 earrings, 2 diamond crosses, 489 finger rings, 204 brooches, 80 bracelets, 50 lockets, 300 shirt studs, 12 sets of waistcoat buttons, 200 seals and charms, 189 breast pins, and 22l. in money, the goods, &c., of Herbert Henderson, his master, in his dwelling house. —He pleaded guilty. —The prosecutor, a jeweller, in Regent-street and Piccadilly, stated, le answer to questions pat by the court, that the prisoner had been errand boy in his service, and had provided himself with false keys, by means of which, on Sunday, the 16th of September, he got into the shop during his master's absence, and packed up the property mentioned in the charge in two bags.
+
+OCR Text: The value of the whole was about 4,0001.
+Ground Truth: The value of the whole was about 4,000l.
+
+OCR Text: The ptisouer made off to France and procured at Calals a passport by which he proceeded to Paris.
+Ground Truth: The prisoner made off to France and procured at Calais a passport by which he proceeded to Paris.
+
+OCR Text: Informsatlon woo forwarded to the Paris police, a clue having boeen ob. tained as to where the prisoner had started to, and he was found at the Botel du Louvre, in possession of the gireater portion of the stolen property.
+Ground Truth: Information was forwarded to the Paris police, a clue having been obtained as to where the prisoner had started to, and he was found at the Hotel du Louvre, in possession of the greater portion of the stolen property.
+
+OCR Text: Hewasabout leaving the hotel, with an interpreter, to dispose of some of the property, when the police caught hbin
+Ground Truth: He was about leaving the hotel, with an interpreter, to dispose of some of the property, when the police caught him.
+
+OCR Text: While In Mr. Henderson's service he lad So. a-week, with lodgings and part board.
+Ground Truth: While in Mr. Henderson's service he had 8s. a-week, with lodgings and part board.
+
+OCR Text: He was the son of a respectable man, by business a cheessmonger, some- where at Eackney.
+Ground Truth: He was the son of a respectable man, by business a cheesemonger, somewhere at Hackney.
+
+OCR Text: It was not suggested that the prisoner had any accomplices in the robbery; it woe all his own doing.
+Ground Truth: It was not suggested that the prisoner had any accomplices in the robbery; it was all his own doing.
+
+OCR Text: Nearly the whole of the property had been recovered, but the prisoner had spent sll tte money he took with him.-The assistant judge said the court felt great difiiculty in dealing with the care.
+Ground Truth: Nearly the whole of the property had been recovered, but the prisoner had spent all the money he took with him. —The assistant judge Enid the court felt great difficulty in dealing with the case.
+
+OCR Text: The prisonerwas too old to be sent toare- formatory, Snd thcy felt that under all the lchoon stsnces. considering his age and character, they cGuId orsnistently with their public duty refrain from pass. ing a Eentence of penal servitude.
+Ground Truth: The prisoner was too old to be sent to a reformatory, and they felt that under all the circumstances, considering his age and character, they could consistently with their public duty refrain from passing a sentence of penal servitude.
+
+OCR Text: The learned ijdge then sentenced him to two years' hard labour, and bored he would yet endeavour to make a good man of himself.
+Ground Truth: The learned judge then sentenced him to two years' hard labour, and hoped he would yet endeavour to make a good mas of himself.

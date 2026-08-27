@@ -1,0 +1,38 @@
+OCR Text: RAIDS 9O CLUBS.
+Ground Truth: RAIDS ON CLUBS.
+
+OCR Text: The police on Wednesday made two raids on supposed -betting clubs in Lon- don.
+Ground Truth: The police on Wednesday made two raids on supposed betting clubs in London.
+
+OCR Text: The first was on the Falmouth club, 164, Strand.
+Ground Truth: The first was on the Falmouth club, 164, Strand.
+
+OCR Text: The premises are situated on the first floor of a cigar shop, and extend through to the back.
+Ground Truth: The premises are situated on the first floor of a cigar shop, and extend through to the back.
+
+OCR Text: At a given' signal the three inspectors, who had 200 constables in reserve, entered the cigar shop and proceeded along the passage until their progress was blocked by a door.
+Ground Truth: At a given signal the three inspectors, who had 200 constables in reserve, entered the cigar shop and proceeded along the passage until their progress was blocked by a door.
+
+OCR Text: They knocked for admission, and upon the door being opened rushed inside, completely overpowering the man in charge, who was at once given into custody.
+Ground Truth: They knocked for admission, and upon the door being opened rushed inside, completely overpowering the man in charge, who was given at once into custody.
+
+OCR Text: The inspectors then went to the first floor, and immedi- ately their presence was discovered a scene of great confusion ensued.
+Ground Truth: The inspectors then went to the first floor, and immediately their presence was discovered a scene of great confusion ensued.
+
+OCR Text: The room was filled by some 20 or 30 men, who were crowding round a " tape ma- chine " and a "r eady-money book- maker," waiting the result of the second race of the day to come through,
+Ground Truth: The room was filled by some 20 or 30 men, who were crowding round a “tape machine” and a “ready-money bookmaker," waiting the result of the second race of the day to come through.
+
+OCR Text: A rush was made for the door by soe of the men, but they found that all escape had been cut off by that source, the staircase being filled with policemen.
+Ground Truth: A rush was made for the door by some of the men, but they found that all escape had been cut off by that source, the staircase being filled with policemen.
+
+OCR Text: The whole of the men found on the premises were arrested, including the proprietor.
+Ground Truth: The whole of the men found on the premises were -arrested, including the proprietor.
+
+OCR Text: The greatest excitement prevailed in the neighbourhood, each man, as he was taken but of the premises in charge of two police officers being loudly cheered by the crowd which had as- sembled.-Almost simultaneously with the raid on the Falmouth club, and a short time before the City and Suburban handicap was being run at Epsom the police effected an entrance to the Agar club, near Buckiniham-street, Strand.
+Ground Truth: The greatest excitement prevailed in the neighbourhood, each man, as he was taken out of the premises in charge of two police officers being loudly cheered by the crowd which had assembled. –Almost simultaneously with the raid on the Falmouth club, and a short time before the City and Suburban handicap was being run at Epsom the police effected an entrance to the Agar club, near Buckingham-street, Strand.
+
+OCR Text: No opposition was made to the police, who, under Inspector Robinson and De- tective-serjeant Partridge, at once ar- rested those found on the premises, to the number of about 40, and they were conveyed in cabs to BoNv-street police- station.
+Ground Truth: No opposition was made to the police, who, under Inspector Robinson and Detective-serjeant Partridge, at once arrested those found on the premises, to the number of about 40, and they were conveyed in cabs to Bow-street police-station.
+
+OCR Text: By eight o'clock on Wedndsday evening all the prisoners had obtained bail.
+Ground Truth: By eight o'clock on Wednesday evening all the prisoners had obtained bail.

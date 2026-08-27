@@ -1,0 +1,62 @@
+OCR Text: I THE GREAT BOND ROBBERY _ me=== I
+Ground Truth: THE GREAT BOND ROBBERY.
+
+OCR Text: At the Mansion house on Wednesday, Johnl CaOt, aged 48, of 20, Osborne-terrace, Clapham-road, de- scribed as of no occupation, was charged on suspi' cion with being concerned with Charles Martin and others in stealing, on or about the 1st June, while in transit from London to Paris, bonds to the value of 70,0001., the property of Messrs. H. L. Itaphael and Co., of 25, Throgmorton-street ; he was also charged with having feloniously received 20,001. worth of Peruvian bonds, tihe property of Messrs. Lewis Cohen and Co., of 31, Throgmortan-street.
+Ground Truth: At the Mansion house on Wednesday, John Carr, aged 48, of 20, Osborne-terrace, Clapham-road, described as of no occupation, was charged on suspicion with being concerned with Charles Martin and others in stealing, on or about the 1st June, while in transit from London to Paris, bonds to the value of 70,000l., the property of Messrs. H. L. Raphael and Co., of 25, Throgmorton-street; he was also charged with having feloniously received 20,000l. worth of Peruvian bonds, the property of Messrs. Lewis Cohen and Co., of 31, Throgmorton-street.
+
+OCR Text: Detective-serjeant Outram stated: On Tuesday morning I received from Mr. George Lewis 1,0001., and went with a person I had met by appointment to the Gower-strebt railway station.
+Ground Truth: Detective-serjeant Outram stated: On Tuesday morning I received from Mr. George Lewis 1,000l., and went with a person I had met by appointment to the Gower-street railway station.
+
+OCR Text: This was at twenty minutes to one o'clock.
+Ground Truth: This was at twenty minutes to one o'clock.
+
+OCR Text: We went to a pub- lic-house previously, and at one o'clock we met the prisoner.
+Ground Truth: We went to a public-house previously, and at one o'clock we met the prisoner.
+
+OCR Text: I was introduced to him as Mr. Frost, from Brighton.
+Ground Truth: I was introduced to him as Mr. Frost, from Brighton.
+
+OCR Text: We had something to drink in the public-house, which I paid for, and Carr called for three cigars.
+Ground Truth: We had something to drink in the public-house, which I paid for, and Carr called for three cigars.
+
+OCR Text: He then said, " You know our business?" and I replied, "Yes."
+Ground Truth: He then said, "You know our business?" and I replied, "Yes."
+
+OCR Text: He then asked me if I had got the " fimsies," and I showed him the bank-notes.
+Ground Truth: He then asked me if I had got the "flimsies," and I showed him the bank-notes.
+
+OCR Text: We afterwards left the public- house, and the prisoner observing, " I do business with one person," he spoke to the third man, and I and the prisoner then drove to the Great Northern hotel, King's-cross.
+Ground Truth: We afterwards left the public-house, and the prisoner observing, "I do business with one person," he spoke to the third man, and I and the prisoner then drove to the Great Northern hotel, King's-cross.
+
+OCR Text: He took me to a room, No. 78, on the fourth floor, and bolting the door he pro- duced a black bag, from which he took the bonds produced, observing, " There they are."
+Ground Truth: He took me to a room, No. 78, on the fourth floor, and bolting the door he produced a black bag, from which he took the bonds produced, observing, "There they are."
+
+OCR Text: I then tied them up and said, " You must consider your. self in custody ; I am a detective from the City, an these bonds are stolen."
+Ground Truth: I then tied them up and said, "You must consider yourself in custody; I am a detective from the City, and these bonds are stolen."
+
+OCR Text: He started, and said, "What 7"
+Ground Truth: He started, and said, "What?"
+
+OCR Text: I repeated what I had said1 adding, "You may as well do the thing quietly.'
+Ground Truth: I repeated what I had said, adding, "You may as well do the thing quietly."
+
+OCR Text: He re- plied, "All right," but afterwards he said, and re- peated several times, "4you are rather premature in saying the bonds ware stolen."
+Ground Truth: He replied, "All right," but afterwards he said, and repeated several times, "You are rather premature in saying the bonds were stolen."
+
+OCR Text: I said, " Per- hap s o* but yon will hear mnore about it when we get to the City."
+Ground Truth: I said, “Perhaps so; but you will hear more about it when we get to the City."
+
+OCR Text: We drove to the City, and the prisoner was charged at Bow-lane.
+Ground Truth: We drove to the City, and the prisoner was charged at Bow-lane.
+
+OCR Text: A receipt from the Safe Deposit company was found at the pri- soner's house.
+Ground Truth: A receipt from the Safe Deposit company was found at the prisoner's house.
+
+OCR Text: Mr. Charles Haugh, clerk in the employ of Messrs. Cohen and Co., proved that the nominal value, of the bonds produced was 20,0001., and that he made up the parcel which contained them for despatch to Paris on the 1st June.
+Ground Truth: Mr. Charles Haugh, clerk in the employ of Messrs. Cohen and Co., proved that the nominal value of the bonds produced was 20,000l., and that he made up the parcel which contained them for despatch to Paris on the 1st June.
+
+OCR Text: Mr. Wontner, who defended, bad no questions to ask the witness, and Mr. Lewis said upon this evi- dence he should ask for a formal remand until Fri- day for the prisoner to be charged with Martin.
+Ground Truth: Mr. Wontner, who defended, had no questions to ask the witness, and Mr. Lewis said upon this evidence he should ask for a formal remand until Friday for the prisoner to be charged with Martin.
+
+OCR Text: The remand was granted.
+Ground Truth: The remand was granted.

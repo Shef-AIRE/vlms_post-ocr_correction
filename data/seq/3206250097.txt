@@ -1,0 +1,68 @@
+OCR Text: DREADFUL TRlAGEDIES IN IRELAND |
+Ground Truth: DREADFUL TRAGEDIES IN IRELAND.
+
+OCR Text: A horrible double murder was committed on Mon- day 1)i'lht Lt the lodge gate of Wlrestown, the seat of MIr. Hissey, J.P., Naul, county Dublin.
+Ground Truth: A horrible double murder was committed on Monday night at the lodge gate of Westtown, the seat of Mr. Hussey, J.P., Naul, county Dublin.
+
+OCR Text: A groom in his employment, named Joseph Dorey, killed his wise, a fine young woman of 25, and then dashed out the brains of their infant, six months old.
+Ground Truth: A groom in his employment, named Joseph Dorey, killed his wife, a fine young woman of 25, and then dashed out the brains of their infant, six months old.
+
+OCR Text: Thle lodge, the scene of the crizue, presented a ghastly sight.
+Ground Truth: The lodge, the scene of the crime, presented a ghastly sight.
+
+OCR Text: The wife's body was fearfullv mutilated.
+Ground Truth: The wife's body was fearfully mutilated.
+
+OCR Text: The murderer was arrested.
+Ground Truth: The murderer was arrested.
+
+OCR Text: Drink and jealousy are supposed to have caused the crime.
+Ground Truth: Drink and jealousy are supposed to have caused the crime.
+
+OCR Text: An investiga- tiOeI was opened on Tuesday at Balbriggau, and ad- journed until Saturday.
+Ground Truth: An investigation was opened on Tuesday at Balbriggan, and adjourned until Saturday.
+
+OCR Text: On Wodnesdsv a furious attack was made on two prisoners hi Kilmainharvi gaol by Dorey.
+Ground Truth: On Wednesday a furious attack was made on two prisoners in Kilmainham gaol by Dorey.
+
+OCR Text: About one oclock the chief warder's attention was attracted by cries from the ceil in which two other prisoners were confned.
+Ground Truth: About one o'clock the chief warder's attention was attracted by cries from the ceil in which two other prisoners were confined.
+
+OCR Text: He hurried, together with the deputy governor and a policeman, and found that Dorey had savagely assaulted his fellow prisoners, who were bleeding urofusely from the woanlds indicted on them by the man.
+Ground Truth: He hurried, together with the deputy governor and a policeman, and found that Dorey had savagely assaulted his fellow prisoners, who were bleeding profusely from the wounds inflicted on them by the man.
+
+OCR Text: After a long struggle Dorey was pinioned.
+Ground Truth: After a long struggle Dorey was pinioned.
+
+OCR Text: A man named Thomas fickley, who is believed to be insane, wes arrested on Tuesday for murdering a womnR1 named ji\; ry Grady at Poolabath, near Cap- porquill, county WVterford. by cutting off her head.
+Ground Truth: A man named Thomas Bickley, who is believed to be insane, was arrested on Tuesday for murdering a woman named Mary Grady at Poolabatà, near Cappoquin, county Waterford, by cutting off her head.
+
+OCR Text: The evidlence given at the iniuest or the body of I Mary Grady showed that the accused entered the house where )deceased was; that he rushed at her, knocked her down, Isut his knee upon her chest, and stranlded her.
+Ground Truth: The evidence given at the inquest on the body of Mary Grady showed that the accused entered the house where deceased was; that he rushed at her, knocked her down, put his knee upon her chest, and strangled her.
+
+OCR Text: lHe afterwards dragged the dead body into the yard, where he severed thl head from the body with a hatchet.
+Ground Truth: He afterwards dragged the dead body into the yard, where he severed the head from the body with a hatchet.
+
+OCR Text: The jury returneil a verdict of "Wilful Murder," and the accused was committed for trial to the Waterford assizes.
+Ground Truth: The jury returned a verdict of "Wilful Murder," and the accused was committed for trial to the Waterford assizes.
+
+OCR Text: A terrible affair took place near the village of Dean, co. Linserick, on Friday.
+Ground Truth: A terrible affair took place near the village of Doon, co. Limerick, on Friday.
+
+OCR Text: lichael tichiardgon and his cousin, Thomas Richardson, aged respsctively27 and G0 years, went to visit a friend named Duggtn, at Coonen, about two miles from Doon.
+Ground Truth: Michael Richardson and his cousin, Thomas Richardson, aged respectively 27 and 60 years, went to visit a friend named Duggan, at Coonen, about two miles from Doon.
+
+OCR Text: Duggan parted with them about six o'clock.
+Ground Truth: Duggan parted with them about six o'clock.
+
+OCR Text: Theywere then both sober, and no more was knownof them,
+Ground Truth: They were then both sober, and no more was known of them.
+
+OCR Text: Awoman named yans tfound them botlhlying insenisible en the side of the road. with fearful wounds on their heads.
+Ground Truth: A woman named Ryan found them both lying insensible on the side of the road, with fearful wounds on their heads.
+
+OCR Text: The unfortuniate men were taken to their homes, where Mdichiael shortly afterwards died, and it was feared Thomas could not survive till the morning.
+Ground Truth: The unfortunate men were taken to their homes, where Michael shortly afterwards died, and it was feared Thomas could not survive till the morning.
+
+OCR Text: The only cause that can be alleged is that Iichael s brother died some tinis since, ciu l that some dispute occurred between himself and his friends relative to some property.
+Ground Truth: The only cause that can be alleged is that Michael’s brother died some time since, and that some dispute occurred between himself and his friend’s relative to some property.

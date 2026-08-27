@@ -1,0 +1,80 @@
+OCR Text: COMMITTAL OF A SURGEON.
+Ground Truth: COMMITTAL OF A SURGEON.
+
+OCR Text: On Tuesday evening, Mr. Humphreys and a jury assembled at the Lord Wellington public-house, Thefe Colt-lane, Cambridge-road, Bethnal-green, re- specting the death of Bliss Garrett, aged thirty-four years, who, it was alleged, had died from injuries caused by a medical gentleman named Benjamin Vale, of No. 6,Henry-street, Limehouse fields.-The case excited unusual interest, and the inquest-room wes crowded during the inquiry.
+Ground Truth: On Tuesday evening, Mr. Humphreys and a jury assembled at the Lord Wellington public-house, Three Colt-lane, Cambridge-road, Bethnal-green, respecting the death of Eliza Garrett, aged thirty-four years, who, it was alleged, had died from injuries caused by a medical gentleman named Benjamin Vale, of No. 6, Henry-street, Limehouse fields. —The case excited unusual interest, and the inquest-room was crowded during the inquiry.
+
+OCR Text: The first witness called was William Garrett, of 9, Coventry-street, Three Colt-lane, who said: The deceased is my wife, and I know she was enccinte.
+Ground Truth: The first witness called was William Garrett, of 9, Coventry-street, Three Colt-lane, who said: The deceased is my wife, and I know she was enceinte.
+
+OCR Text: I did not know that she was in the habit of visiting Mr. Vale, but she had told me that she was going to a gentleman for advice to do away with the child.
+Ground Truth: I did not know that she was in the habit of visiting Mr. Vale, but she had told me that she was going to a gentleman for advice to do away with the child.
+
+OCR Text: I did not know how long she had gone in her preg- rancy.
+Ground Truth: I did not know how long she had gone in her pregnancy.
+
+OCR Text: She had not had any miscarriage to my knowledge.
+Ground Truth: She had not had any miscarriage to my knowledge.
+
+OCR Text: There was not any agreement between me and the deceased respecting her having more children.
+Ground Truth: There was not any agreement between me and the deceased respecting her having more children.
+
+OCR Text: It was not my wish for her to go to Mr. Vale, and I forbade her going to him three weeks since.
+Ground Truth: It was not my wish for her to go to Mr. Vale, and I forbade her going to him three weeks since.
+
+OCR Text: She told me one night that she had been to him, and said that he had used instruments upon her person.
+Ground Truth: She told me one night that she had been to him, and said that he had used instruments upon her person.
+
+OCR Text: She had had some medicine from him.
+Ground Truth: She had had some medicine from him.
+
+OCR Text: - Coroner: But wait, if you please. Did she tell you what the instruments were used for?-Witness: I believe they were used to do away with the child.-
+Ground Truth: —Coroner: But wait, if you please. Did she tell you what the instruments were used for? —Witness: I believe they were used to do away with the child.—
+
+OCR Text: Coroner: Did she tell you what Mr. Vale was to charge her?-Witness: No, she did not. She was in a great deal of pain, which came on after the in- struments had been -usedL.-Coroner: What did you do after that?-Witness: Nothing. I allowed her to go on with the medical man she had engaged.-
+Ground Truth: Coroner: Did she tell you what Mr. Vale was to charge her? —Witness: No, she did not. She was in a great deal of pain, which came on after the instruments had been used. —Coroner: What did you do after that? —Witness: Nothing. I allowed her to go on with the medical man she had engaged.—
+
+OCR Text: -Coroner: Do you mean to say that you allowed your wife to lie in that state without calling in a proper qualified medical man she bad engaged?-
+Ground Truth: —Coroner: Do you mean to say that you allowed your wife to lie in that state without calling in a proper qualified medical man she had engaged?—
+
+OCR Text: Witness: I did not interfere?-Coroner: What is your opinion as to the cause of your wife's death?
+Ground Truth: Witness: I did not interfere? —Coroner: What is your opinion as to the cause of your wife's death?
+
+OCR Text: -Witness: 1 believe that she has died from injuries caused by the use of the instruments.
+Ground Truth: —Witness: I believe that she has died from injuries caused by the use of the instruments.
+
+OCR Text: Lucy Reynolds, who lived next door to the de- ceased, state d that the latter had been delivered of twco defadebtilcs that she was in greet agony before she died, and that she made the following statement to witness.
+Ground Truth: Lucy Reynolds, who lived next door to the deceased, stated that the latter had been delivered of two dead children, that she was in great agony before she died, and that she made the following statement to witness.
+
+OCR Text: She said that she had taken something to cause a miscarriage, that she had been to Mr. Vale, and she said that Mr. Vale had used an instrument with teeth in it, which opened with a spring at the end; that the instrument had been used upon her person; that Mr. Vale was to have half-a-gninea for his erviC^ 7 tombt st4beentig jo '; iouse,. ann teat ner husuana naa teen the instiga- tion of her going.
+Ground Truth: She said that she had taken something to cause a miscarriage, that she had been to Mr. Vale, and she said that Mr. Vale had used an instrument with teeth in it, which opened with a spring at the end; that the instrument had been used upon her person; that Mr. Vale was to have half-a-guinea for his services, that she had been twice to Mr. Yale’s house, and that her husband had been the instigation of her going.
+
+OCR Text: Dr. Corner deposed thathe called on Sundaymorn- ing lastto see the deceased, whom he found suffering great pain over the bowels, &c.
+Ground Truth: Dr. Corner deposed that he called on Sunday morning last to see the deceased, whom he found suffering great pain over the bowels, &c.
+
+OCR Text: She died on the fol- lo'wing morning.
+Ground Truth: She died on the following morning.
+
+OCR Text: He had since made a post mortem examination of the body.
+Ground Truth: He had since made a post mortem examination of the body.
+
+OCR Text: The membranes of the brain were rather congested.
+Ground Truth: The membranes of the brain were rather congested.
+
+OCR Text: The lungs, chest, and other organs healthy, excepting that the heart was thin.
+Ground Truth: The lungs, chest, and other organs healthy, excepting that the heart was thin.
+
+OCR Text: There were three distinct marks on the mouth of the womb, which might have been the result of puncture by the instrument referred to, but the ex- citing cause of inflammation was most likely from such punctures in the absence of any other known cause.
+Ground Truth: There were three distinct marks on the mouth of the womb, which might have been the result of puncture by the instrument referred to, but the exciting cause of inflammation was most likely from such punctures in the absence of any other known cause.
+
+OCR Text: In reply to a juror, Dr. Corner said that inflam- matioln and death might have resulted from cold, anxiety, or over-exertion.
+Ground Truth: In reply to a juror, Dr. Corner said that inflammation and death might have resulted from cold, anxiety, or over-exertion.
+
+OCR Text: The coroner then called Mr. Vale, the surgeon, into the room, when he cautioned him in the usual fosm.-Mr. Vale made a long, rambling statement, and denied the allegations made against him.
+Ground Truth: The coroner then called Mr. Vale, the surgeon, into the room, when he cautioned him in the usual form. —Mr. Vale made a long, rambling statement, and denied the allegations made against him.
+
+OCR Text: He said that he had never used any instruments upon the deceased.
+Ground Truth: He said that he had never used any instruments upon the deceased.
+
+OCR Text: The coroner, in a very clear and succinct manner, summed up the whole of the facts after recapitula- ting the voluminous testimony, when the jaryunami- mously agreed to a verdict of "Wilful murder" against Benjamin Vale and WilliamGarrett, for kill- ing and slaying Eliza Garrett.-The coroner then made out his warrant for the committal of the ae- cused, who were placed in a cab and conveyed to the gaol of Newgate by Mr. John Smith, the sum- moning-officer of Bethnal-green, to await their trial at the ensuing sessions of the Central Criminal court, Old Bailey.-The prisoners, when they left the in- quest-room for the cab, were greeted with loud hoot- ing and yelling from the assembled multitude.
+Ground Truth: The coroner, in a very clear and succinct manner, summed up the whole of the facts after recapitulating the voluminous testimony, when the jury unamimously agreed to a verdict of "Wilful murder" against Benjamin Vale and William Garrett, for killing and slaying Eliza Garrett. —The coroner then made out his warrant for the committal of the accused, who were placed in a cab and conveyed to the gaol of Newgate by Mr. John Smith, the summoning-officer of Bethnal-green, to await their trial at the ensuing sessions of the Central Criminal court, Old Bailey. —The prisoners, when they left the inquest-room for the cab, were greeted with loud hooting and yelling from the assembled multitude.

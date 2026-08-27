@@ -1,0 +1,68 @@
+OCR Text: A GREAT FUSS ABOUT NOTHING.
+Ground Truth: A GREAT FUSS ABOUT NOTHING.
+
+OCR Text: AT the Wandsworth Police-courb, on Friday, Joseph h Hutnott, a costermonger, of Oak-cottages, Clapham, d was charged with disorderly conduct, causing a crowd s to assemble, and assaulting Police-constable Palfrey, 477 W, while in the execution of his duty.
+Ground Truth: AT the Wandsworth Police-court, on Friday, Joseph Hutnott, a costermonger, of Oak-cottages, Clapham, was charged with disorderly conduct, causing a crowd to assemble, and assaulting Police-constable Palfrey, 477 W, while in the execution of his duty.
+
+OCR Text: An officer stated that on the previous day he saw a procession, numbering about two hundred parsons, proceeding along Waterloo-place, being accompanied with a harrow containing two effigies, several men beating trays and sacepans, thus causing considerable uproar. C
+Ground Truth: An officer stated that on the previous day he saw a procession, numbering about two hundred persons, proceeding along Waterloo-place, being accompanied with a barrow containing two effigies, several men beating trays and saucepans, thus causing considerable uproar.
+
+OCR Text: Mr. Plowden : Did the effigies resemble any prominent h personages?
+Ground Truth: Mr. Plowden: Did the effigies resemble any prominent personages?
+
+OCR Text: Witness They were meant for local a people.
+Ground Truth: Witness: They were meant for local people.
+
+OCR Text: Mr. Plowden: They were local celebrities ? (Laughter.)
+Ground Truth: Mr. Plowden: They were local celebrities? (Laughter.)
+
+OCR Text: Witness: Yes, sir.
+Ground Truth: Witness: Yes, sir.
+
+OCR Text: Heiexplained that d the demonstration was the outcome of an action for c slander in the Court of Queen's Bench, the effigies representing the successful parties t;o the suit.
+Ground Truth: He explained that the demonstration was the outcome of an action for slander in the Court of Queen’s Bench, the effigies representing the successful parties to the suit.
+
+OCR Text: He desired them to disperse, and the effigies were taken into a yard;
+Ground Truth: He desired them to disperse, and the effigies were taken into a yard.
+
+OCR Text: The crowd then congregated in front of the house occupied by the man and woman who were being subjected to this annoyance, and the display of i, angry feeling and throwing of stones at the front g door greatly. alarmed the inmates.
+Ground Truth: The crowd then congregated in front of the house occupied by the man and woman who were being subjected to this annoyance, and the display of angry feeling and throwing of stones at the front door greatly alarmed the inmates.
+
+OCR Text: Mr. Plowden: h Was the prisoner one of the two hundred?
+Ground Truth: Mr. Plowden: Was the prisoner one of the two hundred?
+
+OCR Text: Wit- u ness: Yes, sir.
+Ground Truth: Witness: Yes, Sir.
+
+OCR Text: Mr. Plowden: One only here ?
+Ground Truth: Mr. Plowden: One only here?
+
+OCR Text: The k hundred and ninety-nine are not here. (Laughter.) r
+Ground Truth: The hundred and ninety-nine are not here. (Laughter.)
+
+OCR Text: The constable added that a fire was lit in the nr garden of the house opposite for the purpose of a; burning the effigies.
+Ground Truth: The constable added that a fire was lit in the garden of the house opposite for the purpose of burning the effigies.
+
+OCR Text: He saw the' prisoner carrying ti the woman effigy towards the fire, hut on seeing him he threw it into his face and made off.
+Ground Truth: He saw the prisoner carrying the woman effigy toward the fire, but on seeing him he threw it into his face and made off.
+
+OCR Text: The prisoner, s in his defence, said he threw the effigy over his a] shoulder, but not with the intention of striking the 1 officer.
+Ground Truth: The prisoner, in his defence, said he threw the effigy over his shoulder, but not with the intention of striking the officer.
+
+OCR Text: He called a woman, who created some S amusement by stating that the effigies wore kid il gloves and were filled with straw and a little hay. r,
+Ground Truth: He called a woman, who created some amusement by stating that the effigies wore kid gloves and were filled with straw and little hay.
+
+OCR Text: The constable said if it had been made of something else it might have injured him. (Laughter.)
+Ground Truth: The constable said if it had been made of something else it might have injured him. (Laughter.)
+
+OCR Text: Mr. I Plowden : I see; as it was made of straw it only V tickled you. (Loud laughter.)
+Ground Truth: Mr. Plowden: I see; as it was made of straw it only tickled you. (Loud laughter.)
+
+OCR Text: I think there has _ been a great deal made out of this.
+Ground Truth: I think there has been a great deal made out of this.
+
+OCR Text: I can't say the prisoner was not guilty of disorderly conduct, but it was; of the most innocent kind.
+Ground Truth: I can’t say the prisoner was not guilty of disorderly conduct, but it was of the most innocent kind.
+
+OCR Text: The prisoner was fined 2s. 6d., or' three days.
+Ground Truth: The prisoner was fined 2s. 6d., or three days.

@@ -1,0 +1,56 @@
+OCR Text: BABY STARVING.-On Tuesday evening Mr. William Carter held an inquiry at the Camberwell workhouse respecting the death of Ellen Hayley, aged 10 weeks.
+Ground Truth: BABY STARVING. —On Tuesday evening Mr. William Carter held an inquiry at the Camberwell workhouse respecting the death of Ellen Hayley, aged 10 weeks.
+
+OCR Text: -Mary Marks 'stated that she was a nurse in the female receiving ward ot Vamberwell workhouse, and that on Thursday week a female with an infant child in her arms entered the ward.
+Ground Truth: —Mary Marks stated that she was a nurse in the female receiving ward of Camberwell workhouse, and that on Thursday week a female with an infant child in her arms entered the ward.
+
+OCR Text: She stated that her name was Sarah Hayley, and that the infant was her daughter, and was named Fllen.
+Ground Truth: She stated that her name was Sarah Hayley, and that the infant was her daughter, and was named Ellen.
+
+OCR Text: Witness had the mother and child placed in a bed.
+Ground Truth: Witness had the mother and child placed in a bed.
+
+OCR Text: The mother stated that she was a single woman, and that she had been employed asadomestic servant.
+Ground Truth: The mother stated that she was a single woman, and that she had been employed as a domestic servant.
+
+OCR Text: The child lookedvery emaciated, and witness called Dr. Ring, the resident medical officer, to see it.
+Ground Truth: The child looked very emaciated, and witness called Dr. King, the resident medical officer, to see it.
+
+OCR Text: That gentleman said. " The baby is in a dying condition, and all it wants is proper diet."
+Ground Truth: That gentleman said, "The baby is in a dying condition, and all it wants is proper diet."
+
+OCR Text: He then ordered food, which was ndminis- tered to the infant.
+Ground Truth: He then ordered food, which was administered to the infant.
+
+OCR Text: It gradually sank, and expired on Thursday.
+Ground Truth: It gradually sank, and expired on Thursday.
+
+OCR Text: Shortly after the death of the child the mother left the workhouse, but she was immediately arrested by the police.
+Ground Truth: Shortly after the death of the child the mother left the workhouse, but she was immediately arrested by the police.
+
+OCR Text: -Detective-ser- jeaut Stevens deposed that he was sent for by the Rev. Mr. Thorpe, of Camberwgll. and asked to go to 12, Asylum-road. Old Kent-road.
+Ground Truth: —Detective-serjeant Stevens deposed that he was sent for by the Rev. Mr. Thorpe, of Camberwell, and asked to go to 12, Asylum-road, Old Kent-road.
+
+OCR Text: He there saw the rev, gentleman and the female Hayley and the de- ceased.
+Ground Truth: He there saw the rev. gentleman and the female Hayley and the deceased.
+
+OCR Text: At the request of Mr. Thorpe witness ex- amined the child, and he found it "fearfully emaciated."
+Ground Truth: At the request of Mr. Thorpe witness examined the child, and he found it "fearfully emaciated."
+
+OCR Text: At the instigation of Mr. Thorpe wit- ness arrested the woman and had her removed to Peckham police-atation, where she was charged with neglecting to maintain the deceased by not giving itsufficientfood, whereby itsilife was endangered.
+Ground Truth: At the instigation of Mr. Thorpe witness arrested the woman and had her removed to Peckham police-station, where she was charged with neglecting to maintain the deceased by not giving it sufficient food, whereby its life was endangered.
+
+OCR Text: The charge was reed over to the prisoner, and she re- plied, " I have done all I could for thechild. It was sickly, and I took it to Dr. Johnson, and that gentle- man prescribed forthe child in writing."
+Ground Truth: The charge was read over to the prisoner, and she replied, "I have done all I could for the child. It was sickly, and I took it to Dr. Johnson, and that gentle man prescribed for the child in writing."
+
+OCR Text: In the urisouer's room witness found a bottle of medicine.-
+Ground Truth: In the prisoner's room witness found a bottle of medicine.—
+
+OCR Text: the court then adjourned.
+Ground Truth: The court then adjourned.
+
+OCR Text: INTIMIDATING DOCK LToURERS. - At Liverpool police-court, on Tuesday, James Malone and John Scott, porters, were charged with assaulting John Hanford and Alexander Corbett, porters in the em. ploy of the Mersey Docks and Harbour board.
+Ground Truth: INTIMIDATING DOCK LABOURERS. —At Liverpool police-court, on Tuesday, James Malone and John Scott, porters, were charged with assaulting John Hanford and Alexander Corbett, porters in the employ of the Mersey Docks and Harbour board.
+
+OCR Text: The defendants were stated to have run their tracks, on which they were carrying heav~v bags of rice, violently against the legs of the compilainants.---The Bench considered the charges proved, and sent the defen- dants to gaol for a month.
+Ground Truth: The defendants were stated to have run their trucks, on I which they were carrying heavy bags of rice, violently against the legs of the complainants. —The Bench considered the charges proved, and sent the defendants to gaol for a month.

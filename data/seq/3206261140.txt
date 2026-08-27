@@ -1,0 +1,71 @@
+OCR Text: ASSAULT BY VOLUNTEERS.
+Ground Truth: ASSAULT BY VOLUNTEERS.
+
+OCR Text: On Wednesday, George Acton, 20, brick- layer, was indicted at the Middlesex sessions for assaulting and maliciously wounding Arthur Bartley, and inflicting bodily harm.
+Ground Truth: On Wednesday, George Acton, 20, bricklayer, was indicted at the Middlesex sessions for assaulting and maliciously wounding Arthur Bartley, and inflicting bodily harm.
+
+OCR Text: -B8aitley and Htei7i Tovey, gunners of the 9th battery of the 1st City of London Ar- tillery volunteers, were indicted for assault- ing Acton.
+Ground Truth: –Bartley and Henry Tovey, gunners of the 9th battery of the 1st City of London Artillery volunteers, were indicted for assaulting Acton.
+
+OCR Text: The indictment against Acton was first proceeded ;vith.
+Ground Truth: The indictment against Acton was first proceeded with.
+
+OCR Text: He pleaded "Not gniity."-The evidence givenby Bartley was to the effect that on the night of the 7th of November, lie, in company with Tovey, at- tended a "sing-song" at the Havelock pnblic-house,.Hammersmith.
+Ground Truth: He pleaded "Not guilty." –The evidence given by Bartley was to the effect that on the night of the 7th of November, he, in company with Tovey, attended a “sing-song” at the Havelock public-house, Hammersmith.
+
+OCR Text: In consequence of one of the singers having been unfavout- ably received, he remonstrated, and the result was that Charles Toy, the chairman, threat- ened to turn him out.
+Ground Truth: In consequence of one of the singers having been unfavorably received, he remonstrated, and the result was that Charles Toy, the chairman, threatened to turn him out.
+
+OCR Text: In -order to avoid any trouble, he and Mr. Tovey,. his friend, walked out of the place.
+Ground Truth: In order to avoid any trouble, he and Mr. Tovey, his friend, walked out of the place.
+
+OCR Text: On their getting out the chairman followed him and wanted to fight him.
+Ground Truth: On their getting out the chairman followed him and wanted to fight him.
+
+OCR Text: He and Tovey then aent home, as they lived in the same house, and were both members of the 1st City of Lon- don Volunteers.
+Ground Truth: He and Tovey then went home, as they lived in the same house, and were both members of the 1st City of London Volunteers.
+
+OCR Text: On arriving at home he and Tovey dressed themselves in their uniforms and put on their swords, subse- quently passing the Havelock public-house.
+Ground Truth: On arriving at home he and Tovey dressed themselves in their uniforms and put on their swords, subsequently passing the Havelock public-house.
+
+OCR Text: They had only proceeded along the street a short distance when a crowd of roughs sur- rounded them, and Toy (the chairman of the concert) suade a blow at him.
+Ground Truth: They had only proceeded along the street a short distance when a crowd of roughs surrounded them, and Toy (the chairman of the concert) made a blow at him.
+
+OCR Text: In retalia- tion he knocked Toy down, and then he and Tovey made their way in the direction of home.
+Ground Truth: In retaliation he knocked Toy down, and then he and Tovey made their way in the direction of home.
+
+OCR Text: The crowd followed and iniocked him down, and whilst he was on the ground Acton kicked him on the left side of the face and on the left leg.
+Ground Truth: The crowd followed and knocked him down, and whilst he was on the ground Acton kicked him on the left side of the face and on the left leg.
+
+OCR Text: Tovey was also knocked down by some other mem- bers of the gang.
+Ground Truth: Tovey was also knocked down by some other members of the gang.
+
+OCR Text: Seeing themselves surrounded by a gang of desperate roughs he and Tovey took the advice of some sol- diers and ran off..
+Ground Truth: Seeing themselves surrounded by a gang of desperate roughs he and Tovey took the advice of some soldiers and ran off.
+
+OCR Text: Just beforereaching their door the prisoner and about six or seven roughs overtook them, and Tovey being thrown down, Acton made an attempt to steal his sword bayonet.
+Ground Truth: Just before reaching their door the prisoner and about six or seven roughs overtook them, and Tovey being thrown down, Acton made an attempt to steal his sword bayonet.
+
+OCR Text: Witness was also assaulted by the prisoner, and in self-defence he drew his sword bayonet, with which he struck the prisoner on the head, cutting it.
+Ground Truth: Witness was also assaulted by the prisoner, and in self-defence he drew his sword bayonet, with which he struck the prisoner on the head, cutting it.
+
+OCR Text: The others then got out of reach, and he and Tovey succeeded in escaping from their vio- lence-The jury " Acquitted " the prisoner.
+Ground Truth: The others then got out of reach, and he and Tovey succeeded in escaping from their violence. –The jury "Acquitted" the prisoner.
+
+OCR Text: HIealvy Tovey, 26, and Art/hm' Barttry were then placed on their trial, charged with having maliciously wounded George Acton, the quondam prisoner.-It was shown by. Acton that on the night stated he was at the Flavelock public-house attending theconcert, where he saw Bartley and Tovey.
+Ground Truth: –Henry Tovey, 26, and Arthur Bartley were then placed on their trial, charged with having maliciously wounded George Acton, the quondam prisoner. —It was shown by Acton that on the night stated he was at the Havelock public-house attending the concert, where he saw Bartley and Tovey.
+
+OCR Text: Bartley was uproarious, and was turned out of the hall.
+Ground Truth: Bartley was uproarious, and was turned out of the hall.
+
+OCR Text: Subsequentlyhe saw him and Tovey dressed in uniform.
+Ground Truth: Subsequently he saw him and Tovey dressed in uniform.
+
+OCR Text: Hearing cries of " Murder," he proceeded in the direction of Rodaen-street, when he was attacked by both of the defendants with their swords, serious wounds being inflicted on his head.-Con- firmatory evidenceof this view of the case was given; and in the result the jury " Acquitted " Tovey, and. "Convicted " Bartley.-In passing sentence, Mr. Fletcher said that the court saw with regret a hard- working man like him in the dock.
+Ground Truth: Hearing cries of “Murder," he proceeded in the direction of Redan-street, when he was attacked by both of the defendants with their swords, serious wounds being inflicted on his head. —Confirmatory evidence of this view of the case was given; and in the result the jury "Acquitted Tovey, and "Convicted Bartley. –In passing sentence, Mr. Fletcher said that the court saw with regret a hardworking man like him in the dock.
+
+OCR Text: The court considered the offence a very serious matter from a public point of view.
+Ground Truth: The court considered the offence a very serious matter from a public point of view.
+
+OCR Text: There were many volunteers entrusted with arms, and they must be taught that in pri- vate and civil matters they must not use the arms entrusted to them, as, if they did, they must take the consequences.-Sentence was passed of six months' hard labour.-Mr. Fletcher instructed Inspector Martin, M division, on duty in court, to report the sub- ject to the colonel of the regiment.
+Ground Truth: There were many volunteers entrusted with arms, and they must be taught that in private and civil matters they must not use the arms entrusted to them, as, if they did, they must take the consequences. —Sentence was passed of six months' hard labour. —Mr. Fletcher instructed Inspector Martin, M division, on duty in court, to report the subject to the colonel of the regiment.

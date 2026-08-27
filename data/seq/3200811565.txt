@@ -1,0 +1,77 @@
+OCR Text: |THE S`U'PPoSED CHILD MURDERUAT BOW. pi - -- fh.~~~~~~~~~~~~1p
+Ground Truth: THE SUPPOSED CHILD MURDER AT BOW.
+
+OCR Text: 'er FREDERICK M'DoNA7eTD, forty-tWo, a sergeanb of the C ler Corps of Commjsiens.ire, and Annie Thomas, Oui en thirty-eight, a widow, both livingat 3, St. Leonard's- hw k-avenue, Bromley-by-Bow, were brought up on re-R e mand, at the Thames Pblics- o-rt, charged with the c. wilful murder of the male child, aged eight days, of s 5h, the female accused, om the 26th ult.
+Ground Truth: FREDERICK M'DONALD, forty-two, a sergeant of the Corps of Commissionaires, and Annie Thomas, thirty-eight, a widow, both living at 3, St. Leonard's avenue, Bromley-by-Bow, were brought up on remand, at the Thames Police-court, charged with the wilful murder of the male child, aged eight days, of the female accused, on the 26th ult.
+
+OCR Text: Mr. Frayling ma of prosecuted on behalf of the Treasury, Mr. Bedford Tsi appeared for M1'Donald, and Mr. Searle was for the i female prisoner.
+Ground Truth: Mr. Frayling prosecuted on behalf of the Treasury, Mr. Bedford appeared for M'Donald, and Mr. Searle was for the female prisoner.
+
+OCR Text: The female prisoner was still in _ ne a very weak condition, and bad to be accommodated er with a seat.
+Ground Truth: The female prisoner was still in a very weak condition, and had to be accommodated with a seat.
+
+OCR Text: *er The evidence of two: little girls, each a daughter he of the prisoner's, was thyt the child was born on the ieroftepinr A. l9th of March, and that it was apparently all right ala until the following. Sunday.
+Ground Truth: The evidence of two little girls, each a daughter of the prisoner's, was that the child was born on the 19th of March, and that it was apparently all right until the following Sunday.
+
+OCR Text: On that day M'Donald se- went up to the room in which the baby was lying, )y, and on his return about ton minutes later he said to Dle the female prisoner, " Annie, I have some news for en you. The baby is deadV'
+Ground Truth: On that day M'Donald went up to the room in which the baby was lying, and on his return about ten minutes later he said to the female prisoner, "Annie, I have some news for you. The baby is dead."
+
+OCR Text: Thomas replied, "is it," ad and M'Donald then said-, "'I had better clear out of Dst this, hadn't I ?"
+Ground Truth: Thomas replied, "Is it," and M'Donald then said, "I had better clear out of this, hadn't I?"
+
+OCR Text: The female prisoner, who told her daughter that when she got up she would "sit on the baby," told him to stopx
+Ground Truth: The female prisoner, who told her daughter that when she got up she would "sit on the baby," told him to stop.
+
+OCR Text: The following Wednes. day the children walked to Forest-gate, and were of followed there by the female prisoner-their mother.
+Ground Truth: The following Wednesday the children walked to Forest-gate, and were followed there by the female prisoner—their mother.
+
+OCR Text: In- The body of a child corresponding with the one o missing was afterwards found at llford.
+Ground Truth: The body of a child corresponding with the one missing was afterwards found at Ilford.
+
+OCR Text: An inquest [on wshl ithVws hold, and a. verdict of " Found suffocated-' re. his turned.
+Ground Truth: An inquest was held, and a verdict of "Found suffocated." returned.
+
+OCR Text: One of the girls stated that Mrs. Thomas * 3g, told her that the baby was going away to a " bigt led plance" and this witness identified the chemise in hftE ew which the body was found wrapped.
+Ground Truth: One of the girls stated that Mrs. Thomas told her that the baby was going away to a "big place," and this witness identified the chemise in which the body was found wrapped.
+
+OCR Text: .15., Detective-inspector -el'lish deposed that the jk ad, female prisoner said to him, "I was confined of a co, 'he female child, but it died, and I did not know it.
+Ground Truth: Detective-inspector Mellish deposed that the female prisoner said to him, "I was confined of a female child, but it died, and I did not know it.
+
+OCR Text: I log Ip'8 do not know where it is now.
+Ground Truth: I do not know where it is now.
+
+OCR Text: I hope they will hang S us me.
+Ground Truth: I hope they will hang me.
+
+OCR Text: I am tired of life."
+Ground Truth: I am tired of life."
+
+OCR Text: Witness then said, " I on. feel under the circumstances that I ought not to ask the you any more questions, and I now caution you that es, whatever you say I will take down, and it may be , used against you."
+Ground Truth: Witness then said, "I feel under the circumstances that I ought not to ask you any more questions, and I now cantion you that whatever you say I will take down, and it may be used against you."
+
+OCR Text: He then charged her with being (st concerned with M'Donald with the wilful murder of the child.:
+Ground Truth: He then charged her with being concerned with M'Donald with the wilful murder of the child.
+
+OCR Text: She replied', " Mr. MIDonald knows er, nothing about my affairs.
+Ground Truth: She replied, "Mr. M'Donald knows nothing about my affairs.
+
+OCR Text: When I fell with the Se 5r'5 baby I must have been drugged.
+Ground Truth: When I fell with the baby I must have been drugged.
+
+OCR Text: It was a trap set i- of for me.
+Ground Truth: It was a trap set for me.
+
+OCR Text: The child died before I had a doctor, and ge e, as I did not have one then I was afraid to have one at after."
+Ground Truth: The child died before I had a doctor, and as I did not have one then I was afraid to have one after."
+
+OCR Text: At the station swa said, " This man knows I to nothing about it.
+Ground Truth: At the station she said, "This man knows nothing about it.
+
+OCR Text: He is not the father of the chill iiii lin anl knows nothing about it."
+Ground Truth: He is not the father of the child and knows nothing about it."
+
+OCR Text: The doctor said that B.. er, suffocation might have been accidentally caused. to ing
+Ground Truth: The doctor said that suffocation might have been accidentally caused.
+
+OCR Text: Mr. Mead again remanded the prisoners.
+Ground Truth: Mr. Mead again remanded the prisoners.

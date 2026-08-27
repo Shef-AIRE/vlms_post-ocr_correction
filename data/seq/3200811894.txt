@@ -1,0 +1,56 @@
+OCR Text: EXCITING CHASE oArTEPR A CONVICT. I ,~~~~~~~~~~~~~~~
+Ground Truth: EXCITING CHASE AFTER A CONVICT.
+
+OCR Text: FSUBJaWT OF ILLUSTRATION.]
+Ground Truth: [SUBJECT OF ILLUSTRATION.]
+
+OCR Text: COXS1DERAuLc excitement was caused in Peterhead, on Monday morning, by a iumour that Laurie, the Arran murderer, had made an attempt to escape' from the convict prison.
+Ground Truth: CONSIDERABLE excitement was caused in Peterhead, on Monday morning, by a rumour that Laurie, the Arran murderer, had made an attempt to escape from the convict prison.
+
+OCR Text: It appears that'Laurie, by his good behaviour, had advanced himself to be a prisoner of the first claes, and as such had an amount of freedom which is denied to those in the lower grades.
+Ground Truth: It appears that Laurie, by his good behaviour, had advanced himself to be a prisoner of the first class, and as such had an amount of freedom which is denied to those in the lower grades.
+
+OCR Text: He was employed in the carpenters' shop, and was working with a gang who were erecting scaffolding In front of an addition to a block of warders' houses, forming one of the lines of such blocks parallel tothe Aberdeen turnpike road.-
+Ground Truth: He was employed in the carpenters' shop, and was working with a gang who were erecting scaffolding in front of an addition to a block of warders' houses, forming one of the lines of such blocks parallel to the Aberdeen turnpike road.
+
+OCR Text: The buildings are partly enclosed by a high-stone wall, and partly by a wooden feaoing.
+Ground Truth: The buildings are partly enclosed by a high stone wall and partly by a wooden fencing.
+
+OCR Text: ,About a quarter before eight in the morning there was a very thick sea fog hanging over the land-so dense, indeed, that, it is said, objects at one hundred yards' distance were barely discernible, and taking advantage of this Laurie scaled the fencing and got on to the public road.
+Ground Truth: About a quarter before eight in the morning there was a very thick sea fog hanging over the land—so dense, indeed, that, it is said, objects at one hundred yards' distance were barely discernible, and taking advantage of this Laurie scaled the fencing and got on to the public road.
+
+OCR Text: As Soon as he emerged upon the road he was discovered by Graham, the civil guard, who at once loaded his carbine and tried to fire, but the cartridge did not go off.
+Ground Truth: As soon as he emerged upon the road he was discovered by Graham, the civil guard, who at once loaded his carbine and tried to fire, but the cartridge did not go off.
+
+OCR Text: Before he got ib extracted and a freeh one substituted the fugitive was bidden by the fog.
+Ground Truth: Before he got it extracted and a fresh one substituted the fugitive was hidden by the fog.
+
+OCR Text: The alarm was at once given, and the warders and the reserve civil guard on duty were ordered out for the pursuit.
+Ground Truth: The alarm was at once given, and the warders and the reserve civil guard on duty were ordered out for the pursuit.
+
+OCR Text: Unfortunately for the success of Laurie's exploit the sun shone out and dispelled the fog, and his line of flight was made visible.
+Ground Truth: Unfortunately for the success of Laurie's exploit the sun shone out and dispelled the fog, and his line of flight was made visible.
+
+OCR Text: One warder got his bioycle, and seeing that Laurie must needs cross the Blackhills-road,. sped along it to intercept him.
+Ground Truth: One warder got his bicycle, and seeing that Laurie must needs cross the Blackhills-road, sped along it to intercept him.
+
+OCR Text: Those who witnessed the pursuit describe it as very exciting whilq_4t lasted.
+Ground Truth: Those who witnessed the pursuit describe it as very exciting while it lasted.
+
+OCR Text: The people who live at Bellevue Cottage,, hearing the whistling of the warders, looked out, hut seeing a man in convict dress -pproaching, they shut and bolted the door.
+Ground Truth: The people who live at Bellevue Cottage, hearing the whistling of the warders, looked out, but seeing a man in convict dress approaching, they shut and bolted the door.
+
+OCR Text: Laurie, however, did not seek the shelter of a house, bub- made for the clump 'of trees behind, and there he wm overtaken and hold.
+Ground Truth: Laurie, however, did not seek the shelter of a house, but made for the clump of trees behind, and there he was overtaken and held.
+
+OCR Text: He was securely hand. cuffed with his hands behind, and marched back to the prison.'
+Ground Truth: He was securely handcuffed with his hands behind, and marched back to the prison.
+
+OCR Text: It is understood that the punishmeat for an attempt to escape is that, the prisoner has a belt of ironarivetted around his waist, similar bands being put around his ankles, and these are bound to- gether by heavy chaimas.
+Ground Truth: It is understood that the punishment for an attempt to escape is that the prisoner has a belt of iron riveted around his waist, similar bands being put around his ankles, and these are bound together by heavy chains.
+
+OCR Text: He has to wearthese ornaments night and day.
+Ground Truth: He has to wear these ornaments night and day.
+
+OCR Text: His escapade willilikely also reduce his standing from the' firsbtlass, and in other ways restrict his liberties, besides probably "adding to his term of servitude.
+Ground Truth: His escapade will likely also reduce his standing from the first class, and in other ways restrict his liberties, besides probably adding to his term of servitude.

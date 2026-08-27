@@ -1,0 +1,71 @@
+OCR Text: LAW NOTICES.-TFis DAY.
+Ground Truth: LAW NOTICES. —THIS DAY.
+
+OCR Text: COURT OF FHANC1'RV, LINCOLN'S INN.
+Ground Truth: COURT OF CHANCERY, LINCOLN'S INN.
+
+OCR Text: Sittings at ten,
+Ground Truth: Sittings at ten.
+
+OCR Text: Towlyn T Reynolds, motion 6ly order-Ixparte Allel. petition by Older.
+Ground Truth: Tamlyn v Reynolds, motion by order—Exparte Allen, petition by order.
+
+OCR Text: Motions continued.
+Ground Truth: Motions continued.
+
+OCR Text: VICE CHANCELLOR'S CO-RT, JAINCOLN'S INN,
+Ground Truth: VICE CHANCELLOR'S COURT, LINCOLN'S INN.
+
+OCR Text: Sittings at tell.
+Ground Truth: Sittings at ten.
+
+OCR Text: Wlaresn v Burton, motion by order-Taylor v Fieldes, ditto- Attornley-Gieneral v Per~lla paMt lteard-Altoriie)G( ejirai v Stewr a rt, -t hesrI-Sitestt v sherratt. petition by order-Alloop v Torwgood. petitlon by o0','r-tLi bolld v llurant. cause by order- Spicerstr v Whis , by order-('olley v toiley. petition by order-In re Dovenby iHosyitel, ditto-leigoC v Hudsontexceptiolls, part heardi-Muagoroe v iNeu ten, 1lia-Ne~tvll~l V West, deinurrer- Kelatlawr v Gal ay-ititto v ditto -;Morgoti} v It1 ell.
+Ground Truth: Warren v Burton, motion by order—Taylor Fieldes, ditto—Attorney-General v Pearson, part heard—Attorney-General v Stew art, part heard—Sherratt v Sherratt, petition by order—Allsop v Towgood, petition by order—Raybould v Durant, cause by order—Spicer Whitwell, by order—Colley v Colley, petition by order. —In re Dovenby Hospital, ditto—Meagoe v Hodson exceptions, part heard—Musgrove v Newton, plea—Newman v West, demurrer Kelshaw v Galway—Ditto v ditto—Morgan v Howell.
+
+OCR Text: BOLLS' COURT, CHANCERY-LANE.
+Ground Truth: ROLLS' COURT, CHANCERY—LANE.
+
+OCR Text: Sitlogo at ten.
+Ground Truth: Sittings at ten.
+
+OCR Text: Nuggeridat v V'ondrufi, jiidgnenit-In re Morgan, petition- Idaendle ounsey, part he.ra-: )!e v Sha kles-Wevt v ihut- tirwortb-GreentAmy v Ituthei ham-Tunwrir s It ltlivii , exteptions- tmith v Wystt-Hiller r lliller-Stattord v Stafford-A.ttonmev.e-( neral Y Bsrimun-Pilkinigtoii v lIrighit-Ba-rfoot v Chlittv, ditt- Pratt v Tucker.
+Ground Truth: Moggeridge v Woodruff, judgment—In re Morgan, petition Majeadle v Mounsey, part heard—sayle v Shackles—West v Shuttleworth—Greenway v Rotherham—Turner v Rawlison, exceptions Smith v Wyatt—Hiller v Hiller—Stafford v Stafford—Attorney-General v Barham—Pilkington v Bright—Barfoot v Chitty, ditto— Pratt v Tucker.
+
+OCR Text: COURT OF KING'S BENCH.
+Ground Truth: COURT OF KING'S BENCH.
+
+OCR Text: "StilIg ;t 1llt Iimu lille.
+Ground Truth: Sitting at half-past nine.
+
+OCR Text: LOmwDON Coumsio% J3 rlt -DrIVr .i I Allother v Flis-Lis , 1lsttbeues-Sinipsuli v 1t rimewor-I'llithmrii anid Anotbv r N lol. nsghi andAnother-;noglt v X% zterlnia .
+Ground Truth: LONDON COMMON JURIES. —Driver and Another v Ellis—Ewins v Matthews—Simpson v Crawcour—Eitherne and Another v Colnaghi and Another—Knight v Waterman.
+
+OCR Text: COlU'it OP( , (IM'tO: Pt- 1.t
+Ground Truth: COURT OF COMMON PLEAS.
+
+OCR Text: Sitilg, o: halt ps'' orie.
+Ground Truth: Sittings at half past nine.
+
+OCR Text: LONDtON CoMMtoV J( hi K-S:k-nL; it % :ciueim -Pawrnlger v Brooiten-Shirley v Juli,'oiJ-Wt I< 1, II SI II .Stp500 1 It'S.
+Ground Truth: LONDON COMMON JURIES —Salmon v Cranston—Passenger v Brookes—Shirley v Jacobs—Wise v Downes Simpson v Russ.
+
+OCR Text: Thll tue 1 lmrt of tE xi hluler Mll- jonrned Testerday
+Ground Truth: The Court of Exchequer adjourned yesterday.
+
+OCR Text: the iiljiII , I I I Ct r t t ing', ltteiu h, standing over tillt extterni, si t 1t (i' IV vtiallies, Ilie in Mliddlesex, tind line tli toil ,; ti til,
+Ground Truth: The business in the Court of King's Bench, standing over till next term, consist of # eighteen causes, nine in Middlesex, and nine in London.
+
+OCR Text: I Ourlt (If G tmmoll I%'a there lsairearrof, ,'%i l -t, ; I ill' j IU Nd6ileV's, .4llt toCt) special and comnmlion llI U) ci11t;,w I'mdmi
+Ground Truth: In the Court of Common Pleas there is an arrear of seven special jury causes in Middlesex, and twenty special and common jury causes in London.
+
+OCR Text: HANKRUVI'( V Cul'lt'lt',i X j NIilAt l iHi T
+Ground Truth: BANKRUPTCY COURT, BASINGHALL STREET.
+
+OCR Text: Before Mr. Cornniiisi11cr F \ e. -t 11111 Hig t iilil'ertIIl' street, liightsbridge, baker, at till hilc iell l .belees l thurI nett, of 'TIteihtsnat-treet, Fitzroy 3kllle, c le'iplate-pi''1tcr, at Iteven ai journtd eiaminatioli
+Ground Truth: Before Mr. Commissioner FANE—Stephen King, of Kinnerton street, Knightsbridge, baker, at ten choice of assignees—John Banett, of Tottenham—street, Fitzroy square, copperplate—printer, at eleven; adjourned examination.
+
+OCR Text: before ir. t.oii'l -sInner 111i LROVI'.- 11. it. EI wrletoiul if ('h ales- street. Trevor-squuare, llr inptI l I'tIltrblit, It till tijoiullriledl xanminatirn--Stephlieson ,,,,d BtillI (t f (iret O rniuid street, Queen-square. aeycvori, i Ieill CI . l IVJlrllil I illiioll
+Ground Truth: Before Mr. Commissioner HOLROYD.— H. D. Eggleton, of Charles street, Trevor-square, Brompton, coal-merchant, at two adjourned examination—Stephenson and Blunt, of Great Ormond-street, Queen-square, surveyors, at twelve, adjourned examination.
+
+OCR Text: Ov THE eitrtoU%1, FlIme rt-111 H1,1rs hiill'S btih rUit(i at elvren; a reditors to ineet thleaycgineew .
+Ground Truth: ON THE GROUND FLOOR. —In Henry Kain's bankruptcy, at eleven; creditors to meet the assignees.

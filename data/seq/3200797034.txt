@@ -1,0 +1,44 @@
+OCR Text: SERVANTS AND THEIR SWEETHEARTS. . A I I . 1 _ I I _ - -__s _ -__
+Ground Truth: SERVANTS AND THEIR SWEETHEARTS.
+
+OCR Text: OT Saturday, at the Croydofi petty sessions, Percy Davis, alias Gordon, a clerk, and Robert Everett, alias Davenport (two fashionably-attired young mneo, 'of 47 Auicknlad-roid, Vauxhall), and Elizabeth Wil- liams, described t a ageniral servant, wiei charged on 'remand with being concerned togetlhir in stealing from the diwellifi-hoilse, .3 Pcior-terrace'St. Janiel's- road, Croydon, since October, 1S81, toiv. gold chains, two diamond rings, two cameo brooches, two gold seals, three gold pins, some silver forks and spoons, and about £20 in silver money, the property of Mary Ann Cosens, valued altogether at about £50 and Robert Everett, father of the prisoner of that name, was ctlarged with receiving the property well knoiving it to have been' stolen, and he wvas further charged with uinlawefully pledging tile same.
+Ground Truth: ON Saturday, at the Croydon petty sessions, Percy Davis, alias Gordon, a clerk, and Robert Everett, alias Davenport (two fashionably-attired young men, of 47 Auckland-road, Vauxhall), and Elizabeth Williams described as a general servant, were charged on remand with being concerned together in stealing from the dwelling-house, 3 Prior-terrace, St. James’s road, Croydon, since October 1881, two gold chains, two diamond rings, two cameo brooches, two gold seals, three gold pins, some silver forks and spoons, and about £20 in silver money, the property of Mary Ann Cosens, valued altogether at about £50; and Robert Everett, father of the prisoner of that name, was charged with receiving the property well knowing it to have been stolen, and he was further charged with unlawfully pledging the same.
+
+OCR Text: The last-ntintd prisoner was for some years a superih- tendent in the Dorsctsliire constabulary.
+Ground Truth: The last-named prisoner was for some years a superintendent in the Dorsetshire constabulary.
+
+OCR Text: Mr. Young, wvho appeared for the prosecution, said that his client, Mrs. Cosens, was an nvalid lady eighty-two years. of 'age, and quite unable to attend the court owing to her infirmity..
+Ground Truth: Mr. Young, who appeared for the prosecution, said that his client, Mrs. Cosens, was an invalid lady eighty-two years of age, and quite unable to attend the court owing to her infirmity.
+
+OCR Text: In September last she engaged the female 'prisoner as a confidential servant and attendant, 'and 'sheb was the oi ly persob who hdd atcess tb' the jewellery.
+Ground Truth: In September last she engaged the female prisoner as a confidential servant and attendant, and she was the only person who had access to the jewellery.
+
+OCR Text: Shortly after entering Mrs. COsess"s'ervice she formed the acquttintance of the prisoner Davis, and at the time, under the pretence of paying, his addresses to the girl, he gained admission to the house, rind there was no doubt that he had made the place hlis home.
+Ground Truth: Short after entering Mrs. Cosens’ service she formed the acquaintance of the prisoner Davis, and at the time under the pretence of paying his addresses to the girl, he gained admission to the house, and there was no doubt that he had made the place his home.
+
+OCR Text: le had.evidently slept on the premises, and enticed the girl to steal her mistress's jewellery, hvlich he took away and pledged, and spent the proceeds about the towin; Everett shortly afterwards came upon the scene, and carried out the sarne- kind of proceeding. Emily Barlow, cook to the prosecutrix, stated that the prisoners first canje to the house in solditeis' clothes, which they afterw'ards exchaieged for civilian dresses.
+Ground Truth: He had evidently slept on the premises, and enticed the girl to steal her mistress’s jewellery, which he took away and pledged, and spent the proceeds about the town; Everett shortly afterwards came upon the scene, and carried out the same kind of proceeding, Emily Barlow, cook to the prosecutrix, stated that the prisoners first came to the house in soldiers’ clothes, which they afterwards exchanged for civilian dresses.
+
+OCR Text: Theoy used to et uIp to bliaklfst about half-past eleven o'clock iin the morIiieg, and helped theniselves to 'dinner, the witness cookeng the siat pnirhised~out of her mistress's money.
+Ground Truth: They used to get up to breakfast about half-past eleven o’clock in the morning, and helped themselves to dinner, the witness cooking the meat purchased out of her mistress’s money.
+
+OCR Text: Davis was apparently courting Williams, and a servant named Smith, aged: twenty- three, used to visit the house on tlo evenings in the iveek, and keep company with Everett.
+Ground Truth: Davis was apparently courting Williams, and a servant named Smith, aged twenty-three used to visit the house on two evenings in the week, and keep company with Everett.
+
+OCR Text: During the cotertship she 'also slept in the honse.
+Ground Truth: During the courtship she also slept in the house.
+
+OCR Text: Witnessawas not aware bf the jevellery having been stolten.
+Ground Truth: Witness was not aware of the jewellery having been stolen.
+
+OCR Text: Detec- tive Forster vas thien called to prove the arrest of the elder Everett.
+Ground Truth: Detective Forster was then called to prove the arrest of the elder Everett.
+
+OCR Text: The acc sed said:-" My son gave,1no, the things to pledge, as I was better kon, ettcould got mnore nemolicy
+Ground Truth: The accused said: - “My son gave me the things to pledge, as I was better known, and could get more money.
+
+OCR Text: He told me that theo'articl'ds ad beecn given to him by, a relative."
+Ground Truth: He told me that the articles had been given to him by a relative.”
+
+OCR Text: The'iae uvad, I journed, aned thp prisolnel V rP e wepovocl to toe Touse pf Doteeltionce,
+Ground Truth: The case was adjourned, and the prisoners were removed to the House of Detention.

@@ -1,0 +1,47 @@
+OCR Text: SUSPECTED MURDER IN GLkSGOlV. I
+Ground Truth: SUSPECTED MURDER IN GLASGOW.
+
+OCR Text: The Aovth BritiseZz Nazi of Thursday says:- Searcoly has the excitement cawsed by thc 'Mo- therwell mlystosy' had time to subside, when we are aitastled by another case, equally mysterious, and in some points closely resembling the ' mysterionus oe- ourroace at eotherwell'
+Ground Truth: The North British Mail of Thursday says: —'Scarcely has the excitement caused by the 'Motherwell mystery' had time to subside, when we are startled by another case, equally mysterious, and in some points closely resembling the ‘mysterious occurrence at Motherwell.’
+
+OCR Text: A man, named James MI'Caffery, a fusnacemlan, in the employmRent of Messrs. Merry and Cuinninghasn. at Cairnbroe, disap- peared on the mriming of Sabbath last, and has not been heard of.
+Ground Truth: A man, named James M'Caffery, a furnaceman, in the employment of Messrs. Merry and Cunningham, at Cairnbroe, disappeared on the morning of Sabbath last, and has not been heard of.
+
+OCR Text: The facts of the ease. so far as we have boen able to gather thorn, are as fellows :--On Saturda-y night last, M['affery was in Ahrdrie, along with his brother. John hiCaffery, and other two men, nameed respectively.Johnu Mulholland and William M'GCroty.
+Ground Truth: The facts of the case, so far as we have been able to gather them, are as follows: —On Saturday night last, M'Caffery was in Airdrie, along with his brother, John M'Caffery, and other two men, Damned respectively John Mulholland and William M'Groty.
+
+OCR Text: They had been in one or two public-houses, and at a late hoer thev lftt the town I to go home.
+Ground Truth: They had been in one or two public-houses, and at a late hour they left the town to go home.
+
+OCR Text: 'The brother states that, instead of going direct home, they went round by WMlifflet, and went to a pubihenhouse there. where they had 'half a mutchkin.'
+Ground Truth: The brother states that, instead of going direct home, they went round by Whifflet, and went to a public-house there, where they had 'half a mutchkin.'
+
+OCR Text: I-e and lhis (now missing) brother then left to go hoese.
+Ground Truth: He and his (now missing) brother then left to go home.
+
+OCR Text: When they were near the bridge which crossed the Caledonian railway at Whitilot, ho heard two men coining running after them (not those with whom they'ahd been ins oompartypre- viously), and who, on cominig up to where they were, began to quarrel with his brh.ther.
+Ground Truth: When they were near the bridge which crossed the Caledonian railway at Whitllet, he heard two men coming running after them (not those with whom they had been in company previously), and who, on coming up to where they were, began to quarrel with his brother.
+
+OCR Text: James c'Caffery then rau away, and the two muen followed him to- wards Greenoud and across the bridge over the Oalder rasehl of the M~onkleods cailal.
+Ground Truth: James M'Caffery then ran away, and the two men followed him to wards Greenend and across the bridge over the Calder branch of the Monklands canal.
+
+OCR Text: Ina >horttime, one of the men rehtrned. ahd. aiddressing John M'Oaf- fery, said with an oath, If you were not snch an old man, I would. give you as much,* or words to that effect, and then passied on ; and John M11t0f- f Sery, who seen.s to have benu pretty Tanuch under the influence of drink at the timee, aiso went on home- wards.
+Ground Truth: In a short time, one of the men returned, and addressing John M'Caffery, said with an oath 'If you were not such an old man, I would give you as much,' or words to that effect, and then passed on; and John M'Caffery, who seems to have been pretty much under the influence of drink at the time, also went on homewards.
+
+OCR Text: A woman, who lives at the Old Store, Cal- der, just immediately beside the bridge which ronsses the canal before referred to, SayS that about one or two o'clock on the Sabbath maorniog she beard a noise of men quarrelling and fighting. aunl that she heaLd some one say, ' I'll have your life before you to Cairubroe ;' and shie also heard cries of Murder "'
+Ground Truth: A woman, who lives at the Old Store, Calder, just immediately beside the bridge which crosses the canal before referred to, says that about one or two o'clock on the Sabbath morning she heard a noise of men quarrelling and fighting, and that she heard some one say, 'I'll have your life before you to Cairnbroe;' and she also heard cries of 'Murder!’
+
+OCR Text: Since the occurrence diligent inquiries nave beon made by the plice of the missing man's relatives both here and in Olsacow and elsevwhere, but no trace of him has been found.
+Ground Truth: Since the occurrence diligent inquiries have been made by the police of the missing man's relatives both here and in Glasgow and elsewhere, but no trace of him has been found.
+
+OCR Text: The canlt has also been dragged by the police, under the superin- tendence of Captsin Clark and John M'lDonald. Esq., ! procurator-fiseal; bat although it is stated that the smissing man's bonnet has been found on the canal I banh, near to Suicide -bridge, nearly a mile distant from the place where the quarrel commenced, np to | tbe time we waite the body has not been discovered.
+Ground Truth: The canal has also been dragged by the police, under the superintendence of Captain Clark and John M'Donald, Esq., procurator-fiscal; but although it is stated that the missing man's bonnet has been found on the canal bank, near to Suicide-bridge, nearly a mile distant from the place where the quarrel commenced, up to the time we write the body has not been discovered.
+
+OCR Text: Those who lived beside bl'affery stl;re that he and bis wife sometimhes quarrelled, and that he was in the habit of leaving her far a short time, but this statement is stoutly denied by the woman herself.
+Ground Truth: Those who lived beside M'Caffery state that he and his wife sometimes quarrelled, and that he was in the habit of leaving her for a short time, but this statement is stoutly denied by the woman herself.
+
+OCR Text: -John A'OCafery states that the two men who ran after his brother were not personally kno wn to him, and they are still at large.
+Ground Truth: John M'Caffery states that the two men who man after his brother were not personally known to him, and they are still at large.
+
+OCR Text: The whole affadr is shrouded in a mystery which, judging from present appearances, will not be easily solved,"
+Ground Truth: The whole affair is shrouded in a mystery which, judging from present appearances, will not be easily solved."

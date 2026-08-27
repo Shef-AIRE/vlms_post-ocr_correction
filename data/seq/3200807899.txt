@@ -1,0 +1,65 @@
+OCR Text: I SHOWMEN AND THE COUNTY COUNCIL.
+Ground Truth: SHOWMEN AND THE COUNTY COUNCIL.
+
+OCR Text: AT the Marylebone Police.court, on Thursday, Henry C EalP, of Fleet-road, Hampatead, appeared before Mr. a Cooke, on an adjourned summons tken out by Mr. r William Smallpeice, district surveyor, for putting up t five wooden structures or erections of a movable or I temporary character without having, obtaine i a licence 6 of tae London County Council.
+Ground Truth: AT the Marylebone Police-court, on Thursday, Henry Hall, of Fleet-road, Hampstead, appeared before Mr. Cooke, on an adjourned summons taken out by Mr. William Smallpeice, district survey or, for putting up five wooden structures or erections of a movable or temporary character without having obtained a licence of the London County Council.
+
+OCR Text: Mr. Freke Palmer, a solicitor, defended.
+Ground Truth: Mr. Freke Palmer, solicitor, defended.
+
+OCR Text: Mr. Smallpeice, in reply to the 1, magistrate, said the structures consisted of canvas t booths, a steam roundabout thirty feet in diameter, i with a canvas roof, a shooting-gallery with an iron E roof and a wooden front, and a travelling caravan. I
+Ground Truth: Mr. Smallpeice, in reply to the magistrate, said the structures consisted of canvas booths, a steam roundabout thirty feet in diameter, with a canvas roof, a shooting-gallery with an iron roof and a wooden front, and a travelling caravan.
+
+OCR Text: Most of them were on wheels.
+Ground Truth: Most of them were on wheels.
+
+OCR Text: They were close to t the property of an adjoining owner.
+Ground Truth: They were close to the property of an adjoining owner.
+
+OCR Text: Mr. Palmer v said his client had nothing to do with the show t booth, and Mr. Smallpeice withdrew that.
+Ground Truth: Mr. Palmer said his client had nothing to do with the show booth, and Mr. Smallpeice withdrew that.
+
+OCR Text: Cross- i examined: He supposed it would take a week or a 1 fortnight to get a licence from the County Council. s
+Ground Truth: Cross-examined: He supposed it would take a week or a fortnight to get a licence from the County Council.
+
+OCR Text: Mr. Palmer produced an official document to show s that the vestry received rates on an assessment which a included the land in question, let out for the purpose s of swings, &c. Mr. Cooke, in giving his decisisn, observed that he had nothing to do with what the I vestry had done.
+Ground Truth: Mr. Palmer produced an official document to show that the vestry received rates on an assessment which included the land in question, let out for the purpose of swings, &c. Mr. Cooke, in giving his decision observed that he had nothing to do with what the vestry had done.
+
+OCR Text: This was a matter for the County I Council.
+Ground Truth: This was a matter for the County Council.
+
+OCR Text: The mere question of swings was not before f him.
+Ground Truth: The mere question of swings was not before him.
+
+OCR Text: He had to decide the question of the erection l of a certain building.
+Ground Truth: He had to decide the question of the erection of a certain building.
+
+OCR Text: It was not necessary that a building should consist of bricks and mortar ; it might be constructed of wood.
+Ground Truth: It was not necessary that a building should consist of bricks and mortar; it might be constructed of wood.
+
+OCR Text: Nor was it necessary that i it should be fixed to the ground.
+Ground Truth: Nor was it necessary that it should be fixed to the ground.
+
+OCR Text: There were two X decisions which bore on this case, that in the case of 8 Quilter and Smart being of considerable importance. e
+Ground Truth: There were two decisions which bore on this case, that in the case of Quilter and Smart being of considerable importance.
+
+OCR Text: The Act 45 Vic., cap. 14, sec. 13, was very clear: c "It shall not be lawful for any person to erect or set t up in any place any wooden structure of a movable f or temporary character (unless the same be exempt a from the operation of the first part of the Metropo- c litan Building Act, 1885) without a licence in writing c first..bad and obtained from the Board."
+Ground Truth: The Act 45 Vic., cap. 14, sec. 13, was very clear: “It shall not be lawful for any person to erect or set up in any place any wooden structure of a movable or temporary character (unless the same be exempt from the operation of the first part of the Metropolitan Building Act, 1885) without a licence in writing first had an obtained from the Board.”
+
+OCR Text: The Act, e therefore, included wooden structures and movable e erections in any place whatever.
+Ground Truth: The Act, therefore, included wooden structures and movable erections in any place whatever.
+
+OCR Text: The object was quite 1, clear-it was to protectagainstfire.
+Ground Truth: The object was quite clear—it was to protect against fire.
+
+OCR Text: There werecertain c exemstions in the Act, but these structures did not s come 'ithin that category.
+Ground Truth: There were certain exemptions in the Act, but these structures did not come within that category.
+
+OCR Text: Of course, a mere polo put up for children to swing round it would not come within the meaning of the Act, but a steam round- about' with an organ in the centre and a canvas cover over it such as had been described, was certainly a building within the meaning of the Act, for which it a would he necessary to get a licence from the County c Council.
+Ground Truth: Of course, a mere polo put up for children to swing round it would not come within the meaning of the Act, but a steam round-about, with an organ in the centre and a canvas cover over it such as had been described, was certainly a building within the meaning of the Act, for which it would be necessary to get a licence from the County Council.
+
+OCR Text: He should fine the defendant a nominal s sum of 20s., with 2s. costs.
+Ground Truth: He should fine the defendant a nominal sum of 20s. with 2s. costs.
+
+OCR Text: Mr. Cooke added that he did not intend his decision in this case to be a side- wind for doing away with fairs; that could be done in quite a different way.
+Ground Truth: Mr. Cooke added that he did not intend his decision in this case to be a side-wind for doing away with fairs; that could be done in quite a different way.

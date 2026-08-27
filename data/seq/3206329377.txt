@@ -1,0 +1,8 @@
+OCR Text: I. FASHIONS FOR DEM OER.; 1
+Ground Truth: FASHIONS FOR DECEMBER.
+
+OCR Text: I' Folf Hays 1a Mode Introduces no radical chanuesprisW1intrs and hoee ladies who use ther iteligece o slvethedidficult problem of dressing elegently, without incurnug any extravafiant expenditure, may congratulate, themselves on the facility with which tbeyl may, at slight trouble antd expense, alter the I toilettesof the last yesrto the presentfushions.
+Ground Truth: Le Follet says La Mode introduces no radical changes this winter, and those ladies who use their intelligence to solve the difficult problem of dressing elegantly, without incurring any extravagant expenditure, may congratulate themselves on the facility with which they may, at slight trouble and expense, alter the toilettes of the last year to the present fashions.
+
+OCR Text: Lou tusics, corsages-habits, and plaatrons ate decid on for all toilettee; therefore a.litte unpicking, ajudicious use of the scissors, a gar- niture elegantly placed, and the tour serfafait
+Ground Truth: Long tunics, corsages-habits, and plastrons are decided on for all toilettes; therefore, a little unpicking, a judicious use of the scissors, a garniture elegantly placed, and the tour sera fait.

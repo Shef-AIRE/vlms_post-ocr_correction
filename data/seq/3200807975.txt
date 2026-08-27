@@ -1,0 +1,89 @@
+OCR Text: A SUICIDE'S LETTER. I - _ I E T
+Ground Truth: A SUICIDE'S LETTER.
+
+OCR Text: A MAN named John James Norman should have |r surrendered to his bail at the Greenwich Police-court, h on Monday, on a charge of assaulting £ little girl. a'
+Ground Truth: A MAN named John James Norman should have surrendered to his bail at the Greenwich Police-court, on Monday, on a charge of assaulting a little girl.
+
+OCR Text: Last week, however, lie committed suicide by hang- tI ing, and 4Mr. Holmes Moss (solicitor) read the follow- ing letter he had received from the accused:-" Point d Hill House, July 9th, 1889.
+Ground Truth: Last week, however, he committed suicide by hanging, and Mr. Holmes Moss (solicitor) read the following letter he had received from the accused: —"Point Hill House, July 9th, 1889.
+
+OCR Text: Dear Sir,-You need T not trouble about my case.
+Ground Truth: Dear Sir, —You need not trouble about my case.
+
+OCR Text: I am innocent of the ai charge I am accused of.
+Ground Truth: I am innocent of the charge I am accused of.
+
+OCR Text: The police can prosecute a] the body; they cannot follow the soul.
+Ground Truth: The police can prosecute the body; they cannot follow the soul.
+
+OCR Text: I am not a afraid to meet my God.
+Ground Truth: I am not afraid to meet my God.
+
+OCR Text: Man is the greatest enemy T man has got.
+Ground Truth: Man is the greatest enemy man has got.
+
+OCR Text: If the police would try to pre- bi vent crime instead of laying traps to create it, pi there would not be one half the misery in the si world there is.
+Ground Truth: If the police would try to prevent crime instead of laying traps to create it, there would not be one half the misery in the world there is.
+
+OCR Text: £ s. d. is the god of all classes, w parsons not excepted.
+Ground Truth: £ s. d. is the god of all classes, parsons not excepted.
+
+OCR Text: I am hunted down for trying of to do good.
+Ground Truth: I am hunted down for trying to do good.
+
+OCR Text: My only object, motive, or intention on the 25th of June was to do the dear little children Pi good.
+Ground Truth: My only object, motive, or intention on the 25th of June was to do the dear little children good.
+
+OCR Text: For me to come into court with only one wit- of ness when they have four, coached and trained for so one week before they took action, and another week to complete it ; had I the opportunity to go into the vi witness-box (my month is closed) I should not have an taken the step I have.
+Ground Truth: For me to come into court with only one witness when they have four, coached and trained for one week before they took action, and another week to complete it; had I the opportunity to go into the witness-box (my mouth is closed) I should not have taken the step I have.
+
+OCR Text: Hoping you will read this to fal the Court, and try to open the way to remove the Ti great obstruction to justice by keeping a culprit's fol mouth closed in defence of his innocence, believe me, yours respectfully,-J. J. NORmIAX.
+Ground Truth: Hoping you will read this to the Court, and try to open the way to remove the great obstruction to justice by keeping a culprit's mouth closed in defence of his innocence, believe me, yours respectfully, J. J. NORMAN.
+
+OCR Text: N.B.-If I have sal judged anyone wrongfully I hope they will forgive me. be Mr. Moss, jun., New-cross."
+Ground Truth: N.B. —If I have judged anyone wrongfully I hope they will forgive me. Mr. Moss, jun., New-cross."
+
+OCR Text: Mr. Kennedy said it ha was a dreadful tragedy. ce:
+Ground Truth: Mr. Kennedy said it was a dreadful tragedy.
+
+OCR Text: MARnARoET HUNTER, of 153, St. Pancras-road, on threw her baby out of the second floor window, and of then jumped out herself.
+Ground Truth: MARGARET HUNTER, of 153, St. Pancras-road, threw her baby out of the second floor window, and then jumped out herself.
+
+OCR Text: They fell fifteen feet on th to a cistern, and were neither severely injured.
+Ground Truth: They fell fifteen feet on to a cistern, and were neither severely injured.
+
+OCR Text: At ca Clerkenwell the woman was charged, and committed It for trial. . ll
+Ground Truth: At Clerkenwell the woman was charged, and committed for trial.
+
+OCR Text: A YOrUNG man named Frank Browning, aged Cii twenty-one, of Queen's-road,. Wickham-lane, near Plumstead, was sitting on a haycock in a field at fat Black Fen, between Bexley and Eltham, when he sll] was struck in the face by some shotsfrom a gun, some AI( of the missiles entering his left eye.
+Ground Truth: A YOUNG man named Frank Browning, aged twenty-one, of Queen's-road, Wickham-lane, near Plumstead, was sitting on a haycock in a field at Black Fen, between Bexley and Eltham, when he was struck in the face by some shots from a gun, some of the missiles entering his left eye.
+
+OCR Text: The gun was Sli fired by a lad of fourteen, named Charles Hills, of Th Scudder's-lane, Bexley, to whom it had been lent or(
+Ground Truth: The gun was fired by a lad of fourteen, named Charles Hills, of Scudder's-lane, Bexley, to whom it had been lent.
+
+OCR Text: He pointed it, he says, at two sparrows, and did not by see Browning until he cried out, when he became do frightened and ran away.
+Ground Truth: He pointed it, he says, at two sparrows, and did not see Browning until he cried out, when he became frightened and ran away.
+
+OCR Text: The injured man has lost the sight of his left eye, and several shots have been of extracted from his face and ears. nai
+Ground Truth: The injured man has lost the sight of his left eye, and several shots have been extracted from his face and ears.
+
+OCR Text: THOMSAs BuRnEa, nineteen, a slater, of Anatola- Al, road, Upper Holloway, was charged before Mr. Bros, tal at the Dalston Police-court, on Monday afternoon, aw with disturbing the members of the Salvation Army . by shouting and swearing and using disgusting lan- jUs guage inside the " army " barracks, a duly-registered for place of worship, at Salisbury-road, Upper Holloway. jec
+Ground Truth: THOMAS BURKE, nineteen, a slater, of Anatola-road, Upper Holloway, was charged before Mr. Bros, at the Dalston Police-court, on Monday afternoon, with disturbing the members of the Salvation Army by shouting and swearing and using disgusting language inside the "army " barracks, a duly registered place of worship, at Salisbury-road, Upper Holloway.
+
+OCR Text: " Lieutenant " Bessie Bellamy deposed that the pre- los vious afternoon the prisoner was at the service as tal stated, and talked loudly and persisted in singing xi when others had stopped.
+Ground Truth: “Lieutenant” Bessie Bellamy deposed that the previous afternoon the prisoner was at the service as stated, and talked loudly and persisted in singing when others had stopped.
+
+OCR Text: He talked loudly whilst at the captain was reading the Bible.
+Ground Truth: He talked loudly whilst the captain was reading the Bible.
+
+OCR Text: Sergeant Smith fen deposed to hearing the disturbance, and to asking the tat prisoner to wvithdraw.
+Ground Truth: Sergeant Smith deposed to hearing the disturbance, and to asking the prisoner to withdraw.
+
+OCR Text: Ho refused, but on subse- th( cquently being detained until a policeman was fetched ha' hie asked in a loud voice, " what the devil are you paI keeping me here for ?"
+Ground Truth: He refused, but on subsequently being detained until a policeman was fetched he asked in a loud voice, "What the devil are you keeping me here for?"
+
+OCR Text: The bad language alleged to ret have been used by prisoner was spoken to; and by Police-constable 50 YR having said the prisoner was mu violent and threw him when arrested, Mr. Bros shc passed sentence of one month's hard labour.
+Ground Truth: The bad language alleged to have been used by prisoner was spoken to; and Police-constable 50 YR having said the prisoner was violent and threw him when arrested, Mr. Bros passed sentence of one month's hard labour.
+
+OCR Text: A Ch woman at the back of the court screamed and fainted Su( on hearing this.
+Ground Truth: A woman at the back of the court screamed and fainted on hearing this.

@@ -1,0 +1,44 @@
+OCR Text: A andM 33hSPESARY,
+Ground Truth: A QUEER DISPENSARY.
+
+OCR Text: AT the North London Police-oourt, on Saturday, Dr. David Hymran Dyte, of 43, Poole Park, Holloway, was summoned by Mr. Charles Townley for wilfully making and issaing a false certificate concerning the death of SusaRanah Elizabeth Waller, aged seven months,.of 100, Palmersto4i-road. in contravention of the provisions of the Births and Deaths Registration Act, 1874; and Henry Smryth, of the samo address, was summoned for unlawfully using or sending the said oertificate knowing it to be false.
+Ground Truth: AT the North London Police-court, on Saturday, Dr. David Hyman Dyte, of 43, Poole Park, Holloway, was summoned by Mr. Charles Townley for willfully making and issuing a false certificate concerning the death of Susannah Elizabeth Waller, aged seven months, of 100, Palmerston-road, in contravention of the provisions of the Births and Deaths Registration Act, 1874; and Henry Smyth, of the same address, was summoned for unlawfully using or sending the said certificate knowing it to be false.
+
+OCR Text: Mr. Lions, barrister, defended Dtte a'nd pleaded guilty on his behalf; the other defendantb pleaded not guilty.
+Ground Truth: Mr. Lions, barrister, defended Dyte and pleaded guilty on his behalf; the other defendant pleaded not guilty.
+
+OCR Text: Mr. C. TownIey, stperietendent registrar of Isling- ton, said this case had caused a good deal of public excitement, not only in the prees bub in the House of Commons.
+Ground Truth: Mr. C. Townley, superintendent registrar of Islington, said this case had caused a good deal of public excitement, not only in the press but in the House of Commons.
+
+OCR Text: Dr. Dyte, it appesared, was a well-known medical practitioner, carrying on business in -Derby- street, King's-cross.
+Ground Truth: Dr. Dyte, it appeared, was a well-known medical practitioner, carrying on business in Derby-street, King’s-cross.
+
+OCR Text: He was also proprietor of a dispensary in Poole's Park, Holloway, a very poor neighboarhood.
+Ground Truth: He was also proprietor of a dispensary in Poole’s Park, Holloway, a very poor neighbourhood.
+
+OCR Text: Ae far as they could find oun the only gentleman who attended there was Mr. Smyth.
+Ground Truth: As far as they could find out the only gentleman who attended there was Mr. Smyth.
+
+OCR Text: An extraordinary state of affairs existed at the dispensary.
+Ground Truth: An extraordinary state of affairs existed at the dispensary.
+
+OCR Text: The patients were seen by a lady who prescribed for them and dispensed the medi- cines.
+Ground Truth: The patients were seen by a lady who prescribed for them and dispensed the medicines.
+
+OCR Text: A charge of Is. was made, and when the patients got into a bad way Mr.. Smyth appeared on the scene and a fee of 2s. or 2s. Od. .was demanded.
+Ground Truth: A chare of 1s. was made, and when the patients got into a bad way Mr. Smyth appeared on the scene and a fee of 2s. or 2s. 6d was demanded.
+
+OCR Text: The inquiries showed that in four .asiis in which deaths bad occurred Dyte had given certid cstes although he had never 'een the child,
+Ground Truth: The inquiries showed that in four cases in which deaths had occurred Dyte had given certificates although he had never seen the child.
+
+OCR Text: r. Lions said that Dr. Dyte had very sitnpigy and ille gally dono what. was ebhauged aata t',hirm, Vut there were mitigating eir inmt~nces.
+Ground Truth: Mr. Lions said that Dr. Dyte had very stupidly and illegally done what was charged against him, but there were mitigating circumstances.
+
+OCR Text: nthlspartwulsrorase the child died d&Marc.l".18th, anda'Bt that nime )r. Dyte was confiued tol hisihouse suffering fron othe effects of a fall, and trusti'g to Mr. Smyth, who was his unqualified assistant, and Jrnosring the gentle- man's ability, be signed the certificate.
+Ground Truth: In this particular once the child died on March 18th, and at that time Dr. Dyte was confined to his house suffering from the effects of a fall, and trusting to Mr. Smyth, who was his unqualified assistant, and knowing the gentleman’s ability, he signed the certificate.
+
+OCR Text: Dr. Charles R. Drysdale, senior physician to the Metropolitan F1ree Hospital, said tbat Dr. Dytsb, who was a dia- tinguiehed bAudendt:id gold medallisb of the London Eospital, Was one of the basb kno*n and most able of the Jewish daetors in 1ondonm
+Ground Truth: Dr. Charles R. Drysdale, senior physician to the Metropolitan Free Hospital, said that Dr. Dyte, who was a distinguished student and gold medalist of the London Hospital, was one of the best known and most able of the Jewish doctors in London.
+
+OCR Text: ` Mr. 0oreer said he saw no reason why. the pe'ity should he mRii-' gated, and he oonsequently fined Dr. Dyte 10 or'one month in defaultb and. Smyth £5 or fourteen days in default, with CoStBs amounting 0o XI 13s. 6d, in each case.
+Ground Truth: Mr. Corser said he saw no reason why the penalty should be mitigated, and he consequently fined Dr. Dyte £10 or one month in default, and Smyth £5 or fourteen days in default, with costs amounting to £1 13s. 6d. in each case.

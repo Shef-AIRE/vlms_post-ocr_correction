@@ -1,0 +1,80 @@
+OCR Text: I A CHILD STARVED TO DEATH. I
+Ground Truth: A CHILD STARVED TO DEATH
+
+OCR Text: On Wednesday, Mary Ann Hope, an emaciated lit- tle woman of thirty, of dissipated appearance, was charged at Worship-street, with causing the death of her female child, about two years of age.
+Ground Truth: On Wednesday, Mary Ann Hope, an emaciated little woman of thirty, of dissipated appearance, was charged at Worship-street, with causing the death of her female child, about two years of age.
+
+OCR Text: Hopper, a constable of the N division, stated: I was on duty at ten last night in Somerset-place, Hfom- ton, when I heard a cry of IIOh, my God, my child is dead ;"
+Ground Truth: Hopper, a constable of the N division, stated: I was on duty at ten last night in Somerset-place, Hoxton, when I heard a cry of "Oh, my God, my child is dead;"
+
+OCR Text: I turned round and found there the prisoner with a child in her arms, and she repeated about her child being dead.
+Ground Truth: I turned round and found there the prisoner with a child in her arms, and she repeated about her child being dead.
+
+OCR Text: I took the child from, leaving her standing near me, drunk.
+Ground Truth: I took the child from, leaving her standing near me, drunk.
+
+OCR Text: She said, " Give me my child," but, as I saw that it was dead, I refused to do so, and took it to the house of Mr. Coward, the divi- sional surgeon, the prisoner following me.
+Ground Truth: She said, “Give me my child," but, as I saw that it was dead, I refused to do so, and took it to the house of Mr. Coward, the divisional surgeon, the prisoner following me.
+
+OCR Text: The sur- geon pronounced the child to be dead, and I therefore took the body to the workhouse and lodged the pri- soner in Robert-street station.
+Ground Truth: The surgeon pronounced the child to be dead, and I therefore took the body to the workhouse and lodged the prisoner in Robert-street station.
+
+OCR Text: I afterwards went to her lodging, in Burreil's-buildings, Kingsland, and found it to be a back room on the top floor.
+Ground Truth: I afterwards went to her lodging, in Burrell's-buildings, Kingsland, and found it to be a back room on the top floor.
+
+OCR Text: It was in a most filthy state, had no furniture at all in it but part of an old mattress, and stank shockingly.
+Ground Truth: It was in a most filthy state, had no furniture at all in it but part of an old mattress, and stank shockingly.
+
+OCR Text: A lodger in the house told me the prisoner was in the habit of coming home intoxicated with the child at all hours of the night, that this was the only child she had, and that her husband is a sailor, whose pay she was receiving.-Prisoner: That's false; I don't re- ceive his money.
+Ground Truth: A lodger in the house told me the prisoner was in the habit of coming home intoxicated with the child at all hours of the night, that this was the only child she had, and that her husband is a sailor, whose pay she was receiving. –Prisoner: That's false; I don't receive his money.
+
+OCR Text: Mr. Corrme: What appearance did the child pre- sent ?-Hopper: Well, sir, it looked as though it had been starved.
+Ground Truth: Mr. Corrie: What appearance did the child present? –Hopper: Well, sir, it looked as though it had been starved.
+
+OCR Text: Jane Mason, a married woman, said,-About the tune referred to I saw the prisoner at a brewery tap.
+Ground Truth: Jane Mason, a married woman, said, –About the time referred to I saw the prisoner at a brewery tap.
+
+OCR Text: She had the child with her, and was singing and dan- cing about.
+Ground Truth: She had the child with her, and was singing and dancing about.
+
+OCR Text: I spoke to her about her child, and she sai "I think it is dying."-Mr. Corre: A kind of convulsion, I suppose ?-Witness: No, sir; it seemed to die quiet and happy.
+Ground Truth: I spoke to her about her child, and she said, "I think it is dying." –Mr. Corrie: A kind of convulsion, I suppose? –Witness: No, sir; it seemed to die quiet and happy.
+
+OCR Text: I put its jaw up and closed its eyes, and then the policeman came.
+Ground Truth: I put its jaw up and closed its eyes, and then the policeman came.
+
+OCR Text: Mr. Ross, relieving officer of Shoreditch: I have frequently, sir, seen the prisoner drunk about Shore- ditch.
+Ground Truth: Mr. Ross, relieving officer of Shoreditch: I have frequently, sir, seen the prisoner drunk about Shoreditch.
+
+OCR Text: Last week she made application to us, and received 3s. 6d. and three loaves.
+Ground Truth: Last week she made application to us, and received 3s. 6d. and three loaves.
+
+OCR Text: On Monday last an officer brought her to us from the police-station.
+Ground Truth: On Monday last an officer brought her to us from the police-station.
+
+OCR Text: The child was then with her, and was evidently ill.
+Ground Truth: The child was then with her, and was evidently ill.
+
+OCR Text: We offered her an admission to the house at once, but she refused it, saying she could earn enough to keep her out of the house, and, as we could not make a pri- soner of her, she left, with some further assistance.
+Ground Truth: We offered her an admission to the house at once, but she refused it, saying she could earn enough to keep her out of the house, and, as we could not make a prisoner of her, she left, with some further assistance.
+
+OCR Text: I have known her altogether, perhaps, a twelvemonth.
+Ground Truth: I have known her altogether, perhaps, a twelvemonth.
+
+OCR Text: Sergeant Townshend: On that day she was brought to me by a constable, who said that the people about her home asserted that the child was starving.
+Ground Truth: Sergeant Townshend: On that day she was brought to me by a constable, who said that the people about her home asserted that the child was starving.
+
+OCR Text: I saw the child myself, and it looked as though it was starv- ing.
+Ground Truth: I saw the child myself, and it looked as though it was starving.
+
+OCR Text: I therefore sent her to the workhouse in com- pany of a constable.
+Ground Truth: I therefore sent her to the workhouse in company of a constable.
+
+OCR Text: Mr. Corrie (to the prisoner): There is no doubt that you have been the cause of this poor child's death, and though, perhaps, you may not be criminally re- sponsible for it, you are yet morally so, for you have been in the practice of drinking and being in the streets with it at all hours, when you and it might have been in the workhouse.
+Ground Truth: Mr. Corrie (to the prisoner): There is no doubt that you have been the cause of this poor child's death, and though, perhaps, you may not be criminally responsible for it, you are yet morally so, for you have been in the practice of drinking and being in the streets with it at all hours, when you and it might have been in the workhouse.
+
+OCR Text: (To the officer): I think you had better take her to the workhouse for the present, as an inquest will no doubt be held upon the body, and there may then, perhaps, be further evidence.-Mr. Ross: I am quite willing, sir, to act in any manner you may desire.
+Ground Truth: (To the officer): I think you had better take her to the workhouse for the present, as an inquest will no doubt be held upon the body, and there may then, perhaps, be further evidence. —Mr. Ross: I am quite willing, sir, to act in any manner you may desire.
+
+OCR Text: The prisoner, who did not appear at all ashamed of herself, was thereupon taken away by the officer.
+Ground Truth: The prisoner, who did not appear at all ashamed of herself, was thereupon taken away by the officer.

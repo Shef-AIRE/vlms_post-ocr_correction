@@ -1,0 +1,29 @@
+OCR Text: ATTEMPTED MURDE AT BETENAL GREEN.'
+Ground Truth: ATTEMPTED MURDER AT BETHNAL GREEN.
+
+OCR Text: Tihomas Fletcher, described as a horse-hair manufac- turer in New Nichol-street, Bechnal-green, was chdrged, on FIiday, at the Worshlp-street Police court, with wounding a young married woman, named Mary Anne Bragge, with intent to murder her.
+Ground Truth: Thomas Fletcher, described as a horse-hair manufacturer in New Nichol-street, Bethnal-green, was charged, on Friday, at the Worship-street Police court, with wounding a young married woman, named Mary Anne Bragge, with intent to murder her.
+
+OCR Text: The prosecutifx, who was very weak, stated thait pri- soner had formed a strong attachment towards one of her sisters,but his affection was not at all reciprocated by the latter, who had recently proceeded to the Continent.
+Ground Truth: The prosecutrix, who was very weak, stated that prisoner had formed a strong attachment towards one of her sisters, but his affection was not at all reciprocated by the latter, who had recently proceeded to the Continent.
+
+OCR Text: The prisoner, however, had been ifs the occasional habit of visiting at her house. and bn the evening of the 19th inst., while she was conversing at the street-door with a lodger hepresented himselfin fstafeof great excitement, and having ascertained upon inquiry that her husband was front home, requested to speak to her alone, as he had something particular which he wished to cormnunicate.
+Ground Truth: The prisoner, however, had been in the occasional habit of visiting at her house, and on the evening of the 19th inst., while she was conversing at the street-door with a lodger, he presented himself in a state of great excitement, and having ascertained upon inquiry that her husband was from home, requested to speak to her alone, as he had something particular which he wished to communicate.
+
+OCR Text: She accordingly invited him into the parlour, on biter- ing which the prisoner intitisated that he had been in- formed by her. husband that she had received a letter frsm her sister apprising her of her intention to return home in a few week*, and; commencing upbraiding her with her unkindness in failing to furnish him with in- telligence ih which lie felt so deer an interest.
+Ground Truth: She accordingly invited him into the parlour, on entering which the prisoner intimated that he had been informed by her husband that she had received a letter from her sister apprising her of her intention to return home in a few weeks, and commencing upbraiding her with her unkindness in failing to furnish him with intelligence in which he felt so deep an interest.
+
+OCR Text: She used her best efforts to pacify hin, but became much alarmed on observing in his hand an open clasp-knife, and was endeavouring to avoid him, when the prisoner caught hold of her and struck her a violent blow on the left side, whicrl caused her to stagger back several paces.
+Ground Truth: She used her best efforts to pacify him, but became much alarmed on observing in his hand an open clasp-knife, and was endeavouring to avoid him, when the prisoner caught hold of her and struck her a violent blow on the left side, which caused her to stagger back several paces.
+
+OCR Text: The instant lie had dealt the blow, the prisoner darted out of the room and escaped from the house, and she was not at all aware of the serious injury she had sus- tained until some time afterwards, when she felt a trick- ling sensation under her clothes, accompanied by a sense of faintness, and on taking oftf her dress she discovered that the upper part of it had been perforated by some sharp instrument; together with her stavs, which were completely saturated with blood, and that she hal re- ceived a severe stab in the left side.
+Ground Truth: The instant he had dealt the blow, the prisoner darted out of the room and escaped from the house, and she was not at all aware of the serious injury she had sustained until sometime afterwards, when she felt a trickling sensation under her clothes, accompanied by a sense of faintness, and on taking off her dress she discovered that the upper part of it had been perforated by some sharp instrument, together with her stays, which were completely saturated with blood, and that she had received a severe stab in the left side.
+
+OCR Text: She was insoediate- ly renoved to the London Hospital, where she had ever since remained, and her husband proceeded in search of the prisoner, and ultimately gtive him into custody.
+Ground Truth: She was immediately removed to the London Hospital, where she had ever since remained, and her husband proceeded in search of the prisoner, and ultimately gave him into custody.
+
+OCR Text: William Slater, a silk weaver, who was in conversation with the prosecutrix when the prisonerreaclied the house, folly corroborated the first part of her evidence, and ex- pressed his confident belief that lie was sober at the time.
+Ground Truth: William Slater, a silk weaver, who was in conversation with the prosecutrix when the prisoner reached the house, fully corroborated the first part of her evidence, and expressed his confident belief that he was sober at the time.
+
+OCR Text: Remanded.
+Ground Truth: Remanded.

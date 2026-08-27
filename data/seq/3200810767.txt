@@ -1,0 +1,65 @@
+OCR Text: CHARGE ACGLUST A T-IXCET OF LZZAN 33ZM' N.
+Ground Truth: CHARGE AGAINST A TICKET OF LEAVE MAN.
+
+OCR Text: XII 5LF.ED tOUWDteAl SrTCeIIFELD, fifty-seven, frer the h~lder ,of aiticket of toave, (if Eeath-v~llas,, le of Ie~alt'b Ilampatead-heath, and Ret' ttm
+Ground Truth: ALFRED FOUNTAIN SUTCHFIELD, fifty-seven, farmer, the holder of a ticket of leave, of Heath-villas, Vale of Health, Hampstead-heath, and Reet's Farm.
+
+OCR Text: Te ,Eyde,- Iendon,, was brought up on a Thursday, and. chariged bsore fo r. Gleo , the Highgate Police-court, with obtaioink by WLprc tences the sum 6f L3 from 3rra EllHr n 1ems.he wife of Mr. IVilliam Benton, niddlor d Crown, 11ismhgate.
+Ground Truth: The Hyde, Hendon, was brought up on a warrant on Thursday, and charged before Mr. Glover at the Highgate Police-court, with obtaining by false pretences the sum of £3 from Mrs. Ellen Benton the wife of Mr. William Benton, landlord of the Rose and Crown, Highgate.
+
+OCR Text: Airs. Benton deposed 0tlnt oa Aiigilse 1 ti., when her husband was awnv tvf.m home, prisoner, whomn she had known for somei tirne as a custoni-r, carne in and nasled her ta nitsli a eheqene for 1i3.
+Ground Truth: Mrs. Benton deposed that on August 10th, when her husband was away from home, prisoner, whom she had known for some time as a customer, came in and asked her to cash a cheque for £3.
+
+OCR Text: He 8aid that he' hnd heen to thD bank, bat co-i'(l not get the mnotey, as his account had been trfpefrred to another hrauch.
+Ground Truth: He said that he had been to the bank, but could not get the money, as his account had been transferred to another branch.
+
+OCR Text: She luewv that her hbssbaind had cashed one of the prisouesr' cheques for G rcighbhnnr on a previous 8ccii
+Ground Truth: She knew that her husband had cashed one of the prisoner's cheques for a neighbour on a previous occasion.
+
+OCR Text: Mr William Bennw:. stated that he paid the cherine into the ifihtate branc h of the London and ,Soutli. Western BanEk. on August 13th.
+Ground Truth: Mr. William Benton stated that he paid the cheque into the Highgate branch of the London and South-Western Bank on August 18th.
+
+OCR Text: T'wo days la.ter it -as retnrned marked "'Rofertodrawer."
+Ground Truth: Two days later it was returned marked "Refer to drawer."
+
+OCR Text: Heatoicniwrpet to the rrisoner, whocmne the neat dayand marked the cheque, "Payoatof reselrve." '
+Ground Truth: He at once wrote to the prisoner, who came the next day and marked the cheque, "Pay out of reserve."
+
+OCR Text: itneespaid ti:er in again, be-. it was retwitned, en d he then rotate it. cated with the police.
+Ground Truth: Witness paid the cheque in again, but it was returned, and he then communicated with the police.
+
+OCR Text: 1ie nlso wrote to pris(o)rerr 9, wit sent a telegram, " Letter will follow. Cannot come to- day."
+Ground Truth: He also wrote to prisoner, who sent a telegram, "Letter will follow. Cannot come today."
+
+OCR Text: 'I'heilther, whichcamenextday, stated tnt ho " had been engaged all day, and h]ad paid (EI)' ir;;o the bank, Ite had assigned the leed-s ol 'the .a-m,
+Ground Truth: The letter, which came next day, stated that "he had been engaged all day, and had paid £100 into the bank, He had assigned the deeds of the farm."
+
+OCR Text: Prisoner Ia-e opened neizotiatiorns with a itne" feo the 1urchase of the lRose and Crown, ! tee came to nothing.
+Ground Truth: Prisoner had opened negotiations with witness for the purchase of the Rose and Crown, but they came to nothing.
+
+OCR Text: Deteciivo-scrgeant CouI1!II1, Y Division, stated that lie was in company ettir Ihilil :179 ',, the previoros morning, kfl:,tro.' wvclri 0,3 tr, " private and regiatered c!,ddress " of the Pt ienel iu TDe Vale, jfanmpztead, whern the prisoner c amie or' and was arreste]d.
+Ground Truth: Detective-sergeant Couchman, Y Division, stated that he was in company with Hill, 879 Y, the previous morning, keeping watch on the “private and registered address" of the prisoner in The Vale, Hampstead, when the prisoner came out and was arrested.
+
+OCR Text: When the wartant wa9 te:Li ovr5 to him, he seid, "I was goinllg to pay thnt edt' that wvill be :111 right."
+Ground Truth: When the warrant was read over to him, he said, "I was going to pay that to-day; that will be all right."
+
+OCR Text: At fTfampetead Police stat, he was searelhed,,and amongst others things tvonty s6; nised ch~nes,?s, a bank pnss-book, and' a l '- beok were f-u 'td
+Ground Truth: At Hampstead Police-station he was searched, and amongst others things twenty-six used cheques, a bank pass-book, and a pay-in book were found.
+
+OCR Text: The prisoner's 1loalSS i;i The I'aie was searched, lollt nmillhtii -s foluld there thems -rent to Reet's Fi'aroi, llendoii, mit thCise found a number of metnoranila, whi(ith wtillld prove ef m-eat use in conneotioim Iibla other Clalges to bpe hre1t, against the prisoner.
+Ground Truth: The prisoner's house in The Vale was searched, but nothing was found there. Witness then went to Reet’s Farm, Hendon, and there found a number of memoranda, which would prove of great use in connection with other charges to be brought against the prisoner.
+
+OCR Text: Ote 'of the charges beti he in reference to leut's Farm, oF whieh ble liej obtained possessionn
+Ground Truth: One of the charges would he in reference to Reet's Farm, of which he had obtained possession.
+
+OCR Text: Witnies bad sprjo!ea to the manager of the Iligligate Bank, mi(l wsVh in'ormed that prisonet. did play a cheque [ar £100 .nto the Kilburn branch of the hank on August 2)th, hut was no geod.
+Ground Truth: Witness had spoken to the manager of the Highgate Bank, and was informed that prisoner did pay a cheque for £100 into the Kilburn branch of the bank on August 20th, but it was no good.
+
+OCR Text: The manager also sAid that tur..sner had, a lot of " paper," all of wNAich was aseless.
+Ground Truth: The manager also said that prisoner had a lot of "paper," all of which was useless.
+
+OCR Text: Sineu Mr. Benton first made complaint prisozier habd pms-se thirty-'ive -tseless cheqlues through tle bent.
+Ground Truth: Since Mr. Beaton first made complaint prisoner had passed thirty-five useless cheques through the bank.
+
+OCR Text: Prisoner was remanded.
+Ground Truth: Prisoner was remanded.

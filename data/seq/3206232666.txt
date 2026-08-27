@@ -1,0 +1,38 @@
+OCR Text: THE;WIEB MURDER;AT HARROW.
+Ground Truth: THE WIFE MURDER AT HARROW.
+
+OCR Text: At the Central Crinminal court, on Wednesday, Louis Midsdn, 52, victtualler,'was ehargedwathtbe wilful murder of his 'wife, Bertha midson, by shoot- ing leer in the parish of Harrow.
+Ground Truth: At the Central Criminal court, on Wednesday, Louis Midson, 52, victualler, was charged with the wilful murder of his wife, Bertha Midson, by shooting her in the parish of Harrow.
+
+OCR Text: This was a case of a mtlaficholy cheracters and the facts will be fresh in the'reeollection of our readers.'
+Ground Truth: This was a case of a melancholy character, and the facts will be fresh in the recollection of our readers.
+
+OCR Text: The prisoner kept a piiblicbouse called the Ohequers,. i the nelghbour, hood of Uxbridge, and he bad been married to the deceased for seyeral years at the time the horrible occurrence took place, which was onrthe 6th of June last.
+Ground Truth: The prisoner kept publichouse called the Chequers, in the neighbourhood of Uxbridge and he had been married to the deceased for several years at the time the horrible occurrence took place, which was on the 6th of June last.
+
+OCR Text: It appeared that upon that day the prisoner. and the deceased had had some altercation, that the latter, was the worse for liquor at the time, and accoiding to the evidence the latter was " nagging" at the prisoner, and annoying him in every possible manner.
+Ground Truth: It appeared that upon that day the prisoner and the deceased had had some altercation, that the latter was the worse for liquor at the time, and according to the evidence the latter was "nagging" at the prisoner, and annoying him in every possible manner.
+
+OCR Text: About 12 o'clock the prisoner said that he would go upstairs and shave himself, gnd the deceased said that be might cat his throat if he .pleased.
+Ground Truth: About 12 o'clock the prisoner said that he would go upstairs and shave himself, and the deceased said that he might cut his throat if he pleased.
+
+OCR Text: The deceased went upstairs after Lim, and in the course of a very few minutes two reports of' firearms were heard.
+Ground Truth: The deceased went upstairs after him, and in the course of a very few minutes two reports of firearms were heard.
+
+OCR Text: Upon the potman and the nephew of the prisoner going' upstairs to thehbed- room, they founrd'the deceased lying upon- the floor dead, and the prisoner was lying wounded in an ad joining room, and upon the nephew asking him what he had done, 'be replied, " I could not help it. She drove me to do it."
+Ground Truth: Upon the potman and nephew of the prisoner going upstairs to the bedroom, they found the deceased lying upon the floor dead, and the prisoner was lying wounded in an adjoining room, and upon the nephew asking him what he had done, he replied "I could not help it. She drove me to do it."
+
+OCR Text: A revolver was founid lying close to the prisoner, and it appeared that he bad disoharged one of the chambers at his wife, and caused her death by that shot, and had then discharged another at himself, hut the injury to him was of a trifling clarecteiY.
+Ground Truth: A revolver was found lying close to the prisoner, and it appeared that he had discharged one of the chambers at his wife, and caused her death by that shot, and had then discharged another at himself, but the injury to him was of a trifling character.
+
+OCR Text: It was elicited in cross-easminiation that the parties had been married 28 years, and that the prisoner was uniformly kind to the. deceased, but, on her part, she was continually annoying and abusing him, and that she was in the habit of getting intoxicated, and when ii that condition made use of most foul and disgustingl]anghave to the.priseouer
+Ground Truth: It was elicited in cross-examination that the parties had been married 28 years, and that the prisoner was uniformly kind to the deceased, but, on her part, she was continually annoying and abusing him, and that she was in the habit of getting intoxicated, and when in that condition made use of the most foul and disgusting language to the prisoner.
+
+OCR Text: Mr. Sleigb, upon these facts, made an earnest appeal to the jury 'on behalf of the prisoner, and he urged upon them that under, all the circumstances they would he quite justified in finding him guilty. of the lesser crime of manslaughter.-A great many highly respectable witnesses were called to speak to the character of the prisoner, and they all described himas a humane and' 'ind-heart'd man.
+Ground Truth: Mr. Sleigh, upon these facts, made an earnest appeal to the jury on behalf of the prisoner, and he urged upon them that under all the circumstances they would be quite justified in finding him guilty of the lesser crime of manslaughter. —A great many highly respectable witnesses were called to speak to the character of the prisoner, and they all described him as a humane and kind-hearted man.
+
+OCR Text: -The jiry, -after a short deliberation, found the prisoner 'Guilty "of manslaughter, committed underexces. sive provocation, and they, at the same time strongly recommended him to mercy on account of that pro- vobation and his previously uniformly good conduct to his wife.-Prisoner was sentenced'to five years penal servitude.
+Ground Truth: —The jury, after a short deliberation, found the prisoner "Guilty" of manslaughter, committed under excessive provocation, and they at the same time strongly recommended him to mercy on account of that provocation and his previously uniformly good conduct to his wife. —Prisoner was sentenced to five years' penal servitude.
+
+OCR Text: He appeared quite overibelted.
+Ground Truth: He appeared quite overwhelmed.

@@ -1,0 +1,44 @@
+OCR Text: ALARMING ACCIDENT AT NEW BRIGHTON| FER-RY. I
+Ground Truth: ALARMING ACCIDENT AT NEW BRIGHTON FERRY.
+
+OCR Text: An accident, which was fortunately unattended by any fatal consequences, occurred on Sunday after- noon at New Brigbton-ferry.
+Ground Truth: An accident, which was fortunately unattended by any fatal consequences, occurred on Sunday afternoon at New Brighton-ferry.
+
+OCR Text: It appears that during the construction of the new pier a temporary landing-stage wag erected a little to the north of the old stage, for the purpose of landing and taking on board passengers at low water.
+Ground Truth: It appears that during the construction of the new pier a temporary landing-stage was erected a little to the north of the old stage, for the purpose of landing and taking on board passengers at low water.
+
+OCR Text: Thi! temporary stage was formed of the old moveable stage, and was supported on fiTe rows of strong wooden piles with cross beams, which were fastened together by sevein-eighth inch bolts.
+Ground Truth: This temporary stage was formed of the old moveable stage, and was supported on five rows of strong wooden piles with cross beams, which were fastened together by seven-eighth inch bolts.
+
+OCR Text: The stage was abeut sixty feet in lengthand eleven or twelve feet in lEic.ht, extending to an old steamer mnooredin the stream.
+Ground Truth: The stage was about sixty feet in length and eleven or twelve feet in height, extending to an old steamer moored in the stream.
+
+OCR Text: Shortly before four o'clock a boat arrived from Liverpool with about '20 passengers, 'who im- mediately proceeded to land.
+Ground Truth: Shortly before four o'clock a boat arrived from Liverpool with about 200 passengers, who immediately proceeded to land.
+
+OCR Text: The collector was sta- tioned in a smaU box midway between the old steainer and the shore, and here the passengers were densely crowded in order to pay their fares.
+Ground Truth: The collector was stationed in a small box midway between the old steamer and the shore, and here the passengers were densely crowded in order to pay their fares.
+
+OCR Text: In an instant, without any previous suspicion of danger on the, part of those who had charge of the ferry, 'the bolts which secured that part of the stage where the collector was stationed gave way, the temporary landing place fell, and'thel 90 passengers were precipitated upon the sands.
+Ground Truth: In an instant, without any previous suspicion of danger on the part of those who had charge of the ferry, the bolts which secured that part of the stage where the collector was stationed gave way, the temporary landing place fell, and the, 200 passengers were precipitated upon the sands.
+
+OCR Text: For a short time the greatest consternation prevailed lest seie of the unifortunate passengers had sus- tained fatal injuries.
+Ground Truth: For a short time, the greatest consternation prevailed lest some of the unfortunate passengers had sustained fatal injuries.
+
+OCR Text: Fortunately, however, this was not the case, although several of them were severely shaken and bruised.
+Ground Truth: Fortunately, however, this was not the case, although several of them were severely shaken and bruised.
+
+OCR Text: The most serious acci- dent occurred to police-constable Howe, who had.his leg fractured.
+Ground Truth: The most serious accident occurred to police-constable Howe, who had his leg fractured.
+
+OCR Text: Mrs. Holden, of Montpelier-terrace, was alo injured about the leg, and had to be taken home in a cab.
+Ground Truth: Mrs. Holden, of Montpelier-terrace, was also injured about the leg, and had to be taken home in a cab.
+
+OCR Text: Under considerable excitement a number-of spectators hastened to the assistance of the passengers, who were in rather a pitiable plight, lying as they were upon the sands, and being covered with mud.
+Ground Truth: Under considerable excitement a number of spectators hastened to the assistance of the passengers, who were in rather a pitiable plight, lying as they were upon the sands, and being covered with mud.
+
+OCR Text: The hinge open boats in use at the ferry having been brought up a number of passengers re- mnaining 'on the steamer were landed, but ethers, owing to the inconvenience, declined, to go on shore, and shortly af[erwardsretssrnidto Liverpool.
+Ground Truth: The large open boats in use at the ferry having been brought up, a number of passengers remaining on the steamer were landed, but others, owing to the inconvenience, declined to go on shore, and shortly afterwards returned to Liverpool.
+
+OCR Text: After a short, time the, ordinary traffic was resumed, al- though somie extitesnent, occasioned by the occur- rence, continued during the evsning.-Livcrpcol M a cso-p.
+Ground Truth: After a short time, the ordinary traffic was resumed, although some excitement, occasioned by the occurrence, continued during the evening. —Liverpool Mercury.

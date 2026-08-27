@@ -1,0 +1,62 @@
+OCR Text: CHARGE AGAINST A CLERGYMAN.
+Ground Truth: CHARGE AGAINST A CLERGYMAN.
+
+OCR Text: Ar the Portsmouth Police-court, the Rev. William I C udefiffer,. thirty-eight,. was charged,,. ort a warrant, ci wi~th obtvrhibg bymeausn offalse pretences a pair of , w pSlbvew trndi a; necktie, vabiter 5s,, from. EMr. William B Bowen=Thorns, outfitter, of Comrnercikl-road, on the P 13th inst.
+Ground Truth: AT the Portsmouth Police-court, the Rev. William G Radcliffe, thirty-eight, was charged, on a warrant, with obtaining by means of false pretences a pair of gloves and a necktie, value 5s, from Mr. William Bowen Thomas, outfitter, of Commercial-road, on the 13th inst.
+
+OCR Text: Mr. E. J. Harvey prosecuted.
+Ground Truth: Mr. E. J. Harvey prosecuted.
+
+OCR Text: Thei At prisoner, a.tall, wel-dressed man, was 'undefended' AIr. H1arvey, in briefly openinig the case, said th, t i on the 13th inst. the prisoner went to& kr-.Thonias's di shop and represented himself to W nepbew osfthti w Rev. E. E. Dolling.
+Ground Truth: The prisoner, a tall, well-dressed man, was undefended Mr. Harvey, in briefly opening the case, said that on the 13th inst. the prisoner went to Mr. Thomas's shop and represented himself to be a nephew of the Rev. E. R. Dolling.
+
+OCR Text: Belicring that to be true, Mr. at Thomas supplied him with various articles, but Ir. ui Dolling, who would be called, would tell the Bench at that the prisoner's statement was entirely false,
+Ground Truth: Believing that to be true, Mr. Thomas supplied him with various articles, but Mr. Dolling, who would be called, would tell the Bench that the prisoner's statement was entirely false.
+
+OCR Text: Mr. di William Bowen Thomas, ontritter, of Commercial- ti road, said that on the 1 .th the prisoner went to his nm shop and asked for a partiinlar kind of shirt.
+Ground Truth: Mr. William Bowen Thomas, outfitter, of Commercial-road, said that on the 13th the prisoner went to his shop and asked for a particular kind of shirt.
+
+OCR Text: The ri witness said he had not got it, and in the course of 1: at conversation which followed the prisover said he P was a clergyman lately invalided out of the army for h some weahnoss of the cliest, and that he had been dr recommended to take riding exercise.
+Ground Truth: The witness said he had not got it, and in the course of a conversation which followed the prisoner said ho was a clergyman lately invalided out of the army for some weakness of the chest, and that he had been recommended to take riding exercise.
+
+OCR Text: He also said it he only knew two clergymen in the town, the late D MIr. Shutto end the Rev. Mr. Dolling, of Lancdport, v who was his uncle.
+Ground Truth: He also said he only knew two clergymen in the town, the late Mr. Shutte and the Rev. Mr. Dolling, of Landport, who was his uncle.
+
+OCR Text: Believing his tale to be true, c the witness let him have a necktie and a pair of gloves.
+Ground Truth: Believing his tale to be true, the witness let him have a necktie and a pair of gloves.
+
+OCR Text: The Rev. Robert Radclilfe Dolling, vicar- designate of St. Agatha's, said the prisoner was no E relative of his, nor had the accused any authority to o' pledge his credit.
+Ground Truth: The Rev. Robert Radcliffe Dolling, vicar designate of St. Agatha's, said the prisoner was no relative of his, nor had the accused any authority to pledge his credit.
+
+OCR Text: Detective-sergeant Munt deposed w that on Tuesday afternoon at about ha-lf-past two cx o'clock he apprehended the prisoner in Hampshire- a terrace as the accueed was going to his lodgings. C
+Ground Truth: Detective-sergeant Munt deposed that on Tuesday afternoon at about half-past two o'clock he apprehended the prisoner in Hampshire a terrace as the accused was going to his lodgings.
+
+OCR Text: The witness said, " I have reason to believe you are a the Rev. Mr. Radeliffe," and the prisoner replied, " I v am."
+Ground Truth: The witness said, "I have reason to believe you are the Rev. Mr. Radcliffe," and the prisoner replied, "I am."
+
+OCR Text: The witness then said he had a warrant for e his arrest, and the prisoner said, " Very well, I'll I go quietly."
+Ground Truth: The witness then said he had a warrant for of his arrest, and the prisoner said, "Very well, I'll go quietly."
+
+OCR Text: The Prisoner: You have examined my IS things?
+Ground Truth: The Prisoner: You have examined my things?
+
+OCR Text: The Witness : Yes, and amongst them I v found letters of orders in the name of the Rev. c William Radcliffe, dated some years ago.
+Ground Truth: The Witness: Yes, and amongst them I found letters of orders in the name of the Rev. William Radcliffe, dated some years ago.
+
+OCR Text: On this sr evidence Mir. Harvey asked for a remand for a week. d
+Ground Truth: On this evidence Mr. Harvey asked for a remand for a week.
+
+OCR Text: The prisoner asked that hee should lie committed at a once, so that he might be tried at the quarter sessions a on Friday.
+Ground Truth: The prisoner asked that he should be committed at once, so that he might be tried at the quarter sessions on Friday.
+
+OCR Text: It would be a great injustice to him to d keep him in prison three months awaiting trial,
+Ground Truth: It would be a great injustice to him to a keep him in prison three months awaiting trial.
+
+OCR Text: The a Berch decided to rentand the prisoner in custody for \ a week.
+Ground Truth: The Bench decided to remand the prisoner in custody for a week.
+
+OCR Text: He then applied that his mosey (i52) should n be handed over to him to enable him to telegraph to p his friends.
+Ground Truth: He then applied that his money (£2) should be handed over to him to enable him to telegraph to his friends.
+
+OCR Text: The Bench directed that the prisoner v should have enough money to enable him to coM-e municate with his friends. ,
+Ground Truth: The Bench directed that the prisoner should have enough money to enable him to communicate with his friends.

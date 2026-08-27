@@ -1,0 +1,53 @@
+OCR Text: a I|. ACCIDENT WITH MACHINERY.
+Ground Truth: ACCIDENT WITH MACHINERY.
+
+OCR Text: MANCHESTER, FRIDAY.-On Wednesday evenin g af man named Win. Jackson, one of the stokers at the h works of Messrs. Thomas Bury and Sons, dyers, Adelphi, e Salford, and who had also the care of- tbe- machinery in work, smet with a shocking accident.
+Ground Truth: MANCHESTER, FRIDAY. —On Wednesday evening a man named Wm. Jackson, one of the stokers at the works of Messrs. Thomas Bury and Sons, dyers, Adelphi, Salford, and who had also the care of the machinery in work, met with a shocking accident.
+
+OCR Text: He had been sent r. out, soon after dinner, by the foreman of the works to n take some machinery for repair, but had unfortunately iL taken advantage of the opportunity to obtain some d drink.
+Ground Truth: He had been sent out, soon after dinner, by the foreman of the works to take some machinery for repair, but had unfortunately taken advantage of the opportunity to obtain some drink.
+
+OCR Text: When he returned, the foreman perceiving that n it was dangerous for a man in that state to be near i machinery, he ordered himn to go home.
+Ground Truth: When he returned, the foreman perceiving that it was dangerous for a man in that state to be near machinery, he ordered his to go home.
+
+OCR Text: The man left the works, but between the hours of six and seven it o'clock he returned, and encountered the foreman, it who,however, contented himself with a look of le disapprobation, and passed him without thinking it ne- cessary again to order him to leave the premises.
+Ground Truth: The man left the works, but between the hours of six and seven o'clock he returned, and encountered the foreman, who, however, contented himself with a look of disapprobation, and passed him without thinking it necessary again to order him to leave the premises.
+
+OCR Text: He r- was seen afterwards to take a lamp and go into a le corner of a passage between two walls, where it is pre- k, sumed he stooped down to examine the machinery re- y volving a little below the floor.
+Ground Truth: He was seen afterwards to take a lamp and go into a corner of a passage between two walls, where it is presumed he stooped down to examine the machinery revolving a little below the floor.
+
+OCR Text: The machinery in this is place is ponderous, and of a very complicated character, d consisting of two large vertical cog-wheels giving motion e to horizontal wheels and slides working a pump, which n is used to fill. the boilers.
+Ground Truth: The machinery in this place is ponderous, and of a very complicated character, consisting of two large vertical cog-wheels giving motion to horizontal wheels and slides working a pump, which is used to fill the boilers.
+
+OCR Text: Ama gst this complicated i mass of machinery Jackson m'st have fallen almost im- le mediately, for a person working in an adjoining room er suddenly beard a crash, as if something had disturbed the motion of it, and running into the passage, he saw I- the unfortunate man in the act of being torn to pieces ae amongst the wheels.
+Ground Truth: Amongst this complicated mass of machinery Jackson must have fallen almost immediately, for a person working in an adjoining room suddenly heard a crash, as if something had disturbed the motion of it, and running into the passage, he saw the unfortunate man in the act of being torn to pieces amongst the wheels.
+
+OCR Text: He lost no time in gdfig to the en- *d gine-house and getting the machinery stopped.
+Ground Truth: He lost no time in going to the engine-house and getting the machinery stopped.
+
+OCR Text: Every er exertion was then made to drag the body from its posi- tion, but this was a work of great difficulty, and when as accomplished, it was too shockingly mangled for descrip- e- tion.
+Ground Truth: Every exertion was then made to drag the body from its position, but this was a work of great difficulty, and when accomplished, it was too shockingly mangled for description.
+
+OCR Text: Both legs and both arms were torn from the body, he only the head of the unfortunate man being uninjured.
+Ground Truth: Both legs and both arms were torn from the body, he only the head of the unfortunate man being uninjured.
+
+OCR Text: ly Altogether, the body was in above twenty pieces.
+Ground Truth: Altogether, the body was in above twenty pieces.
+
+OCR Text: Life an had of course passed away long before the body was iy released.
+Ground Truth: Life had of course passed away long before the body was released.
+
+OCR Text: An inquest was held to-day on the re- n- mains of Jackson, by Mr. Rutter, the county coro- ner, when it appeared that there was no blame at, at tributable to asy one but the deceased himself.
+Ground Truth: An inquest was held to-day on the remains of Jackson, by, Mr. Rutter, the county coroner, when it appeared that there was no blame attributable to anyone but the deceased himself.
+
+OCR Text: He had been at work at Messrs. Bury's six Tears, and was, gene. le rally speaking, steady; but Itwas theprsctice, on all oc- n- casiose where men appeared to have had drink, to order lia them from the premises until they were sober, and this As course had been taken with deceased.
+Ground Truth: He had been at work at Messrs. Bury's six years, and was, generally speaking, steady; but it was the practice, on all occasions where men appeared to have had drink, to order in them from the premises until they were sober, and this course had been taken with deceased.
+
+OCR Text: He bad returned probably before he had entirely recovered from the effects Oa f II nor ; and there was little doubt, from the position r- in which he was discovered, that he had stumbled head- foremost into the. machinery whilst - alamp to e~xamine thFiiaCS, wbsI lhit the mornng had been rather out of gear- s_ under which he had temporarily ax, put 4C - . eces i~ wood in the p lace of brass fittings that ho ssad been sentto be altered.
+Ground Truth: He had returned probably before he had entirely recovered from the effects of liquor; and there was little doubt, from the position in which he was discovered, that he had stumbled head foremost into the machinery whilst stopping with a lamp to examine the sides, which in the morning had been rather out of gear an under which he had temporarily put some pieces of wood in the place of brass fittings that had been sent to be altered.
+
+OCR Text: Th jury returned a verdictd | Ad Aecidental death"
+Ground Truth: The jury returned a verdict of “Accidental death.”
+
+OCR Text: Deeasd was fiiy yease ofag
+Ground Truth: Deceased was fifty years of age.

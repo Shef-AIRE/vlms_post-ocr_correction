@@ -1,0 +1,23 @@
+OCR Text: IT.,D.T l'i .' 3T.i1' I-i DUTJJ3L-.
+Ground Truth: MURDER BY A MOTHER IN DUBLIN.
+
+OCR Text: At the Dublinpoeice-coart on Friday Catherine Stevesuon, wife of a labourer, was charged with having on the 27th July murdered her son George Stevenson, aged six years, by lmocking out his brains with a hammer and a fireshovel, and also with having on the same occasion attempted to murder her second son, Thomas Stevenson, aged nine years, by fracturing his skull with the same weapon.
+Ground Truth: At the Dublin police-court on Friday Catherine Stevenson, wife of a labourer, was charged with having on the 27th July murdered her son George Stevenson, aged six years, by knocking out his brains with a hammer and a fireshovel, and also with having on the same occasion attempted to murder her second son, Thomas Stevenson, aged nine years, by fracturing his skull with the same weapon.
+
+OCR Text: She was further charged with' having on the same date attempted to commit suicide by frac. turing her skull with a hammer.
+Ground Truth: She further charged with having on was the same date attempted to commit suicide by fracturing her skull with a hammer.
+
+OCR Text: There wasa fourth charge against her of having an the 27th of October again attempted to commit suicide while in the hose pital, by cutting her throat with a table-Imife.
+Ground Truth: There was a fourth charge against her of having an the 27th of October again attempted to commit suicide while in the hospital, by cutting her throat with a table-knife.
+
+OCR Text: The unfortunate woman, who had become unconscious aftershe wee brounht d-r7n to -mit, lt:m arriK' into the presence of the uaciat e by four police- men, and placed on the seat at the solicitors' table, where she remained, apparently in a state of coma, during the investigation.
+Ground Truth: The unfortunate woman, who had become unconscious after she was brought down to court, was carried into the presence of the magistrate by four policemen, and placed on the seat at the solicitors' table, where she remained, apparently in a state of coma, during the investigation.
+
+OCR Text: A police inspector stated that shewas better on Thursday,and thather present illness had come suddenly upon her.
+Ground Truth: A police inspector stated that she was better on Thursday, and that her present illness had come suddenly upon her.
+
+OCR Text: Evidence was then given as to the discovery of the children in the room-one of them dead, with its brains knocted out, and the other in an apparently dying state, wvith its skull fractured; and also to the admission of the prisoner that she had inflicted the wounds, and that she attempted to kill herself by striking herself on the forehead with the hammer.-Evi- dence was also given of the attempt bythepri- soner to commit suicide while inthe hospitalby cutting her throat with a table-Imife,whichshe had concealed under the bedclothes-Mr. Bolton, the Crown solicitor, who prosecuted, asked that she should be committed to the Commision for trial, and she would then be committed as a dan- gerous lunatic.-Mr. Woodlock said lie would not, in the woman's present condition, send her for trial, as she was not professionally represented, and had not heard the evidence.
+Ground Truth: Evidence was then given as to the discovery of the children in the room—one of them dead, with its brains knocked out, and the other in an apparently dying state, with its skull fractured; and also to the admission of the prisoner that she had inflicted the wounds, and that she attempted to kill herself by striking herself on the forehead with the hammer. —Evidence was also given of the attempt by the prisoner to commit suicide while in the hospital by cutting her throat with a table-knife, which she had concealed under the bedclothes. —Mr. Bolton, the Crown solicitor, who prosecuted, asked that she should be committed to the Commission for trial, and she would then be committed as a dangerous lunatic. —Mr. Woodlock said he would not, in the woman's present condition, send her for trial, as she was not professionally represented, and had not heard the evidence.
+
+OCR Text: He would therefore re- mand her, and she would be sent back to the hos- pital.-The accused, who remained unconscious, was carried out of court, and conveyed back to the hospital in a cab.
+Ground Truth: He would therefore remand her, and she would be sent back to the hospital. –The accused, who remained unconscious, was carried out of court, and conveyed back to the hospital in a cab.

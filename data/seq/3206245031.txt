@@ -1,0 +1,77 @@
+OCR Text: MURDER OF AN INFANT.
+Ground Truth: MURDER OF AN INFANT.
+
+OCR Text: At the Old Blailev onl Fliday Jamies Dif ley, 41, a picture-frame maker, and Macrs Raintbow, 29, un- married, were ilndicted for the wilful murder of the illegitimate child of tlhe latter,
+Ground Truth: At the Old Bailey on Friday James Dilley, 41, a picture-frame maker, and Mary Rainbow, 29, unmarried, were indicted for the wilful murder of the illegitimate child of the latter.
+
+OCR Text: According to the statement of lMr, Poland, Whv10 appeared for the pro- secution, Dilley was a married mail, residing at Shefford, Bedfordshire, and the female prisoner was a domestic servant at aBaldock, about six mniles from Shefford.
+Ground Truth: According to the statement of Mr. Poland, who appeared for the prosecution, Dilley was a married man, residing at Shefford, Bedfordshire, and the female prisoner was a domestic servant at Baldock, about six miles from Shefford.
+
+OCR Text: There appearelto have been an improper intimacy between them, and in March last they came to London, and under the names of MIr, and Mrs. Hull tcok lodgiogs in Stebbiisgton-street, St. l'ancras, where Rainbow was delivered of a female child on the 22nd April, Dilley having gone back to Shsefberd.
+Ground Truth: There appeared to have been an improper intimacy between them, and in March last they came to London, and under the names of Mr. and Mrs. Hull took lodgings in Stebbington-street, St. Pancras, where Rainbow was delivered of a female child on the 22nd April, Dilley having gone back to Shefford.
+
+OCR Text: Oil the 10th May lie re-aipearedl, and on the following day both prisoneis left in a cab, taking with thens the child.
+Ground Truth: On the 10th May he re-appeared, and on the following day both prisoners left in a cab, taking with them the child.
+
+OCR Text: Their luggage was left at King's-cross station.
+Ground Truth: Their luggage was left at King's-cross station.
+
+OCR Text: About 11 o'clock at night they made their appear- alice at a house in Graf's-inn-road without the child, and, not being able to obtain lodgings there, they stayed for tlhe sighit its Liverpool-shreet.
+Ground Truth: About 11 o'clock at night they made their appearance at a house in Gray's-inn-road without the child, and, not being able to obtain lodgings there, they stayed for the night in Liverpool-street.
+
+OCR Text: Tue following day they left, Dilley returning to Shefforl, and the womran going to a cousin's at Ohelsea, whom slse hail promised to visit, but sub- sequently returning to ]3aldock.
+Ground Truth: The following day they left, Dilley returning to Shefford, and the woman going to a cousin’s at Chelsea, whom she had promised to visit, but subsequently returning to Baldock.
+
+OCR Text: A paper parcel containing the body of thle child, which had evi- dently died from the effects of a wound upon the head, was picked un on that day at Hornsey.
+Ground Truth: A paper parcel containing the body of the child, which had evidently died from the effects of a wound upon the head, was picked up on that day at Hornsey.
+
+OCR Text: The suspicions of the police were afteswards directed to the prisoners by the discovery at Hitchin station, where the female prisoner would have to wtdt for at train when returning to Bal- dock, of a quantity of child's clothing, which was identilied as having been made for her child, and further inquiries having been made, both prisoners were arsested.-The evidence established these facts, but Dr. Berry, the surgeon who examined the bodv of the child, after expressing an opinioh that death was caused by the injury to the head, said he would not undertake to say positively that the wound might not have been caused by a blow or a fall immediately after death.
+Ground Truth: The suspicions of the police were afterwards directed to the prisoners by the discovery at Hitchin station, where the female prisoner would have to wait for a train when returning to Baldock, of a quantity of child's clothing, which was identified as having been made for her child, and further inquiries having been made, both prisoners were arrested. –The evidence established these facts, but Dr. Berry, the surgeon who examined the body of the child, after expressing an opinion that death was caused by the injury to the head, said he would not undertake to say positively that the wound might not have been caused by a blow or a fall immediately after death.
+
+OCR Text: The witnesses all stated that during the lifetime of thie child both the prisoners appeared to be very fond of it, anrd treated it very kindly.
+Ground Truth: The witnesses all stated that during the lifetime of the child both the prisoners appeared to be very fond of it, and treated it very kindly.
+
+OCR Text: YEStERDAY'S PROCEEDINGS.
+Ground Truth: YESTERDAY'S PROCEEDINGS.
+
+OCR Text: Yesterday morning Mr. Polsnd sutasued up the case for the isosecution, and in dDing so sitblssitted that it was imehossible to comneto any other coculusion than that both prisoners had delioerately formed tle istention of slestrotiig the life of this unhappy child, with thie object of concealing the shhane atf thle fenmale prisoier, and of relieving themselvesfroin the burden of maintain- lo g it.-
+Ground Truth: Yesterday morning Mr. Poland summed up the case for the prosecution, and in doing so submitted that it was impossible to come to any other conclusion than that both prisoners had deliberately formed the intention of destroying the life of this unhappy child, with the object of concealing the shame of the female prisoner, and of relieving themselves from the burden of maintaining it.
+
+OCR Text: Mr. Whildey Wright, on behalf of the male prisoner, endeavoureul to shosw that there was no coisclasive evi- dence whatever that a mislrder had, ini point of fact, bees, coainjitted.
+Ground Truth: Mr. Wildey Wright, on behalf of the male prisoner, endeavoured to show that there was no conclusive evidence whatever that a murder had, in point of fact, been committed.
+
+OCR Text: The child might have died fions natural causes, uid itll that Was sllseqlienltlr done v-as nieirely for the purlpose of concealing the dead body and en- deavourisig to preveist an exposure.
+Ground Truth: The child might have died from natural causes, and all that was subsequently done was merely for the purpose of concealing the dead body and endeavouring to prevent an exposure.
+
+OCR Text: Mr. Weirner Sleih, for the femiale prisoner, said that althougl it iswas a psinfol course lie felt bouisil to pursue, lie hail si alternative but to s iy that thie itale prisoner usset have been thle principasl isiover ill the transaction, ,,id he clisracterisedl his codlulclt as hlSt ssdly il hLVilng, when lie was taken into custody, attniispted to thi-ow all the blamne upon thle unfortunate woman, whom he had seduced and rrained.
+Ground Truth: Mr. Warner Sleigh, for the female prisoner, said that although it was a painful course he felt bound to pursue, he had no alternative but to say that the male prisoner must have been the principal mover in the transaction, and he characterised his conduct as dastardly in having, when he was taken into custody, attempted to throw all the blame upon the unfortunate woman, whom he had seduced and ruined.
+
+OCR Text: mr. Justice Hawekins summed up, and the jory retired at four o'clock to deliberate.
+Ground Truth: Mr. Justice Hawkins summed up, and the jury retired at four o'clock to deliberate.
+
+OCR Text: 'They ratuisfi ists coart at tell issutestto live, and found both prisoners UG viliy of w^ilful muirder," but recosienended thie iemaie pri- soner to utercy eln the ground that she had acted under the inflsence of the male prisoner.
+Ground Truth: They returned into court at ten minutes to five, and found both prisoners "Guilty of wilful murder," but recommended the female prisoner to mercy on the ground that she had acted under the influence of the male prisoner.
+
+OCR Text: Mir. Jlstice Hawkins hacvini put on the black cap, ad- dressed the prisoners. aiscd sail that after it lonic and pa- tient inquiry thejury hld ifouod thet, guilty of a very foil sslld cruel toirder-the miurder of i poor little isi- searidoing child, of Nyhich the femnale prisomuer hnt nisis very recently before beeai confilted.
+Ground Truth: Mr. Justice Hawkins having put on the black cap addressed the prisoners, and said that after a long and patient inquiry the jury had found them guilty of a very foul and cruel murder—the murder of a poor little unoffending child, of which the female prisoner had only very recently before been confined.
+
+OCR Text: It was illpossibleto say at what point thie idea hal entered ilito their iniiis to counisit this hoirible crinte, but thie evidence was con- clusie mad tcie jury h ad uosalteimiativebuttoconvictthsesn of the oil once.
+Ground Truth: It was impossible to say at what point the idea had entered into their minds to commit this horrible crime, but the evidence was conclusive, and the jury had no alternative but to convict them of the offence.
+
+OCR Text: They recaisinsanded the feii ale pi aster to usercy oem the gioissi that ties believed she had acted uncdei the influence of lier comianion.
+Ground Truth: They recommended the female prisoner to mercy on the ground that they believed she had acted under the influence of her companion.
+
+OCR Text: It was iisipossible for hishs to say what would be the otiect of this recaost- niendaltion, but all lie could say was that hie avoild litde came that it should be foruvaided to the proper quarter, wihere he had uo doubt tllat it would receive fall consi deratiom, astd every eflect consitnelt with the interests of justice would be given to it; but he could notholhs out any hope to her that the recorsmuesdaltios wosild be attendesh with anly effect as rerarded tle sels- tence he wias bound tSc vass upon her.
+Ground Truth: It was impossible for him to say what would be the effect of this recommendation, but all he could say was that he would take care that it should be forwarded to the proper quarter, where he had no doubt that it would receive full consideration, and every effect consistent with the interests of justice would be given to it; but he could not hold out any hope to her that the recommendation would be attended with any effect as regarded the sentence he was bound to pass upon her.
+
+OCR Text: As to tile male prisoner, he said he lissist preparet to dea, atid lie was umable to discover any one extessuatjng fact inI his favour, and lie, therefore, exhsoetodi him to prepare for that eveut.
+Ground Truth: As to the male prisoner, he said he must prepare to die, and he was unable to discover any one extenuating fact in his favour, and he, therefore, exhorted him to prepare for that event.
+
+OCR Text: The learied jdsdra theal passed sentence of deLth in the usual foern.
+Ground Truth: The learned judge then passed sentence of death in the usual form.
+
+OCR Text: ihe fescahss prissuer falited, and was carried issensible froml the slock.
+Ground Truth: The female prisoner fainted, and was carried insensible from the dock.
+
+OCR Text: The nmau did sot exhibit the slightest emotion.
+Ground Truth: The man did not exhibit the slightest emotion.

@@ -1,0 +1,38 @@
+OCR Text: ST-TOT FIRING IN MINES.
+Ground Truth: SHOT FIRING IN MINES.
+
+OCR Text: M. AN, important ease came on at the Gateshead County Ae Police-court on Saturday, proceedings having been n, taken by the IHome Office against the mbnapier of the Iis Uiwortb Colliery, for illeual shot.firinol0 AoMarch 2n1d, ior the dav on which the disasrous explosion, by which o, forty-two lives were lost, ocirred at that crilliery.
+Ground Truth: AN important case came on at the Gateshead County Police-court on Saturday, proceedings having been taken by the Home Office against the manager of the Usworth Colliery, for illegal shot-firing on March 2nd, the day on which the disastrous explosion, by which forty-two lives were lost, occurred at that colliery.
+
+OCR Text: . The sceninmons was issuedi apainqt b Mr. A, S. Palmer, le who was present, asagent of the, collierv.
+Ground Truth: The summons was issued against Mr. A. S. Palmer, who was present, as agent of the colliery.
+
+OCR Text: Mr. Arnold ag Morley, M.P,, perogeouted on behalf the Crown, and Of Mr. R. F. Cooper, Newcastle appeared for theiowners.
+Ground Truth: Mr. Arnold Morley, M.P., presented on behalf the Crown, and Mr. R. F. Cooper, Newcastle, appeared for the owners.
+
+OCR Text: be Mr. Mlorley said the prosecattion was taken under 35 1W and 36 Vie,, chap. 76, of thle Mines Boeglation Act.
+Ground Truth: Mr. Morley said the prosecution was taken under 35 and 36 Vic., chap. 76, of the Mines Regulation Act.
+
+OCR Text: ak With regard to thel use of gunpowdler, it was provided e that it slsoslld only be ned(l in cartridges, and not 'l0 within threnp months after any icflaminable gpo had Y. been foond in the mine.
+Ground Truth: With regard to the use of gunpowder, it was provided that it should only be used in cartridges, and not within three months after any inflammable gas had been found in the mine.
+
+OCR Text: The proseoution reliod iN this ro cage oui the faet that inllenmLblc gas had been foiund re in the miae within three inoatlis of the firing of the Ie shot, and the ((nostion wr9s Vhethler tbe regulatioi ic had been complied. with, it being requisite under the d, Act for some competent person duly appointed for id that purpipso to examine tlhe place where the shot was id to be fired immediately before the firing, and not to ar allow it to be discharged except it was safe to do eo.
+Ground Truth: The prosecution relied in this case of the fact that inflammable gas had been found in the mine within three months of the firing of the shot, and the question was whether the regulation had been complied with, it being requisite under the Act for some competent person duly appointed for that purpose to examine the place where the shot was to be fired immediately before the firing, and not to allow it to be discharged except it was safe to do so.
+
+OCR Text: 'B It was also provided that persons ordinarily employed s. in the mine were to be ont of it or that part of it g where the explosive wae to be used.
+Ground Truth: It was also provided that persons ordinarily employed in the mine were to be out of it or that part of it where the explosive was to be used.
+
+OCR Text: Mle, Ceoper said it be did not dismicte that gas lead been found, but it le was not fornd Within the conditions of the Act.
+Ground Truth: Mr. Cooper said he did not dispute that gas had been found, but it was not found within the conditions of the Act.
+
+OCR Text: Ha r Le was prepared to prove that it was due to a temporarv stoppage in thee ordinary ventilatioi appliances, aInd was reMoved when the ventilation We1s put riglte
+Ground Truth: He was prepared to prove that it was due to a temporary stoppage in the ordinary ventilation appliances, and was removed when the ventilation was put right.
+
+OCR Text: After evidence lad been given on bothe sides, it w-I 6S agreed between Mr. AMorley acd Mr. Cooper that thie g queestion at issue was really a legal one as to the mean L ing of the Act with regard to the cindlitions under wahich shot-firing should not talke place.
+Ground Truth: After evidence had been given on both sides, it was agreed between Mr. Morley and Mr. Cooper that the question at issue was really a legal one as to the meaning of the Act with regard to the conditions under which shot-firing should not take place.
+
+OCR Text: The Court. was, therefore, asked not to givo its decision, hit to adjourn the case until the legal question had bsen referredl to a superior court.
+Ground Truth: The Court was, therefore, asked not to give its decision, but to adjourn the case until the legal question had been referred to a superior court.
+
+OCR Text: The case was adjourned accordingly.
+Ground Truth: The case was adjourned accordingly.

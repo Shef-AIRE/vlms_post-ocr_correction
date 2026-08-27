@@ -1,0 +1,74 @@
+OCR Text: lDXTRAORDIlNAY SUICIDES,
+Ground Truth: EXTRAORDINARY SUICIDES.
+
+OCR Text: AT the Wandsworth Town Hall, on Thursday, Mr. A. Braxton Hicks held an inquest upon the body of William MJCall, aged twenty-two years, a draper's assistant, lately residing with his father, a draper, at 21, Trevor- square, Knightsbridge, whose body was, found floating in the river Thames, off Wands worth Pier, on the 10th inst.
+Ground Truth: AT the Wandsworth Town Hall, on Thursday, Mr. A. Braxton Hicks held an inquest upon the body of William M’Call, aged twenty-two years, a draper’s assistant, lately residing with his father, a draper, at 21. Trevor-square, Knightsbridge, whose body was found floating in the river Thames, off Wandsworth Pier on the 10th inst.
+
+OCR Text: The father said lately his son had suffered from melan- cholia due to over-study.
+Ground Truth: The father said lately his son had suffered from melancholia due to over-study.
+
+OCR Text: On the let inst. when he left home he was better than usual.
+Ground Truth: On the 1st inst. when he left home he was better than usual.
+
+OCR Text: He never returned.
+Ground Truth: He never returned.
+
+OCR Text: Upon making inquiries he was informed that his son had been seen to jump from Putney Bridge into the river Thames.
+Ground Truth: Upon making inquiries he was informed that his son had been seen to jump from Putney Bridge into the river Thames.
+
+OCR Text: Frederick Greenstreet, residing at 2, Oakehill-road, Wandsworth, said at eleven p.m. on the 1st inst. he was crossing Putney Bridge when he saw the deceased walk from one side of the bridge to the other, and then gaze for several soonds into the river.
+Ground Truth: Frederick Greenstreet, residing at 2, Oakehill-road, Wandsworth, said at eleven p.m. on the 1st inst. he was crossing Putney Bridge when he saw the deceased walk from one side of the bridge to the other, and then gaze for several seconds into the river.
+
+OCR Text: He then walked higher up the bridge, and got over the parapet.
+Ground Truth: He then walked higher up the bridge, and got over the parapet.
+
+OCR Text: He sat upon the bridge with his legs hanging over the water, and in a minute lowered himself and hung to the ledge with his hands.
+Ground Truth: He sat upon the bridge with his legs hanging over the water, and in a minute lowered himself and hung to the ledge with his hands.
+
+OCR Text: After hanging a few seconds he let go and dropped into the river,
+Ground Truth: After hanging a few seconds, he let go and dropped into the river.
+
+OCR Text: When he fell into the water he rose and appeared to be swimming with the tide.
+Ground Truth: When he fell into the water he rose and appeared to be swimming with the tide.
+
+OCR Text: Sud- denly he disappeared,
+Ground Truth: Suddenly he disappeared.
+
+OCR Text: He never cried out.
+Ground Truth: He never cried out.
+
+OCR Text: Witness was about ton yards from deceased when he got over the parapet, but he had no idea he was going to commit suicide .
+Ground Truth: Witness was about ten yards from deceased when he got over the parapet, but he had no idea he was going to commit suicide.
+
+OCR Text: He did not appear agitated.
+Ground Truth: He did not appear agitated.
+
+OCR Text: Dr. A. D. Roe, divisional surgeon of police, who had made a post-mor- tern examination, said the head was flattened and every bone fractured.
+Ground Truth: Dr. A. D. Roe, divisional surgeon of police, who had made a post-mortem examination, said the head was flattened and every bone fractured.
+
+OCR Text: One of the eyes was missing, and death was due to asphyxia from drowning.
+Ground Truth: One of the eyes was missing, and death was due to asphyxia from drowning.
+
+OCR Text: The injuries to the head were done just after death) aud were probably due to deceased vetting beneath a barge.
+Ground Truth: The injuries to the head were done just after death, and were probably due to deceased getting beneath a barge.
+
+OCR Text: A verdict of suicide vhilst of unsound mind was returned,
+Ground Truth: A verdict of suicide whilst of unsound mind was returned.
+
+OCR Text: On Thursday night, as the 0:36 train from Hammer. smith was entering Portland-road Station, a well dressed man, apparently about thirty years of age, was seen to step on the permanent way.
+Ground Truth: On Thursday night, as the 9:36 train from Hammer-smith was entering Portland-road Station, a well-dressed man, apparently about thirty years of age, was seen to step on the permanent way.
+
+OCR Text: For 'a moment or two he, faced the approaching train, and then calmly knelt down and placed his neck on the off rail.
+Ground Truth: For a moment or two he faced the approaching train, and then calmly knelt down and placed his neck on the off rail.
+
+OCR Text: There were a number, of passengers on the platform at the time, and several of these shrieked out loudly, callhi gon the driver-to stop the, train.
+Ground Truth: There were a number of passengers on the platform at the time, and several of these shrieked out loudly, calling on the driver to stop the train.
+
+OCR Text: The driver immediately applied the brake, but it was found impossible to pull up in time, and the wheels of the engine and several carriages passed over. the man's neck.
+Ground Truth: The driver immediately applied the brake, but it was found impossible to pull up in time, and the wheels of the engines and several carriages passed over the man’s neck.
+
+OCR Text: On the train being moved away it was seen that the unfortunate man's head had been completely severed from his body.
+Ground Truth: On the train being moved away it was seen that the unfortunate man’s head had been completely severed from his body.
+
+OCR Text: The man's identity is at present unknown.
+Ground Truth: The man’s identify is at present unknown.

@@ -1,0 +1,32 @@
+OCR Text: CHARGE OF SETTING FIRE TO A HOUSE.
+Ground Truth: CHARGE OF SETTING FIRE TO A HOUSE.
+
+OCR Text: AT the Thames police-eourt, Charles Mawzi was charged with wilfully and maliciously setting fire to the house, 2 Caroline-9treet, Commercial-road East.
+Ground Truth: AT the Thames police-court, Charles Mawzi was charged with willfully and maliciously setting fire to the house, 2 Caroline-street, Commercial-road East.
+
+OCR Text: At a quarter to four o'clock that 'c¢morniink Lilly, a constable, No. 332 E, wias'oh datyin Carblind-stc'eet, . when he met the prisoeer, and he said, "I hive just come from ,afire," alluclingtoaiconflagration in.Philpot- street, Commercial-rbad, " and therb is anotlher one up the street, close to the brewery."
+Ground Truth: At a quarter to four o’clock that morning Lilly, a constable, No. 332 K, was on duty in Caroline-street, when he met the prisoner, and he said, “I have just come from a fire,” alluding to a conflagration in Philpot-street, Commercial-road, “and there is another one up the street, close to the brewery.”
+
+OCR Text: *Lilly caught hold of him, 'ai found that his coat snd hands were dovered with vwhiteivash, and on being dsl'ed to -acoiant for it he said, " I have~jdst tome fronm a ire; I'll show you where it is."
+Ground Truth: Lilly caught hold of him, and found that his coat and hands were covered with whitewash, and on being asked to account for it he said, “I have just come from a fire; I’ll show you where it is.”
+
+OCR Text: On reaclhing No. 2, whiG1e is an unoc6njid 'aouse, prisoner pulled open tLie shitters and said, "Can't you hear the fire now 1" and Lilly then heard the craulding of wood.
+Ground Truth: On reaching No. 2, which is an unoccupied house, prisoner pulled open the shutters and said, “Can’t you hear the fire now?” and Lilly then heard the crackling of wood.
+
+OCR Text: He iqrihng his rattle, and William Gadd, sorgeant, 23 H, and Alfred Ford, .358 K, caine up.
+Ground Truth: He sprang his rattle, and William Gadd, sergeant, 23 H, and Alfred Ford, 358 K, came up.
+
+OCR Text: Ford got in the windoxw, and on opening the back parlour door he found the stair- ease ia flsmes; also the ground and basement floor partly bnrgt.
+Ground Truth: Ford got in the window, and on opening the back parlour door he found the staircase in flames; also the ground and basement floor partly burnt.
+
+OCR Text: Lilly ran for the turnuock, and in the meantime Srgeant Ghdd end Ford, eassisted by a ran with a hose in the Commercial f3 ewery, next door to the house, commened ;liyihg on the fire.
+Ground Truth: Lilly ran for the turncock, and in the meantime Sergeant Gadd and Ford, assisted by a man with a house in the Commercial Brewery, next door to the house, commenced playing on the fire.
+
+OCR Text: In ten minutes' time a fire engine arrived, and the flanes were extinguished Sac~geant Gadd gave tle prisoner into cestoif .
+Ground Truth: In ten minutes’ time a fire engine arrived, and the flames were extinguished Sergeant Gadd gave the prisoner into custody.
+
+OCR Text: The prisoner said he 'ent to put out the fire,
+Ground Truth: The prisoner said he went to put out the fire.
+
+OCR Text: He was remanded, one surety in £20 being accepted for his appearance.
+Ground Truth: He was remanded, one surety in £20 being accepted for his appearance.

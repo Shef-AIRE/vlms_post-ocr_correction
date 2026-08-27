@@ -1,0 +1,20 @@
+OCR Text: BIUTcOqMrDUii,.--'1ho body of an old woiniul hIss leen funlld inl a shed in a brick- yard at Ewyas Havold, .Herefordshire, under cirhcinstancius lowdling to the supposition that she hadl becn murdered.
+Ground Truth: SUPPOSED MURDER. —The body of an old woman has been found in a shed in a brickyard at Ewyas Harold, Herefordshire, under circumstances leading to the supposition that she had been murdered.
+
+OCR Text: The deceased had gwne to the shed to see if there were any tramps there, and as she did not return search was made, and she was found lying in a pool of blood.
+Ground Truth: The deceased had gone to the shed to see if there were any tramps there, and as she did not return search was made, and she was found lying in a pool of blood.
+
+OCR Text: Two tramps have been arrested on Fuspicion.
+Ground Truth: Two tramps have been arrested on suspicion.
+
+OCR Text: FIRINo A STAVKYARD.-A boy naed Bandy, aged 10 years, living at Wing, near Leighton Buzzard, was remanded on Tues- day on a charge of setting fire to the rick- yard of his master, Mr. IV. Woolhead, on Monday evening.
+Ground Truth: FIRING A STACKYARD. —A boy named Bandy, aged 10 years, living at Wing, near Leighton Buzzard, was remanded on Tuesday on a charge of setting fire to the rick yard of his master, Mr. W. Woolhead, on Monday evening.
+
+OCR Text: Two very large wheat ricks and a stsaci of straw w ere destroyed.
+Ground Truth: Two very large wheat ricks and a stack of straw were destroyed.
+
+OCR Text: it is alleged that the boy took a match from home, and, out of mnischief,set the stackyard in a blaze.
+Ground Truth: It is alleged that the boy took a match from home, and, out of mischief, set the stackyard in a blaze.
+
+OCR Text: The dmmage done amounts to 5001.
+Ground Truth: The damage done amounts to 500l.

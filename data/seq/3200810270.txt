@@ -1,0 +1,80 @@
+OCR Text: DElSPERATh AFFRAY IN A BROTHEL
+Ground Truth: DESPERATE AFFRAY IN A BROTHEL
+
+OCR Text: AT the West aiam Police-court, on Saturday, Georgt White, nineteen, coal trimmer, of 13, Hooper's-road Canning Town, and Annie Hurley, twenty-six, describe& as a prostitute, of 47, Martindale-road, Custom-hou"e were charged on remand, with violently assaulting John KIent, a seaman, at 73, Alartindale-road, on March tith
+Ground Truth: AT the West Ham Police-court, on Saturday, George White, nineteen, coal trimmer, of 13, Hooper’s-road, Canning Town, and Annie Hurley, twenty-six, described as a prostitute, of 47, Martindale-road, Custom-house, were charged on remand, with violently assaulting John Kent, a seaman, at 73, Martindale-road, on March 16th.
+
+OCR Text: M1r. Sherman prosecuted; Mr. Willis defended.
+Ground Truth: Mr. Sharman prosecuted; Mr. Willis defended.
+
+OCR Text: When; the case was previously before the court a maan named -Partridge, a coal-trimmer, was charged with being con cerned in the assault, but he .as discharged.
+Ground Truth: When the case was previously before the court a man named Partridge, a coal-trimmer, was charged with being concerned in the assault, but he was discharged.
+
+OCR Text: Partridge was now called as a witness, and in the course of a long deposition, he spoke of what took place inside the houp,, before the police arrived.
+Ground Truth: Partridge was now called as a witness, and in the course of a long deposition, he spoke of what took place inside the house before the police arrived.
+
+OCR Text: At half-past eleven o'cloclk witness was in the front parlour of the house when ho heard two persons come in and go upstairs.
+Ground Truth: At half-past eleven o’clock witness was in the front parlour of the house when he heard two person come in an go upstairs.
+
+OCR Text: Soon after wards there was a struggle upstairs, and Partridge heard Hurley callout, "Come up, Tommy,this man is m11rderir E me."
+Ground Truth: Soon afterwards there was a struggle upstairs, and Partridge heard Hurley call out, “Come up, Tommy, this man is murdering me.”
+
+OCR Text: Witness went upstairs, and saw Kent and urnle- the prisoner, White, and some others.
+Ground Truth: Witness went upstairs, and saw Kent and Hurley, the prisoner, White, and some others.
+
+OCR Text: Hurley and Ke;lt were figuting, and a policeman came but he noon, after. wards left.
+Ground Truth: Hurley and Kent were fighting, and a policeman came but he soon afterwards left.
+
+OCR Text: Witness soon afterwards heard another struggle, and on going upstairs he saw Hurley aud Kent fighting.
+Ground Truth: Witness soon afterwards heard another struggle, and ongoing upstairs he saw Hurley and Kent fighting.
+
+OCR Text: Hurley was thrown through the bannister and witness caught her, but she struck her head
+Ground Truth: Hurley was thrown through the bannisters, and witness caught her, but she struck her head.
+
+OCR Text: I tried to get her into the front room, but the leople there would not let her in.
+Ground Truth: He tried to get her into the front room, but the people there would not let her in.
+
+OCR Text: She struggled, and, gettie away, she rushed upstairs.
+Ground Truth: She struggled, and, getting away, she rushed upstairs.
+
+OCR Text: Kent, meanwhile, bad pulled away all the bannisters, and thrown them down
+Ground Truth: Kent, meanwhile, had pulled away all the bannisters, and thrown them down.
+
+OCR Text: Hearing cries, Partridge went up, and saw White throw two bricks at Kent, who was then in the yard, he having gone through the window.
+Ground Truth: Hearing cries, Partridge went up, and saw White throw two bricks at Kent, who was then in the yard, he having gone through the window.
+
+OCR Text: A constable cane and when Kent was discovered be wee lyina asari senseless in the yard. four or five bricks heing>elose tb him.
+Ground Truth: A constable came, and when Kent was discovered he was lying nearly senseless in the yard four or five bricks being close to him.
+
+OCR Text: The prisoner Hurley was on the floor of the bacs room, and she said, whenPolice-constable Willettenteresi that Kent had jumped on her stomach andc then " Go,,' through the window."
+Ground Truth: The prisoner Hurley was on the floor of the back room, and she said, when Police-constable Willett entered, that Kent had jumped on her stomach and then “Gone through the window.”
+
+OCR Text: All the parties were taken to the station, but no charges were preferred by anyone.
+Ground Truth: All the parties were taken to the station, but no charges were preferred by anyone.
+
+OCR Text: Francji Croucher, the house-surgeon at the Seamen's Hospital i n the Victoria Docks, said that Kent went to that institution on the morning of March 17th.
+Ground Truth: Francis Croucher, the house-surgeon at the Seamen’s Hospital in the Victoria Docks, said that Kent went to that institution on the morning of March 17th.
+
+OCR Text: He complained of a seale wound, and on being examined he was found to have usu tained a fracture of the skull, which was compound arid and depressed.
+Ground Truth: He complained of a scalp wound, and on being examined he was found to have sustained a fracture of the skull, which was compound and depressed.
+
+OCR Text: He was so bad that he had to b, trephined.
+Ground Truth: He was so bad that he had to be trephined.
+
+OCR Text: He was still an inmate of the hospital, and was unable to attend the court.
+Ground Truth: He was still an inmate of the hospital, and was unable to attend the court.
+
+OCR Text: His speech waa impaired, and he had paralysis of the right arm andthe right leg.
+Ground Truth: His speech was impaired, and he had paralysis of the right arm and the right leg.
+
+OCR Text: In witness's opinion it was very doubtful if Kent would recover.
+Ground Truth: In witness’s opinion it was very doubtful if Kent would recover.
+
+OCR Text: If he did, it would only be after a very long time.
+Ground Truth: If he did, it would only be after a very long time.
+
+OCR Text: His injury had been caused by some heavy sharp-pointed instrument, very likely a brick.
+Ground Truth: His injury had been caused by some heavy sharp-pointed instrument, very likely a brick.
+
+OCR Text: Remanded.
+Ground Truth: Remanded.

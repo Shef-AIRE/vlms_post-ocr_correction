@@ -1,0 +1,62 @@
+OCR Text: INSURING A MOTHERIN-LAW.
+Ground Truth: INSURING A MOTHER-IN-LAW.
+
+OCR Text: CURIOUS FRIENDLY SOCIRTY CASE.
+Ground Truth: CURIOUS FRIENDLY SOCIETY CASE.
+
+OCR Text: IN the action of rditchell v. the Liverpool Victoria Legal Friendly Society in the Queen's Bench Division, before Justices Mathew and Cave,
+Ground Truth: IN the action of Mitchell v. the Liverpool Victoria Legal Friendly Society in the Queen's Bench Division, before Justices Mathew and Cave,
+
+OCR Text: Dr. Blake Odgers, Q C, moved ex parts on behalf of the defendants for a writ of certiorari to bring up the plaint and all proceedings instituted in the Burnley County Court into the High. Court for trial.
+Ground Truth: Dr. Blake Odgers, Q. C., moved ex parte on behalf of the defendants for a writ of certiorari to bring up the plaint and all proceedings instituted in the Burnley County Court into the High Court for trial.
+
+OCR Text: He based the present application on two grounds-first, that diffi- -cult points of law would arise on the trial; and secondly, * that a jury had been sunmmoned, and that the defendants had raid that they conld'not have a fair trial on the questions of' fact.
+Ground Truth: He based the present application on two grounds—first, that difficult points of law would arise on the trial; and secondly, that a jury had been summoned, and that the defendants had said that they could not have a fair trial on the questions of fact.
+
+OCR Text: The action 'was of a somewhat unusual kind.
+Ground Truth: The action was of a somewhat unusual kind.
+
+OCR Text: The plaintiff was agrocer living at Burn- ley,- and he had, insured the life of his mother-in-law- (laughter)-with the defendants.
+Ground Truth: The plaintiff was a grocer living at Burnley, and he had, insured the life of his mother-in-law— (laughter) with the defendants.
+
+OCR Text: The question arose whether or not the plaintiff would have an insurable interest in the life of his mother-in-law. (Laughter.)
+Ground Truth: The question arose whether or not the plaintiff would have an insurable interest in the life of his mother-in-law. (Laughter.)
+
+OCR Text: The policy was effected.-in 1885, and the defendant continued to pay the preniiims up to December last.
+Ground Truth: The policy was effected in 1885, and the defendant continued to pay the premiums up to December last.
+
+OCR Text: The lady had lived insteidd of dying-(laughter)-and the plaintiff had. ceased to pay the premiums, and brought his sctioin to recover back £22 odd, the amount he had paid.
+Ground Truth: The lady had lived instead of dying— (laughter) and the plaintiff had ceased to pay the premiums, and brought his action to recover back £22 odd, the amount he had paid.
+
+OCR Text: in order to make a cause of action tHb plaintiff alleged that' a representation was made to him in May, 1885, by an agent of defendants, that if he insured his mother-in-law's life he would be paid the money on her death.
+Ground Truth: In order to make a cause of action the plaintiff alleged that a representation was made to him in May, 1885, by an agent of defendants', that if he insured his mother-in-law's life he would be paid the money on her death.
+
+OCR Text: He did not allege that the representation was made fraudulently or with the knowledge that it was untrue.
+Ground Truth: He did not allege that the representation was made fraudulently or with the knowledge that it was untrue.
+
+OCR Text: In August last, the plaintiff wae informed by the defendants that the sum assured would not be paid to him on the death of, his mother-in-law unless she signed a nomination paper uunder the Friendly SocietiesaAct.'
+Ground Truth: In August last the plaintiff was informed by the defendants that the sum assured would not be paid to him on the death of his mother-in-law unless she signed a nomination paper under the Friendly Societies Act.
+
+OCR Text: The mother-in-law 'refused to do this, and the plaintiff now said be had suffered damage 'by being induced to, enter into the in. -eurance.
+Ground Truth: The mother-in-law refused to do this, and the plaintiff now said he had suffered damage by being induced to enter into the insurance.
+
+OCR Text: A question of law would arise as to howz fat any representation made by an agent-if made atall- was~admissible in view of the fact that a policy had been granted which was snder seal.
+Ground Truth: A question of law would arise as to how far any representation made by an agent—if made at all—was admissible in view of the fact that a policy had been granted which was under seal.
+
+OCR Text: Then there was the question whether the plaintiff had, any insurable inter- est in the life of his mother-in-law.
+Ground Truth: Then there was the question whether the plaintiff had any insurable interest in the life of his mother-in-law.
+
+OCR Text: Finallv, he would point out that a jury had been summoned at the plaintiff's instance to decide the qoestion whether any representation was made by the agent or not,
+Ground Truth: Finally, he would point out that a jury had been summoned at the plaintiff's instance to decide the question whether any representation was made by the agent or not.
+
+OCR Text: The de- fendants set nut' in their affidavit that it was a common practice in Burnlsy and other Lancashire towns for persons to insure the lives of their relations in this and other friendly societies, and deposit the policies with slsdpkepepre as security for the payment of their accounts.
+Ground Truth: The defendants set out in their affidavit that it was a common practice in Burnley and other Lancashire towns for persons to insure the lives of their relations in this and other friendly societies, and deposit the policies with shopkeepers as security for the payment of their accounts.
+
+OCR Text: 'The defendants were infornmed and believed that this action was, brought to a great extent in the interest of a number of tradespeople in Bur ley for the purpose, if 'possible, of establishing a precedent to recover the policy premiums in cases where the holders of the policies were anebl~e to obtain the nomination as required by the Friendly Societies Act.
+Ground Truth: The defendants were informed and believed that this action was brought to a great extent in the interest of a number of tradespeople in Burnley for the purpose, if possible, of establishing a precedent to recover the policy premiums in cases where the holders of the policies were unable, to obtain the nomination as required by the Friendly Societies Act.
+
+OCR Text: The persons likely to be Sum- moned on the jury to try the plaintiff's case would belong to a class who held policies In these societies either in their own right or by way of security.
+Ground Truth: The persons likely to be summoned on the jury to try the plaintiff's case would belong to a class who held policies in these societies either in their own right or by way of security.
+
+OCR Text: Their lordships refused the motion.
+Ground Truth: Their lordships refused the motion.

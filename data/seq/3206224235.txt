@@ -1,0 +1,26 @@
+OCR Text: FROM THE LONDON GAZETTE
+Ground Truth: FROM THE LONDON GAZETTE.
+
+OCR Text: TUFSDAT JAN.9. BANK]WPTCERS ANNULLED. - . Cooke, Freemantle, Southpmpton, builder-H. W. Waddell, late of Bond-court, Wallbrook, London, wine merchant.
+Ground Truth: TUESDAY, JAN. 9. BANKRUPTCIES ANNULLED. —R. Cooke, Freemantle, Southampton, builder —H. W. Waddell, late of Bond-court, Wallbrook, London, wine merchant.
+
+OCR Text: Notice of adjudication and first meeting of creditols.
+Ground Truth: Notice of adjudication and first meeting of creditors.
+
+OCR Text: Bankrupts to surrender at the Bankruptcy-court, London.
+Ground Truth: Bankrupts to surrender at the Bankruptcy-court, London.
+
+OCR Text: BANEinstTT.-J. Townaend, Orpington, Kent, butcher- 3. H. Webster, Norwich - .Ceens, Fulham road, Brompton, monume ntal letter-cutter-T. Fuller,.Wood- street, Cheapside, mnantle manufacturer-fl- Marchant, Piccadilly, licensed victualler -F. North Throgmortoni- street, stockbroker-H. Johnson end,. Addie, York- street, Lambeth, slate merchants-3. Warren, Old Kent- e~aupholsterer
+Ground Truth: BANKRUPTS. —J. Townsend, Orpington, Kent, butcher —J. E. Webster, Norwich —J. Clements, Fulham road, Brompton, monumental letter-cutter —J. Fuller, Wood-street, Cheapside, mantle manufacturer —H. Marchant, Piccadilly, licensed victualler —F. North, Throgmorton-street, stockbroker —R. Johnson and J. Addie, York-street, Lambeth, slate merchants —E. Warren, Old Kent-road, upholsterer
+
+OCR Text: Niotice of Adjudications and First Meetings of Creditors.
+Ground Truth: Notice of Adjudications and First Meetings of Creditors.
+
+OCR Text: iBankrupts to surrender at the Bankruptcy-court. Lendon.
+Ground Truth: Bankrupts to surrender at the Bankruptcy-court, London.
+
+OCR Text: BANERUITs. -F. Hfughes, Greenwvich, Kent, vocalist-Gi. Rain, Colney-beath, Rertfordshire, blacksmith-H. Davis, L~orrimore-square, Kennington, attorney-at-law - W J. ! abgood, Degenham, Essex, out of business-Sir J. Ben- !son, Cecil-street, Strand, and Cork, Ireland, civil engineer
+Ground Truth: BANKRUPTS. —F. Hughes, Greenwich, Kent, vocalist —G. Bain, Colney-heath, Hertfordshire, blacksmith-R. Davis, Lorrimore-square, Kennington, attorney-at-law —W. J. Habgood, Dagenham, Essex, out of business —Sir J. Benson, Cecil-street, Strand, and Cork, Ireland, civil engineer
+
+OCR Text: :-T. Copsey, Saint Mary-street, East, beer-house keeper- H. Log, Msningree, Essex, butcher- W Gilchrilst, Camb~dgeterrce, aokey, licensed victualter-3. Wat- son incng-ane atd Fenchurch-atreet, housekeeper-- Norbur~ento-place, Petnilcollector toa line drperll.TurerBrick-lane, Bethual-grenad Uppr Cste,.Witehrtfarmer-Gorge Corby, North- ampon, bekeeler satoer .printer, end, news egesit- H. . Bnso, Slrun'sbun, LimehGilS6, grocer-B. H. M,,nayonndsi-cO~tand Essex-street, Strand, attor-
+Ground Truth: —T. Copsey, Saint Mary-street, East, beer-house keeper —H. Long, Manningtree, Essex, butcher—W Gilchrist, Cambridge-terrace, Hackney, licensed victualler —J. Watson, Mincing-lane, and Fenchurch-street, housekeeper —F. B. Norbury, Penton-place, Pentonville, collector to a linen draper —D. Turner, Brick-lane, Bethnal-green, and Upper Chute, Wiltshire, farmer —George Corby, Northampton, bookseller, stationer, printer, and news agent J. Benson, Salmon's-lane, Limehouse, grocer —R. H. Munday, Fountain-court, and Essex-street, Strand, attor-

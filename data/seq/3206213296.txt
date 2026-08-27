@@ -1,0 +1,44 @@
+OCR Text: DESPERATE ATTEMPTS AT BURGL &RY.
+Ground Truth: DESPERATE ATTEMPTS AT BURGLARY.
+
+OCR Text: Two attempts have recently been made to break into the house of a man named Woodcock, who is seventy five years of age, and keeps a small grocery shop at Mankinholes, near Todmorden.
+Ground Truth: Two attempts have recently been made to break into the house of a man named Woodcock, who is seventy-five years of age, and keeps a small grocery shop at Mankinholes, near Todmorden.
+
+OCR Text: The old man and his wife sleep in a bed on the ground floor, in a room lighted by a little old-fashtoned wiadow of no great strength, the panes of glase being let Into a framework of lead; and one night, about aix weeks ago, Woodcock was awoke by a pane of the window being broken, and a hand being thrust through the aperture to unfasten the case, ment.
+Ground Truth: The old man and his wife sleep in a bed on the ground floor, in a room lighted by a little old-fashioned window of no great strength, the panes of glass being let into a framework of lead; and one night, about six weeks ago, Woodcock was awoke by a pane of the window being broken, and a hand being thrust through the aperture to unfasten the casement.
+
+OCR Text: The old man told the burglar, that unless the'hand were withdrawn he would chop'it off, and this tbreat had the desired effect of frightening the indian, and causing him to deaist.
+Ground Truth: The old man told the burglar, that unless the hand were withdrawn he would chop it off, and this threat had the desired effect of frightening the ruffian, and causing him to desist.
+
+OCR Text: On Friday night last, however, a more desperate attak was w~ade by two burglars, one of whom struok the window a blow with somlethig that had the effect of driving In the whole of the glass and framework to- gather.
+Ground Truth: On Friday night last, however, a more desperate attack was made by two burglars, one of whom struck the window a blow with something that had the effect of driving in the whole of the glass and framework together.
+
+OCR Text: The burglars then entered the room, and one of them seized the wife, while the other pursued the husband Into another room, whither he had gone for a weapon with which to defend himself.
+Ground Truth: The burglars then entered the room, and one of them seized the wife, while the other pursued the husband into another room, whither he had gone for a weapon with which to defend himself.
+
+OCR Text: It wag a dark night, but the old man got hold of a pair of tongs, and struck the burglar who followed him a severe blow with the heavy end of the torgs.
+Ground Truth: It was a dark night, but the old man got hold of a pair of tongs, and struck the burglar who followed him a severe blow with the heavy end of the tongs.
+
+OCR Text: The *neit moment the burglar caught him by the throat with one hand, while he endeavoured to strike him with a carpenter's axe with the other.
+Ground Truth: The next moment the burglar caught him by the throat with one hand, while he endeavoured to strike him with a carpenter's axe with the other.
+
+OCR Text: The grasp of the throat was so severe that it forced blood from the nouth and nostrils of Woodcock, but still the old man succeeded In striking the axe from his assailant's hand by bitting him a blow with the tongs across the wrist.
+Ground Truth: The grasp of the throat was so severe that it forced blood from the mouth and nostrils of Woodcock, but still the old man succeeded in striking the axe from his assailant’s hand by hitting him a blow with the tongs across the wrist.
+
+OCR Text: This caused the burglar to stoop and sear3h for the axe, and while he. did so Woodcock went through the bedroom and escaped by the window to get assistance from his neighbours.
+Ground Truth: This caused the burglar to stop and search for the axe, and while he did so Woodcock went through the bedroom and escaped by the window to get assistance from his neighbours.
+
+OCR Text: When he re' turned with some of his neighbours, it was found that the burglars had decamped, Without taking any' thing with ther,
+Ground Truth: When he returned with some of his neighbours, it was found that the burglars had decamped, without taking anything with them.
+
+OCR Text: In the Toim where the struggle bad taken place, a sharp axe and a man's Cap were found on the floor.
+Ground Truth: In the room where the struggle bad taken place, a sharp axe and a man's cap were found on the floor.
+
+OCR Text: A good deal of blood was on the floor, some of which it Is thought had.been shed by the burglar In the struggle.
+Ground Truth: A good deal of blood was on the floor, some of which it is thought had been shed by the burglar in the struggle.
+
+OCR Text: Woodcock was a good deal exhausted and exieted throngh the en- counter,- and several of his neighbours remained with him during the remainder of the- night, and, from the care taken of him, it in thought that he will reeover from the injuries he sue tdined.
+Ground Truth: Woodcock was a good deal exhausted and excited through the encounter, and several of his neighbours remained with him during the remainder of the night, and, from the care taken of him, it is thought that he will recover from the injuries he sustained.
+
+OCR Text: There is reason to believe the police are on the track of the men who entered the house.
+Ground Truth: There is reason to believe the police are on the track of the men who entered the house.

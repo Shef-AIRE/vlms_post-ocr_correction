@@ -1,0 +1,29 @@
+OCR Text: THE BANE ROBBERY BY A WVOYAN.
+Ground Truth: THE BANK ROBBERY BY A WOMAN.
+
+OCR Text: The young IWoman Scoffham, arrested on the 9tb inst. for a robbery at the Bridgenorth branch of the Metropolitan' and Birmingham Banking cOmpany, was again brought up at Bridgenorth, on Monday, when counsel for the defence said he did not dispute any 'of the facts, but he urged that the prisoner was not responsible for her actions at the time she be- haved in so extraordinary a manner, and that she had no idea of the enormity of the crime.-3edical evidence was called in support of this contention, after which the prisoner pleaded "' Not guilty."-
+Ground Truth: The young woman Scoffham, arrested on the 9th inst. for a robbery at the Bridgenorth branch of the Metropolitan and Birmingham Banking company, was again brought up at Bridgenorth, on Monday, when counsel for the defence said he did not dispute any of the facts, but he urged that the prisoner was not responsible for her actions at the time she behaved in so extraordinary a manner, and that she had no idea of the enormity of the crime. —Medical evidence was called in support of this contention, after which the prisoner pleaded "Not guilty.”–
+
+OCR Text: She was committed for trial at the Shropshute assizes, an application for bail being refused.
+Ground Truth: She was committed for trial at the Shropshire assizes, an application for bail being refused.
+
+OCR Text: VERY STRiyniNG KuITODaANMA.-Nellie Isard, a tall girl, between 15 and 18, who looked much older, the daughter of a tailor's manager, residiug at Clap- ham, was charged on remand at Westminster police- court on Friday with stealing property and money belonging to lodgfir-house end shop keepers in Westminster And Pimliso.
+Ground Truth: VERY STRIKING KLEPTOMANIA. —Nellie Isard, a tall girl, between 15 and 16, who looked much older, the daughter of a tailor's manager, residing at Clapham, was charged on remand at Westminster police-court on Friday with stealing property and money belonging to lodging-house and shop keepers in Westminster and Pimlico.
+
+OCR Text: Four charges were pressed againsttshe prisoner, although many snore cases were reported to the police, end it was shown that the girl carried out the robberies in a most art- ful and systematic manner.
+Ground Truth: Four charges were pressed against the prisoner, although many more cases were reported to the police, and it was shown that the girl carried out the robberies in a most artful and systematic manner.
+
+OCR Text: She took apartments and decah ped with articles of value, which sliname- diately pat ed.
+Ground Truth: She took apartments and decamped with articles of value, which she immediately pawned.
+
+OCR Text: Theftheroofithegir a stated thatshe had been afflicted with kleptomania since earl child- hood, Spd that she was not morally resppnshale fbor her sate
+Ground Truth: The father of the girl stated that she had been affected with kleptomania since early childhood, and that she was not morally responsible for her acts.
+
+OCR Text: Dr. Solkins, rsidentb, Ja55isteiphysician atnSt. Thos iospi, oncurred inve thiview.
+Ground Truth: Dr. Hawkins, resident assistant physician at St. Thomas's hospital, concurred in this view.
+
+OCR Text: In five stmmotses of caseoviir stage aditted he was muclipuzed wthat tocne ndo withrte gfrl
+Ground Truth: In this state of the case Mr. Sheil admitted he was much puzzled what to do with the girl.
+
+OCR Text: seFinally he [deidedxton formally convicther, cond takeuher father's reEeienue. Tobinhersamnzs sip for udgment if called upois.
+Ground Truth: Finally, he decided to formally convict her, and take her father's recognisances to bring her up for judgment if called upon.

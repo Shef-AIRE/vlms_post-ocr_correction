@@ -1,0 +1,71 @@
+OCR Text: BRUTAL MUTRDER OF A POLICEMAN.
+Ground Truth: BRUTAL MURDER OF A POLICEMAN.
+
+OCR Text: A policeman of the Gateshead force named Graham was on Friday evening brutally murdered at Wrecken- ton, near Gateshead.
+Ground Truth: A policeman of the Gateshead force named Graham was on Friday evening brutally murdered at Wreckenton, near Gateshead.
+
+OCR Text: The crime was the sequel to some police court proceedings earlier in the day.
+Ground Truth: The crime was the sequel to some police court proceedings earlier in the day.
+
+OCR Text: A man named Edward Wilkinson, known as the " Flying Butcher," was summoned by Constable Graham for street brawling.
+Ground Truth: A man named Edward Wilkinson, known as the “Flying Butcher," was summoned by Constable Graham for street brawling.
+
+OCR Text: He was a powerful man of 45, and was wont to boast of his prize- fighting powers.
+Ground Truth: He was a powerful man of 45, and was wont to boast of his prize-fighting powers.
+
+OCR Text: Latterly he was employed by a butcher carrying of business at Newcastle.
+Ground Truth: Latterly he was employed by a butcher carrying on business at Newcastle.
+
+OCR Text: His wife is a tripe hawker,andtthe familyconsisted ofsixchildren.
+Ground Truth: His wife is a tripe hawker, and the family consisted of six children.
+
+OCR Text: On the night of the 16th inst. Police-constable Gra- hom found Wilkinson turning his wife oat of doors.
+Ground Truth: On the night of the 16th inst. Police-constable Graham found Wilkinson turning his wife out of doors.
+
+OCR Text: Graham remonstrated, whereupon Wilkinson rushed into the house for a poker, and said he would do for him.
+Ground Truth: Graham remonstrated, whereupon Wilkinson rushed into the house for a poker, and said he would do for him.
+
+OCR Text: The constable, however, pacified him, and he, went indoors, but returned and used obscene language.
+Ground Truth: The constable, however, pacified him, and he went indoors, but returned and used obscene language.
+
+OCR Text: Ho was summoned by Grahamfor brawl- ime, and was fined Es. fd., ilieleding costs.
+Ground Truth: He was summoned by Graham for brawling, and was fined 8s. 6d., including costs.
+
+OCR Text: He told Head-constable Elliott he would " settle " the police- man.
+Ground Truth: He told Head-constable Elliott he would "settle" the policeman.
+
+OCR Text: Graham, after his duty, returned to the village in the afternoon.
+Ground Truth: Graham, after his duty, returned to the village in the afternoon.
+
+OCR Text: As he was passing Wilkinson's house the man rushed out with a knife in his hand, followed by his wife, who tried to hold him, but he struck her in the face, and made after Gra. ham.
+Ground Truth: As he was passing Wilkinson's house the man rushed out with knife in his hand, followed by his wife, who tried to hold him, but he struck her in the face, and made after Graham.
+
+OCR Text: Seizing the constable with one hand, he stabbed him in the chest, inlicting a frightful wound near the heart.
+Ground Truth: Seizing the constable with one hand, he stabbed him in the chest, inflicting a frightful wound near the heart.
+
+OCR Text: The officer reeled across the road and fell, dying shortly afterwards.
+Ground Truth: The officer reeled across the road and fell, dying shortly afterwards.
+
+OCR Text: Wilkinson, before leaving Graham, took the truncheon from him and struck him on the head several times.
+Ground Truth: Wilkinson, before leaving Graham, took the truncheon from him and struck him on the head several times.
+
+OCR Text: lHe then returned through the village brandishing the knife and the truncheon, saying he had killed one policeman and would murder another-Police-con- stable Dodds, who, however, was away at the time.
+Ground Truth: He then returned through the village brandishing the knife and the truncheon, saying he had killed one policeman and would murder another—Police-constable Dodds, who, however, was away at the time.
+
+OCR Text: The murderer then made off into the country, pur- sued by several young men.
+Ground Truth: The murderer then made off into the country, pursued by several young men.
+
+OCR Text: The same night Wil- kinson was captured at South Hylton, near Sunder- land.
+Ground Truth: The same night Wilkinson was captured at South Hylton, near Sunderland.
+
+OCR Text: Edward WIilfkinsos, butcher, was charged at Gates- head, on Monday, with the murder of Police-con- stable John Graham, at Wrekeuton, on Friday after- noon, by stabbing him in the breast with a knife.
+Ground Truth: Edward Wilkinson, butcher, was charged at Gateshead, on Monday, with the murder of Police-constable John Graham, at Wrekenton, on Friday afternoon, by stabbing him in the breast with a knife.
+
+OCR Text: The prisoner behaved composedly during the exami- nation of witnesses, and declined to ask questions; but on being told that he would be commitced to the assizes he broke down, and, weeping, asked permis- sion to write to his wife.
+Ground Truth: The prisoner behaved composedly during the examination of witnesses, and declined to ask questions; but on being told that he would be committed to the assizes he broke down, and, weeping, asked permission to write to his wife.
+
+OCR Text: He was allowed to see her in the cells.
+Ground Truth: He was allowed to see her in the cells.
+
+OCR Text: The coroner's jury on Wednesday returned a verdict of "W Wilful murder" against Wilkinson.
+Ground Truth: The coroner's jury on Wednesday returned a verdict of "Wilful murder" against Wilkinson.

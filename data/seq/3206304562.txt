@@ -1,0 +1,65 @@
+OCR Text: I TETHE ADVERTISEMENT DUTY. I
+Ground Truth: THE ADVERTISEMENT DUTY.
+
+OCR Text: The following objections to the advertisement tax on newspapers were submitted to the Chancellor of the Ex- chequer by the deputation on Saturday:
+Ground Truth: The following objections to the advertisement tax on newspapers were submitted to the Chancellor of the Exchequer by the deputation on Saturday:
+
+OCR Text: "1. Because it is a tax on knowledge, wad falls with partiality on an important portion of the press-the newspaper, magazine, and periodical.
+Ground Truth: "1. Because it is a tax on knowledge, and falls with partiality on an important portion of the press—the newspaper, magazine, and periodical.
+
+OCR Text: All other means of advertising escape the duty.
+Ground Truth: All other means of advertising escape the duty.
+
+OCR Text: "2. It is an unjust tax.
+Ground Truth: "2. It is an unjust tax.
+
+OCR Text: It cannot be equitably assessed or collected.
+Ground Truth: It cannot be equitably assessed or collected.
+
+OCR Text: The poor man pays Is. Ud. to advertise for employment.
+Ground Truth: The poor man pays 1s. 6d. to advertise for employment.
+
+OCR Text: " 3. It falls heavily on particular classes of property, impounding to an important extent advertisements in journals.
+Ground Truth: "3. It falls heavily on particular classes of property, impounding to an important extent advertisements in journals.
+
+OCR Text: Il America, any man wke wishes to lend or to hire, to buy or to sell, announces his wish, without being subject to any duty, for is.
+Ground Truth: In America, any man who wishes to lend or to hire, to buy or to sell, announces his wish, without being subject to any duty, for 1s.
+
+OCR Text: " 4. It acts most injuriously on literary works striving at cheapness.
+Ground Truth: "4. It acts most injuriously on literary works striving at cheapness.
+
+OCR Text: The cost of advertising sometimes amounts to more than the whole profit of author and publisher on works which are successful
+Ground Truth: The cost of advertising sometimes amounts to more than the whole profit of author and publisher on works which are successful.
+
+OCR Text: " 5. It is a tax which goes far to fetter the free exten- sion of the press, and prevents the eircula n of a sound and wholesome literature among working men
+Ground Truth: "5. It is a tax which goes far to fetter the free extension of the press, and prevents the circulation of a sound and wholesome literature among working men.
+
+OCR Text: In America there are 850 daily papers, in England there are only ten.
+Ground Truth: In America there are 850 daily papers, in England there are only ten.
+
+OCR Text: "6. It creates'a monopoly.
+Ground Truth: "6. It creates a monopoly.
+
+OCR Text: It is only the compara- tively prosperous tredesman who can afford to advertise -the intelligent mechanic is excluded from newspaper publicity.
+Ground Truth: It is only the comparatively prosperous tradesman who can afford to advertise –the intelligent mechanic is excluded from newspaper publicity.
+
+OCR Text: "7 . It is one among many of the fiscal errors eom- mitted when the true principles of taxation were com- paratively unknown.
+Ground Truth: "7. It is one among many of the fiscal errors committed when the true principles of taxation were comparatively unknown.
+
+OCR Text: It involves the same principle by. which the lowest-priced Bohea is taxed at the same rate as the highest-priced Pekoe or Souchong-og which the miserable shirt-maker is made to pay a duty of about 300 per cent. on the original value of the article which she consumes, wehile the rich pay about eighty per cent. only.
+Ground Truth: It involves the same principle by which the lowest-priced Bohea is taxed at the same rate as the highest-priced Pekoe or Souchong—on which the miserable shirt-maker is made to pay a duty of about 300 per cent. on the original value of the article which she consumes, while the rich pay about eighty per cent. only.
+
+OCR Text: "8. It is a tax that 'should be repealed, because the public would derive the fall benefit of the repeal.
+Ground Truth: "8. It is a tax that should be repealed, because the public would derive the full benefit of the repeal.
+
+OCR Text: In many cases a larger reduction than the duty would be made by newspaper proprietors.
+Ground Truth: In many cases a larger reduction than the duty would be made by newspaper proprietors.
+
+OCR Text: ' S. It is a tax which is easily and largely evaded.
+Ground Truth: "9. It is a tax which is easily and largely evaded.
+
+OCR Text: The blank icall, the advertising van (dangerously blocking up. the public thoroughfares), the omnibus, the railway car- riage, the railway station, the street pavement, and many other modes of advertising, reduce the amount paid to Government to a comparativly small amount, and~leave its pressure exactly where it ij most severy felt, and where many grounds of public policy condemn it.
+Ground Truth: The blank wall, the advertising van (dangerously blocking up the public thoroughfares), the omnibus, the railway carriage, the railway station, the street pavement, and many other modes of advertising, reduce the amount paid to Government to a comparatively small amount, and leave its pressure exactly where it is most severely felt, and where many grounds of public policy condemn it.
+
+OCR Text: " 10. In. a word-it is a great' impediment to trade, literature, and labour seeking a market, through pub- licty, and to the newspaper press for that reason; while the small amount of, revenue which it Yields-:ibout Me0,000o Per annuma-renders it altogether unwerthy oC retention, at a cost of'a tithe of the hardship and in- justice which it inflicts "
+Ground Truth: "10. In a word—it is a great impediment to trade, literature, and labour, seeking a market through publicity, and to the newspaper press for that reason; while the small amount of revenue which it yields—about 160,000l. per annum-renders it altogether unworthy of retention, at a cost of a tithe of the hardship and injustice which it inflicts."

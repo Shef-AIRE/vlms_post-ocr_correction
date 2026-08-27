@@ -1,0 +1,23 @@
+OCR Text: SLRIOUS CHARGE AGAINST A LADY,-A lady lname" Barnard, who lives at Norbiton, was charged on remand at the Westminster police-court on U eWdnes- day, with robbing the Army and Navy stores.
+Ground Truth: SERIOUS CHARGE AGAINST A LADY. —A lady named Barnard, who lives at Norbiton, was charged on remand at the Westminster police-court on Wednesday, with robbing the Army and Navy stores.
+
+OCR Text: S was seen to put a number of Christmas cards asd other articles in a bag she carried, and At ber house 114 newbooks were found, most of which were identified as belonging to the prosecutors, as they had not been sold.
+Ground Truth: She was seen to put a number of Christmas cards and other articles in a bag she carried, and at her house 114 new books were found, most of which were identified as belonging to the prosecutors, as they had not been sold.
+
+OCR Text: Medical evidence was called on her behalf, to show that she was suffering from an internal disease which would seriously affect her mental capacity.
+Ground Truth: Medical evidence was called on her behalf, to show that she was suffering from an internal disease which would seriously affect her mental capacity.
+
+OCR Text: She was committed for trial.
+Ground Truth: She was committed for trial.
+
+OCR Text: ALLROED DOUBLE MURDEn.-At Liverpool, on Thursday, a coroner's jury returned a verdict o " Wilful murder " against a domestic servant named M'Donald.
+Ground Truth: ALLEGED DOUBLE MURDER. —At Liverpool, on Thursday, a coroner's jury returned a verdict of "Wilful murder" against a domestic servant named M'Donald.
+
+OCR Text: From the evidence it appeared that last mouth the body of a child, which hbd evidently been concealed for some months, was found in a box in a' attic of an hotel where M'Donald was employed; but the body was in such an advanced state of decom- position that it was impossible to hold an inquest.
+Ground Truth: From the evidence it appeared that last month the body of a child, which had evidently been concealed for some months, was found in a box in an attic of an hotel where M'Donald was employed; but the body was in such an advanced state of decomposition that it was impossible to hold an inquest.
+
+OCR Text: Soon afterwards suspicions were aroused, aInda search resulted in the finding, in a coal cellar of the hotel, of the-body of another child recently born which had been strangled with a handkerchief t
+Ground Truth: Soon afterwards suspicions were aroused, and a search resulted in the finding, in a coal cellar of the hotel, of the body of another child recently born which had been strangled with a handkerchief.
+
+OCR Text: The prisoner, on being arrested, acknowledged that both children were hers.
+Ground Truth: The prisoner, on being arrested, acknowledged that both children were hers.

@@ -1,0 +1,65 @@
+OCR Text: ]BRAWLING INT PgtIL'.
+Ground Truth: BRAWLING IN ST. PAUL'S.
+
+OCR Text: Att , fason-houscO n =nuau.y I --- t a tug At the giL3Oig , who has during the last two FrueOid, an Dungrtsdly before the court on a similar rbeepe aOtuget up for brawling in St. Paul's cb5re wadsride Diino service on Sunday evening t5disuraabin the congregation.
+Ground Truth: At the Mansion-house on Monday, Herbert Percy Freund, a young man, who has during the last two years been repeatedly before the court on a similar charge, was brought up for brawling in St. Paul's Cathedral during Divine service on Sunday evening and disturbing the congregation.
+
+OCR Text: 'When the priX as pllaged in the dock, Mr. Green, the Dean's tererr taen~tere theO witness box to give evi- ghim the prisoner became deace. Onh pase ion, and declared before lthat everything he would say would Jhe leg
+Ground Truth: When the prisoner was placed in the dock, Mr. Green, the Dean's verger, entered the witness box to give evidence. On seeing him the prisoner frantic with passion, and declared before he began that everything he would say would be false.
+
+OCR Text: ie then, with great vehemence, said that be false d said that He would redeem Jerusalem, IAt 1 athe end50of the world should see His P' tlon.
+Ground Truth: He then, with great vehemence, said that the Lord had said that He would redeem Jerusalem, and that all the ends of the world should see His salvation.
+
+OCR Text: Therefore hehad been sent to speak in Ills naneto this degraded city.
+Ground Truth: Therefore, he had been sent to speak in His name to this degraded city.
+
+OCR Text: genry Oarbery, an assistant verger at St. Paul's, fit tl on Sunday he saw prisoner rise in the dome srea during the sermon.
+Ground Truth: Henry Carbery, an assistant verger at St. Paul's, said that on Sunday he saw prisoner rise in the dome area during the sermon.
+
+OCR Text: He called the preacher a liar, and said he vas the son of the devil.
+Ground Truth: He called the preacher a liar, and said he was the son of the devil.
+
+OCR Text: He went op aud asked thnprisoner to leave, and he bit him in p ad.
+Ground Truth: He went up and asked the prisoner to leave, and he bit him in the hand.
+
+OCR Text: His tenth-marks were still visible on his jcad
+Ground Truth: His teeth-marks were still visible on his hand.
+
+OCR Text: ife caught the prisoner bythe wrist, and he then kiekedhim.
+Ground Truth: He caught the prisoner by the wrist, and he then kicked him.
+
+OCR Text: A constable came to his assis- eand took risoner away.
+Ground Truth: A constable came to his assistance, and took prisoner away.
+
+OCR Text: risoners who at this stage commenced a long ^evas reimanded.
+Ground Truth: The prisoner, who at this stage commenced a long prayer, was remanded.
+
+OCR Text: O'n jriday the prisoner was again brought up, Dr. Alfred Withers Green said he had exa- ~ined him, and certified him to be of unsound inn1
+Ground Truth: On Friday the prisoner was again brought up, when Dr. Alfred Withers Green said he had examined him, and certified him to be of unsound mind.
+
+OCR Text: -ThtePrisoner: It is false.
+Ground Truth: —The Prisoner: It is false.
+
+OCR Text: How could he I did not answer him a single word, and ther ere how can he sayl am of unsound mind?
+Ground Truth: How could he certify? I did not answer him a single word, and therefore how can he say I am of unsound mind?
+
+OCR Text: He bas nothing to go upon at all.-The Lord Mayor: I cote ogree with the medical officer.
+Ground Truth: He has nothing to go upon at all. –The Lord Mayor: I quite agree with the medical officer.
+
+OCR Text: I shall order aO to be sent away where you will be h n care of, and I hope you will soon rmgsn your health.-Prisoner: It is a false Ie; at is wickedness.
+Ground Truth: I shall order you to be sent away where you be taken care of, and I hope you will soon regain your health. –Prisoner: It is a false lie: it is wickedness.
+
+OCR Text: I have never been out of my You do not wish to hear God's 'Word. and fh5555r5 yeou say I am out of my mind.
+Ground Truth: I have never been out of my mind. You do not wish to hear God's Word, and therefore you say I am out of my mind.
+
+OCR Text: They have s ithatabout people before who have preached Gl' f AVord.
+Ground Truth: They have said that about people before who have preached God's Word.
+
+OCR Text: I have never done anything that was a°ll", nd I call upon God to help me.
+Ground Truth: I have never done anything that was wrong, and I call upon God to help me.
+
+OCR Text: -A person wo said he had known the prisoner for some years ssurejlthe witless-box, and wvished to speak on be- liejmf Freund, but tha Lord'Mayor refused to listen 1011e.-The prisoner clutched the bars of the doclr, audresisted the efforts of a warder and a police- sace to take him to the cells.
+Ground Truth: –A person who said he had known the prisoner for some years entered the witness-box, and wished to speak on behalf of Freund, but the Lord Mayor refused to listen to him. –The prisoner clutched the bars of the dock, and resisted the efforts of a warder and a policeman to take him to the cells.
+
+OCR Text: He struggled violently, bs wvas ultimately overpowered and takien below, protesting loudly against his being certified as of easoun d mind.
+Ground Truth: He struggled violently, but was ultimately overpowered and taken below, protesting loudly against his being certified as of unsound mind.

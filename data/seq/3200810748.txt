@@ -1,0 +1,77 @@
+OCR Text: TBU3 CHISLEIHRST OUTRAGE.
+Ground Truth: THE CHISLEHURST OUTRAGE.
+
+OCR Text: AT Bromley Police-court, Leonard Manktlow, a fisherh man, was brought up on a remanded charge of maliciouq1l and feloniously shooting Miss Hilda Wood and Miss Edith Philbrick ina cornfield at 1l3ackbrook Farm, near Chisle. hurst, on the 3rd ult.
+Ground Truth: AT Bromley Police-court, Leonard Manktlow, a fisher man, was brought up on a remanded charge of maliciously and felonionaly shooting Misa Hilda Wood and Miss Edith Philbrick in a cornfield at Blackbrook Farm, near Chislehurst, on the 3rd ult.
+
+OCR Text: The prisoner was brought from Holloway Gaol in custody of two constables
+Ground Truth: The prisoner was brought from Holloway Gaol in custody of two constables.
+
+OCR Text: His arrival was witnessed by a large number of people who had assembled outside the court.
+Ground Truth: His arrival was witnessed by a large number of people who had assembled outside the court.
+
+OCR Text: The Treasury, by whben the prosecution has been taken up, was represented by Detective-inspector Gulmmer.
+Ground Truth: The Treasury, by whom the prosecution has been taken up, was represented by Detective-inspector Gummer.
+
+OCR Text: Mr. St. Bernard Wilson again appeared to defend the accused.
+Ground Truth: Mr. St. Bernard Wilson again appeared to defend the accused.
+
+OCR Text: The court was filled with spectators.
+Ground Truth: The court was filled with spectators.
+
+OCR Text: Detective-inspector Guommer said he proposed to call the doctor who was attending the young ladies.
+Ground Truth: Detective-inspector Gummer said he proposed to call the doctor who was attending the young ladies.
+
+OCR Text: Mr. Wilson thought that under the cir- cumnstances it would he better for the doctor to be examined at a later stage of the case,
+Ground Truth: Mr. Wilson thought that under the circumstances it would be better for the doctor to be examined at a later stage of the case.
+
+OCR Text: The Chairman: If you don't want him examined now.
+Ground Truth: The Chairman: If you don't want him examined now.
+
+OCR Text: Mr. Wilson: No, sir.  There are certain reasons for it. .
+Ground Truth: Mr. Wilson: No sir. There are certain reasons for it.
+
+OCR Text: Detective- inspector Gummer said lie only proposed to ask the doctor to make a statement as to the present condition of Miss Wood and Miss PlilbricLa.
+Ground Truth: Detective inspector Gummer said he only proposed to ask the doctor to make a statement as to the present condition of Miss Wood and Miss Philbrick.
+
+OCR Text: Mr. Wilson hadi no. objection to that.
+Ground Truth: Mr. Wilson had no objection to that.
+
+OCR Text: Dr. Matthews; of Bickley, was called, and stated he had been attending Miss Wood.
+Ground Truth: Dr. Matthews, of Bickley, was called, and stated he had been attending Miss Wood.
+
+OCR Text: She wvould not be able to attend at the court till that day fortnight.
+Ground Truth: She would not be able to attend at the court till that day fortnight.
+
+OCR Text: Miss Philbrick would not be able to appear for an indefinite period.
+Ground Truth: Miss Philbrick would not be able to appear for an indefinite period.
+
+OCR Text: Remanded.
+Ground Truth: Remanded.
+
+OCR Text: Miss Philbrick's condition, although gradually improv- ing, is not yet such that the doctors can pronounce her out of danger.
+Ground Truth: Miss Philbrick's condition, although gradually improving, is not yet such that the doctors can pronounce her out of danger.
+
+OCR Text: The wounds at the back of her bead are so severe that the healing process must necessarily be slow, and the fact that a considerable portion of- the brain substance has had to be removed renders extra caution essential in the prevention of all cerebral excite- ment.
+Ground Truth: The wounds at the back of her head are so severe that the healing process must necessarily be slow, and the fact that a considerable portion of the brain substance has had to be removed renders extra caution essential in the prevention of all cerebral excitement.
+
+OCR Text: Meanwhile one of the sergeons in attendance (a relative of Mr. Philbricli) has within the past few days successfully performed the operation of transferrin nevi skin to the nose and face of the patient where the ubra- sions had left scare which wiuld be likely to prose a permanent disfigurement.
+Ground Truth: Meanwhile one of the sergeons in attendance (a relative of Mr. Philbrick) has within the past few days successfully performed the operation of transferring new skin to the nose and face of the patient where the abrasions had left scars which would be likely to prove a permanent disfigurement.
+
+OCR Text: The skin for these cnnaft sns now adhering and growing capitally, was taken from ahs arm of Miss Philbrick's brother.
+Ground Truth: The skin for these engrafting’s how adhering and growing capitally, was taken from the arm of Miss Philbrick's brother.
+
+OCR Text: When again brought up at the Bromley Police-court on Monday morn-ing, before the local justices, on a chill ge of attempting to murder Miss Hilda Wood and Misc Philbrick, the young man Leonard Manktlow stated round the court in a dazed manner.
+Ground Truth: When again brought up at the Bromley Police-court on Monday morning, before the local justices, on a charge of attempting to murder Miss Hilda Wood and Miss Philbrick, the young man Leonard Manktlow stated round the court in a dazed manner.
+
+OCR Text: Detective-inspector- Gummer said that Dr. Matthews had told him Miss Wood could not positively come until the latter end ol next week.
+Ground Truth: Detective-inspector Gummer said that Dr. Matthews had told him Miss Wood could not positively come until the latter end of next week.
+
+OCR Text: A brother of Miss Wood corroborated this statement, and.the Bench intimated their' intention of setting apart a special day to hear the case.
+Ground Truth: A brother of Miss Wood corroborated this statement, and the Bench intimated their intention of setting apart a special day to hear the case.
+
+OCR Text: The eccused was then remanded until Monday,
+Ground Truth: The accused was then remanded until Monday.
+
+OCR Text: The ChairL:n of the Bench stated that he had-heard incidentally that complications had arisen in the condition of Mliss Phil- brick.
+Ground Truth: The Chairman of the Bench stated that he had-heard incidentally that complications had arisen in the condition of Miss Philbrick.

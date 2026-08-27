@@ -1,0 +1,56 @@
+OCR Text: MYSTERIOUS DEATH OF A CHILD. [Tp niipRfe cn the blodv of the child Anne Con-
+Ground Truth: MYSTERIOUS DEATH OF A CHILD.
+
+OCR Text: TnE inquest on the body of the child Anne Con- cannon, whose body, which had been stripped of boots and earrings, was found in a closet on the 2nd inst., was concluded on Wednesday.
+Ground Truth: THE inquest on the body of the child Anne Concanon, whose body, which had been stripped of boots and earrings, was found in a closet on the 2nd inst., was concluded on Wednesday.
+
+OCR Text: The evidence given did not throw any light on the child's death, bat one witness, who had seen the child daring the day, prevaricated and contradicted herself so much as to call forth remonstrances from the jury and a warning from the coroner.
+Ground Truth: The evidence given did not throw any light on the child's death, but one witness, who had seen the child during the day, prevaricated and contradicted herself so much as to call forth remonstrance’s from the jury and a warning from the coroner.
+
+OCR Text: Medical evidence was to the effect that death was dee to suffocation, and that the child bore evidence of having been assaulted.
+Ground Truth: Medical evidence was to the effect that death was due to suffocation, and that the child bore evidence of having been assaulted.
+
+OCR Text: The jury, after being absent nearly an hour, found "That the deceased had died from slow suffocation, but that there was not sufficient evidence to show how the child had got into the position in which it was found."
+Ground Truth: The jury, after being absent nearly an hour, found "That the deceased had died from slow suffocation, but that there was not sufficient evidence to show how the child had got into the position in which it was found."
+
+OCR Text: A SOUT11A3FPTON correspondent states that during the Queen's residence it Osborne an unpleasant incident occurred,
+Ground Truth: A SOUTHAMPTON correspondent states that during the Queen's residence at Osborne an unpleasant incident occurred.
+
+OCR Text: Her Majesty, as everybody knows, drives through Cows with, the greatest freedom, and the presence of Mr. Sweeney, the police officer in attendance at Osborne, has been scarcely more than a formality.
+Ground Truth: Her Majesty, as everybody knows, drives through Cows with the greatest freedom, and the presence of Mr. Sweeney, the police officer in attendance at Osborne, has been scarcely more than a formality.
+
+OCR Text: But a few days ugo, as the Qosen was driving back to Osborne, a gentlemnanly-looling person inquired of a bystander whether that was the Queen who was approaching.
+Ground Truth: But a few days ago, as the Queen was driving back to Osborne, a gentlemanly-looking person inquired of a bystander whether that was the Queen who was approaching.
+
+OCR Text: On being told that it was, he rapidly advanced to the carriage, and in a very violent manner said he was a foreign count, and that he and many others had sworn that if the Queen did not resign they would kill her.
+Ground Truth: On being told that it was, he rapidly advanced to the carriage, and in a very violent manner said he was a foreign count, and that he and many others had sworn that if the Queen did not resign they would kill her.
+
+OCR Text: The attendants at once removed the man, who was found to be demented.
+Ground Truth: The attendants at once removed the man, who was found to be of demented.
+
+OCR Text: Her Majesty showed great presence of mind.
+Ground Truth: Her Majesty showed great presence mind.
+
+OCR Text: A day or two later a telegram was received at Osborne stating that " 69 " would do himself the pleasure of calling upon the Queen.
+Ground Truth: A day or two later a telegram was received at Osborne stating that "69" would do himself the pleasure of calling upon the Queen.
+
+OCR Text: In due course a man arrived, who said he had occupied No. 69 bed ia a hospital visited some years ago by her Majesty, and that he had called upon the Qaeen to say that he had no money, and would be glad if she would assist him.
+Ground Truth: In due course a man arrived, who said he had occupied No. 69 bed in a hospital visited some years ago by her Majesty, and that he had called upon the Queen to say that he had no money, and would be glad if she would assist him.
+
+OCR Text: In this case also it proved that the man was demented.
+Ground Truth: In this case also it proved that the man was demented.
+
+OCR Text: Only 9d. was found upon him, and he appeared to have been in good circumstances at sonIC time.
+Ground Truth: Only 9d. was found upon him, and he appeared to have been in good circumstances at some time.
+
+OCR Text: A VzOLENT SsAaAN.-Robert William Kermor, twenty.seven, a seaman, of 2, Prince of Wales-road) Custom-house, was charged, at the West Ham police court, before Mir. Baggallay, with being disorderly and with assaulting Constable Bland, 393 K, in Francis.street, Canning-town, on the 17th inst.
+Ground Truth: A VIOLENT SEAMAN. —Robert William Kermur, twenty-seven, a seaman, of 2, Prince of Wales-road, Custom-house, was charged, at the West Ham Police-court, before Mr. Baggallay, with being disorderly, and with assaulting Constable Bland, 393 K, in Francis-street, Canning-town, on the 17th inst.
+
+OCR Text: At about half-past eight on Wednesday night the 00c' stable was called to Francis-street, where he foond the prisoner acting like a madman , and he had, was stated, knocked a woman down, and also kicked a child.
+Ground Truth: At about half-past eight on Wednesday night the constable was called to Francis-street, where he found the prisoner acting like a madman, and he had, was stated, knocked a woman down, and also kicked a child.
+
+OCR Text: When arrested hle became very violent, and kicked the ocicer in the stomach,
+Ground Truth: When arrested he became very violent, and kicked the officer in the stomach.
+
+OCR Text: Ten days.
+Ground Truth: Ten days.

@@ -1,0 +1,59 @@
+OCR Text: GENERAL GRANT IN ENGLAND% I
+Ground Truth: GENERAL GRANT IN ENGLAND.
+
+OCR Text: General Grant and party axrived at Queenstown on Sunday evening at seven o'clock.
+Ground Truth: General Grant and party arrived at Queenstown on Sunday evening at seven o'clock.
+
+OCR Text: The Ge- neral was in good spirits, and acknowledged the heartv Irish cheers which greeted him from the ten- der,
+Ground Truth: The General was in good spirits, and acknowledged the hearty Irish cheers which greeted him from the tender.
+
+OCR Text: HEe declined to land at Cork, saying that he would return to Ireland.
+Ground Truth: He declined to land at Cork, saying that he would return to Ireland.
+
+OCR Text: Leaving for Liverpool, the Indiana tender reached the Kersey at two o'clock on Monday afternoon, and was dressed with flags, as was also most of the shipping.
+Ground Truth: Leaving for Liverpool, the Indiana tender reached the Mersey at two o'clock on Monday afternoon, and was dressed with flags, as was also most of the shipping.
+
+OCR Text: General Grant stood on the bridge, with the captain, and acknow- ledged the hearty cheers which greeted him from tugs, ferryhoate, and the shore.
+Ground Truth: General Grant stood on the bridge, with the captain, and acknowledged the hearty cheers which greeted him from tugs, ferryboats, and the shore.
+
+OCR Text: A special tender, under the charge of General ]ladeau, American con- sul-general. boarded the Indiana at three o'clock, and took off General Grant, his wife, and son.
+Ground Truth: A special tender, under the charge of General Badeau, American consul-general, boarded the Indiana at three o'clock, and took off General Grant, his wife, and son.
+
+OCR Text: On their reahing, the dock, the large crowd, which was With difficulty controlled b1y the police, broke into tremendous cheers.
+Ground Truth: On their reaching the dock, the large crowd, which was with difficulty controlled by the police, broke into tremendous cheers.
+
+OCR Text: TheMatyoradvanced, and shak- ing the General by the hand, read an Pddress of welcome.
+Ground Truth: The Mayor advanced, and shaking the General by the hand, read an address of welcome.
+
+OCR Text: At six o'clock the General and family, with General Badeau, drove to the house of the Havor, where they dined.
+Ground Truth: At six o'clock the General and family, with General Badeau, drove to the house of the Mayor, where they dined.
+
+OCR Text: On Tuesday he was in- vited to luncheon at the Tov n hall.
+Ground Truth: On Tuesday he was invited to luncheon at the Town hall.
+
+OCR Text: On Wednesday morning General Grant and family went to Man- chester and visited Sir Toseph Whitworth's gun factory and several other works, and an address was presented to him by the Manchester -City concil.
+Ground Truth: On Wednesday morning General Grant and family went to Manchester and visited Sir Joseph Whitworth's gun factory and several other works, and an address was presented to him by the Manchester City council.
+
+OCR Text: The companyadjourned to the banqueting-hall, where luncheon was served to a large number of guests.
+Ground Truth: The company adjourned to the banqueting-hall, where luncheon was served to a large number of guests.
+
+OCR Text: On Thursday afternoon President and Mrs. Grant arrived in Londen, from Vanchester, bythe Mid- laud railway.
+Ground Truth: On Thursday afternoon President and Mrs. Grant arrived in London, from Manchester, by the Midland railway.
+
+OCR Text: Two stoppages were made between Manchester and London, viz., at Leicester and Bed- ford.
+Ground Truth: Two stoppages were made between Manchester and London, viz., at Leicester and Bedford.
+
+OCR Text: At both places, the Mayor and! Corporation,. attired in their robes and chains of office, were in at- tendance, and presented'the General with addresses of welcome, which he cordially acknowledged.
+Ground Truth: At both places, the Mayor and Corporation, attired in their robes and chains of office, were in attendance, and presented the General with addresses of welcome, which he cordially acknowledged.
+
+OCR Text: At St. Pancras station a large numberof persons had congre- gated for the purpose of witnessing the arrival, amongs them being many Americans.
+Ground Truth: At St. Pancras station a large number of persons had congregated for the purpose of witnessing the arrival, amongst them being many Americans.
+
+OCR Text: The Gene- ral, who, 'on alighting from the train, was received by the Honourable Mr. Pierrepoint,. and Mr. U, Grant,. his second son, who had preceded, him to 'London, was greeted with cheers.
+Ground Truth: The General, who, on alighting from the train, was received by the Honourable Mr. Pierrepoint, and Mr. U. Grant, his second son, who had preceded him to London, was greeted with cheers.
+
+OCR Text: Having entered the cariages, the party at once drove to the Ameri- oai embassy, where the Genera] and family remaiD the guests of the U~nited States Minister.
+Ground Truth: Having entered the carriages, the party at once drove to the American embassy, where the General and family remain the guests of the United States Minister.
+
+OCR Text: The Caurt of Common Cqiucil on Thursday.re- solved to present the freedodn of tbe City in a gold box to General Grant, and to entertain him at a cjaner.
+Ground Truth: The Court of Common Council on Thursday re solved to present the freedom of the City in a gold box to General Grant, and to entertain him at a déjeuner.

@@ -1,0 +1,38 @@
+OCR Text: ALLEGED MURDER ON LONDON-BRIDGE. _~~~ _W.g_ 1- - _ _ _ .- _
+Ground Truth: ALLEGED MURDER ON LONDON-BRIDGE.
+
+OCR Text: Mr. Paype resumed, at Guy's hospital, an inquiry touchbngihe death of AnnPettigrew, who, itisalleged, was murdered byher husband on London-bridge.-
+Ground Truth: Mr. Payne resumed, at Guy's hospital, an inquiry touching the death of Ann Pettigrew, who, it is alleged, was murdered by her husband on London-bridge.–
+
+OCR Text: Mr. Thomas Gore, clerk to the Lord Mayor, said that on hearing of the occurrence, he had attended at the bedside of Mrs. Pettigrew at the hospital.
+Ground Truth: Mr. Thomas Gore, clerk to the Lord Mayor, said that on hearing of the occurrence, he had attended at the bedside of Mrs. Pettigrew at the hospital.
+
+OCR Text: She made a statement, in which she said that wbile walking over London .bridgeherhusband keptpushing her, rand finally thrnst her under the wheel of a brewes dray.
+Ground Truth: She made a statement, in which she said that while walking over London-bridge her husband kept pushing her, and finally thrust her under the wheel of a brewer's dray.
+
+OCR Text: Her leg was crushed, and she was taken away in a cab.
+Ground Truth: Her leg was crushed, and she was taken away in a cab.
+
+OCR Text: Her husband had left her six times, and was now living with another woman.
+Ground Truth: Her husband had left her six times, and was now living with another woman.
+
+OCR Text: She declared that he pushed her purposely under the dray.-Corroborative evidence having been given, the jury returned a verdict of " Manslaughter " against James Pettigrew, and the Coroner, who concurred in the verdict, issued a warrant for his arrest.
+Ground Truth: She declared that he pushed her purposely under the dray. –Corroborative evidence having been given, the jury returned a verdict of "Manslaughter" against James Pettigrew, and the Coroner, who concurred in the verdict, issued a warrant for his arrest.
+
+OCR Text: On Wednesday the accused, James Pttigresw, 32, described as a cooper, was brought up at Guild- hall and charged with having caused the death of tin wife.
+Ground Truth: On Wednesday the accused, James Pettigrew, 32, described as a cooper, was brought up at Guild- hall, and charged with having caused the death of his wife.
+
+OCR Text: The evidence was merely formal, it being simply proved that on the previous evening the prisoner was arrested on the Lord Mayor's war- rant, by Enoch Emery, City detective oi@cer, at King's-cross station.
+Ground Truth: The evidence was merely formal, it being simply proved that on the previous evening the prisoner was arrested on the Lord Mayor's warrant, by Enoch Emery, City detective officer, at King's-cross station.
+
+OCR Text: In answer to the obhige, he remarked that he was never more surprised than when he read the account of the inquest; and that he was going to oonsult a solicitor In the matter.
+Ground Truth: In answer to the charge, he remarked that he was never more surprised than when he read the account of the inquest; and that he was going to consult a solicitor in the matter.
+
+OCR Text: Upon hir sL lfs, lOd. and other articles were found, and he was iu companyvith a woman with whom it was stated he had been living.
+Ground Truth: Upon him 3l. 16s, 10d. and other articles were found, and he was in company with a woman with whom it was stated he had been living.
+
+OCR Text: He added that hehad only been in London a very short time.-Mr. Oke, the chief clerk, read the deposition of a drayman named Webber in the service of Messrs. Hoare and Co., in which Le stated that on the evening of the 30th of October while driving over London-bridge, he saw a tall man tthe prisoner is six feet. high) push a woman with both bands into the roadway.
+Ground Truth: He added that he had only been in London a very short time. –Mr. Oke, the chief clerk, read the deposition of a drayman named Webber, in the service of Messrs. Hoare and Co., in which he stated that on the evening of the 30th of October, while driving over London-bridge, he saw a tall man (the prisoner is six feet high) push a woman with both hands into the roadway.
+
+OCR Text: He pulled up at onoe, but the dray crushed the woman's side against the kerb,-Mr ldermnWiteinpres- ine upon the prisonPr, wh~ose manner was sonmwxhat Caious, the grarity of the charge, reanauded him.
+Ground Truth: He pulled up at once, but the dray crushed the woman's side against the kerb. –Mr. Alderman White, impressing upon the prisoner, whose manner was somewhat callous, the gravity of the charge, remanded him.

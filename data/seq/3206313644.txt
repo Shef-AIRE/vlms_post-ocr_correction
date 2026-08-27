@@ -1,0 +1,35 @@
+OCR Text: LATEST A-IZi TRIALS.
+Ground Truth: LATEST ASSIZE TRIALS.
+
+OCR Text: NU TheCalendar was light to an unrrecedented degree, and contained the unites of only three prisoners.
+Ground Truth: The calendar was light to an unprecedented degree, and contained the names of only three prisoners.
+
+OCR Text: One. was convicted of an unnatural offence, tbe, se-oed was convicted of sevoral. burglaries, and eontene~d to'four , years',.p9nal servetude, and thle hird pleaded If Guilty" ,to an assault.
+Ground Truth: One was convicted of an unnatural offence, the second was convicted of several burglaries, and sentenced to four years’ penal servitude, and the third pleaded “Guilty” to an assault.
+
+OCR Text: 'The latter prisonertw5s5.ubjidtOt'oepi- leptic fits,; andwas going out one morniung to put up the banns for his marriage witha 701yo1 'WomanI 0mi-- *larly afflicted.
+Ground Truth: The latter prisoner was subject to epileptic fits, and was going out one morning to put up the banns for his marriage with a young woman similarly afflicted.
+
+OCR Text: The mother said she had:something in :her pocket which Would keep him 'at home, uponuwhich theiprisonertookup abrusl andthrewitathis mother,- and stuk, he on her forehead and madeitnbleed.
+Ground Truth: The mother said she had something in her pocket which would keep him at home, upon which the prisoner took up a brush and threw it at his mother, and struck her on her forehead and made it bleed.
+
+OCR Text: The fathern.apassion, nt'forthe police,eandthe piisoner< was sent'toz prison, where he hald remained since. the,. month of March'last.
+Ground Truth: The father, in a passion, rent for the police, and the prisoner was sent to prison, where he had remained since the month of March last.
+
+OCR Text: Having pleqded "Guilty," Mr. saton Alderson ordded hini to b,.disdhaiged, onhia entering into his own recogmsances tobeof goodbe- haviour for three years. ; ;'
+Ground Truth: Having pleaded “Guilty,” Mr. Baron Alderson ordered him to be discharged, on his entering into his own recognisances to be of good behaviour for three years.
+
+OCR Text: * THE QUEEN v. BiENsoN (CLEKx).-A CLERGY- MAN RE-MAE. YxnGv.This was an indictment which pharged the, Rev., Richard Meut aensson, 'perpetual criratq of Cowiley, 'near Oxford, with a tgeeny, ian marry-: ing two persons, who were already mane and wire, with- out licence.
+Ground Truth: THE QUEEN V. BENSON (CLERK). —A CLERGYMAN RE-MARRYING. –This was an indictment which charged the Rev. Richard Meux Benson, perpetual curate of Cowley, near Oxford, with a felony, in marrying two persons, who were already man and wife, without licence.
+
+OCR Text: The ;indictmient -had beent found at the -last assizes, but had been 'removted elr~tiorer4t and now~ ame down 'to' be tried on the civil side of the court.
+Ground Truth: The indictment had been found at the last assizes, but had been removed certiorari, and now came down to be tried on the civil side of the court.
+
+OCR Text: The indictment head been preferred at, the instahee of the government in consequence of the practice which a :portion of the clergy have recently adopted, of recom- mending their parishioners who had beeumarred under rthe Dissenters7Marriage act to be remarried. according to the rites of the church of England.
+Ground Truth: The indictment had been preferred at the instance of the government, in consequence of the practice which a portion of the clergy have recently adopted, of recommending their parishioners who had been married under the Dissenters Marriage act to be remarried according to the rites of the church of England.
+
+OCR Text: In reviewing the ease, the judge said Mr. Benson was liable to the reprehension of hs bishops, if the bishop thou ght he: had done an unwarrantabe act; but the question was one for thecfemily jurisdiction of the bisrec,'hand not a case to be brought into a court of justice.
+Ground Truth: In reviewing the case, the judge said Mr. Benson was liable to the reprehension of his bishop, if the bishop thought he had done an unwarrantable act; but the question was one for the family jurisdiction of the bishop, and not a case to be brought into a court of justice.
+
+OCR Text: His lord- ship therefore advised the jury to fnd the prisoner not gutlty; in point of lawkitgwas no offence-The Jury complied, and the prisoner was discharged.
+Ground Truth: His lordship therefore advised the jury to find the prisoner not guilty; in point of law it was no offence. –The jury complied, and the prisoner was discharged.

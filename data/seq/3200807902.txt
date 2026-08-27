@@ -1,0 +1,86 @@
+OCR Text: DEATH FROM LEAD PoiSONING.
+Ground Truth: DEATH FROM LEAD POISONING.
+
+OCR Text: 7 ON Saturday Dr. Macdonald, M.P., held an inquiry at the Vestry Hall, Church-row, Bethnal Green, 9 respecting the death of Kathleen King, aged forty, ? the wife of William King, a labourer, of 43, Half r Nichol-street, Bethnal Green, who died on Wednes- a day.
+Ground Truth: ON Saturday Dr. Macdonald, M.P., held an inquiry at the Vestry Hall, Church-row, Bethnal Green, respecting the death of Kathleen King, aged forty, the wife of William King, a labourer, of 43, Half Nichol-street, Bethnal Green, who died on Wednesday.
+
+OCR Text: Annie Hockins deposed that deceased worked Vi at Grace's Lead Works, Bethnal Green-road, and s lodged with her.
+Ground Truth: Annie Hockins deposed that deceased worked at Grace's Lead Works, Bethnal Green-road, and lodged with her.
+
+OCR Text: Some weeks ago deceased was in a the hospital, suffering from the effects of lead poison- ing.
+Ground Truth: Some weeks ago deceased was in the hospital, suffering from the effects of lead poisoning.
+
+OCR Text: She returned to her work, but continually com- a plained of illness after.
+Ground Truth: She returned to her work, but continually complained of illness after.
+
+OCR Text: On Sunday she had a fit. 'D
+Ground Truth: On Sunday she had a fit.
+
+OCR Text: Witness advised her husband not to let her go back to E 3 the works.
+Ground Truth: Witness advised her husband not to let her go back to the works.
+
+OCR Text: He said he would not.
+Ground Truth: He said he would not.
+
+OCR Text: On Wednesday she r was called to deceased by a neighbour.
+Ground Truth: On Wednesday she was called to deceased by a neighbour.
+
+OCR Text: On going into T. r the bedroom she found deceased in bed, her head hang- . ing over the side.
+Ground Truth: On going into the bedroom she found deceased in bed, her head hanging over the side.
+
+OCR Text: Martha Kilby, of 2, Catherine- J( B buildings, deposed that she was called by the last witness.
+Ground Truth: Martha Kilby, of 2, Catherine buildings, deposed that she was called by the last witness.
+
+OCR Text: Seeing she was very ill and unconscious, D r she ran for a doctor, but she died shortly after his a arrival.
+Ground Truth: Seeing she was very ill and unconscious, she ran for a doctor, but she died shortly after his arrival.
+
+OCR Text: Mary Brown stated that she lived in the L H 5 same house as deceased.
+Ground Truth: Mary Brown stated that she lived in the same house as deceased.
+
+OCR Text: She knew she had been to R the hospital to be treated for lead poisoning.
+Ground Truth: She knew she had been to the hospital to be treated for lead poisoning.
+
+OCR Text: Dr. 3 Lewis Paton, of the Mildmay Mission, deposed to A , being called on Wednesday to deceased about e five p.m.
+Ground Truth: Dr. Lewis Paton, of the Mildmay Mission, deposed to being called on Wednesday to deceased about five p.m.
+
+OCR Text: She was unconscious and breathing hard.
+Ground Truth: She was unconscious and breathing hard.
+
+OCR Text: I He tried artificial respiration, which was of no avail. _
+Ground Truth: He tried artificial respiration, which was of no avail.
+
+OCR Text: a She died about six o'clock.
+Ground Truth: She died about six o'clock.
+
+OCR Text: The cause of death j t was epileatic convulsions from chronic lead poison- t ing.
+Ground Truth: The cause of death was epileptic convulsions from chronic lead poisoning.
+
+OCR Text: The jury returned a verdict in accordance P D with that of the medical evidence.
+Ground Truth: The jury returned a verdict in accordance with that of the medical evidence.
+
+OCR Text: A repre- f sentative of the firm where the deceased was employed being present, stated, in reply to the coroner, that every precaution was taken with regard t to cleanliness.
+Ground Truth: A representative of the firm where the deceased was employed being present, stated, in reply to the coroner, that every precaution was taken with regard to cleanliness.
+
+OCR Text: A bath-room was properly fitted up a for the employ6s.
+Ground Truth: A bath-room was properly fitted up for the employees.
+
+OCR Text: A doctor went round and ex- a mined everyone on Fridays, but they found a great I . difficulty to get the people to be clean-in fact, the > deceased hid herself on the last occasion to escape 1: examination.
+Ground Truth: A doctor went round and examined everyone on Fridays, but they found a great difficulty to get the people to be clean-in fact, the deceased hid herself on the last occasion to escape examination.
+
+OCR Text: The coroner said he had no doubt 1! a every precaution had been taken by the firm.
+Ground Truth: The coroner said he had no doubt every precaution had been taken by the firm.
+
+OCR Text: When l a lead once got into the system people employed in this Ir I class of work should never go to it again, as it was t pure to eventually prove fata.
+Ground Truth: When lead once got into the system people employed in this class of work should never go to it again, as it was sure to eventually prove fatal.
+
+OCR Text: A CacrrAL NEWS telegram from New York says:r
+Ground Truth: A CENTRAL NEWS telegram from New York says: --
+
+OCR Text: A A sad accident occurred in Fairmount Park.
+Ground Truth: A sad accident occurred in Fairmount Park.
+
+OCR Text: Two . men and two women were in a rowing boat on an v t artificial lake in the park, when they allowed the ti craft to drift too near a dam over which there was a to strong flow of water.
+Ground Truth: Two men and two women were in a rowing boat on an artificial lake in the park, when they allowed the craft to drift too near a dam over which there was a strong flow of water.
+
+OCR Text: The boat was carried over the E fall, and all its occupants drowned.
+Ground Truth: The boat was carried over the fall, and all its occupants drowned.

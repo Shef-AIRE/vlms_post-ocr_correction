@@ -1,0 +1,77 @@
+OCR Text: VERDICT OF MANSLAUGHTER AGAINST A MEDICAL OFFICER.
+Ground Truth: VERDICT OF MANSLAUGHTER AGAINST A MEDICAL OFFICER.
+
+OCR Text: On Tuesday, an inquiry, adjourned from Saturday week last, was resumned:at the Millbank prison, before Mr. Bedford, the coroner, concerning the death ot Patrick MlGinty, aged twenty- six, a convict.
+Ground Truth: On Tuesday, an inquiry, adjourned from Saturday week last, was resumed at the Milbank prison, before Mr. Bedford, the coroner, concerning the death of Patrick M’Ginty, aged twenty-six, a convict.
+
+OCR Text: A short time ago, the attention of the Home Se- cretary, while on a visit, of inspection to the prison, was directed to the state of the deceased, then a patient in the infirmary, where he had been taken immediately in his reception from the Glasgow gaol.
+Ground Truth: A short time ago, the attention of the Home Secretary, while on a visit of inspection to the prison, was directed to the state of the deceased, then a patient in the infirmary, where he had been taken immediately on his reception from the Glasgow gaol.
+
+OCR Text: The deceased was then in such a dreadfully emaciated state that Sir G. Grey gave orders for the fullest inquiry to be made into the circumstances of his removal from Glasgow.
+Ground Truth: The deceased was then in such a dreadfully emaciated state that Sir G. Grey gave orders for the fullest inquiry to be made into the circumstances of his removal from Glasgow.
+
+OCR Text: The following was the substance of the. 'evidenee given at the first meeting of the jury --Captain John Richard Groves, governor of the Millbank prison, said, the deceased was received on the 21st lof January last from' Glasgow gaol, having been convicted at Glasgow, on the 28th of the previous September, of assault 'and robbery, and sentenced to seven years' transportation.
+Ground Truth: The following was the substance of the evidence given at the first meeting of the jury: —Captain John Richard Groves, governor of the Millbank prison, said, the deceased was received on the 21st of January last from Glasgow gaol, having been convicted at Glasgow, on the 28th of the previous September, of assault and robbery, and sentenced to seven years' transportation.
+
+OCR Text: The medical certificate, whiich accompanied the deceased and the pri soners who came with him, stated that they were free from mental and bodily'disease, and'that their healths would not be endan- gered by removal.
+Ground Truth: The medical certificate, which accompanied the deceased and the prisoners who came with him, stated that they were free from mental and bodily disease, and that their healths would not be endangered by removal.
+
+OCR Text: Two hours after admission, Dr. Bailey, the physician, gave a certificate that he was in the last degree of de-' bility, is'fftrsng from int6rnal'scrofulous disease, and the deceased /was immediately takien to the infirma'ryI
+Ground Truth: Two hours after admission, Dr. Bailey, the physician, gave a certificate that he was in the last degree of debility, suffering from internal scrofulous disease, and the deceased was immediately taken to the infirmary.
+
+OCR Text: Deceased complained to him (the go'ternor) of the treatment he had received' in Glasgow gaol, regarding diet and medical treatment
+Ground Truth: Deceased complained to him (the governor) of the treatment he had received in Glasgow gaol, regarding diet and medical treatment.
+
+OCR Text: -Anthony M'Ginty, .a prisoner, but no relative of the deceased, said that they were chained togethir all the way from Glasgow gaol.
+Ground Truth: —Anthony M'Ginty, a prisoner, but no relative of the deceased, said that that they were chained together all the way from Glasgow gaol.
+
+OCR Text: When leaving, the deceased seemed very ill and weak, and said he thought'he should die.
+Ground Truth: When leaving, the deceased seemed very ill and weak, and said he thought he should die.
+
+OCR Text: They travelled by steam-bont and railway.
+Ground Truth: They travelled by steam-boat and railway.
+
+OCR Text: In'the boat'the deceased was so ill, that he was obliged to keep his bed 'the whole way, witness being chained to him.-At this stage of the inquiry the proceedings were adjourned in order to obtain | evidence from Glasgow.--On' Tuesday, on the re-assembling of the Jury, Malcolm Clark, warderin the Glasgow prison, was exa- mined.
+Ground Truth: In the boat the deceased was so ill, that he was obliged to keep his bed the whole way, witness being chained to him. —At this stage of the inquiry the proceedings were adjourned in order to obtain evidence from Glasgow. —On Tuesday, on the re-assembling of the jury, Malcolm Clark, warder in the Glasgow prison, was examined.
+
+OCR Text: He-said that'h liead"charge'ofthe deceased until the day he left for London.
+Ground Truth: He said that he had charge of the deceased until the day he left for London.
+
+OCR Text: There was no regular infirmary in the prison, hbutionly a ward in which the sick prisoners were put.
+Ground Truth: There was no regular infirmary in the prison, but only a ward in which the sick prisoners were put.
+
+OCR Text: The de- ceasedwas'not in that ward.
+Ground Truth: The deceased was not in that ward.
+
+OCR Text: He was under thi treatment of Mr. David Gibson, the surgeon, and was taking' medicine up to the time bf leaving
+Ground Truth: He was under the treatment of Mr. David Gibson, the surgeon, and was taking medicine up to the time of leaving.
+
+OCR Text: He told witness he thought he should be better when he got away from Glasgow.
+Ground Truth: He told witness he thought he should be better when he got away from Glasgow.
+
+OCR Text: Witness saw him the day be- fore his renmoval; and thought him in alfit state to undergo thel ourney.
+Ground Truth: Witness saw him the day before his removal, and thought him in a fit state to undergo the Journey.
+
+OCR Text: The, surgeon examined him the day before he 'left.
+Ground Truth: The surgeon examined him the day before he left.
+
+OCR Text: The morning he left he came down stairs, assisted by a pri- sbner or a warder, who held' him by the hand because he 'was so weak, and was chained by the ankle to another pri- soner.
+Ground Truth: The morning he left he came down stairs, assisted by a prisoner or a warder, who held him by the hand because he was so weak, and was chained by the ankle to another prisoner.
+
+OCR Text: No direction was given by the surgeon as to the manner in which'he should be removed.
+Ground Truth: No direction was given by the surgeon as to the manner in which he should be removed.
+
+OCR Text: No medicine was given him for the journey.-The coroner produced the certificate signed 'by Mr. Gibson, the surgeon, and asked the witness whether that was the document sent with the deceased and' te other prisoners ?-The witness replied that it was.-Mr. Edward HalI, resident surgeon of the Millbank prison, said he saw the deceased on his reception on the 21st of January, and found him pale, thin .and extremely emaciated.
+Ground Truth: No medicine was given him for the journey. —The coroner produced the certificate signed by Mr. Gibson, the surgeon, and asked the witness whether that was the document sent with the deceased and the other prisoners? —The witness replied that it was. —Mr. Edward Hall, resident surgeon of the Millbank prison, said he saw the deceased on his reception on the 21st of January, and found him pale, thin, and extremely emaciated.
+
+OCR Text: It was soon ascertained that there was scrofulous disease of a very decided character ini the bowels, and in a less marked degree in the lungs.
+Ground Truth: It was soon ascertained that there was scrofulous disease of a very decided character in the bowels, and in a less marked degree in the lungs.
+
+OCR Text: Dr. Bailey, the physician, immediately pronounced him unfit to be removed to the prison, 'and he was at once taken to' the infirmary.:
+Ground Truth: Dr. Bailey, the physician, immediately pronounced him unfit to be removed to the prison, and he was at once taken to the infirmary.
+
+OCR Text: He gradually grew worse, and died on the 10th of the present month.
+Ground Truth: He gradually grew worse, and died on the 10th of the present month.
+
+OCR Text: A post mortem examination was made, and the cause of death feund to be scrofulous disease of the lungs and bowels.-The l coroner then summed up the evidence, and the jury, after a short deliberation, returned the following verdict :-" That the deceased died fiom natural causes, and the jury are of opinion. that be should ot- have been removed from Glasgow, that the surgeon should Xmot have 'permitted him to take the journey, that death | was actrelerated by the journey, and the jury hid David Gibson, the, surgeon, guilty of manelaiigltter."-The 'corner'.said he would acquaint the 'Lord-Advocate of Scotland wills the verdict the jury had returned.
+Ground Truth: A post mortem examination was made, and the cause of death found to be scrofulous disease of the lungs and bowels. The coroner then summed up the evidence, and the jury, after a short deliberation, returned the following verdict: — “That the decensed died from natural causes, and the jury are of opinion that he should not have been removed from Glasgow, that the surgeon should not have permitted him to take the journey, that death was accelerated by the journey, and the jury and David Gibson, the surgeon, guilty of manslaughter." —The coroner said he would acquaint the Lord-Advocate of Scotland with the verdict were the jury had returned.

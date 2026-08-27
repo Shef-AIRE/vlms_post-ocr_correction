@@ -1,0 +1,122 @@
+OCR Text: SEBLTOUS CHARGE.
+Ground Truth: SERIOUS CHARGE.
+
+OCR Text: At the Westminster police-court on Wednesday, Jokie l1i1liamr Cuatterjglte_ described as of no occ- )ation, and residing at 25, l'epys-road, New-cross, was charged on remand with feloniously causing Mary Cecil Siddes to take a noxious drug for an un- lawful purpose.
+Ground Truth: At the Westminster police-court on Wednesday, John William Cuttermote, described as of no occupation, and residing at 25, Pepys-road, New-cross, was charged on remand with feloniously causing Mary Cecil Sidden to take a noxious drug for an unlawful purpose.
+
+OCR Text: From the evidence aiven at the former hearing it appeared that the father of the girl went to India with his wife in 1850, and in 1873 he returned to London to make arrangements for the education of his two daughters.
+Ground Truth: From the evidence given at the former hearing it appeared that the father of the girl went to India with his wife in 1860, and in 1873 he returned to London to make arrangements for the education of his two daughters.
+
+OCR Text: Eventually the two young ladies came over to England and lived with an aunt of theirs, Miss Annie Sidden, and prisoner and coni- plainant became very intimsuate, and in consequence he administered to her a noxious drug.
+Ground Truth: Eventually the two young ladies came over to England and lived with an aunt of theirs, Miss Annie Sidden, and prisoner and complainant became very intimate, and in consequence he administered to her a noxious drug.
+
+OCR Text: The de- sired effect, however, was not obtained, and on the 7th of May of the present year a child was born.
+Ground Truth: The desired effect, however, was not obtained, and on the 7th of May of the present year a child was born.
+
+OCR Text: Mliss Mary Cecil Sidden, cross-examined by Mr. Grain, said: Her parents were English.
+Ground Truth: Miss Mary Cecil Sidden, cross-examined by Mr. Grain, said: Her parents were English.
+
+OCR Text: She was now 17, and her sister Jessie, who came over with her, was osow 20.
+Ground Truth: She was now 17, and her sister Jessie, who came over with her, was now 20.
+
+OCR Text: She became acquainted with the prisoner almoht immediately after her arrival.
+Ground Truth: She became acquainted with the prisoner almost immediately after her arrival.
+
+OCR Text: She had never walked alone with any other man than the prisoner.
+Ground Truth: She had never walked alone with any other man than the prisoner.
+
+OCR Text: She knew a young gentleman (whose name was not mentioned), and he used to go to the same school as witness; he would sometimes walk from school with her sister and herself.
+Ground Truth: She knew a young gentleman (whose name was not mentioned), and he used to go to the same school as witness; he would sometimes walk from school with her sister and herself.
+
+OCR Text: Ele had kissed her on the road on one occasion.
+Ground Truth: He had kissed her on the road on one occasion.
+
+OCR Text: After he had kissed her she did not walk again with the young gentleman.
+Ground Truth: After he had kissed her she did not walk again with the young gentleman.
+
+OCR Text: No ian besides the prisoner and the person refereed to had kissed her; and no one besides the prisoner had ever taken improper liber- ties with her,
+Ground Truth: No man besides the prisoner and the person referred to had kissed her; and no one besides the prisoner had ever taken improper liberties with her.
+
+OCR Text: She met the defendant by appoint- ment at various places ; and she wrote many letters to the prisoner making appointments.
+Ground Truth: She met the defendant by appointment at various places; and she wrote many letters to the prisoner making appointments.
+
+OCR Text: She did not tell hoe aunt of these appointments,
+Ground Truth: She did not tell her aunt of these appointments.
+
+OCR Text: Occasionally she met him when she was supposed to be at school.
+Ground Truth: Occasionally she met him when she was supposed to be at school.
+
+OCR Text: Before July last year the prisoner told her that he would marry her.
+Ground Truth: Before July last year the prisoner told her that he would marry her.
+
+OCR Text: Whilst living with her aunt no medical man was called in when witness was unwell, but her aunt gave her some pills, but she gave none to her sister.
+Ground Truth: Whilst living with her aunt no medical man was called in when witness was unwell, but her aunt gave her some pills, but she gave none to her sister.
+
+OCR Text: On the 1st of December, when her father came back to her aunt's house, she dlid not o down on her knees to him.
+Ground Truth: On the 1st of December, when her father came back to her aunt's house, she did not go down on her knees to him.
+
+OCR Text: About a fort- night before that her aunt told her that she would not tell her father what had happened.
+Ground Truth: About a fortnight before that her aunt told her that she would not tell her father what had happened.
+
+OCR Text: Witness was not present when her aunt told her father, bat after he was told they all went to breakfast,
+Ground Truth: Witness was not present when her aunt told her father, but after he was told they all went to breakfast.
+
+OCR Text: Her mother came to her room, and finding witness in tears asked what was the matter, and then she re- ferred her to her aunt.
+Ground Truth: Her mother came to her room, and finding witness in tears asked what was the matter, and then she referred her to her aunt.
+
+OCR Text: The father of her child was the prisoner.
+Ground Truth: The father of her child was the prisoner.
+
+OCR Text: On Christmas-day she saw the pri- soner at her aunt's house, and she was called into the drawing-loom, and was asked by her father whether she wished to marry the prisoneror whe- ther she would go back to India with her parents.
+Ground Truth: On Christmas-day she saw the prisoner at her aunt's house, and she was called into the drawing-room, and was asked by her father whether she wished to marry the prisoner or whether she would go back to India with her parents.
+
+OCR Text: Her father and mother did not wish her to marry the prisoner, but she believed they would not have thwarted her in her wishes if she desired to marry himn.
+Ground Truth: Her father and mother did not wish her to marry the prisoner, but she believed they would not have thwarted her in her wishes if she desired to marry him.
+
+OCR Text: Witness, her mother, and her aunt were in such a state of mind that on the 21st or 22nd of De- cember they went on their knees.
+Ground Truth: Witness, her mother, and her aunt were in such a state of mind that on the 21st or 22nd of December they went on their knees.
+
+OCR Text: The prisonerhad spoken to her about marriage before that.
+Ground Truth: The prisoner had spoken to her about marriage before that.
+
+OCR Text: The pri- soner gave her a box containing 12 small pills, and she toolk them at once, all in his Presence.
+Ground Truth: The prisoner gave her a box containing 12 small pills, and she took them at once, all in his presence.
+
+OCR Text: Her aunt was at home at the time.
+Ground Truth: Her aunt was at home at the time.
+
+OCR Text: About an hour or two after she took them she was very ill.
+Ground Truth: About an hour or two after she took them she was very ill.
+
+OCR Text: A few days before taking the pills the prisoner had given her some liquid, which he brought in a bottle.
+Ground Truth: A few days before taking the pills the prisoner had given her some liquid, which he brought in a bottle.
+
+OCR Text: The prisoner gave her pills on two occasions.
+Ground Truth: The prisoner gave her pills on two occasions.
+
+OCR Text: Her inter- course with the defendant lasted until nearly Christmas.
+Ground Truth: Her intercourse with the defendant lasted until nearly Christmas.
+
+OCR Text: Sire had written nirey letters in affec- tionate terms to the prisoner, and in one of them she signed herself " Yeur loving wife."
+Ground Truth: She had written many letters in affectionate terms to the prisoner, and in one of them she signed herself "Your loving wife."
+
+OCR Text: She was at one time anxious to marry tie prisoner.
+Ground Truth: She was at one time anxious to marry the prisoner.
+
+OCR Text: She asked him why he had never written to her, and his reply wias, " Yon have no proof of me or photo- griph, and if I like I can go away to the Cape, and no onewould know anything about it that I have had anything to do with you."
+Ground Truth: She asked him why he had never written to her, and his reply was, "You have no proof of me or photograph, and if I like I can go away to the Cape, and no one would know anything about it that I have had anything to do with you.”
+
+OCR Text: Re-examined by Mr. DI. Williams: Thehast liquid the prisoner gave her had a bitter taste.
+Ground Truth: Re-examined by Mr. M. Williams: The last liquid the prisoner gave her had a bitter taste.
+
+OCR Text: Her aunt told her on one occasion that if she could get the marriage done before her father came it would be better for every one.
+Ground Truth: Her aunt told her on one occasion that if she could get the marriage done before her father came it would be better for everyone.
+
+OCR Text: The sister, Miss Jessie Sidden, stated that she was informed by her sister that Catterniole had givenherpills on September I, but, despite this fat t, witness was not aware of her sister's condition till December.
+Ground Truth: The sister, Miss Jessie Sidden, stated that she was informed by her sister that Cattermole had given her pills on September 6, but, despite this fact, witness was not aware of her sister's condition till December.
+
+OCR Text: She had also seen her aunt give pills to Mary, acribing her ailments to biliqusnesa.
+Ground Truth: She had also seen her aunt give pills to Mary, ascribing her ailments to biliousness.
+
+OCR Text: At this stage of the proceedings the prisoner was again remanded, without bail,
+Ground Truth: At this stage of the proceedings the prisoner was again remanded, without bail.

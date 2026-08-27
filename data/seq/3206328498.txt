@@ -1,0 +1,77 @@
+OCR Text: YESTERDAY's INQUESTS.
+Ground Truth: YESTERDAY'S INQUESTS.
+
+OCR Text: & CHILD FATALLY SCAt DIID).
+Ground Truth: A CHILD FATALLY SCALDED.
+
+OCR Text: Yesterday Mr. Carter held an inquest at the Royal Standard, Battersea, onthebody of Alice Tyrrell, 5 years of age, whose parents reside at I1, Grove-cot. tages,.Grove-lane, Battersea.
+Ground Truth: Yesterday Mr. Carter held an inquest at the Royal Standard, Battersea, on the body of Alice Tyrrell, 5 years of age, whose parents reside at 1, Grove-cottages, Grove-lane, Battersea.
+
+OCR Text: From the evideuse of 'Louisa Tyrrell, the mother, it appeared htdcae was left alone in. the kitchen on ,Sunday afternoon.
+Ground Truth: —From the evidence of Louisa Tyrrell, the mother, it appeared that deceased was left alone in the kitchen on Sunday afternoon.
+
+OCR Text: The child was standing on a chair near the-firepolace and caught hold of, a saucepan. containing boiling water, in the endeavour to save itself from falling.
+Ground Truth: The child was standing on a chair near the fireplace and caught hold of a saucepan containing boiling water, in the endeavour to save itself from falling.
+
+OCR Text: The water went over one of its arms. scalding it severely.-
+Ground Truth: The water went over one of its arms, scalding it severely.—
+
+OCR Text: Mr. Thompson, surgeon. was examined, and stated that the child died from shock to the system.-A. verdictot ± Accidental death" was re- turned,'
+Ground Truth: Mr. Thompson, surgeon, was examined, and stated that the child died from shock to the system. —A verdict of "Accidental death" was re turned.
+
+OCR Text: 5SLANCHOLY CASE OF 3RO1WNVHI
+Ground Truth: MELANCHOLY CASE OF DROWNING.
+
+OCR Text: Yesterday afternoon Mr. Carter held an inquiry at the Surrey View tavern, Commercial-road, Cam- berwell, into the circumstances attending the death ot Frederick Croney Cole, aged 11 years, residing with his widowed mother at 5l; Stanton-street, Peckham.
+Ground Truth: Yesterday afternoon Mr. Carter held an inquiry at the Surrey View tavern, Commercial-road, Camberwell, into the circumstances attending the death ot Frederick Croney Cole, aged 11 years, residing with his widowed mother at 51, Stanton-street, Peckham.
+
+OCR Text: Deceased and several other boys went (town to the Surrey canal.
+Ground Truth: Deceased and several other boys went down to the Surrey canal.
+
+OCR Text: (On arriving at the Globe-bridge the boys began larking,-and threw the deceased's cap into the canal.
+Ground Truth: On arriving at the Globe-bridge the boys began larking, and threw the deceased's cap into the canal.
+
+OCR Text: After regaining is cap the lad endeavoured to climb on to the parapet of the bridge, when he slipped and fell into the water.
+Ground Truth: After regaining his cap the lad endeavoured to climb on to the parapet of the bridge, when he slipped and fell into the water.
+
+OCR Text: George Kent, a little boy aged 12 years, said he undressed and jumped into the canaL He managed to catch hold of the deceased, but he was not strong enough to rescue him.
+Ground Truth: George Kent, a little boy aged 12 years, said he undressed and jumped into the canal He managed to catch hold of the deceased, but he was not strong enough to rescue him.
+
+OCR Text: He managed to push him towards the bank, but as there were no other persons who were able to assist him, the deceased sank and was drowned,
+Ground Truth: He managed to push him towards the bank, but as there were no other persons who were able to assist him, the deceased sank and was drowned.
+
+OCR Text: The jury returned a verdict of" Accidental death bv drowning.")
+Ground Truth: The jury returned a verdict of "Accidental death by drowning."
+
+OCR Text: DEATH IN THE PADDED BOOM.
+Ground Truth: DEATH IN THE PADDED ROOM.
+
+OCR Text: Yesterday Mir. Carter held an inquest at the Wandsworth and Claphain union, touching the death of William Ready, aged 22.
+Ground Truth: Yesterday Mr. Carter held an inquest at the Wandsworth and Clapham union, touching the death of William Ready, aged 22.
+
+OCR Text: The deceased was brought up at the 'Wandsworth police-court on the 14th inst., when the magistrate ordered him to be sent to the workhouse on the ground of his being insane.
+Ground Truth: The deceased was brought up at the Wandsworth police-court on the 14th inst., when the magistrate ordered him to be sent to the workhouse on the ground of his being insane.
+
+OCR Text: Ile died a short time after being admitted, and the medical officer gave it as his opinion that deceased died from effusion of the brain, consequent upon delirium tremens.
+Ground Truth: He died a short time after being admitted, and the medical officer gave it as his opinion that deceased died from effusion of the brain, consequent upon delirium tremens.
+
+OCR Text: The coroner did not at first deem it necessary to hold an inquiry, but the mother of deceased made an application to the magis- trate, and by his desire an inquest was ordered.
+Ground Truth: The coroner did not at first deem it necessary to hold an inquiry, but the mother of deceased made an application to the magistrate, and by his desire an inquest was ordered.
+
+OCR Text: B. Tullock, infirmary nurse, said that on the morning of the 17th she found deceased lying dead on the floor in the padded room.
+Ground Truth: E. Tullock, infirmary nurse, said that on the morning of the 17th she found deceased lying dead on the floor in the padded room.
+
+OCR Text: Mr. Cresswell, medical officer of the infirmary, said that deceased when ad- sitted' was suffering from delirium-tremens, but bad am abrasion on theleft ear and bruise on the temple.
+Ground Truth: Mr. Cresswell, medical officer of the infirmary, said that deceased when admitted was suffering from delirium-tremens, but had an abrasion on the left ear and bruise on the temple.
+
+OCR Text: He insisted upon lying on the floor in a perfectly dlude state,
+Ground Truth: He insisted upon lying on the floor in a perfectly nude state.
+
+OCR Text: The death was not due to violence.
+Ground Truth: The death was not due to violence.
+
+OCR Text: The jury returned a verdict of " Death from natural causes, arising from drink."
+Ground Truth: The jury returned a verdict of "Death from natural causes, arising from drink."
+
+OCR Text: The mother insisted that deceased had been kicked by a man named Robinson, and some-further evidence was taken, but the coroner said the verdict would not be altered.
+Ground Truth: The mother insisted that decensed had been kicked by a man named Robinson, and some further evidence was taken, but the coroner said the verdict would not be altered.

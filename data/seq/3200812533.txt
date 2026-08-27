@@ -1,0 +1,116 @@
+OCR Text: ;AN inquest was-held at-BattersesaOn: Sateray,.Of th ,dy of Mas"y'Ana Hatchinaiin, ageld thirtyorne:j wife of Alod oEr'ntEuthnss godied underi tr'agic n'agrocer,, of 41, Dailiwiood-road, who ','
+Ground Truth: AN inquest was held at Battersea, on Saturday, on the body of Mary Ann Hutchinson, aged thirty-one, wife of a grocer, of 41, Dashwood-road, who died under tragic circumstances.
+
+OCR Text: Thb husbanditated thatonu Taeoday Mrs. Hutchinson ts E;asin the shop as usual, and at half-past' eleven in the a8 ,mtriing'he went to a publin-housee next-door to pay his Oe .'tont.,.
+Ground Truth: The husband stated that on Tuesday Mrs. Hutchinson was in the shop as usual, and at half-past eleven in the morning he went to a public-house next door to pay his rent.
+
+OCR Text: When ho re~turned his wife grumbled at him.
+Ground Truth: When he returned his wife grumbled at him.
+
+OCR Text: He sO ai If YOU niag, nag, nag ike that, I'll go and finish Tr ~iheday"She rPilied, "Ii1 youoi'ii poieonii mslf 1E
+Ground Truth: He said, "If you nag, nag, nag like that, I'll go and finish the day." She replied, "If you do I'll poison myself."
+
+OCR Text: iHe'r'etorte, "s~Dolfni't talk such rubbieh,"t and nothing tl] 'inore was said.
+Ground Truth: He retorted, "Don't talk such rubbish," and nothing more was said.
+
+OCR Text: At'half-poet seven he went out to order Oi ;omte :oil, -and when' he returned at ;five minutes to eight hie went upstairs withoat speaking to his wife. who was a uuervibg in. theeshop.
+Ground Truth: At half-past seven he went out to order some oil, and when he returned at five minutes to eight he went upstairs without speaking to his wife, who was serving in the shop.
+
+OCR Text: Soon after ninealMr. itzgerald O1 ;cerue in, and M~rs. i~Hutchinson went: upstairs to get '1 . some money wvith which to pay an account,
+Ground Truth: Soon after nine a Mr. Fitzgerald name in, and Mrs. Hutchinson went upstairs to get some money with which to pay an account.
+
+OCR Text: As she was a long tme gonehe 'called out, " tolli', aren't YOU r"i comninng idmown 1"pShhee Crsjleid, s Tell ir. Fitzgerald I "san', py hi ths wek.IIll pay him next."
+Ground Truth: As she was a long time gone, he called out, “Polly, aren’t you coming down?" She replied, "Tell Mr. Fitzgerald I shan't pay him this week, I'll pay him next.”
+
+OCR Text: '"Bu~t- he has receipted the bill, !witness said. Li
+Ground Truth: "But he has receipted the bill," witness said.
+
+OCR Text: ;tNerer mind," anwered hl wife, " tell him to tear it to 'np.'J"
+Ground Truth: "Never mind," answered his wife, "tell him to tear it up."
+
+OCR Text: She then called to him, "Come up, there's a dear; I want yon. Look sharp, I ap in such pain.
+Ground Truth: She then called to him, "Come up, there's a dear; I want you. Look sharp, I am in such pain."
+
+OCR Text: e dr went up and found her lying on tbe bed, and she said, tr 4 I am in such pain, desr.' have taken poison. mn
+Ground Truth: He went up and found her lying on the bed, and she said, “I am in such pain, dear. I have taken poison.”
+
+OCR Text: i' What poison?" he asked, hut Blue merely said, ken th poison.1
+Ground Truth: “What poison?" he asked, but she merely said, "Taken poison."
+
+OCR Text: BHe had one packet of Battle's vermin kler i fa the house, Mid he subsequentylare ba i wife had fr tUkdirtbhat poison.,
+Ground Truth: He had one packet of Battle's vermin killer in the house, and he subsequently learned that his wife had taken that poison.
+
+OCR Text: T ree doctors attended her, but ru death took place at ten ocloak the same night, in
+Ground Truth: Three doctors attended her, but death took place at ten o'clock the same night.
+
+OCR Text: Bythe oroner Thha ived happily tr as a ce Xhie.I they had a growl one minute tewregood Li fridendsthe next.
+Ground Truth: By the Coroner: They lived happily together as a rule. If they had a growl one minute they were good friends the next.
+
+OCR Text: He~ait htseto h Oison eb iiia Irnsmenn Of, piqu scflltnhma h a aid,
+Ground Truth: He imagined that she took the poison in a moment of pique to frighten him, as she had said.
+
+OCR Text: .he witnessed purchased' th& poison at' Messrs. Walter asid Sns, whlesal groses, of877, Wodswoth-road, tlb ii Novemsber last, to kill rats. htb
+Ground Truth: The witnessed purchased the poison at Messrs. Walter and Son's, wholesale grocers, of 377, Wandsworth-road, in November last, to kill rats.
+
+OCR Text: f~q:Dr.;MWLoughlin stated that death was due to strych * hinie poisoning.
+Ground Truth: Dr. M'Loughlin stated that death was due to strych-nine poisoning.
+
+OCR Text: The vermin killer contained fro G twenty thte to twenty-six per cent. of strychnine, and b wonldhbe very rapid in its action, sh
+Ground Truth: The vermin killer contained from twenty-three to twenty-six per cent of strychnine, and would be very rapid in its action.
+
+OCR Text: iMr. <W. Walter, of the firm of Walter and Son, was an 'caled, and; admitted purchasing the poison and selling re 015Th 10
+Ground Truth: Mr. W. Walter, of the firm of Walter and Son, was called, and admitted purchasing the poison and selling it to Mr. Hutchinson.
+
+OCR Text: Coronelaim afraid you have tot yourself within 'be four cornetr of the Pharmacy. ct.
+Ground Truth: The Coroner: I am afraid you have got yourself within the four corners of the Pharmacy Act.
+
+OCR Text: his was clearly co in linproper saleof poison, and I ha repor it to the in -Pharmaceutical Socity
+Ground Truth: This was clearly an improper sale of poison, and I shall report it to the Pharmaceutical Society.
+
+OCR Text: nTh u returned an open verdict-that it was doubt- W, fl with what intent the poison-was taken.
+Ground Truth: The jury returned an open verdict—that it was doubtful with what intent the poison was taken.
+
+OCR Text: of " ALLRGED MURDERs 01FA USBAND. to
+Ground Truth: ALLEGED MURDER OF A HUSBAND.
+
+OCR Text: SENSATIONAL CASE. Ai
+Ground Truth: SENSATIONAL CASE.
+
+OCR Text: MM.u JORDAN, wife of Mr. Ht'gh Jordhai, farmer, cf hr Mountain Viewv House, Lbugh Brickland, ,county Down, go was on Friday arrested on 'a charge of causing 't e death hi of her husbaud by administering poison to him on Satur- Er dae, the 18th inst,
+Ground Truth: MRS. JORDAN, wife of Mr. Hugh Jordan, farmer, of Mountain View House, Lough Brickland, county Down, was on Friday arrested on a charge of causing the death of her husband by administering poison to him on Saturday, the 13th inst.
+
+OCR Text: .The death' ocurred so Auddenly in that a coroner's lniqneat was deemed necessary.
+Ground Truth: The death occurred so suddenly that a coroner's inquest was deemed necessary.
+
+OCR Text: Evidence oo wa8s glien- by 'Mrs. Jordan, Robert Fitzeimmons, a se$vfau, and Thomas Kinley, a neighbour; from:which it appeared that the deceased had been in Newry Market -B on:the Thursday, and did not return until nine o'clock on wi thei Fridahy morning.
+Ground Truth: Evidence was given by Mrs. Jordan, Robert Fitzsimmons, a servant, and Thomas Kinley, a neighbour; from which it appeared that the deceased had been in Newry Market on the Thursday, and did not return until nine o'clock on the Friday morning.
+
+OCR Text: He then took breakfast and ho sebrtied for Banbridge Fair, where he remained until sa'late hour,
+Ground Truth: He then took breakfast and started for Banbridge Fair, where he remained until a late hour.
+
+OCR Text: He next walked to Lougli Briokland, and' called on 'Kinley, who gave him some food.
+Ground Truth: He next walked to Lough Brickland, and called on Kinley, who gave him come food.
+
+OCR Text: He * remained at' Kinley's house until about two or 'o'clook. on Saturday morning, end reached home ha afi hour.later.
+Ground Truth: He remained at Kinley's house until about two o'clock on Saturday morning, and reached an hour later.
+
+OCR Text: After drinking someporter heretired to bed, but wos unable to sleep.
+Ground Truth: After drinking some porter he retired to bed, but was unable to sleep.
+
+OCR Text: He complained of weak- ness and pains about the heart, was given tea to drink, aid attended constantly by Mrs, Jordan until his death. B(
+Ground Truth: He complained of weakness and pains about the heart, was given tea to drink, and attended constantly by Mrs. Jordan until his death.
+
+OCR Text: Dre. Twieedle and.Fegan, who wewe called in, certified 00 that'death was due to exhaustion, brought about by P1 exposure and want of food and rest, and the jury returned 50 a uVerdict'accordingly.
+Ground Truth: Drs. Tweedle and Fegan, who were called in, certified that death was due to exhaustion, brought about by exposure and want of food and rest, and the jury returned a verdict accordingly.
+
+OCR Text: For some reason, however,' the Oil adair excited the attention: and suspicion of the police tC authorities, with the 'result that it was decided to arrest Be 1r> aisordan upon -the serious charge of administering th poison to her, husband..
+Ground Truth: For some reason, however, the affair excited the attention and suspicion of the police authorities, with the result that it was decided to arrest Mrs. Jordan upon the serious charge of administering poison to her husband.
+
+OCR Text: 'Meanwhile the body of the deceased has been exhumed, in order that the contents of,4he stomach may be analysed.
+Ground Truth: Meanwhile the body of the deceased has been exhumed, in order that the contents of the stomach may be analysed.
+
+OCR Text: Mrs.' Jordan was hi. eoilrged Wsoeal justice of the peace at Banbridge with Oim tbie wilful murder of. her husband on the 13th mst,, and .woo rsmanded in duptody for eight days, an application for bail -belng refused on the urgent representations of to thu Poliice,
+Ground Truth: Mrs. Jordan was charged before a justice of the peace at Banbridge with the wilful murder of her husband on the 13th inst., and was remanded in custody for eight days, an application for ball being refused on the urgent representations of the police.
+
+OCR Text: The affaii is causing great -excitement to ithrboighout county Down.
+Ground Truth: The affair is causing great excitement throughout county Down.

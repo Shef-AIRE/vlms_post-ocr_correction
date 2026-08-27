@@ -1,0 +1,23 @@
+OCR Text: I THE PEAOE SOCIETY.
+Ground Truth: THE PEACE SOCIETY.
+
+OCR Text: The annual meeting of this society was held on Tuesday night in Finsbury chapel, Meoorhelds. Mr. J. W. Pease, MY.P, pre- sided, and among the other M.P. 's present were Sir Wilfrid Lawson, Bart., Messrs. George Palmer, Lewis Fry, A. M. Sullivan, and Henry Richard.
+Ground Truth: The annual meeting of this society was held on Tuesday night in Finsbury chapel, Moorfields, Mr. J. W. Pease, M.P., presided, and among the other M.P.'s present were Sir Wilfrid Lawson, Bart., Messrs. George Palmer, Lewis Fry, A, M. Sullivan, and Henry Richard.
+
+OCR Text: The latter gentleman read the report, which denounced in strong terms the " spirited foreign policy" of the Government, as did all the following speakers.
+Ground Truth: The latter gentleman read the report, which denounced in strong terms the "spirited foreign policy" of the Government, as did all the following speakers.
+
+OCR Text: Sir Wilfridl Lawson, in a speech which elicited much laughter, said there was a Society for the Prevention of Cruelty to Animals, but when a man was the cause of the loss of thousands of human lives, the Queen made him an earl; and people sent their pennies to present him with a golden laurel wreath.
+Ground Truth: Sir Wilfrid Lawson, in a speech which elicited much laughter, said there was a Society for the Prevention of Cruelty to Animals, but when a man was the cause of the loss of thousands of human lives, the Queen made him an earl, and people sent their pennies to present him with a golden laurel wreath.
+
+OCR Text: The official representatives of the people in Parliament had approved of the foreign policy of the Government, but wbatever the people thought now the day wquld come when the nation at large would speak out, and it would be no dis- tant day when Lord Granville and Mr. Gladstone would be called back to power.
+Ground Truth: The official representatives of the people in Parliament had approved of the foreign policy of the Government, but whatever the people thought now the day would come when the nation at large would speak out, and it would be no distant day when Lord Granville and Mr. Gladstone would be called back to power.
+
+OCR Text: The lueetina, by resolution rejoiced that the peace concluded at Berlin brought to an end one of thle most destructive wars on re- cord, hnt deplored the policy of menace and military preparation adopted by our own Governmient before going into the Congress.
+Ground Truth: The meeting by resolution rejoiced that the peace concluded at Berlin brought to an end one of the most destructive wars on record, but deplored the policy of menace and military preparation adopted by our own Government before going into the Congress.
+
+OCR Text: The meeting desired also to record its solemn protest against the wars in Afghanis- tan and in South Africa, as utterly incapable of justification on any principle of justice or humanity.
+Ground Truth: The meeting desired also to record its solemn protest against the wars in Afghanistan and in South Africa, as utterly incapable of justification on any principle of justice or humanity.
+
+OCR Text: The last resolutien passed hy the meeting was as follows:- "That this meeting approves the course tak~en by the committee of thePeace society in sending a deputation to Berlin, to bring the causation of arbitration before the Concrecs of the Great Powers, aeeemhled in that city to negotiate the terms of peace; aned while r ejoicing that the principle embodied in the Protocol of Parisof 1856 hashesnre-aftirmsd, regrets that some further steps were not taken by that august body to recognise in a more dietictand authsoritative foXm the duty of civilised nations to have reconrse to peaceable means of settling their disputes, insea.ofapealngtoheswod .
+Ground Truth: The last resolution passed by the meeting was as follows:— “That this meeting approves the course taken by the committee of the Peace society in sending a deputation to Berlin, to bring the question of arbitration before the Congress of the Great Powers, assembled in that city to negotiate the terms of peace; and while rejoicing that the principle embodied in the Protocol of Paris of 1856 has been re-affirmed, regrets that some further steps were not taken by that august body to recognise in a more distinct and authoritative form the duty of civilised nations to have recourse to peaceable means of settling their disputes, instead of appealing to the sword."

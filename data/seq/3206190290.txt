@@ -1,0 +1,101 @@
+OCR Text: SUSPECTED CHILD MURDER AT ROCHESTER.
+Ground Truth: SUSPECTED CHILD MURDER AT ROCHESTER.
+
+OCR Text: The inquiry into- this case was resumed on Tuesday evening at six o'clock.
+Ground Truth: The inquiry into this case was resumed on Tuesday evening at six o’clock.
+
+OCR Text: Henry Weekes surgeon, examined, scated that he resided at Bromptom, Chathain.
+Ground Truth: Henry Weekes surgeon, examined, stated that he resided at Brompton, Chatham.
+
+OCR Text: On the mornling of the Sth instant, about half. past ten o'clock, ha cal ed in at Captain Jenkins's houee, and was in. formed of the illness of Elizabeth Mitchell, the servant.
+Ground Truth: On the morning of the 8th instant, about half past ten o’clock, he called in at Captain Jenkin’s house, and was informed of the illness of Elizabeth Mitchell, the servant.
+
+OCR Text: He went up to her roo nand found her lying an the bed.
+Ground Truth: He went up to her room and found her lying on the bed.
+
+OCR Text: She complained of a pain in her stomach.
+Ground Truth: She complained of a pain in her stomach.
+
+OCR Text: Sutannat Arman, the cook, seas in the room; he wished to examine her.
+Ground Truth: Susannah Arman, the cook, was in the room; he wished to examine her.
+
+OCR Text: She refused, but ultimately consented, and the result confirmed him in the opinion that dhe was pregnant and about six months gene, but she denied it strongly, and gave a differeut reason for her ap;.earasce.
+Ground Truth: She refused, but ultimately consented, and the result confirmed him in the opinion that she was pregnant and about six months gone, but she denied is strongly, and gave a different reason for her appearance.
+
+OCR Text: He returned home and sent her an anodyne draught and a powder, which it appears she never took.
+Ground Truth: He returned home and sent her an anodyne draught and a powder, which it appears she never took.
+
+OCR Text: He visited Captain Jenkinoh's Iouse again about five minutes after twelve, aed from information lee received before lie went up stairs, lie inspected a s op paL, and was certain from what he there saw that the delivery ofea child bad taken-place.
+Ground Truth: He visited Captain Jenkins’s house again about five minutes after twelve, and from information he received before he went upstairs, he inspected a shop pail, and was certain from what there saw that the delivery of a child had taken place.
+
+OCR Text: He then-visited Mitchell in her bed-room; she was lying ott the bed, dressed as bhfare.
+Ground Truth: He then visited Mitchell in her bed-room; she was lying on the bed, dressed as before.
+
+OCR Text: Upon inquiry she eaid she was better.
+Ground Truth: Upon inquiry she said she was better.
+
+OCR Text: She said she had taken same pills, whicr her mistress had sant her, early in the morning, and they had celIeved her.
+Ground Truth: She said she had taken some pills, which her mistress had sent her, early in the morning, and they had relieved her.
+
+OCR Text: This, how- ever, was not true.
+Ground Truth: This, however, was not true.
+
+OCR Text: Wimness then told her he was sure she had been delivered o0 a child.
+Ground Truth: Witness then told her he was sure she had been delivered of a child.
+
+OCR Text: She strongly and repeatedly denied it, but, after much importunity, she said if he eou'd shut the d&or, and promise not to tell her mistress, she would tell him where the child was
+Ground Truth: She strongly and repeatedly denied it but, after much importunity, she said if he would shut the door, and promise not to tell her mistress, she would tell him where the child was.
+
+OCR Text: She left the bed, cuostraryto his advice, toaka key from herpocket, and unlocked a box, from whence- she took a bundle, in which he found a male child in a piece or wrapper, apparently dead.
+Ground Truth: She left the bed, contrary to his advice, took a key from her pocket, and unlocked a box, from whence she took a bundle, in which he found a male child in a piece of wrapper apparently dead.
+
+OCR Text: The bundle was about half way down the box, and covered over with several articles of clothing.
+Ground Truth: The bundle was about half way down the box, and covered over with several articles of clothing.
+
+OCR Text: The child was merelylaid in ths sorapperbut not tied up.
+Ground Truth: The child was merely laid in the wrapper, but not tied up.
+
+OCR Text: Wtnress examined the child, and inquired of Mitchell it it were born dead?
+Ground Truth: Witness examined the child, and inquired of Mitchell if it were born dead?
+
+OCR Text: She replied "Yes," it had never cried.
+Ground Truth: She replied “Yes,” it had never cried.
+
+OCR Text: Witnese theli examined the child ninutely to ascertain if it had heen injured, but diccvered no marks of violence about it, nor any signs of life.
+Ground Truth: Witness then examined the child minutely to ascertain if it had been injured, but discovered no marks of violence about it, nor any signs of life.
+
+OCR Text: All this time she was kneeling by th box, and e itreating witness not to mesention it, and she would dispose of it, believing it to be dead.
+Ground Truth: All this time she was kneeling by the box, and entreating witness not to mention it, and she would dispose of it, believing it to be dead.
+
+OCR Text: It was, however, returned to the box, and witness took tire key.
+Ground Truth: It was, however, returned to the box, and witness took the key.
+
+OCR Text: It cras a full grown child.
+Ground Truth: It was a full grown child.
+
+OCR Text: He believed from its appearactee it had been born alive, but died afterwards.
+Ground Truth: He believed from its appearance it had been born alive, but died afterwards.
+
+OCR Text: She confessed that she seas deiveted immediately after his first visit at eleven o'clack.
+Ground Truth: She confessed that she was delivered immediately after his first visit at eleven o’clock.
+
+OCR Text: Witness then left the house, and at half-past two returned again ovi h Captain Jenkins, who determined to put the case into the hands of tie cousetable, and himself and econstable went up stairs, unlocked the box, took out the child, atd to the surprise of all pre ent found it to be alive.
+Ground Truth: Witness then left the house, and at half-past two returned again with Captain Jenkins, who determined to put the case into the hands of the constable, and himself and constable went upstairs, unlocked the box, took out the child, and to the surprise of all present found it to be alive.
+
+OCR Text: lie adopted the usual means for restatiag animation, and the child ultimately recovered, and was placed in bed with its mother, who expressed herself much pleased at its restoration.
+Ground Truth: He adopted the usual means for restoring animation, and the child ultimately recovered, and was placed in bed with its mother, who expressed herself much pleased at its restoration.
+
+OCR Text: In the evening Captain Jenkins hired a close carriage, and she was removed to her frihtds at Rochester, and witness continued to attend her until the ceath of the child, which took place on Saturday morn. ing, about thirty six hours after its birth, and in his opinion it died ffoom want of attention in the first instance, and secondly from being deprived-of proper air, by being confirsed in the box.
+Ground Truth: In the evening Captain Jenkins hired a close carriage, and she was removed to her friends at Rochester, and witness continued to attend her until the death of the child, which took place on Saturday morning, about thirty-six hours after its birth, and in his opinion it died from want of attention in the first instance, and secondly from being deprived of proper air, by being confined in the box.
+
+OCR Text: By a juror: She was removed by her o-ri easnest request, and I assented to it.-P. W. Jacobs, of Rochester, surgeon, stated that on Monday morning he made a poesl morlem examination of the body, in the presence of the last witness, and after describing the various appearances of the body gave it as his opinion. that death was caused by congestion of the lungs, which prevented respiration from taking place, and which was oro. iuced partly from malforaation and partly by confinement in the box.
+Ground Truth: By a juror: She was removed by her own earnest request, and I assented to it. –P. W. Jacobs, of Rochester, surgeon, stated that on Monday morning he made a post mortem examination of the body, in the presence of the last witness, and after describing the various appearances of the body gave it as his opinion that death was caused by congestion of the lungs, which prevented respiration from taking place, and which was produced partly from malformation and partly by confinement in the box.
+
+OCR Text: He had no doubt the child was born apparently dead.
+Ground Truth: He had no doubt the child was born apparently dead.
+
+OCR Text: This witness's examination tTrmillaled the inquiry, and after a short adjournment the jury resumed their duty at half-past eleven o'clock, and were im mediately locked up to consider their verdict.
+Ground Truth: This witness’s examination terminated the inquiry, and after a short adjournment the jury resumed their duty at half-past eleven o’clock, and were immediately locked up to consider their verdict.
+
+OCR Text: At seven o'clock in the morning the corooer, finding there was no chance of their agreeing, discharged themn, and has given directions to su smen another jury.
+Ground Truth: At seven o’clock in the morning the coroner, finding there was no chance of their agreeing, discharged them, and has given directions to summon another jury.

@@ -1,0 +1,101 @@
+OCR Text: A WARNING TO YOUNG WOMEN,
+Ground Truth: A WARNING TO YOUNG WOMEN.
+
+OCR Text: AT the Marylebone Police-court, a smartly-dressed half-caste, named Archibald Johnstone, aged twenty. eight, who described himself as a gentleman, of Hill. street, Kiightsbridge, was brought up on a warrant by Detective-inspector Robson, D Division, as a con. vict out on license who was getting his living by die. honest means.
+Ground Truth: AT the Marylebone Police-court, a smartly-dressed half-caste, named Archibald Johnstone, aged twenty-eight, who described himself as a gentleman, of Hill-street, Knightsbridge, was brought up on a warrant by Detective-inspector Robson, D Division, as a convict out on license who was getting his living by dishonest means.
+
+OCR Text: Mary MEacihern, who looked about thirty-five years of age, said she was a corset-maker. and resided at 26, New Cavendish-street, Oxford- street.
+Ground Truth: Mary M'Eachern, who looked about thirty-five years of age, said she was a corset-maker, and resided at 26, New Cavendish-street, Oxford-street.
+
+OCR Text: She was with a female friend at Rotten-row, Hyde Park, in September last and met the prisoner, who introduced himself by saying, " Good evening.'
+Ground Truth: She was with a female friend at Rotten-row, Hyde Park, in September last and met the prisoner, who introduced himself by saying, "Good evening."
+
+OCR Text: She responded, and he walked with them to some chairs, where they all three sat down and entered into conversation.
+Ground Truth: She responded, and he walked with them to some chairs, where they all three sat down and entered into conversation.
+
+OCR Text: When they parted he made an appointment to meet witness on the following Wednesday.
+Ground Truth: When they parted he made appointment to meet witness on the following Wednesday.
+
+OCR Text: On the Tuesday evening, however, she was going out for a walk, and opposite the house bhe saw the prisoner.
+Ground Truth: On the Tuesday evening, however, she was going out for a walk, and opposite the house she saw the prisoner.
+
+OCR Text: They went into Regent's-park and parted about ten o'clock.
+Ground Truth: They went into Regent's-park and parted about ten o'clock.
+
+OCR Text: He made several appointments but did not keep them.
+Ground Truth: He made several appointments but did not keep them.
+
+OCR Text: The next time she met him was at Oxford-circus, when he asked for the loan of £5, promising to repay he with £2 interest.
+Ground Truth: The next time she met him was at Oxford-circus, when he asked for the loan of £5, promising to repay he with £2 interest.
+
+OCR Text: She refused, and he remarked, "You can if you like, and you must.`
+Ground Truth: She refused, and he remarked, "You can if you like, and you must."
+
+OCR Text: She afterwards told him she wished to have nothing more to do with him.
+Ground Truth: She afterwards told him she wished to have nothing more to do with him.
+
+OCR Text: He said, "Oh. that is the decision you have come to; then I shall tell every- body that you are a bad woman."
+Ground Truth: He said, "Oh, that is the decision you have come to; then I shall tell everybody that you are a bad woman."
+
+OCR Text: Since then she had received letters and post-cards from the prisoner, in which he made disgraceful assertions which were not true.
+Ground Truth: Since then she had received letters and post-cards from the prisoner, in which he made disgraceful assertions which were not true.
+
+OCR Text: The magistrate asked if there had been any acts of indecency or immorality between them, and whether witness had ever been to houses of ill-fame with him as suggested in the docu- ments.
+Ground Truth: The magistrate asked if there had been any acts of indecency or immorality between them, and whether witness had ever been to houses of ill-fame with him as suggested in the documents.
+
+OCR Text: The witness gave an emphatic denial to all the assertions.
+Ground Truth: The witness gave an emphatic denial to all the assertions.
+
+OCR Text: The prisoner: The first time I met you, you smiled at me.
+Ground Truth: The prisoner: The first time I met you, you smiled at me.
+
+OCR Text: Witness: No, I did not.
+Ground Truth: Witness: No, I did not.
+
+OCR Text: Prisoner: Didn't you say you liked my appearance ?
+Ground Truth: Prisoner Didn't you say you liked my appearance?
+
+OCR Text: Witness (scorn- fally): Certainly not.
+Ground Truth: Witness (scornfully): Certainly not.
+
+OCR Text: Prisoner: Didn't you follow rne roundthe band-stand?
+Ground Truth: Prisoner: Didn't you follow me round the band-stand?
+
+OCR Text: Witness: No.
+Ground Truth: Witness: No.
+
+OCR Text: Prisoner: Didn't you say "good evening ?"
+Ground Truth: Prisoner: Didn't you say "good evening?"
+
+OCR Text: Witness: I never spoke to.you.
+Ground Truth: Witness: I never spoke to you.
+
+OCR Text: Prisoner: You related to me where you had been and all your affairs?
+Ground Truth: Prisoner: You related to me where you had been and all your affairs?
+
+OCR Text: Witness: You as1kqd-where I had spent my holiday and I told you.
+Ground Truth: Witness: You asked where I had spent my holiday and I told you.
+
+OCR Text: i~ris~e~x: H~ow many times have you visited me at Kinigittsbridgo?
+Ground Truth: Prisoner: How many times have you visited me at Knightsbridge?
+
+OCR Text: Witness: I have not visited you.
+Ground Truth: Witness: I have not visited you.
+
+OCR Text: Prisoner: Will you swear that when I gave you a sovereign you did not- ask me for £2?
+Ground Truth: Prisoner: Will you swear that when I gave you a sovereign you did not ask me for £2?
+
+OCR Text: Witness: (Certainly not.
+Ground Truth: Witness: Certainly not.
+
+OCR Text: Prisoner: Did you not refuse to go into a house near Sloane-streef, with MO unless I gave you £5, the same as, you said, gentlemen gave you 'ategent-street?
+Ground Truth: Prisoner: Did you not refuse to go into a house near Sloane-street with me unless I gave you £5, the same as, you said, gentlemen gave you at Regent-street?
+
+OCR Text: Witness (indignantly): No, cer- tainly not.
+Ground Truth: Witness (indignantly): No, certainly not.
+
+OCR Text: Inspector Robson said after a severe struggle, he secured the key of prisoner's drawer, and found a large amount of correspondence from women from whom the prisoner had evidently been endea- vouring to obtain money.
+Ground Truth: Inspector Robson said after a severe struggle, he secured the key of prisoner's drawer, and found a large amount of correspondence from women from whom the prisoner had evidently been endeavouring to obtain money.
+
+OCR Text: Mr. Cooke ordered a remand.
+Ground Truth: Mr. Cooke ordered a remand.

@@ -1,0 +1,41 @@
+OCR Text: 'YESTERDAY'S LAW.
+Ground Truth: YESTERDAY'S LAW.
+
+OCR Text: SPECIAL SUNDAY MORNING EDTION.
+Ground Truth: SPECIAL SUNDAY MORNING EDITION.
+
+OCR Text: QUEQEN'S BENCH.
+Ground Truth: QUEEN'S BENCH.
+
+OCR Text: TRasXT.XPw SprITIrrALIST CASI.-M?. 1Ignatilu BWilliams appeared before the Lord chief 3ustlce and *m. Justeie Mollr; end saild he appeared forWilliam Lawrence, who was sentesned to three mouths, Imprison- ment for obtaining money untder false preteIIcaL
+Ground Truth: THE EAST-END SPIRITUALIST CASE. —Mr. Ignatius Williams appeared before the Lord Chief Justice and Mr. Justice Mallor, and said he appeared for William Lawrence, who was sentenced to three months' imprisonment for obtaining money under false pretences.
+
+OCR Text: A Writ of error had been grantedl and hte would now proceed to Orenthe case
+Ground Truth: A writ of error had been granted, and he would now proceed to argue the case.
+
+OCR Text: Ha e appbfeo d to eet aside the verdict and Ju~et, n te gound that the alleged offence did mot come within the meaning of the statute with reference to false preteuces.
+Ground Truth: He applied to set aside the verdict and judgment, on the ground that the alleged offence did not come within the meaning of the statute with reference to false pretences.
+
+OCR Text: There were two counts, one of which wee for obtaining money by falsely pretending that he (Lawrence) had power to communmoate wvith thso spirits of deceased persons, and produce them 'i a materialistic form.
+Ground Truth: There were two counts, one of which was for obtaining money by falsely pretending that he (Lawrence) had power to communicate with the spirits of deceased persons, and produce them in a materialistic form.
+
+OCR Text: Hils ,rst paint of arizunnent was that there wVm no allegation of a fidso existing fem.-l r. Justice bellor: lit liet said that hie was °able to summion. and produce spirits.
+Ground Truth: His first point of argument was that there was no allegation of a false existing fact. —Mr. Justice Mellor: But he said that he was able to summon and produce spirits.
+
+OCR Text: Thiatis notasnatter of opinion.-The Lord Chief ustice : He says, not that he will do so, but that he has the power and the will to produce the spirits-Mr. V h il- lsias said that no one could say that the spirits wers not present.-o 1e Lord Chief Justice: 'heo ueation of apm pearances was a question for the jury; i was a matter of feet and not of, opinion.
+Ground Truth: That is not a matter of opinion. —The Lord Chief Justice: He says, not that he will do so, but that he has the power and the will to produce the spirits. —Mr. Williams said that no one could say that the spirits were not present. —The Lord Chief Justice: The question of appearances was a question for the jury; it was a matter of fact and not of opinion.
+
+OCR Text: -After some further viilcusslon, the Lord Chief Justice said that it was perfectly clear that the defendnnt had falsely pretended that he had the power to call up and prduce anirito.
+Ground Truth: —After some further discussion, the Lord Chief Justice said that it was perfectly clear that the defendant had falsely pretended that he had the power to call up and produce spirits.
+
+OCR Text: That was clearly a false pretence within the mieaning of the act of Parliament.
+Ground Truth: That was clearly a false pretence within the meaning of the act of Parliament.
+
+OCR Text: It would he very mischievouts indeed if it could be supposed that delusions ofithis kind could lb-., carried on. onuta a mere matter of Amusement o ofst but for the sor- didl purpose of obtaiigmny uhreprc5ntatiOins, The offence was eleny proed waand tho inDi net was perfectly in order.-Mrt Juste Mellor nc e a.in rence, who had been out on bail thlen redrdt h tistaff of the court, who accompanied hmt olwy wJere be will undergo his sentence
+Ground Truth: It would be very mischievous indeed if it could be supposed that delusions of this kind could be carried on, not as a mere matter of amusement or of scientific investigation, but for the sordid purpose of obtaining money by such representations, The offence was clearly proved, and the indictment was perfectly in order. —Mr. Justice Mellor concurred. —Lawrence who had been out on bail, then surrendered to the tipstaff of the court, who accompanied him to Holloway, where he will undergo his sentence
+
+OCR Text: THE QUEEN V. GurysoN AND AN4OTHERt.-Thilt was an indictment for conspiracy, the prosecutor being Air. Lawrence Levy, ,formerly an' attorney, and the def en. danto being a dirm of solicitors.
+Ground Truth: THE QUEEN Y. GREYSON AND ANOTHER. —This was an indictment for conspiracy, the prosecutor being Mr. Lawrence Levy, formerly an attorney, and the defendants being a firm of solicitors.
+
+OCR Text: The allegation was that the defendants conspired with onc Syntax to prefer a chargei of perjury iaslnst the prosecutor, which was dismissed hby the magistrate, and further that the de- fendantsorouspited with Symes togo before asuagistrate andprferanindctentagins te poscutrwhich l~nstoi asizs, henSyses.thrughIsicounsel, with- drewfro th proecuionThe ase pat heard on Fri- day, ws resued yesesday~hen th jr"Acquitted"
+Ground Truth: The allegation was that the defendants conspired with one Symes to prefer a charge of perjury against the prosecutor, which was dismissed by the magistrate, and further that the defendants conspired with Symes to go before a magistrate and prefer an indictment against the prosecutor, which came on for trial before Mr. Baron Pollock at the Kingston assizes, when Symes, through his counsel, withdrew from the prosecution. —The case, part heard on Friday, was resumed yesterday, when the jury "Acquitted"

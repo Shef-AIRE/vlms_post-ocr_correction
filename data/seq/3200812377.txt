@@ -1,0 +1,47 @@
+OCR Text: SEArE CES OF DEATH.- . . - -- - !- - t -0
+Ground Truth: SENTENCES OF DEATH.
+
+OCR Text: AT the Leinster Winter Assizes, at Wicklow, on i Friday, John Conran, an aged man, was indicted for c the murder of his wife and Mary iFarrell, an old s servant, ab Borkiemore, on May 16:h
+Ground Truth: AT the Leinster Winter Assizes, at Wicklow, on Friday, John Couran, an aged man, was indicated for the murder of his wife and Mary Farrell, an old servant, at Borklemore, on May 16th.
+
+OCR Text: ' The evidence E showed that the prisoner wanted to geb rid of I his wife, in order to facilwta the salc of his farm, to which sale Mrs. Couran w~s opposed.
+Ground Truth: The evidence showed that the prisoner wanted to get rid of his wife, in order to facilitate the sale of his farm, to which sale Mrs. Couran was opposed.
+
+OCR Text: For M the defence it was sought to show that the shots which caused death in each case were fired by dis- I guised marauders, but the prisoner was fonnd guilty and sentenced to be hanged.
+Ground Truth: For the defence it was sought to show that the shots which caused death in each case were fired by disguised marauders, but the prisoner was found guilty and sentenced to be hanged.
+
+OCR Text: At Munster Winter Assizes, on..Friday, before Judge O'Brien, the Rev. George C. Griffiths, Pro- testaub clergynan, was tried foi the wilfullinurder of his mother, of Kilfynn. county Kerry.
+Ground Truth: At Munster Winter Assizes, on Friday, before Judge O’Brien, the Rev. George C. Griffiths, Protestant clergyman, was tried for the willful murder of his mother, of Kilflynn, county Kerry.
+
+OCR Text: Prisoner had been in financial diffculities.
+Ground Truth: Prisoner had been in financial difficulties.
+
+OCR Text: His mother was found dead in her drawing-soom with a bullet wound' through the head.
+Ground Truth: His mother was found dead in her drawing-room with a bullet wound through the head.
+
+OCR Text: . For the defence medical wit-. nesses were examined to sustain the plea of iusanity.
+Ground Truth: For the defence medical witnesses were examined to sustain the plea of insanity.
+
+OCR Text: The prisoner waeSfoand guilty, with a strong recom- mendation toemeroY6on'aecountof weak intellect.
+Ground Truth: The prisoner was found guilty, with a strong recommendation to mercy on account of weak intellect.
+
+OCR Text: On being asked lbad he auytbing:'to ray why sn~entc3 of death should not be passed, prisoner said, in a firm 3: voice, " I did not, iat all events knowingly or in ten . tionally, take tho lifeof another.
+Ground Truth: On being asked had he anything to any why sentence of death should not be passed, prisoner said, in a firm voice, “I did not, at all events knowingly or intentionally, take the life of another.
+
+OCR Text: I do declare that most solemnly before ,oj1-and before God;"
+Ground Truth: I do declare that most solemnly before you and before God.”
+
+OCR Text: The. :aciised was then. sentencedi to, be hanged . oni January 9th. it_.._;___ :_;_ .
+Ground Truth: The accused was then sentenced to be hanged on January 9th.
+
+OCR Text: 'SurCI:) OF A CTILD,-George Booth, eleven, the child of a Worcestar street nmusioian, .coninuite3; suicide, on Friday afternoon, by hianging himself We the bed rails.
+Ground Truth: SUICIDE OF A CHILD. —George Booth, eleven, the child of a Worcester street musician, committed suicide, on Friday afternoon, by hanging himself to the bed rails.
+
+OCR Text: . He has given a lot of trouble by sleep-; ing, out and. playing truant from'sechool.
+Ground Truth: He has given a lot of trouble by sleeping out and playing truant from school.
+
+OCR Text: He was recently expelled from the Roman Catholic Scloolsd and entered the Board School last week.
+Ground Truth: He was recently expelled from the Roman Catholic Schools and entered the Board School last week.
+
+OCR Text: -e-played! truant on Friday, .and was hunted up and sent home,, where he committed 'suicide for fear apparently of, being chastised~.
+Ground Truth: He played truant on Friday, and was hunted up and sent home, where he committed suicide for fear apparently of being chastised.

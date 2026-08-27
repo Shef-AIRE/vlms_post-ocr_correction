@@ -1,0 +1,77 @@
+OCR Text: HORRIBLE CASE OF STARVATION. I - - . - - . .
+Ground Truth: HORRIBLE CASE OF STARVATION.
+
+OCR Text: Mr. George Collier held an inquiry on Wednesday at the Ship tavern, Bethnal- green, on the body of Hannah Cox, aged 15 years, whose death was alleged to have been brought about by starvation.
+Ground Truth: Mr. George Collier held an inquiry on Wednesday at the Ship tavern, Bethnal-green, on the body of Hannah Cox, aged 15 years, whose death was alleged to have been brought about by starvation.
+
+OCR Text: Hannah Cox, 58, Ravenscroft-street, Bethnal-green, said deceased was her daughter.
+Ground Truth: Hannah Cox, 58, Ravenscroft-street, Bethnal-green, said deceased was her daughter.
+
+OCR Text: She was a cripple and had been ailing for years; but she had not been seen by any medicalman, except one, for the last three months.
+Ground Truth: She was a cripple and had been ailing for years; but she had not been seen by any medical man, except one, for the last three months.
+
+OCR Text: On the Monday before her dleath witness carried the deceased to Dr. Godfrey's surgery, and she died On tihe Wednesday following.
+Ground Truth: On the Monday before her death witness carried the deceased to Dr. Godfrey's surgery, and she died on the Wednesday following.
+
+OCR Text: Witness after- wards went and told the doctor deceasedwvas dead, and without him coming to see her he. gave a certificate, and the body would have been buried, but the relieving officer called and brought a doctor with himn.
+Ground Truth: Witness afterwards went and told the doctor deceased was dead, and without him coming to see her he gave a certificate, and the body would have been buried, but the relieving officer called and brought a doctor with him.
+
+OCR Text: In consequence of that the present injury had taken place.
+Ground Truth: In consequence of that the present injury had taken place.
+
+OCR Text: Witness had done her duty to the deceased, who had nothing the matter with her but a sore head.
+Ground Truth: Witness had done her duty to the deceased, who had nothing the matter with her but a sore head.
+
+OCR Text: Hler husband gave her money and she purchased food for ihe deceased and the rest of the~familya
+Ground Truth: Her husband gave her money and she purchased food for the deceased and the rest of the family.
+
+OCR Text: Witness refused to let deceased go to the. wvorkhouse, because she did not like to part with her.
+Ground Truth: Witness refused to let deceased go to the workhouse, because she did not like to part with her.
+
+OCR Text: WiGiam Alexander Bowick, a relieving oficer, said on the previous Tuesday hfe received aletterfrom M~r.Barnaed ione of the guardians, which stated that at 5o, eavens- eroftlstreet, there was a ehild~ being. starved. to death.
+Ground Truth: William Alexander Bowick, a relieving officer, said on the previous Tuesday he received a letter from Mr. Barnard, one of the guardians, which stated that at 58, Ravenscroft-street, there was a child being starved to death.
+
+OCR Text: He visited the house the follow- ing morning and found the deceased lying on the bed totally naked.
+Ground Truth: He visited the house the following morning and found the deceased lying on the bed totally naked.
+
+OCR Text: She was in a filthy and emaciated condition.
+Ground Truth: She was in a filthy and emaciated condition.
+
+OCR Text: The parents refused to allow the deceased to be re- moved; but a cab end a nurse were sent for to hake her away.
+Ground Truth: The parents refused to allow the deceased to be removed; but a cab and a nurse were sent for to take her away.
+
+OCR Text: Mr. Arthur George Soutbeomnbe, surgeon, of 150, Betrnal-green-road, said he haoexa- mined the body, and found it in a state of extre me e maci ation .
+Ground Truth: Mr. Arthur George Southcombe, surgeon, of 150, Bethnal-green-road, said he had examined the body, and found it in a state of extreme emaciation.
+
+OCR Text: Trhe skin and mus6cle s were very much wasted, but there were no marks of violence visible.
+Ground Truth: The skin and muscles were very much wasted, but there were no marks of violence visible.
+
+OCR Text: Deceased was in afilthy condiion.
+Ground Truth: Deceased was in a filthy condition.
+
+OCR Text: The left hip-joint was contractedxfrom long-standing hip disease.
+Ground Truth: The left hip-joint was contracted from long-standing hip disease.
+
+OCR Text: The brain was quite healthy, and the right ingiwas congested.
+Ground Truth: The brain was quite healthy, and the right lung was congested.
+
+OCR Text: The heart was very small, and the itomach contained about two ounces of milky fluid.
+Ground Truth: The heart was very small, and the stomach contained about two ounces of milky duid.
+
+OCR Text: The intestines were thin and transparent, which was a strong proof of starvation
+Ground Truth: The intestines were thin and transparent, which was a strong proof of starvation.
+
+OCR Text: There was no appearance of disease sufficient to account for deoth
+Ground Truth: There was no appearance of disease sufficient to account for death.
+
+OCR Text: The cause of death was exhaustion from starvation.
+Ground Truth: The cause of death was exhaustion from starvation.
+
+OCR Text: the deceased was weighed in his house by Mr. Burrows, the coroner's officer, and weighed 2nkb., which was not more than a child half her age ought to weigh.
+Ground Truth: The deceased was weighed in his house by Mr. Burrows, the coroner's officer, and weighed 231b., which was not more than a child half her age ought to weigh.
+
+OCR Text: Deceased ought to have weighed from 601b to 70b.
+Ground Truth: Deceased ought to have weighed from 60lb to 70lb.
+
+OCR Text: The jury returned a verdict of "Man- slaughter "againytHannah Cox, the mother, and she was at once arrested, and come mitted on the coroner's warrinat
+Ground Truth: The jury returned a verdict of "Manslaughter "against Hannah Cox, the mother, and she was at once arrested, and committed on the coroner's warrant.

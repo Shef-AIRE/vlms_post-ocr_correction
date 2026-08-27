@@ -1,0 +1,74 @@
+OCR Text: The London Coffee and Eating-house Keepers' I . Benevolent Association.
+Ground Truth: The London Coffee and Eating-house Keepers' Benevolent Association.
+
+OCR Text: The twenty-first annual meeting of the above-named association was held last Monday evening, at the Freemasons' Tavern, Great Queen-street.
+Ground Truth: The twenty-first annual meeting of the above-named association was held last Monday evening, at the Freemasons' Tavern, Great Queen-street.
+
+OCR Text: The attendance was not very sutnerous.
+Ground Truth: The attendance was not very numerous.
+
+OCR Text: M1r. Lasvoon, of High-street, Whitechapel, the president of the associa- tion, was called to the chair.
+Ground Truth: Mr. Lawson, of High-street, Whitechapel, the president of the association, was called to the chair.
+
+OCR Text: The report of the association was then read by the SI9ORETAY, from which it appeared that the sum of 3,533 17se lid. was invested in the Funds; that the receipts for the present year were about 200, and the expenditure of the society 130.
+Ground Truth: The report of the association was then read by the SECRETARY, from which it appeared that the sum of £3,533 17s. 11d. was invested in the Funds; that the receipts for the present year were about £200, and the expenditure of the society £130.
+
+OCR Text: The annual dinner of the society was held in April last, at which Mr. Alder. man and Sheriff Allen presided, supported by distinguished friends of the institution.
+Ground Truth: The annual dinner of the society was held in April last, at which Mr. Alderman and Sheriff Allen presided, supported by distinguished friends of the institution.
+
+OCR Text: The Chairman gave the liberal scim of 10 lOs.; the .2osrninq Advertiser, twelfth donation of 10 lOs.- Mr. Teemse, 5 ds.,; an excursion by railway to Broxbourne, vhich took place on Tuesday last, will prove a source of profit.
+Ground Truth: The Chairman gave the liberal sum of £10 10s.; the Morning Advertiser, twelfth donation of £10 10s.; Mr. Peirse, £5 5s.; an excursion by railway to Broxbourne, which took place on Tuesday last, will prove a source of profit.
+
+OCR Text: It also appeared from the report, that the sum of 5s. per week is paid to each pensioner on the society's funds.
+Ground Truth: It also appeared from the report, that the sum of 5s. per week is paid to each pensioner on the society's funds.
+
+OCR Text: Mr.STAINES proposed, and Mr.DELxr seconded,t at Mr. Baker be the president for the ensuing year, which was agreed to unanimously
+Ground Truth: Mr. STAINES proposed, and Mr. DELLY seconded, that Mr. Baker be the president for the ensuing year, which was agreed to unanimously.
+
+OCR Text: Mr. EnDuED was appointed vice-president.
+Ground Truth: Mr. ELDRED was appointed vice-president.
+
+OCR Text: That gentleman returned thanks for the honour the association had done him by his election.
+Ground Truth: That gentleman returned thanks for the honour the association had done him by his election.
+
+OCR Text: His best efforts would be devoted to its advancements
+Ground Truth: His best efforts would be devoted to its advancements.
+
+OCR Text: The appointment of the committee was the next business of the meeting.
+Ground Truth: The appointment of the committee was the next business of the meeting.
+
+OCR Text: Three gentlemen retired by rotation, and three by ab- sence a certain number of times from the meetings.
+Ground Truth: Three gentlemen retired by rotation, and three by absence a certain number of times from the meetings.
+
+OCR Text: Mr. WISEDALE proposed that the auditors be cs-elected.
+Ground Truth: Mr. WISEDALE proposed that the auditors be re-elected.
+
+OCR Text: The motion was duly seconded.
+Ground Truth: The motion was duly seconded.
+
+OCR Text: Mr. SHERcWooD, one of the auditors, declined re-election, on which Mr. Statham was proposed by Mr. ieRTON and seconded by Mr. HnRDr, and carried iue,. one.
+Ground Truth: Mr. SHERWOOD, one of the auditors, declined re-election, on which Mr. Statham was proposed by Mr. KIRTON and seconded by Mr. HARDY, and carried nem. con.
+
+OCR Text: Mr. WVISEDALr proposed the re-election of Mr. Rogers as secre- tary; Mr. GRooMuneIDG seconded the motion, which was carried
+Ground Truth: Mr. WISEDALE proposed the re-election of Mr. Rogers as secretary; Mr. GROOMBRIDGE seconded the motion, which was carried.
+
+OCR Text: The alteration of rules in reference to the admission of members was the next subject.
+Ground Truth: The alteration of rules in reference to the admission of members was the next subject.
+
+OCR Text: Au admission fee of ten shillings, which had at the last meeting been red aced from two guineas, was proposed by Kr. SHEnWooD, seconded by Mr. WISEDALE, and carried.
+Ground Truth: An admission fee of ten shillings, which had at the last meeting been reduced from two guineas, was proposed by Mr. SHERWOOD, seconded by Mr. WISEDALE, and carried.
+
+OCR Text: An alteration in reference to the age at which members should receive relief from the funds was also agreed to.
+Ground Truth: An alteration in reference to the age at which members should receive relief from the funds was also agreed to.
+
+OCR Text: The age of sixty instead of fifty years being substituted.
+Ground Truth: The age of sixty instead of fifty years being substituted.
+
+OCR Text: Several gentlemen addressed the meeting on the prospects of the society, suggesting plans for increased usefulness.
+Ground Truth: Several gentlemen addressed the meeting on the prospects of the society, suggesting plans for increased usefulness.
+
+OCR Text: A motion was made for the increase of the secretary's salary from 15 to 25, which was carried unaninfously.
+Ground Truth: A motion was made for the increase of the secretary's salary from £15 to £25, which was carried unanimously.
+
+OCR Text: The thanks oftthe meeting were then voted to the chairmau, and the meeting separated,
+Ground Truth: The thanks of the meeting were then voted to the chairman, and the meeting separated.

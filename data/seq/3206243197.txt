@@ -1,0 +1,68 @@
+OCR Text: YESTERDAY'S INQUESTS.
+Ground Truth: YESTERDAY'S INQUESTS.
+
+OCR Text: DRITH OF A PENSTONER.
+Ground Truth: DEATH OF A PENSIONER.
+
+OCR Text: yesterday afternoon Dr. Diplock held an inquest at the Royal Pensioners' Lospital, Chelsea, on the body of George Smith, aged 71, a pensioner.
+Ground Truth: Yesterday afternoon Dr. Diplock held an inquest at the Royal Pensioners' hospital, Chelsea, on the body of George Smith, aged 71, a pensioner.
+
+OCR Text: From the evidence it seemed that deceased was granted leave on Monday.
+Ground Truth: From the evidence it seemed that deceased was granted leave on Monday.
+
+OCR Text: On Tuesday morning an atten- dant, upon going his rounds, saw deceased lying on the floor.
+Ground Truth: On Tuesday morning an attendant, upon going his rounds, saw deceased lying on the floor.
+
+OCR Text: He appeared to be suffering from drink. and was conveyed to the sleeping ward and placed in bed with his clothes on.
+Ground Truth: He appeared to be suffering from drink, and was conveyed to the sleeping ward and placed in bed with his clothes on.
+
+OCR Text: The attention of the sergeant of the ward was afterwards called, and an a change seemed to take place in deceased's appeetr- ance, he was conveyed to the infirmary.
+Ground Truth: The attention of the sergeant of the ward was afterwards called, and as a change seemed to take place in deceased's appearance, he was conveyed to the infirmary.
+
+OCR Text: The medi- cal officer was called, but deceased, who remained unconscious, died the same afternoon.
+Ground Truth: The medical officer was called, but deceased, who remained unconscious, died the same afternoon.
+
+OCR Text: Dr. J. Flood stated that death was due to congestive apoplexy, which might have been brought on by drink.
+Ground Truth: Dr. J. Flood stated that death was due to congestive apoplexy, which might have been brought on by drink.
+
+OCR Text: The jury returned a verdict ccordingly.
+Ground Truth: The jury returned a verdict accordingly.
+
+OCR Text: SUICIDE BY POTSON.
+Ground Truth: SUICIDE BY POISON.
+
+OCR Text: Yesterday afternoon Mr. W. Carter resumed and concluded an inquiry at St. Thomas's hospital, into the circumstalces attending tbe death of Mr. William Bennett, aged 48 years, a bootmaker, residing at 1, Johanna-street, Lambethi, who expired in the above irpstitction on the 20th inst. from the effects of poison. which he had taken at his own residence.
+Ground Truth: Yesterday afternoon Mr. W. Carter resumed and concluded an inquiry at St. Thomas's hospital, into the circumstances attending the death of Mr. William Bennett, aged 48 years, a bootmaker, residing at 1, Johanna-street, Lambeth, who expired in the above institution on the 20th inst. from the effects of poison, which he had taken at his own residence.
+
+OCR Text: It appeared from the evidence adduced by several witnesses that the deceased for several days prior to his death had been drinking freely.
+Ground Truth: It appeared from the evidence adduced by several witnesses that the deceased for several days prior to his death had been drinking freely.
+
+OCR Text: On Wed- nesday afternoon he left home and proceeded to a chemist's shop in the Lower marsh, where he pur- chased two pennyworth of oxalic acid.
+Ground Truth: On Wednesday afternoon he left home and proceeded to a chemist's shop in the Lower marsh, where he purchased two pennyworth of oxalic acid.
+
+OCR Text: On his re- .turn home lie found his wife dozing near the fire- place.
+Ground Truth: On his return home he found his wife dozing near the fire-place.
+
+OCR Text: She was aroused and saw her husband drink- isg the contents of a tea cup.
+Ground Truth: She was aroused and saw her husband drinking the contents of a tea cup.
+
+OCR Text: She asked him what he was doing, when he replied, " I am doing what you cannotundo; I am drinking tea."
+Ground Truth: She asked him what he was doing, when he replied, "I am doing what you cannot undo; I am drinking tea."
+
+OCR Text: Shortly after, while glaringat her, he fell at her feet.
+Ground Truth: Shortly after, while glaring at her, he fell at her feet.
+
+OCR Text: Her shrieks brought the assistance of two female neighbours, who sent for medical aid.
+Ground Truth: Her shrieks brought the assistance of two female neighbours, who sent for medical aid.
+
+OCR Text: The deceased was removed to St. Thomas's hospital and died before he was seen by the medical staff.
+Ground Truth: The deceased was removed to St. Thomas's hospital and died before he was seen by the medical staff.
+
+OCR Text: Mr. George Gimblette, one of the house-surgeons, said deceased died from the effects of taking oxalic acid.
+Ground Truth: Mr. George Gimblette, one of the house-surgeons, said deceased died from the effects of taking oxalic acid.
+
+OCR Text: On opening the bead he found a large tumour pressing on the brain.
+Ground Truth: On opening the head, he found a large tumor pressing on the brain.
+
+OCR Text: Tlhe jury returned a verdict of " Suicide by drink- ing poison while, labouring under mental derauge- ment."
+Ground Truth: The jury returned a verdict of "Suicide by drinking poison while labouring under mental derangement."

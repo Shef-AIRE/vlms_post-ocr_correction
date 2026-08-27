@@ -1,0 +1,62 @@
+OCR Text: A Mi:.NCHESSTEP IMYST.SMY. I_ I tl 1 _ ' '.. . . ..
+Ground Truth: A MANCHESTER MYSTERY.
+
+OCR Text: THE Mapnchester police are investigating what appears to be a most mysterious occurrence.
+Ground Truth: THE Manchester police are investing what appears to be a most mysterious occurrence.
+
+OCR Text: About nine o'clock on Thursday morning some painters wvent to a house in Indigo-street, Bridge-street, Ardwiick, for the purpose of cleaning it.
+Ground Truth: About nine o’clock on Thursday morning some painters went to a house in Indigo-street, Bridge-street, Ardwick, for the purpose of cleaning it.
+
+OCR Text: Not being able to gain adsnission they made inquiries from the neighbours, and eventually informed the police.
+Ground Truth: Not being able to gain admission they made inquiries from the neighbours, and eventually informed the police.
+
+OCR Text: A constable went to the house and broie the door open.
+Ground Truth: A constable went to the house and broke the door open.
+
+OCR Text: As he could find no one in the kitchen he proceeded upstairs.
+Ground Truth: As he could find no one in the kitchen he proceeded upstairs.
+
+OCR Text: He then found one woman lying irs an unconscious state on the floor and another in a, similar condition on the bed.
+Ground Truth: He then found one woman lying in an unconscious state on the floor and another in a similar condition on the bed.
+
+OCR Text: Ift appears that the women are sisters, named Elizabeth M'Guinuis, aged about forty years, and Mary Joyce, thirty-two years of age.
+Ground Truth: It appears that the women are sisters, named Elizabeth M’Guinnis, aged about forty years, and Mary Joyce, thirty-two years of age.
+
+OCR Text: A doctor was sent for, but he advised their removal, and Sergeant Gibbons had them removed to the Ancoats Hospital.
+Ground Truth: A doctor was sent for, but he advised their removal, and Sergeant Gibbons had them removed to the Ancoats Hospital.
+
+OCR Text: Tie house in which they lived is a very small one, having only one room up and one down.
+Ground Truth: The house in which they lived is a very small one, having only one room up and one down.
+
+OCR Text: When the room was first entered tho stench lwas shocking,
+Ground Truth: When the room was first entered the stench was shocking.
+
+OCR Text: Owing to its smallness it was more like entering a stove than anything else.
+Ground Truth: Owing to its smallness it was more like entering a stove than anything else.
+
+OCR Text: Theren woe a child found in the bed, but this was found to be all right,
+Ground Truth: There was a child found in the bed, but this was found to be all right.
+
+OCR Text: Both the women were seen on WVrcnsday, and appeared to he aill right then.
+Ground Truth: Both the women were seen on Wednesday, and appeared to be all right then.
+
+OCR Text: On behing callen to the hospital both wornen were found to be till in an inmonEpious con- dition.
+Ground Truth: On being taken to the hospital both women were found to be still in an unconscious condition.
+
+OCR Text: The stomach pump waes ued, bat no traces of polooning could be found, and tire docitors are at present unable to give any decision as to what they are suffering from
+Ground Truth: The stomach pump was used, but no traces of poisoning could be found, and the doctors are at present unable to give any decision as to what they are suffering from.
+
+OCR Text: A rumour grimed groeund in the neighbournleod that it is a ease of poisoning. but the police, who are in possession of the house, have been unable to find any- thiog that would give credence to this story.
+Ground Truth: A rumour gained ground in the neighbourhood that it is a case of poisoning, but the police, who are in possession of the house, have been unable to find anything that would give credence to this story.
+
+OCR Text: Later in the afternoon the women, under the slilfill treatment of Dres. illiamson and M11ontgomery, recovered.
+Ground Truth: Later in the afternoon the women, under the skillful treatment of Drs. Williamson and Montgomery, recovered.
+
+OCR Text: They were able to tell the medical gentlemen that they had taken nothing v:hich would account for the condition in which they had been found.
+Ground Truth: They were able to tell the medical gentlemen that they had taken nothing which would account for the condition in which they had been found.
+
+OCR Text: Dr. Williamson expressed the opinion that his patients had been overpowered by- sewer gas, and with the view' of confirrning that supposi- tiou lie and Dr. Montgomery intenrdjto pay the houne in Indigo-street a visit of inspection.
+Ground Truth: Dr. Williamson expressed the opinion that his patients had been overpowered by sewer gas, and with the view of confirming that supposition be and Dr. Montgomery intend to pay the house in Indigo-street a visit of inspection.
+
+OCR Text: It is confidently expected that both the women will ultimately comr- pletely recover, but they will be detained as in-pntientss some little thune,
+Ground Truth: It is confidently expected that both the women will ultimately completely recover, but they will be detained as in-patients some little time.

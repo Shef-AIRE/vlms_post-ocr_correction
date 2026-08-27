@@ -1,0 +1,83 @@
+OCR Text: ROBBERY BY A RAILWAY GUARD.
+Ground Truth: ROBBERY BY A RAILWAY GUARD.
+
+OCR Text: On Thursday, at Worship-street police-court, Thos, Davey, a guard, working on the Woolwich line of railway, was charged with stealing from a luggage- train while in transit between Mile-end and Ipewich,
+Ground Truth: On Thursday, at Worship-street police-court, Thos. Davey, a guard, working on the Woolwich line of railway, was charged with stealing from a luggage train while in transit between Mile-end and Ipswich.
+
+OCR Text: Twist, formerly attached to the metropolitan divi- sion of police, and now employed by Mr. Superin- tendent Kent, of the Great Eastern line of railway, as a detective, said: Yesterday morning I entered the back compartment of a second-class carriage in the quarter-past seven train (parliamentary), from London to Colchester, &c.
+Ground Truth: Twist, formerly attached to the metropolitan division of police, and now employed by Mr. Superintendent Kent, of the Great Eastern line of railway as a detective, said: Yesterday morning I entered the back compartment of a second-class carriage in the quarter past seven train (parliamentary), from London to Colchester, &c.
+
+OCR Text: Immediately next to it was the luggage break van, and my instructions were to watch it.
+Ground Truth: Immediately next to it was the luggage break van, and my instructions were to watch it.
+
+OCR Text: I got in at the Bishopsgate terminus, and on reaching the Mile-end statifn, the first at which the train stops, I distinctly felt a vibration of the buffers, as though some person was treading on them to pass over into the six-foot way or middle of the line.
+Ground Truth: I got in at the Bishopsgate terminus, and on reaching the Mile-end station, the first at which the train stops, I distinctly felt a vibration of the buffers, as though some person was treading on them to pass over into the six-foot way or middle of the line.
+
+OCR Text: I looked through the window, and although nearly dark perceived a man close to the luggage. van, standing as if privately engaged..
+Ground Truth: I looked through the window, and although nearly dark perceived a man close to the luggage van, standing as if privately engaged.
+
+OCR Text: As the .ttain began to move off, however, he' suddenly un- Ibeked the door of the van, entered and closed it.
+Ground Truth: As the train began to move off, however, he suddenly unlocked the door of the van, entered and closed it.
+
+OCR Text: Just as the' train entered Stratford the door was again opened, and he alighted: with a basket and bundle, which he did not have when'he eisteted,-and made his way across to the opposite platform
+Ground Truth: Just as the train entered Stratford the door was again opened, and he alighted with a basket and bundle, which he did not have when he entered made his way across to the opposite platform.
+
+OCR Text: I followed and~called to him, and said I wished to see the contents of his luggage.
+Ground Truth: I followed and called to him, and said I wished to see the contents of his luggage.
+
+OCR Text: - I. took biun into a second-class carriage and foundtbehbundle contained la sailor's jacket, and the basket a pair of boots.
+Ground Truth: I took him into a second-class carriage and found the bundle contained a sailor's jacket, and the basket a pair of boots.
+
+OCR Text: He said all were his own property, and that he was going to take them to Woolwich.
+Ground Truth: He said all were his own property, and that he was going to take them to Woolwich.
+
+OCR Text: I conveyed him back to London, and gave him up to my superintendent.
+Ground Truth: I conveyed him back to London, and gave him up to my superintendent.
+
+OCR Text: He wore his guard's uniform.
+Ground Truth: He wore his guard's uniform.
+
+OCR Text: Mr. Ellison: Do you, prisoner, wish to ask any questions ?.-Prisoner: I wish to say that I did not cross the buffers.
+Ground Truth: Mr. Ellison: Do you, prisoner, wish to ask any questions? —Prisoner: I wish to say that I did not cross the buffers.
+
+OCR Text: Mr. Henry Kent: I am the superintendent of po- lice on the Great Eastern line.
+Ground Truth: Mr. Henry Kent: I am the superintendent of police on the Great Eastern line.
+
+OCR Text: 'AWhen the last wit. ness brought the prisoner to me I questioned the lat. ter as to his. possession of the articles.
+Ground Truth: When the last witness brought the prisoner to me I questioned the latter as to his possession of the articles.
+
+OCR Text: He said that theyhbelonged to his brother-in-law, who was a fore- man, at Woolwich. and that he was, when taken into custody, going there with them.
+Ground Truth: He said that they belonged to his brother-in-law, who was a foreman, at Woolwich, and that he was, when taken into custody, going there with them.
+
+OCR Text: He couldnot, howeve ive e any address of his relations, bit F_ gi _ _ _ X - -Z_.1 _AW A named his own as being at 40, Oxford-street, White- chapel.
+Ground Truth: He could not, however, give me any address of his relations, but named his own as being at 40, Oxford-street, Whitechapel.
+
+OCR Text: I telegraphed to Ipswich for inquiry to be made as to any sailors having procoeded by the train in question, and if so toascertainif theyhadlostany- thing.
+Ground Truth: I telegraphed to Ipswich for inquiry to be made as to any sailors having proceeded by the train in question, and if so ascertain if they had lost anything.
+
+OCR Text: I then proceeded to Woolwich, made search forprisoner'sbrother-in-law, but could notlearn about such a person.
+Ground Truth: I then proceeded to Woolwich, made search for prisoner's brother-in-law, but could not learn about such a person.
+
+OCR Text: On returning found an answer to my telegram that the owners of the property had been found, but not without some difflculty, as their lug. gage was fastened up so neatly'it did not appear to have been toached.
+Ground Truth: On returning found an answer to my telegram that the owners of the property had been found, but not without some difficulty, as their luggage was fastened up so neatly it did not appear to have been touched.
+
+OCR Text: The men are now present, by miydirection, to claim their thing .andtheir evidence will complete the case.
+Ground Truth: The men are now present, by my direction, to claim their things, and their evidence will complete the case.
+
+OCR Text: John Lewis and James Milme, both sailors, identi- fied-one of thenm the jacket, and the other the boots, his best.
+Ground Truth: John Lewis and James Milne, both sailors, identified—one of them the jacket, and the other the boots, his best.
+
+OCR Text: They had seen their luggage placed safely in the break-van snentioned. .
+Ground Truth: They had seen their luggage placed safely in the break-van mentioned.
+
+OCR Text: Mr. Ellison: ' Robberies by servants are at. all times great offences.
+Ground Truth: Mr. Ellison: Robberies by servants are at all times great offences.
+
+OCR Text: A Pertain amount of con- fidence must necessarily be placed in such persons, and where they succeed in avoiding detection, sus- picion, and at times the worst results, follow ,to- those who are perfectly innocent,
+Ground Truth: A certain amount of confidence must necessarily be placed in such persons, and where they succeed in avoiding detection, suspicion, and at times the worst results, follow to those who are perfectly innocent.
+
+OCR Text: Yours is an espe- cially bad case, and but for these sailors having to proceed immediately to sea, thereby rendering it im-- possible for them to attend before a jury, I would most certainly send you for trial, if only as a warn- ing to others.
+Ground Truth: Yours is an especially bad case, and but for these sailors having to proceed immediately to sea, thereby rendering it impossible for them to attend before a jury, I would most certainly send you for trial, if only as a warning to others.
+
+OCR Text: As it is you must go to prison for six months' hard labour.
+Ground Truth: As it is you must go to prison for six months’ hard labour.

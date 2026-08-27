@@ -1,0 +1,53 @@
+OCR Text: ATTEMPTED GAROTTE ROBBERY.
+Ground Truth: ATTEMPTED GAROTTE ROBBERY.
+
+OCR Text: On Thursday, at the Southwark police-court, Den. nis llfaloney, a tall pdwerful-looking young fellow, was placed at the bar before Mr. Woolrych, charged with grasping Arthur William Harlyood by the throat, otherwise assaulting him, and attempting to rob him of his watch and chain.
+Ground Truth: On Thursday, at the Southwark police-court, Dennis Maloney, a tall powerful-looking young fellow, was placed at the bar before Mr. Woolrych, charged with grasping Arthur William Harwood by the throat, otherwise assaulting him, and attempting to rob him of his watch and chain.
+
+OCR Text: The prosecutor, a furniture polisher, residing in Holywell-street, Strand, said that on Saturday night, about twelve o'clock, he was passing St. George's church, High-street, Borough, when some one sud- denlyp ounced upon hin5 and seized him violently by the throat, pushing him a little backwards, and at the same time he received a punch in the back.
+Ground Truth: The prosecutor, a furniture polisher, residing in Holywell-street, Strand, said that on Saturday night, about twelve o'clock, he was passing St. George's church, High-street, Borough, when someone suddenly pounced upon him, and seized him violently by the throat, pushing him a little backwards, and at the same time he received a punch in the back.
+
+OCR Text: A grasp was then made at his watch, which was pulled out of his pocket, but at that time he succeeded in releasing himself, and caught hold of the prisoner as he was in the act of breakinu the watch from the chain.
+Ground Truth: A grasp was then made at his watch, which was pulled out of his pocket, but at that time he succeeded in releasing himself, and caught hold of the prisoner as he was in the act of breaking the watch from the chain.
+
+OCR Text: They had a severe struggle, but on hearing footsteps approach the pris'-er dropped the watch and bolted across the road up a court.
+Ground Truth: They had a severe struggle, but on hearing footsteps approach the prisoner dropped the watch and bolted across the road up a court.
+
+OCR Text: Witness pursued him, and meeting a constable be told him what had taken place, when they both proceeded up the court, and espied the prisoner in a doorway, panting for breath, when he gave him into custody.
+Ground Truth: Witness pursued him, and meeting a constable he told him what had taken place, when they both proceeded up the court, and espied the prisoner in a doorway, panting for breath, when he gave him into custody.
+
+OCR Text: Witness was positive that the prisoner was the man who bad hold of his watch.
+Ground Truth: Witness was positive that the prisoner was the man who had hold of his watch.
+
+OCR Text: William Hodge, 250 Dl, said lie was on duty in Blackman-street, Boor ough, about one o'clock on Sun- day nmorning, when he saw the prosecutor follow a man across the road, calling out, "Stop thief."
+Ground Truth: William Hodge, 250 M, said he was on duty in Blackman-street, Borough, about one o'clock on Sunday morning, when he saw the prosecutor follow a man across the road, calling out, "Stop thief."
+
+OCR Text: When be arrived at the corner of the court, the pro- secutor told him that the man who had run up there bad garroted him, and attempted to steal his watch.
+Ground Truth: When he arrived at the corner of the court, the prosecutor told him that the man who had run up there had garroted him, and attempted to steal his watch.
+
+OCR Text: Witness accompanied him up the court, and when they got to the top, lhe saw the prisoner in a door- way out of breath, and perspiration pouring from his face.
+Ground Truth: Witness accompanied him up the court, and when they got to the top, he saw the prisoner in a doorway out of breath, and perspiration pouring from his face.
+
+OCR Text: The prosecutor came up and said, '"That's the man who attempted to rob me," and gave him into custody.
+Ground Truth: The prosecutor came up and said, "That's the man who attempted to rob me," and gave him into custody.
+
+OCR Text: The prisoner denied the charge, and went quietly to the station-house.
+Ground Truth: The prisoner denied the charge, and went quietly to the station-house.
+
+OCR Text: The prosecutor was quite sober
+Ground Truth: The prosecutor was quite sober.
+
+OCR Text: In answer to the charge the prisoner said he had been inthe Catherinepublic-houseuntil twelve o'clock.
+Ground Truth: In answer to the charge the prisoner said he had been in the Catherine public-house until twelve o'clock.
+
+OCR Text: He then went into a pie shop in Redcross-street, and after that was about to enter his house when the con- stable took him into custody.
+Ground Truth: He then went into a pie shop in Redcross-street, and after that was about to enter his house when the constable took him into custody.
+
+OCR Text: As for his being out of breath and ill a perspiration, he accounted for that by having a quarrel withs his mother and a man a few minutes previous,
+Ground Truth: As for his being out of breath and in a perspiration, he accounted for that by having a quarrel with his mother and a man a few minutes previous.
+
+OCR Text: lie denied being near St. George's church, or having seen the prosecutorbefore.
+Ground Truth: He denied being near St. George's church, or having seen the prosecutor before.
+
+OCR Text: Mr. Woolrych observed that cc very desperate at tempt had been made to rob the prosecutor, and . the evidence was so direct he should commit the uni sener for trial.
+Ground Truth: Mr. Woolrych observed that a very desperate attempt had been made to rob the prosecutor, and a the evidence was so direct he should commit the prisoner for trial.

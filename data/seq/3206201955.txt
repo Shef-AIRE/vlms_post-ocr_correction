@@ -1,0 +1,47 @@
+OCR Text: THE NEWINGTON PAUPER DEAD. |
+Ground Truth: THE NEWINGTON PAUPER DEAD.
+
+OCR Text: On Wednesday, Alfred Feist, late master of St, Mary Newinsgton workhouse, again surrendered on his bail, at the Lambeth police-court, for further ex- amination, on the charge of disposing of the bodies of inmates who died in the workhouse, for anatomical purposes.
+Ground Truth: On Wednesday, Alfred Feist, late master of St. Mary Newington workhouse, again surrendered on his bail, at the Lambeth police-court, for further examination, on the charge of disposing of the bodies of inmates who died in the workhouse, for anatomical purposes.
+
+OCR Text: One or two other cases similar to that of Mary Whitehead, which was investigated at the former hearing, were now goneinto.
+Ground Truth: One or two other cases similar to that of Mary Whitehead, which was investigated at the former hearing, were now gone into.
+
+OCR Text: Theundertaker, Hogg, deposed that in cases when bodies were intended for anatomical purposes he generally received the neces- sary certificate from the defendant to send to the inspector under the Anatomy bill.
+Ground Truth: The undertaker, Hogg, deposed that in cases when bodies were intended for anatomical purposes he generally received the necessary certificate from the defendant to send to the inspector under the Anatomy bill.
+
+OCR Text: The practice in the workhouse was, when paupers died there, to have them carried down to the dead-house and place them in a shell, and the undertaker had no means of learn. iog the names of such persons, except from the master of the workhouse.
+Ground Truth: The practice in the workhouse was, when paupers died there, to have them carried down to the dead-house and place them in a shell, and the undertaker had no means of learning the names of such persons, except from the master of the workhouse.
+
+OCR Text: Evidence was also given by Mr. William Ball, a cleTk in the master's effice, as to the practice followed in caEe no friends of the deceased applied to be al- lowed to follow the body to the grave, and also as to the disposal of unclaimed bodies.
+Ground Truth: Evidence was also given by Mr. William Bull, a clerk in the master's office, as to the practice followed in case no friends of the deceased applied to be allowed to follow the body to the grave, and also as to the disposal of unclaimed bodies.
+
+OCR Text: Mr. Mathews, on behalf of the prisoner, admitted that his client was not free from blame, in the lax- he might say the scandalous-manner in which the bodies of paupers bad been treated, but contended that no sale of the bodies for profit had been made out, and that Hogg, the undertaker, who had access to the dead-house, ought to be placed at the bar rather than his client.
+Ground Truth: Mr. Mathews, on behalf of the prisoner, admitted that his client was not free from blame, in the lax—he might say the scandalous—manner in which the bodies of paupers had been treated, but contended that no sale of the bodies for profit had been made out, and that Hogg, the undertaker, who had access to the dead-house, ought to be placed at the bar rather than his client.
+
+OCR Text: Mr. Elliott said there could not be the slightest doubt that in the first case before him the prisoner knew that the deceased had friends, and he had been guilty of a fraud of a most revolting'deseription, that of substituting the body of one for another, and mak- ing the friends believe they were following to the grave the body of their own relative.
+Ground Truth: Mr. Elliott said there could not be the slightest doubt that in the first case before him the prisoner knew that the deceased had friends, and he had been guilty of a fraud of a most revolting description, that of substituting the body of one for another, and making the friends believe they were following to the grave the body of their own relative.
+
+OCR Text: This was an oflence against decency of the worst description.
+Ground Truth: This was an offence against decency of the worst description.
+
+OCR Text: The case must go before a higher t'ibunal.
+Ground Truth: The case must go before a higher tribunal.
+
+OCR Text: It also ap- peared to him most culpable on the part of the board of unardiano to allow bdies to be brought baclt from the hospital to the workhousn for interment.
+Ground Truth: It also appeared to him most culpable on the part of the board of guardians to allow bodies to be brought back from the hospital to the workhouse for interment.
+
+OCR Text: Mr.Robinson assured thermagistrate thatthat which had been so justly condemned by his worship was entirely unknown to the respectable gentlemen who formed the board; and a number of the guardians present confirmed this assertion.
+Ground Truth: Mr. Robinson assured the magistrate that that which had been so justly condemned by his worship was entirely unknown to the respectable gentlemen who formed the board; and a number of the guardian’s present confirmed this assertion.
+
+OCR Text: The evidence in the case of Phoebe Clark, a ptuper, who had been in the workhouse, and who died on the 19th of February last, was then gone through.
+Ground Truth: The evidence in the case of Phoebe Clark, a pauper, who had been in the workhouse, and who died on the 19th of February last, was then gone through.
+
+OCR Text: In this case the body was sent to Guy's and another substituted, and two of the sisters of Clark followed the strange body, in the belief it was their relative, to Victoria. park, and saw the coffin interred there.
+Ground Truth: In this case the body was sent to Guy's and another substituted, and two of the sisters of Clark followed the strange body, in the belief it was their relative, to Victoria park, and saw the coffin interred there.
+
+OCR Text: Mr. Elliott was of opinion that this and the case taken on the former day would be abundant for the purposes of prosecution, and Mr. Robinson having undertaken that if indictments in other of the ten or twelve cases should be preferred, the solicitor for the defence should be furnishedswith the evidence in them, the prisoner was fully committed to take his trial on both charges.
+Ground Truth: Mr. Elliott was of opinion that this and the case taken on the former day would be abundant for the purposes of prosecution, and Mr. Robinson having undertaken that if indictments in other of the ten or twelve cases should be preferred, the solicitor for the defence should be furnished with the evidence in them, the prisoner was fully committed to take his trial on both charges.
+
+OCR Text: On an application by his counsel the prisoner was however admitted to bail in two sureties in 401., and himself in 801, to appear on the day of triaL
+Ground Truth: On an application by his counsel the prisoner was however admitted to bail in two sureties in 40l., and himself in 80l., to appear on the day of trial.

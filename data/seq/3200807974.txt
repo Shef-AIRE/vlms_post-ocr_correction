@@ -1,0 +1,89 @@
+OCR Text: ARTREST OF SALVATIONISTS.
+Ground Truth: ARREST OF SALVATIONISTS.
+
+OCR Text: AT the Westminster Police-court, on Monday, . NWilliam Blaney, twenty-one, described as a cadet in . the Salvation Army, living at the barracls in Cheyne- row, Chelsea, was charged before Mr. Sheilwith wil- fully obstructing the public footway at First-street, Chelsea, by preaching therein, and with refusing to gi /e his name and address when requested to do so by Police-sergeant Howlett, 3 B Reserve.
+Ground Truth: AT the Westminster Police-court, on Monday, William Blaney, twenty-one, described as a cadet in the Salvation Army, living at the barracks in Cheyne-row, Chelsea, was charged before Mr. Sheil with wilfully obstructing the public footway at First-street, Chelsea, by preaching therein, and with refusing to give his name and address when requested to do so by Police-sergeant Howlett, 3 B Reserve.
+
+OCR Text: There was another I charge against Arthur Reynolds, twenty-two, captain in the Salvation Army, and fourteen other persons, all members of the army, of disorderly conduct, causing a crowd to assemble, and refusing to disperse, at W1alton-street, Chelsea, whereby the thoroughfare was obstructed, and a breach of the peace rendered probable.
+Ground Truth: There was another charge against Arthur Reynolds, twenty-two, captain in the Salvation Army, and fourteen other persons, all members of the army, of disorderly conduct, causing a crowd to assemble, and refusing to disperse, at Walton-street, Chelsea, whereby the thoroughfare was obstructed, and a breach of the peace rendered probable.
+
+OCR Text: The court was crowded with persons interested in the - case.
+Ground Truth: The court was crowded with persons interested in the case.
+
+OCR Text: Mr. Superintendent Shepherd watched the pro- ceedings on behalf of the police authorities, Inspector . Doogan conducting the case.
+Ground Truth: Mr. Superintendent Shepherd watched the proceedings on behalf of the police authorities, Inspector Doogan conducting the case.
+
+OCR Text: The prisoners were ranged in two lines across the court.
+Ground Truth: The prisoners were ranged in two lines across the court.
+
+OCR Text: Half a dozen of them were in the uniform of the Salvation Army.
+Ground Truth: Half a dozen of them were in the uniform of the Salvation Army.
+
+OCR Text: The others presented the appearance of respectable work- ing men.
+Ground Truth: The others presented the appearance of respectable working men.
+
+OCR Text: Mr. Salfford (chief clerk) said he had a letter from a Colonel Nicol, at the headquarters of the Army, asking that the prisoners might be remanded till counsel could be instructed for the defence.
+Ground Truth: Mr. Salfford (chief clerk) said he had a letter from a Colonel Nicol, at the headquarters of the Army, asking that the prisoners might be remanded till counsel could be instructed for the defence.
+
+OCR Text: Captain Reynolds: I have to ask for a remand, sir. We have had no time to get legal advice.
+Ground Truth: Captain Reynolds: I have to ask for a remand, sir. We have had no time to get legal advice.
+
+OCR Text: Mr. Sheil : WNahy have they not sent some one from your headquarters?
+Ground Truth: Mr. Sheil: Why have they not sent some one from your headquarters?
+
+OCR Text: Captain Reynolds: They have not had time, sir. We all had to be here at ten o'clock this morning.
+Ground Truth: Captain Reynolds: They have not had time, sir. We all had to be here at ten o'clock this morning.
+
+OCR Text: MIr. Safford: The pri- soners were admitted to bail between four and five o'clock on Sunday afternoon.
+Ground Truth: Mr. Safford: The prisoners were admitted to bail between four and five o'clock on Sunday afternoon.
+
+OCR Text: Mr. Sheil: What time do you ask for?
+Ground Truth: Mr. Sheil: What time do you ask for?
+
+OCR Text: Mr. Parsons (an officer from the Salvation Army headquarters) : I appear on behalf t of Messrs. Burton, Matthews, and Ranger, solicitors f to the Salvation Army, to ask for a remand for three or four days for the purpose of instructing counsel.
+Ground Truth: Mr. Parsons (an officer from the Salvation Army headquarters): I appear on behalf of Messrs. Burton, Matthews, and Ranger, solicitors to the Salvation Army, to ask for a remand for three or four days for the purpose of instructing counsel.
+
+OCR Text: Mr. Sheil : I shall do nothing of the sort ; it is a ridiculous request. I will remand them until to- f morrow, if you like.
+Ground Truth: Mr. Sheil I shall do nothing of the sort; it is a ridiculous request. I will remand them until tomorrow, if you like.
+
+OCR Text: Mr. Parsons; Make it two f days, your worship.
+Ground Truth: Mr. Parsons; Make it two days, your worship.
+
+OCR Text: Inspector Doogan: There are several gentlemen here as witnesses for the police who cannot very well come on another day.
+Ground Truth: Inspector Doogan: There are several gentlemen here as witnesses for the police who cannot very well come on another day.
+
+OCR Text: Mr. Shell: t Very well, I will go on with the case now. They have had plenty of time to obtain advice.
+Ground Truth: Mr. Sheil: Very well, I will go on with the case now. They have had plenty of time to obtain advice.
+
+OCR Text: Mr. Parsons still C pressed for a remand.
+Ground Truth: Mr. Parsons still pressed for a remand.
+
+OCR Text: Mr. Sheil : Very w ell; I will c remand them, on the same bail as before.
+Ground Truth: Mr. Sheil: Very well; I will remand them, on the same bail as before.
+
+OCR Text: A Police C Witness : But, your worship, I have already been kept here since eleven o'clock this morning.
+Ground Truth: A Police Witness: But, your worship, I have already been kept here since eleven o'clock this morning.
+
+OCR Text: MIr. Sheil : I can't help it. If I do not give them time to r get counsel it will be a great grievance. I will remand the prisoners to any day that will suit the a witnesses.
+Ground Truth: Mr. Sheil I can't help it. If I do not give them time to get counsel it will be a great grievance. I will remand the prisoners to any day that will suit the witnesses.
+
+OCR Text: Mr. Superintendent Shepherd : The whole of the prisoners have been on bail since Sunday I afternoon.
+Ground Truth: Mr. Superintendent Shepherd: The whole of the prisoners have been on bail since Sunday afternoon.
+
+OCR Text: Mr. Sheil: I will go on with the case.
+Ground Truth: Mr. Sheil: I will go on with the case.
+
+OCR Text: After a moment's consideration Air. Sheil added: h No I think, on consideration of the circumstances, J that I will adjourn the case till a later date. The s prisoners must be ready with their defence then.
+Ground Truth: After a moment's consideration Mr. Sheil added: No; I think, on consideration of the circumstances, that I will adjourn the case till a later date. The prisoners must be ready with their defence then.
+
+OCR Text: A t Witness : Your honour, there are over a dozen gen- q tlemen here to-day who perhaps cannot attend is again.
+Ground Truth: A Witness: Your honour, there are over a dozen gentlemen here to-day who perhaps cannot attend again.
+
+OCR Text: Mr. Sheil: I can't help it. I cannot go on t if they ask for legal assistance.
+Ground Truth: Mr. Sheil: I can't help it. I cannot go on if they ask for legal assistance.
+
+OCR Text: Mr. Superintendent 1 Shepherd agreeing, the further hearing of the case was adjourned.
+Ground Truth: Mr. Superintendent Shepherd agreeing, the further hearing of the case was adjourned.
+
+OCR Text: A gentleman put in bail at once for all n the prisoners' reappearance.
+Ground Truth: A gentleman put in bail at once for all the prisoners' reappearance.

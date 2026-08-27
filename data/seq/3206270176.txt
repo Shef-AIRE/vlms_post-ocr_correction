@@ -1,0 +1,38 @@
+OCR Text: MYSTERIOUS DEATH OF A CHILD.
+Ground Truth: MYSTERIOUS DEATH OF A CHILD.
+
+OCR Text: Mr. Laugham held an inquest at the Borough coroner's court, on Tuesday, on the body of Charles Edward Dorringion, aged 10 weekls the child of a servant girl, named Emma Dorrington.-Jane Bonnick, an el- derly woman, residing at 6, Upper Green- street, Blaokfriars-roid,was the first witness called.
+Ground Truth: Mr. Langham held an inquest at the Borough coroner's court, on Tuesday, on the body of Charles Edward Dorrington, aged 10 weeks, the child of a servant girl, named Emma Dorrington. —Jane Bonnick, an elderly woman, residing at 6, Upper Greenstreet, Blackfriars-road, was the first witness called.
+
+OCR Text: She deposed to having agreed with one of the sisters attached to St. Alphege mission, Blaekfriars-road, to take charge of the child for 4s. per week.
+Ground Truth: She deposed to having agreed with one of the sisters attached to St. Alphege mission, Blackfriars-road, to take charge of the child for 4s. per week.
+
+OCR Text: 'The infant was brought to her, on Sept. 6, and was then eight weeks old.
+Ground Truth: The infant was brought to her on Sept. 6, and was then eight weeks old.
+
+OCR Text: It was wasted and suffered from consumption of the bowels.
+Ground Truth: It was wasted and suffered from consumption of the bowels.
+
+OCR Text: She told the mother, who came with the child, that she would have to take it to a doctor.
+Ground Truth: She told the mother, who came with the child, that she would have to take it to a doctor.
+
+OCR Text: The baby was very ravenous, and though she fed it on condensed milk and other food she never seemed asif shecould satisfy it.
+Ground Truth: The baby was very ravenous, and though she fed it on condensed milk and other food she never seemed as if she could satisfy it.
+
+OCR Text: After being seen by a dispensary doctor she took deceased to Dr. Matcham on a relief order on WT'Tednesdav last, and he said the child was in at horribly emaciated condition, and dying.
+Ground Truth: After being seen by a dispensary doctor she took deceased to Dr. Matcham on a relief order on Wednesday last, and he said the child was in a horribly emaciated condition, and dying.
+
+OCR Text: He ordered her to give it eows' mnilk, and when' he cams on Friday he told her if it died he should insist bn an inquest.
+Ground Truth: He ordered her to give it cows' milk, and when he came on Friday he told her if it died he should insist on an inquest.
+
+OCR Text: -Dr. flatcham, in evidence, denied this story altogether.
+Ground Truth: –Dr. Matcham, in evidence, denied this story altogether.
+
+OCR Text: He said a post-mortem excnnination showed that the stomach was small and contracted, with no signs of digestion.
+Ground Truth: He said a post-mortem examination showed that the stomach was small and contracted, with no signs of digestion.
+
+OCR Text: There was a teaspoonful of milk, with some granular substance, in the sto- mach, but the bowels were absolutely empty, and, in fact, so flattened that they had the appearance of having fallen in (sen- sation).-The Coroner: What, in your judg- ment, is the cause of death ?-Dr. Matcham: Starvation. I cannot conceive there is any foundation for the story about the nourish- ment having been given.
+Ground Truth: There was a teaspoonful of milk, with some granular substance, in the stomach, but the bowels were absolutely empty, and, in fact, so flattened that they had the appearance of having fallen in (sensation). –The Coroner: What, in your judgment, is the cause of death? –Dr. Matcham: Starvation, I cannot conceive there is any foundation for the story about the nourishment having been given.
+
+OCR Text: I firmly believe that no food was given to the deceased for 43 hours before death.-The coroner said that after such evidence he felt it his duty to adjourn the case for independent medical evidence, and for the production of the doctor st Havil-street workhouse and oi the St. AIphege sister.
+Ground Truth: I firmly believe that no food was given to the deceased for 48 hours before death. —The coroner said that after such evidence he felt it his duty to adjourn the case for independent medical evidence, and for the production of the doctor at Havil-street workhouse and of the St. Alphege sister.

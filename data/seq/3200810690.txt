@@ -1,0 +1,137 @@
+OCR Text: SINGULAR CASE OF CHILD DETENTION. . . J
+Ground Truth: SINGULAR CASE OF CHILD DETENTION.
+
+OCR Text: Ma,. RosE was engaged the greater part of a day, at Clerkeuwell Police-court, in hearing an extraordinary case of alleged child detention.
+Ground Truth: MR. ROSE was engaged the greater part of a day, at Clerkenwell Police-court, in hearing an extraordinary case of alleged child detention.
+
+OCR Text: John Barry O'Cal- laghan-, forty-five, an engineer and surveyor, of 39, Parolles-road,Eigbgate, and Sarah Ann Bolton, forty- four, described as a " chaperone," of 55, Bernard- street, Ilussell-square, were charged with being con- cerned together in unlawfully taking away a child, aged eight months, named Phyllis Massey Baker, from the custody of its parent, Mr. Godfrey Baher.
+Ground Truth: John Barry O'Callaghan, forty-five, an engineer and surveyor, of 39, Parolles-road, Highgate, and Sarah Ann Bolton, forty-four, described as a “chaperone," of 55, Bernard-street, Russell-square, were charged with being concerned together in unlawfully taking away a child, aged eight months, named Phyllis Massey Baker, from the custody of its parent, Mr. Godfrey Baker.
+
+OCR Text: Mr. Lonis Nutting, of Lincoln'siiun-fields, solicitor to Mr. Godfrey Baker, said the defendant Bolton called at his office on July 17th and had an interview with him.
+Ground Truth: Mr. Louis Nutting, of Lincoln's-inn-fields, solicitor to Mr. Godfrey Baker, said the defendant Bolton called at his office on July 17th and had an interview with him.
+
+OCR Text: She admitted To him that she had no right to detain the child, but said Mr. Baker, who had agreed to pay her £4 a week for its keep and for defraying the expenses of a French nurse, owed her a lot of money.
+Ground Truth: She admitted to him that she had no right to detain the child, but said Mr. Baker, who had agreed to pay her £4 a week for its keep and for defraying the expenses of a French nurse, owed her a lot of money.
+
+OCR Text: Cross-examined, the witness said he.je. lieved the two defendants had conspired together to keep the child after a demand had been made for it to be given up, in order to extort money.
+Ground Truth: Cross-examined, the witness said he believed the two defendants had conspired together to keep the child after a demand had been made for it to be given up, in order to extort money.
+
+OCR Text: He was not aware that Mr. Baker was very much in debt.
+Ground Truth: He was not aware that Mr. Baker was very much in debt.
+
+OCR Text: He understood that he was in debt, but had means to meet his liabilities.
+Ground Truth: He understood that he was in debt, but had means to meet his liabilities.
+
+OCR Text: Mr. Baker had property in Ireland, and negotiations were pro: proceeding for its sale.
+Ground Truth: Mr. Baker had property in Ireland, and negotiations were pro-proceeding for its sale.
+
+OCR Text: Mr. Godfrey Hugh Massey Baker, an independent gentleman, of 29, South Nor- wood-hill, said he first became acquainted with the female defendantithroughtherecommeandation of Mi8s Baker.
+Ground Truth: Mr. Godfrey Hugh Massey Baker, an independent gentleman, of 29, South Norwood-hill, said he first became acquainted with the female defendant through the recommendation of Miss Baker.
+
+OCR Text: Miss Baker was his cousin, and was the mother of the child.
+Ground Truth: Miss Baker was his cousin, and was the mother of the child.
+
+OCR Text: The accouchement took place at Acacia-road, St. John's-wood.
+Ground Truth: The accouchement took place at Acacia-road, St. John's-wood.
+
+OCR Text: lie rented this house, Mrs. Bolton taking it in her own name.
+Ground Truth: He rented this Mrs. house, Mrs. Bolton taking it in her own name.
+
+OCR Text: Mrs. Bolton then carried on a business as hair-dresser, &c., in a shop in New Bond-street.
+Ground Truth: Bolton then carried on a business as hair-dresser, &c., in a shop in New Bond-street.
+
+OCR Text: Witness, who was twenty-four years of age, went, after the birth of the child, to Honfleur with Miss Baker, and Mrs. Bolton accompanied them.
+Ground Truth: Witness, who was twenty-four years of age, went, after the birth of the child, to Honfleur with Miss Baker, and Mrs. Bolton accompanied them.
+
+OCR Text: At the end of April last they left Houfleur for the Isle of Man, and there he made an arrangement to pay 'Mrs. Bolton £4- a week.
+Ground Truth: At the end of April last they left Honfleur for the Isle of Man, and there he made an arrangement to pay Mrs. Bolton £4 a week.
+
+OCR Text: This included the engagement of Fran oise Taoc, a French nurse.
+Ground Truth: This included the engagement of Francoise Taoc, a French nurse.
+
+OCR Text: He had paid the money up to July 5th.
+Ground Truth: He had paid the money up to July 8th.
+
+OCR Text: About that time he intended to go with Miss Baker to California to start life afresh, and he told Mrs. Bolton that if she acoom- panied them she would be paid £200 a year.
+Ground Truth: About that time, he intended to go with Miss Baker to California to start life afresh, and he told Mrs. Bolton that if she accompanied them she would be paid £200 a year.
+
+OCR Text: Prior to this he had found her in food, lodgings and clothes.
+Ground Truth: Prior to this he had found her in food, lodgings and clothes.
+
+OCR Text: Mrs. Bolton soon afterwards returned to London froin the Isle of Man withont his knowledge, and placed herself in communication with his solicitor.
+Ground Truth: Mrs. Bolton soon afterwards returned to London from the Isle of Man without his knowledge, and placed herself in communication with his solicitor.
+
+OCR Text: Since then he and Miss Baker had not been able to regain custody of the child.
+Ground Truth: Since then he and Miss Baker had not been able to regain custody of the child.
+
+OCR Text: Cross-examined: lHe paid £100 for Mrs. Bolton's clothes because she agreed to go to California.
+Ground Truth: Cross-examined: He paid £100 for Mrs. Bolton's clothes because she agreed to go to California.
+
+OCR Text: Mrs. Bolton lived at Acacia-road for some time and kept his house.
+Ground Truth: Mrs. Bolton lived at Acacia-road for some time and kept his house.
+
+OCR Text: Witness supplied her with money for housekeeping.
+Ground Truth: Witness supplied her with money for housekeeping.
+
+OCR Text: He was not aware that she spent the money that she reaped from her business in keeping up the house.
+Ground Truth: He was not aware that she spent the money that she reaped from her business in keeping up the house.
+
+OCR Text: lie had known O Callaghan for some time, and first introduced him to Mrs. Bolton.
+Ground Truth: He had known O'Callaghan for some time, and first introduced him to Mrs. Bolton.
+
+OCR Text: He had certain communications with O'Callaghan ;vith reference to his (wituess's) divorce proceedings.
+Ground Truth: He had certain communications with O'Callaghan with reference to his (witness's) divorce proceedings.
+
+OCR Text: He was not aware that the child had never left 55, Bernard-street.
+Ground Truth: He was not aware that the child had never left 55, Bernard-street.
+
+OCR Text: Every time he called be was told that Mrs. Bolton had left.
+Ground Truth: Every time he called he was told that Mrs. Bolton had left.
+
+OCR Text: Sergeant Hamilton, 1 Division, said he was pre- sent at a restaurant in Chancery-lane when Mr. Baker and O'Callaghan had an interview.
+Ground Truth: Sergeant Hamilton, E Division, said he was pre- sent at a restaurant in Chancery-lane when Mr. Baker and O'Callaghan had an interview.
+
+OCR Text: He heard O'Callagban, who did not know he was present, say that "if he began he would upset the whole arrangement."
+Ground Truth: He heard O'Callaghan, who did not know he was present, say that "if he began he would upset the whole arrangement."
+
+OCR Text: WTitness had made inquiries as to the whereabouts of the child.
+Ground Truth: Witness had made inquiries as to the whereabouts of the child.
+
+OCR Text: He called at Ber- nard-street, but could get no information.
+Ground Truth: He called at Bernard-street, but could get no information.
+
+OCR Text: Inspector Wakeford deposed that on July 22nd the police were first communicated with with reference to the case, O'Callaghan when arrested said, "I know I have done wrong, but there was this justification.
+Ground Truth: Inspector Wakeford deposed that on July 22nd the police were first communicated with, with reference to the case, O'Callaghan when arrested said, "I know I have done wrong, but there was this justification.
+
+OCR Text: Mrs. Bolton called at my house and said she was going to give up the child, and should not see the Bakers any more.
+Ground Truth: Mrs. Bolton called at my house and said she was going to give up the child, and should not see the Bakers any more.
+
+OCR Text: There was no way of making the Bakers pay but by detaining the child.
+Ground Truth: There was no way of making the Bakers pay but by detaining the child.
+
+OCR Text: I shall not tell you where the child and madame are without an order from the magistrate.
+Ground Truth: I shall not tell you where the child and madame are without an order from the magistrate.
+
+OCR Text: Mir. Baker, recalled, said he had an arrangement with Mr. O'Callaghan with reference to his (Mr. Balter's) divorce proceedings.
+Ground Truth: Mr. Baker, recalled, said he had an arrangement with Mr. O'Callaghan with reference to his (Mr. Baker's) divorce proceedings.
+
+OCR Text: The threatof O'Callaghan, at the interview in the restaurant in Chancery-lane, to "upset matters" referred to that arrangement.
+Ground Truth: The threat of O'Callaghan, at the interview in the restaurant in Chancery-lane, to "upset matters" referred to that arrangement.
+
+OCR Text: Mr. Rose committed the accused for trial at the Central Criminal Court, allowing bail.
+Ground Truth: Mr. Rose committed the accused for trial at the Central Criminal Court, allowing bail.
+
+OCR Text: Mr. Geoghegan asked that his client should have the custody of the child.
+Ground Truth: Mr. Geoghegan asked that his client should have the custody of the child.
+
+OCR Text: Mr. Rose said he had no power to order that the child should be given up.
+Ground Truth: Mr. Rose said he had no power to order that the child should be given up.
+
+OCR Text: He be- lieved the police had the custody of it.
+Ground Truth: He believed the police had the custody of it.
+
+OCR Text: Mr. Terrell: If 0he child is given up we.shall not see the prose- cutor again.
+Ground Truth: Mr. Terrell: If the child is given up we shall not see the prosecutor again.
+
+OCR Text: Mr. Geoghegan: We are bound over to prosecate in the sum of £40.
+Ground Truth: Mr. Geoghegan: We are bound over to prosecute in the sum of £40.

@@ -1,0 +1,71 @@
+OCR Text: THM ALLEGED BREACH OF Ag TRALITY LAWS.
+Ground Truth: THE ALLEGED BREACH OF THE NEUTRALITY LAWS.
+
+OCR Text: On Thursday morning Aoa Peatric B'DonaN Was eharged, on reinand, at the Bow-street police-oourt, with having, In conjunntien with other not in cus- tody, enlisted under famse pretences and sent out a number of Irishmen 'from this country for the pur. pose of fighting on the side of the French against the Pruessians.
+Ground Truth: On Thursday morning John Patrick M'Donald was charged, on remand, at the Bow-street police-court, with having, in conjunction with others not in custody, enlisted under false pretences and sent out a number of Irishmen from this country for the purpose of fighting on the side of the French against the Prussians.
+
+OCR Text: - Mr Costello, who was examined at great length at the last hearing, was recalled and cross-examined by Mr. Merriman.
+Ground Truth: —Mr. Costello, who was examined at great length at the last hearing, was recalled and cross-examined by Mr. Merriman.
+
+OCR Text: He said: I never described myself as a leader of any military organi- aation, nor did I ever bold any rank.
+Ground Truth: He said: I never described myself as a leader of any military organisation, nor did I ever hold any rank.
+
+OCR Text: I was not in the habit of receiving telegrams from Tours.
+Ground Truth: I was not in the habit of receiving telegrams from Tours.
+
+OCR Text: I was requested to read one telegram which Captain Thierry had received from the Minister of Wer to the men.
+Ground Truth: I was requested to read one telegram which Captain Thierry had received from the Minister of War to the men.
+
+OCR Text: It contained three questions:-Firstly, would the men consent, if so how many, to join a battalion of the Foreign Legion to be incorporated In a line regi- ment?
+Ground Truth: It contained three questions: —Firstly, would the men consent, if so how many, to join a battalion of the Foreign Legion to be incorporated in a line regiment?
+
+OCR Text: Secondly, would the men; if so how many, consent to join a body of Francs-Tireurs ?
+Ground Truth: Secondly, would the men, if so how many, consent to join a body of Francs-Tireurs?
+
+OCR Text: Thirdly, would the man, and if so bow many, prefer being sent home?
+Ground Truth: Thirdly, would the men, and if to how many, prefer being sent home?
+
+OCR Text: To the first question the men gave a unanimous negative.
+Ground Truth: To the first question the men gave a unanimous negative.
+
+OCR Text: To the second ques- tion about one-third adhered conditionally.
+Ground Truth: To the second question about one-third adhered conditionally.
+
+OCR Text: To the third question about two-thirds of the men agreed.
+Ground Truth: To the third question about two-thirds of the men agreed.
+
+OCR Text: I conveyed these answers to Captain Thierry.
+Ground Truth: I conveyed these answers to Captain Thierry.
+
+OCR Text: That was the only telegram I read.--Jobn Flanedy re- called: The man whom I saw in France, and was called Colonel Dyer, is the same man whom I saw in Bolt-court, and was then called Mr. O'Hagan.
+Ground Truth: That was the only telegram I read. —John Flanedy recalled: The man whom I saw in France, and was called Colonel Dyer, is the same man whom I saw in Bolt-court, and was then called Mr. O'Hagan.
+
+OCR Text: By Blr. Merriman: The last witness, Mr. Costello, is the gentleman I referred to in my last evidence.-
+Ground Truth: By Mr. Merriman: The last witness, Mr. Costello, is the gentleman I referred to in my last evidence.—
+
+OCR Text: Janmns Wood, the captain of the steamer John Bull, in which the men were taken out to Havre, said he went, in pursuance of orders he received from Mr. Bishop, to Bolt-court.
+Ground Truth: James Wood, the captain of the steamer John Bull, in which the men were taken out to Havre, said he went, in pursuance of orders he received from Mr. Bishop, to Bolt-court.
+
+OCR Text: He there saw Mr. M'Donald. Witness asked him bow many men were going to sail to Havre.
+Ground Truth: He there saw Mr. M'Donald, Witness asked him how many men were going to sail to Havre.
+
+OCR Text: HWe replied there were 62 already paid, for, and' there might he some mnore.
+Ground Truth: He replied there were 62 already paid for, and there might be some more.
+
+OCR Text: Witness asked him, " Where is the ambulance I"
+Ground Truth: Witness asked him, "Where is the ambulance?"
+
+OCR Text: Hle replied, " It has not gone by you (the General Steam Naviga- tion company). I suppose it has gone from Dublin."
+Ground Truth: He replied, "It has not gone by you (the General Steam Navigation company). I suppose it has gone from Dublin."
+
+OCR Text: There were about 80 or 90 persons on board the vessel altogether.
+Ground Truth: There were about 80 or 90 persons on board the vessel altogether.
+
+OCR Text: Mr. M'Donald and two brothers, named otter, were in charge of the men.
+Ground Truth: Mr. M'Donald and two brothers, named Cotter, were in charge of the men.
+
+OCR Text: M'Donaid went as far as Gravesend; the Cotters went on to Havre.-After some further evidence, Sir T. Henry committed the prisoner for trial for an in- fringement of the Foraign Enlistment act, and for conspiring to commit that offence.
+Ground Truth: M'Donald went as far as Gravesend; the Cotters went on to Havre. —After some further evidence, Sir T. Henry committed the prisoner for trial for an infringement of the Foreign Enlistment act, and for conspiring to commit that offence.
+
+OCR Text: His worship agreed to admit the prisoner to bail, himself in 200k, and one surety of 2001., or two in 1001. each.
+Ground Truth: His worship agreed to admit the prisoner to bail, himself in 200l., and one surety of 200l., or two in 100l. each.

@@ -1,0 +1,62 @@
+OCR Text: I[1HM CHOLENA. - - I
+Ground Truth: THE CHOLERA.
+
+OCR Text: The epidemic shows a slight decrease in the metropos when compared with lest week, the number of death being 98,against 102.
+Ground Truth: The epidemic shows a slight decrease in the metropolis, when compared with last week, the number of death being 98 against 102.
+
+OCR Text: The return from the inspector of the B division gives the following account of two fatal cases of cholera at Deptford.
+Ground Truth: The return from the inspector of the R. division gives the following account of two fatal cases of cholera at Deptford.
+
+OCR Text: A woman named Cooper, aged fifty-two years, residing at No. 8, Creek-street, in the parish of St. Paul, died Tuesday at 5 ae.m.
+Ground Truth: A woman named Cooper, aged fifty-two years, residing at No. 8, Creek-street, in the parish of St. Paul, died Tuesday at 5 a.m.
+
+OCR Text: Her husband died on Friday might' week of the same complaint, and both were in. terred at noon on Tuesday in the burial ground of St. Paul's church.
+Ground Truth: Her husband died on Friday night week of the same complaint, and both were interred at noon on Tuesday in the burial ground of St. Paul's church.
+
+OCR Text: The man was somewhat older than the woman, and both were of very dirty habits.
+Ground Truth: The man was somewhat older than the woman, and both were of very dirty habits.
+
+OCR Text: The street is in the most filthy condition possible to conceive.
+Ground Truth: The street is in the most filthy condition possible to conceive.
+
+OCR Text: The mud and filth lie in the. road about six or eight inches deep, with surface drainage on the right hand ide, close to the houses.
+Ground Truth: The mud and filth in the road about six eight inches deep, with surface drainage on the right hand side, close to the houses.
+
+OCR Text: There are only houses on one side, the cheical factory of Messrs. Hill being on the ether.
+Ground Truth: There are only houses on one side, the chemical factory of Messrs. Hill being on the other.
+
+OCR Text: Of these sixteen houses, it must be stated, not one is supplied with water.
+Ground Truth: Of these sixteen houses, it must be stated, not one is supplied with water.
+
+OCR Text: The inhbabitants are compefled to go across the coal hbarges lying at llessrs. to as death which occurredin a hoseNo. 39,Vine-street, St. John's, Horlydown, the police state that the house is badly ventilated, there being nohback door or window, and the arrangements being very offensive.
+Ground Truth: The inhabitants are compelled to go across the coal barges lying at Messrs. Smith's wharf, and dip into the creek for all they require for domestic purposes; and at this spot the refuse water from gas works, chemical works, oil mills, &c., is discharged. The closets at the rear of many of the houses are in the most filthy state. With reference to a death which occurred in a house, No. 32, Vine-street, St. John's, Horsleydown, the police state that the house is badly ventilated, there being no back door or window, and the arrangements being very offensive.
+
+OCR Text: Several other houses adjoining are in the same conditioa, and a fatal case of cholera occurred at No. 29 on the 27th nit.
+Ground Truth: Several other houses adjoining are in the same condition, and a fatal case of cholera occurred at No. 29 on the 27th ult.
+
+OCR Text: With reference to a death that occurred in Redemes- street, Ercroulgh the police state this is the tenth death that has taken place in the samne street n and that in Saf. folk.place, Bermoudosy, altakether there have been four deaths.
+Ground Truth: With reference to a death that occurred in Redcross-street, Borough, the police state this is the tenth death that has taken place in the same street and that in Suffolk place, Bermondsey, altogether there have been four deaths.
+
+OCR Text: No. 17, where Mhe iast death occurred, is in a very filthy state. . _! ___._ra
+Ground Truth: No. 17, where the last death occurred, is in a very filthy state.
+
+OCR Text: Dr. Milroy had an interview with the guardians of St. Saviour's union, upon the subject of the public health of the parish
+Ground Truth: Dr. Milroy had an interview with the guardians of St. Saviour's union, upon the subject of the public health of the parish.
+
+OCR Text: For some weeks past the number of deaths rom cholera in this and the adjoining districts of the metropolis on the Southwark side of the river, has been steadily on the increase * and So virulent has the disease been in many cases, that the patient died within twelve hours of the severe attac
+Ground Truth: For some weeks past the number of deaths from cholera in this and the adjoining districts of the metropolis on the Southwark side of the river, has been steadily on the increase; and so virulent has the disease been in many cases, that the patient died within twelve hours of the severe attack.
+
+OCR Text: In several instances two and even three inmates of one house or even room have been attacked.
+Ground Truth: In several instances two and even three inmates of one house or even room have been attacked.
+
+OCR Text: Tbere is also a large amount of diarrhea and other premonitory sickness in various localities.
+Ground Truth: There is also a large amount of diarrhea and other premonitory sickness in various localities.
+
+OCR Text: Dr. Milroy urged the appointment of two additional medical officers, for the purpose of affording prompt as- sistance in sickness ; and also advised the board to pro. vide a suitable house or place of refuge, for the recep. tion of the inmates of such houses as might require to be thinned or emptied altogether.
+Ground Truth: Dr. Milroy urged the appointment of two additional medical officers, for the purpose of affording prompt assistance in sickness; and also advised the board to provide a suitable house or place of refuge, for the reception of the inmates of such houses as might require to be thinned or emptied altogether.
+
+OCR Text: In coasequence of the increasing amount of dierrncea and cholera in one or two of the districts of Marylebone, the sanitary committee of the parish have nominated five medical men, the district veccinator, in addition to the parochial officers, in order to afford prompt medical relief in all cases, premonitory and developed, of the epidemic,
+Ground Truth: In consequence of the increasing amount of diarrhœa and cholera in one or two of the districts of Marylebone, the sanitary committee of the parish have nominated five medical men, the district vaccinators, in addition to the parochial officers, in order to afford prompt medical relief in all cases, premonitory and developed, of the epidemic.
+
+OCR Text: The condition of the provinces remains unchangeedl
+Ground Truth: The condition of the provinces remains unchanged.

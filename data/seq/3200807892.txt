@@ -1,0 +1,44 @@
+OCR Text: ICHARGE AGAINST A MANAGING DIRECTOR.
+Ground Truth: CHARGE AGAINST A MANAGING DIRECTOR.
+
+OCR Text: ON Monday, at the Central Criminal Court, Mr. Henry William Pound, late managing director of a limited liability company, called Pound, Son, and Hatchings, now in liquidation, surrendered to take his trial for unlawfully obtaining timber of the value of £4,000, by false pretences.
+Ground Truth: ON Monday, at the Central Criminal Court, Mr. Henry William Pound, late managing director of a limited liability company, called Pound, Son, and Hutchings, now in liquidation, surrendered to take his trial for unlawfully obtaining timber of the value of £4,000, by false pretences.
+
+OCR Text: The prosectors in this case were Messrs. Brinsmead and Co., pianoforte manufacturers and timber merchants.
+Ground Truth: The prosecutors in this case were Messrs. Brinsmead and Co., pianoforte manufacturers and timber merchants.
+
+OCR Text: The company of which the defendant was the managing director was formed for the purpose of carrying on the business of timber merchants and packing-case makers.
+Ground Truth: The company of which the defendant was the managing director was formed for the purpose of carrying on the business of timber merchants and packing-case makers.
+
+OCR Text: At the close of last year they had entered into extensive contracts with the Government for the supply of pack- ing cases and ammunition boxes to the War Office.
+Ground Truth: At the close of last year, they had entered into extensive contracts with the Government for the supply of packing cases and ammunition boxes to the War Office.
+
+OCR Text: AMessrs. Brinsmead had supplied considerable quanti- ties of timber to the company, and they were desirious to have some additional security for payment.
+Ground Truth: Messrs. Brinsmead had supplied considerable quantities of timber to the company, and they were desirions to have some additional security for payment.
+
+OCR Text: An arrangement, it appeared, was then made, the terms of which were that whenever the company had sent in to the War Office packing-cases and boxes they should be supplied with timber to a corresponding amount by Brinsmead and Co., bills being given by the company for the amount.
+Ground Truth: An arrangement, it appeared, was then made, the terms of which were that whenever the company had sent in to the War Office packing-cases and boxes they should be supplied with timber to a corresponding amount by Brinsmead and Co., bills being given by the company for the amount.
+
+OCR Text: The allegation on the part of the prosecution was that from time to time the defendant represented that large quantities of cases had been delivered to the War Office, and thus fresh supplies of timber were obtained by the com- pany, the fact being that no such goods had been supplied to the War Office, and in the month of March last the company went into liquidation, which led to the discovery of the alleged fraud.
+Ground Truth: The allegation on the part of the prosecution was that from time to time the defendant represented that large quantities of cases had been delivered to the War Office, and thus fresh supplies of timber were obtained by the company, the fact being that no such goods had been supplied to the War Office, and in the month of March last the company went into liquidation, which led to the discovery of the alleged fraud.
+
+OCR Text: It appeared, however, that the contracts entered into by the company with the Government were really valuable contracts, under which the defendant's company would have derived considerable profit, and that but for the winding-up of the company by an adverse creditor, the supply of cases at the War Office would have continued to go on, and the prosecutors would, in all probability, have received full payment.
+Ground Truth: It appeared, however, that the contracts entered into by the company with the Government were really valuable contracts, under which the defendant's company would have derived considerable profit, and that but for the winding-up of the company by an adverse creditor, the supply of cases at the War Office would have continued to go on, and the prosecutors would, in all probability, have received full payment.
+
+OCR Text: It also appeared that everything that was done by the defendant in the matter was done in his capacity of managing director on behalf of the company.
+Ground Truth: It also appeared that everything that was done by the defendant in the matter was done in his capacity of managing director on behalf of the company.
+
+OCR Text: It was also elicited in favour of the defendant that at the time of the winding-up goods of the value of £500 were ready for delivery by the company to the War Office.
+Ground Truth: It was also elicited in favour of the defendant that at the time of the winding-up goods of the value of £500 were ready for delivery by the company to the War Office.
+
+OCR Text: Witnesses were called for the defence, whose evidence went to show that the com- pany was using every exertion to carry out the con- tracts, and that no fraud was contemplated.
+Ground Truth: Witnesses were called for the defence, whose evidence went to show that the company was using every exertion to carry out the contracts, and that no fraud was contemplated.
+
+OCR Text: The jury found the defendant guilty, but not with intent to defraud, and strongly recommended him to mercy.
+Ground Truth: The jury found the defendant guilty, but not with intent to defraud, and strongly recommended him to mercy.
+
+OCR Text: Mr. Gill reminded the court that the defendant had lost everything he possessed, or he would, by his connection with this company, and he never intended to commit any fraud.
+Ground Truth: Mr. Gill reminded the court that the defendant had lost everything he possessed, or he would, by his connection with this company, and he never intended to commit any fraud.
+
+OCR Text: The recorder allowed the defendant to be discharged upon his entering into a recognisance to appear and receive judgment if called upon.
+Ground Truth: The recorder allowed the defendant to be discharged upon his entering into a recognisance to appear and receive judgment if called upon.

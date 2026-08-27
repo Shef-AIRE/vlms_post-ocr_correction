@@ -1,0 +1,83 @@
+OCR Text: I PIGETFUL TRAGEDY AT GRAVESEND.
+Ground Truth: FRIGHTFUL TRAGEDY AT GRAVESEND.
+
+OCR Text: Ii On Monday, Johnc5 Horace Ho5mes, assislanr; to sir: Edwards, Italianwarehouseman, Milton-road, Gratsf end, was charged, at the Borough pohce-eoart, wrt ',e murder of Willianm Elgar, a fellow as jStant, age * teen years.
+Ground Truth: On Monday, John Horace Holmes, assistant to Mr. Edwards, Italian warehouseman, Milton-road, Graves end, was charged, at the Borough police-court, with the murder of William Elgar, a fellow assistant, aged eighteen years.
+
+OCR Text: It appeared thia ta e deceased hs beengaged on Sunday afternoon4 writing a lettI for e ousekeeper, and about a quarter to five ha was sent a stairs to call his fellow-assistant down t. tea.
+Ground Truth: It appeared that the deceased had been engaged on Sunday afternoon writing a letter for the housekeeper, and about a quarter to five he was sent upstairs to call his fellow-assistant down to tea.
+
+OCR Text: se'ent I up for that purpose, and called th4 teas He ten hrtly after a pistol was heard to g. psoffr, and on the tt proceeding to the room they, ofoundontheiyomg William Elgar lying on hisleff foundtheyoungma wol of blood.
+Ground Truth: He went up for that purpose, and called the prisoner, and shortly after a pistol was heard to go off, and on the inmates proceeding to the room they found the young man William Elgar lying on his left side with his head in a pool of blood.
+
+OCR Text: ThePrisoild side with his head i'~ tredit h ran downstairs and agayl u e rOiet suE L threw himself over tile by and prayed earnestlylw
+Ground Truth: The prisoner ran downstairs and again returned into the room and threw himself over the body and prayed earnestly.
+
+OCR Text: Dr.'Whitcombe was called a deposed as follows: Between fourand five oacoen on ejndayafternoo I was fetched to the house of Mr. Eds&ds1 Miltot road, Gravesend.
+Ground Truth: Dr. Whitcombe was called, and deposed as follows: Between four and five o'clock on Sunday afternoon I was fetched to the house of Mr. Edwards, Milton road, Gravesend.
+
+OCR Text: On going there I fohi i a ont lman lying inan upper room.
+Ground Truth: On going there I found a young man lying in an upper room.
+
+OCR Text: le was not dead, but I at once saw that the case was hopeless.
+Ground Truth: He was not dead, but I at once saw that the case was hopeless.
+
+OCR Text: With assistance I got him on the bed and remained with him till his death, which occurred about an hotue afterwards.
+Ground Truth: With assistance I got him on the bed and remained with him till his death, which occurred about an hour afterwards.
+
+OCR Text: I enquired of the prisoner how the affair happened, and be said that they were phayiigI with sticks, and he suddenly said, " I will shobt you.
+Ground Truth: I enquired of the prisoner how the affair happened, and he said that they were playing with sticks, and he suddenly said, "I will shoot you.
+
+OCR Text: He snatched a pistolfrom a cupboard, and shot him.
+Ground Truth: He snatched a pistol from a cupboard, and shot him.
+
+OCR Text: He (deceased) neverspoke after.
+Ground Truth: He (deceased) never spoke after.
+
+OCR Text: The side of the face and head wasmottled, as if the pistol had been dix- chargedclosetodeceased'shead.
+Ground Truth: The side of the face and head was mottled, as if the pistol had been discharged close to deceased's head.
+
+OCR Text: It wasabulletwotnd.
+Ground Truth: It was a bullet wound.
+
+OCR Text: I did not discover the bullet.
+Ground Truth: I did not discover the bullet.
+
+OCR Text: Prisoner told me he loaded the pistoL
+Ground Truth: Prisoner told me he loaded the pistol.
+
+OCR Text: I asked him for the weapon with which he did it, and he handed me thispisto.L (Pro. duced the weapon.)
+Ground Truth: I asked him for the weapon with which he did it, and he handed me this pistol. (Produced the weapon.)
+
+OCR Text: I examined it, and found it had been recently discharged, and that it bad a broken cap on the nipple.
+Ground Truth: I examined it, and found it had been recently discharged, and that it had a broken cap on the nipple.
+
+OCR Text: I then asked him who loaded the pistol, and he said, " he did, last Monday night, with powder and ball.
+Ground Truth: I then asked him who loaded the pistol, and he said, "he did, last Monday night, with powder and ball.
+
+OCR Text: I asked him what he had it in the room for?
+Ground Truth: I asked him what he had it in the room for?
+
+OCR Text: 'He said he kept the pistol loaded, but when he went to London last week he withdrew the charge, and or his return, -on Monday or -Tuesday, A don't know which, be reloaded it.
+Ground Truth: He said he kept the pistol loaded, but when he went to London last week he withdrew the charge, and on his return, on Monday or Tuesday, I don't know which, he reloaded it.
+
+OCR Text: He said he did not, know it was cooked at the time he pulled the trigger.
+Ground Truth: He said he did not know it was cocked at the time he pulled the trigger.
+
+OCR Text: He s"emed sorry for what hadoccurreiL and remained in the room the whole time, and did all be could to save the life of the deceased.-
+Ground Truth: He seemed sorry for what had occurred and remained in the room the whole time, and did all he could to save the life of the deceased.—
+
+OCR Text: Prisoner said that in an unconscious moment he tooA the pistoL
+Ground Truth: Prisoner said that in an unconscious moment he took the pistol.
+
+OCR Text: He didn't know it was cocked, and it exploded in his hand: deceased was shot.-The ac- cased was remanded until Friday, when he was again brought up, and committed for trial on a charge al manslaughter.
+Ground Truth: He didn't know it was cocked, and it exploded in his hand: deceased was shot. —The accused was remanded until Friday, when he was again brought up, and committed for trial on a charge of manslaughter.
+
+OCR Text: The coroner's inquest on the unfortunate deseaae& was concluded on Thursday.
+Ground Truth: The coroner's inquest on the unfortunate deceased was concluded on Thursday.
+
+OCR Text: The jury returned, after a brief deliberation, the following verdict.
+Ground Truth: The jury returned, after a brief deliberation, the following verdict.
+
+OCR Text: " That the deceased came to his f ddeath in cos. .quence of a certain pistol-shot wound inflicted bj John Horace Holmes, and the jury find the sal Holmes guilty of manslaughter."-The accused wa then committed for trial, but the coroner offered to accept baiL
+Ground Truth: "That the deceased came to his death in consequence of a certain pistol-shot wound inflicted by John Horace Holmes, and the jury find the said Holmes guilty of manslaughter." —The accused was then committed for trial, but the coroner offered to accept bail.

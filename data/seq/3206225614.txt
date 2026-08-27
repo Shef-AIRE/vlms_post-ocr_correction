@@ -1,0 +1,41 @@
+OCR Text: FATAL ACCIDENT IN PICCADILLY.
+Ground Truth: FATAL ACCIDENT IN PICCADILLY.
+
+OCR Text: On Friday eSening, Mr. Bedford held an investiga tlon, at St. George's hospital, relative to the death of Charles Smith, a boy of sixteen years of age, who, having been led to view the demolition of the park railings on Tuesday evening last, losS his life under the following eircumstances:-
+Ground Truth: On Friday evening, Mr. Bedford held an investigation, at St. George’s hospital, relative to the death of Charles Smith, a boy of sixteen years of age, who, having been led to view the demolition of the park railings on Tuesday evening last, lost his life under the following circumstances:—
+
+OCR Text: H~enryWilliam Smith, 36, Raphael-street, K~nights. bridge-green, a coach painter, identified the body as that of bis son, who was a page boy in Orchard-street, Oxford-street.
+Ground Truth: Henry William Smith, 36, Raphael-street, Knights-bridge-green, a coach painter, identified the body as that of his son, who was a page boy in Orchard-street, Oxford-street.
+
+OCR Text: Witness knew nothing of the accident.
+Ground Truth: Witness knew nothing of the accident.
+
+OCR Text: John Ward, a labourer, of 28, Francis-street, Chel- sea, said that about half-past nine on Tuesday night last, he was in Piccadilly, near the park-gates, there being but a small crowd there at the time.
+Ground Truth: John Ward, a labourer, of 28, Francis-street, Chelsea, said that about half-past nine on Tuesday night last, he was in Piccadilly, near the park-gates, there being but a small crowd there at the time.
+
+OCR Text: He saw the deceased behind a brougham, which was going abont five miles an bour.
+Ground Truth: He saw the deceased behind a brougham, which was going about five miles an hour.
+
+OCR Text: He was riding on theback of the carriage.
+Ground Truth: He was riding on the back of the carriage.
+
+OCR Text: Witness turned his head for a second, and on looking round he saw the boy between the wheel and the springs.
+Ground Truth: Witness turned his head for a second, and on looking round he saw the boy between the wheel and the springs.
+
+OCR Text: The carriage stopped on being called to.
+Ground Truth: The carriage stopped on being called to.
+
+OCR Text: Witness, with others5 eextricated the boy.
+Ground Truth: Witness, with others, extricated the boy.
+
+OCR Text: His legs were towfards the horse, one arm being betweaen the spokes, and his face between the springs.
+Ground Truth: His legs were towards the horse, one arm being between the spokes, and his face between the springs.
+
+OCR Text: BPr. Wm. Leigb, house-surgeon, deposed to seeing the deceasea when brought into the hospital.
+Ground Truth: Mr. Wm. Leigh, house-surgeon, deposed to seeing the deceased when brought into the hospital.
+
+OCR Text: There was a large scalp wound exposing the bone, a fracture of the skull, a comminuted fracture of the thigh, several bruises about the body, and no doubt internal injuries.
+Ground Truth: There was a large scalp wound exposing the bone, a fracture of the skull, a comminuted fracture of the thigh, several bruises about the body, and no doubt internal injuries.
+
+OCR Text: The wound and fractures were quite suffi- cient to cause death.
+Ground Truth: The wound and fractures were quite sufficient to cause death.

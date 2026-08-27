@@ -1,0 +1,44 @@
+OCR Text: [ II HEATRES v. MUSIC-HALLS.
+Ground Truth: THEATRES v. MUSIC-HALLS.
+
+OCR Text: I Mr. MIorris Bobeif Syers, proprietor of the Oxford Music-hall, was summoned to Marlborough-street police.court on Saturday for performing stage plays.
+Ground Truth: Mr. Morris Robert Syers, proprietor of the Oxford Music-hall, was summoned to Marlborough-street police-court on Saturday for performing stage plays.
+
+OCR Text: There were eight summonses against the defendant.
+Ground Truth: There were eight summonses against the defendant.
+
+OCR Text: -Mr. Montague Williams 4aid 'the summoncss he proceeded upon were for performing portions of two operas-namely, msaanieao and 2%e Bohemian GirK.
+Ground Truth: –Mr. Montagne Williams said the summonses he proceeded upon were for performing portions of two operas–namely, Masaniello and The Bohemian Girl.
+
+OCR Text: The characters were played in costume and on a stage.
+Ground Truth: The characters were played in costume and on a stage.
+
+OCR Text: Mr. X. F. Ylonng, an actor, late of the Charing-bross theatre, said he witnessed the performances, and he consideredthe piecesstage plays.
+Ground Truth: Mr. R. F. Young, an actor, late of the Charing-cross theatre, said he witnessed the performances, and he considered the piece’s stage plays.
+
+OCR Text: In reply to-a ques- tion, he admitted that had the performances been in plain clothes. he should not have considered them stage plays.-Mr. Allen addressed the Court for the defence.-Mr., Knox said as the pieces had been with- drawn it was not his-wish to inflict a series of venal- ties.
+Ground Truth: In reply to a question, he admitted that had the performances been in plain clothes he should not have considered them stage plays. –Mr. Allen addressed the Court for the defence. –Mr. Knox said as the pieces had been withdrawn it was not his wish to inflict a series of penalties.
+
+OCR Text: Let there be a full penalty of 201. for each of the two summonses then before him, and in the other summonses merely the costs.-The defendant inti- mated his intention of appealing against the decision.
+Ground Truth: Let there be a full penalty of 20l, for each of the two summonses then before him, and in the other summonses merely the costs. –The defendant intimated his intention of appealing against the decision.
+
+OCR Text: GaTc~r FnRE IN THE CuurAuq-EoAD. - Shortly before daybreak on Saturday morning a fire in- volvisig a serious destraction ~of proparty was dis- covered- by a police-constable of the G diision, in extensive premises belonging to Messrs. Greenway and Sons, sawmills proprietors, and mahogany and veneer merchants, situate in the Curtain-road, Shoreditcb.
+Ground Truth: GREAT FIRE IN THE CURTAIN-ROAD. –Shortly before daybreak on Saturday morning a fire involving a serious destruction of property was discovered by a police-constable of the G division, in extensive premises belonging to Messrs. Greenway and Sons, sawmills proprietors, and mahogany and veneer merchants, situate in the Curtain-road, Shoreditch.
+
+OCR Text: It appears that the tdames commenced in the principal mill.
+Ground Truth: It appears that the flames commenced in the principal mill.
+
+OCR Text: At the extreme end of this building was a smaller one, used as the boiler and enginebhonse.
+Ground Truth: At the extreme end of this building was a smaller one, used as the boiler and engine-house.
+
+OCR Text: Betweenthe two buildings werestacked in the open yard piles of timber,
+Ground Truth: Between the two buildings were stacked in the open yard piles of timber.
+
+OCR Text: fich inflanmiable -articles proved powerful auxiliaries in feeding the flames, and in less than seven minutes after the dis- covery immense sheets of fire rolled high' into the air.
+Ground Truth: Such inflammable articles proved powerful auxiliaries in feeding the flames, and in less than seven minutes after the discovery immense sheets of fire rolled high into the air.
+
+OCR Text: This caused a scene of a terrible character, the surrounding houses being severally occupied by poor families, who rushed out in their nightclothes, with their children in arms.
+Ground Truth: This caused a scene of a terrible character, the surrounding houses being severally occupied by poor families, who rushed out in their nightclothes, with their children in arms.
+
+OCR Text: The firemen worked with great vigour for some hours before the con- flagration could be subdued, and not before the ex- etensive mills, the machinery, the stock of go6ds in the place, the boiler-houses and engine-house wvere burned out, and the valuable stock in the oper yard, as well as the private dwelling of the firm, were serionsly damaged by-Ere, water, and removal.
+Ground Truth: The firemen worked with great vigour for some hours before the conflagration could be subdued, and not before the extensive mills, the machinery, the stock of goods in the place, the boiler-houses and engine-house were burned out, and the valuable stock in the open yard, as well as the private dwelling of the firm, were seriously damaged by fire, water, and removal.

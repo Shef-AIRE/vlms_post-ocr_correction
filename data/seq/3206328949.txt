@@ -1,0 +1,80 @@
+OCR Text: CHAINGE AGAINST A POLICE INSPRUITOR.
+Ground Truth: CHARGE AGAINST A POLICE INSPECTOR.
+
+OCR Text: George Haney, a detective inspector in the Portsmouth police, appeared to a sum- monso at Lambeth police-court, on Thurs- day, taken out againec him by Mr. Edward Gladstone, late a captain in the Roval Marine artillery, for unlawfully attempting, in order to obstruct the due courer of jus- tice, to dissuade one Francis Colville. a person lawfully bound to give evidence, from duly giving such evidence on or about the 29th of July.-Mr. Smyth said he pro- secuted in this case on the part of Mr. Edward Gladstone, a gentleman formerly holding the position of captain in the Royal Marine artillery.
+Ground Truth: George Harvey, a detective inspector in the Portsmouth police, appeared to a summons, at Lambeth police-court, on Thursday, taken out against him by Mr. Edward Gladstone, late a captain in the Royal Marine artillery, for unlawfully attempting, in order to obstruct the due course of justice, to dissuade one Francis Colville, a person lawfully bound to give evidence, from duly giving such evidence on or about the 29th of July. —Mr. Smyth said he prosecuted in this case on the part of Mr. Edward Gladstone, a gentleman formerly holding the position of captain in the Royal Marine artillery.
+
+OCR Text: He was now, however, a member of the English bar.
+Ground Truth: He was now, however, a member of the English bar.
+
+OCR Text: The defendant was at present an inspector of the Ports- mouth Borough police, but at the time the offence was committed with which he (Harvey) was charged he was a d6tec- tive serjeatt of the Portsmouth police.
+Ground Truth: The defendant was at present an inspector of the Portsmouth Borough police, but at the time the offence was committed with which he (Harvey) was charged he was a detective serjeant of the Portsmouth police.
+
+OCR Text: He should eharge the defendant also with others unknown with conspiring to defeat the ends of justice by preventing witnesses -attending to give evidence in the divorce case of "~Gladstone v. Gladstone."
+Ground Truth: He should charge the defendant also with others unknown with conspiring to defeat the ends of justice by preventing witnesses attending to give evidence in the divorce case of “Gladstone v. Gladstone.”
+
+OCR Text: He thought it right the defendant should knoW there were other charges against him.
+Ground Truth: He thought it right the defendant should know there were other charges against him.
+
+OCR Text: At the time the defendant was a deteotive-ser- jeant at Portsmouth he wag employed by the solicitors to Blrs. Gladstone, the peti- tioner in the divorce case, as a kind of pri- vate inquiry officer.
+Ground Truth: At the time the defendant was a detective-serjeant at Portsmouth he was employed by the solicitors to Mrs. Gladstone, the petitioner in the divorce case, as a kind of private inquiry officer.
+
+OCR Text: He called upon wit- nesses on the other side, and did all he could to dissuade them from giving evidence.
+Ground Truth: He called upon witnesses on the other side, and did all he could to dissuade them from giving evidence.
+
+OCR Text: With regard to the matter in the sumrnmens, he should prove that Francis Coiville was subpoenaed to give evidence in, 1875 in-the case of ';Gladstone v. Gladstone" at the Divorce court, in which the Queen's Proctor intervened.
+Ground Truth: With regard to the matter in the summons, he should prove that Francis Colville was subpoenaed to give evidence in 1875 in the; case of "Gladstone v. Gladstone" at the Divorce court, in which the Queen's Proctor intervened.
+
+OCR Text: Mrs. Gladstone at first obtained a deeree uisd.
+Ground Truth: Mrs. Gladstone at first obtained a decree nisi.
+
+OCR Text: The day. before Colville gave evidence he was followed on to a tramear in the Westtminster-road by the defendant.
+Ground Truth: The day before Colville gave evidence he was followed on to a tramcar in the Westminster-road by the defendant.
+
+OCR Text: Whilst on the car, on the way to Wool- wich, the defendant called Colville by a nickname hi was known by.
+Ground Truth: Whilst on the car, on the way to Woolwich, the defendant called Colville by a nickname he was known by.
+
+OCR Text: He ultimately asked him if he was a witness in the case of Gladstone, and upon telling him he was, he asked hin to tell him all about it, and handed him either two florins or two half- crowns.
+Ground Truth: He ultimately asked him if he was a witness in the case of Gladstone, and upon telling him he was, he asked him to tell him all about it, and handed him either two florins or two half crowns.
+
+OCR Text: CJolville told defendant he could- speak as to an act of adultery by Mr. Glad- stone
+Ground Truth: Colville told defendant he could speak as to an act of adultery by Mr. Gladstone
+
+OCR Text: Defendant told him not to say any- thing about It as it would do him no good.
+Ground Truth: Defendant told him not to say anything about it as it would do him no good.
+
+OCR Text: They safterwards went to a public-house at Greenwich, and defendant treated him to drink, aind told him it wonld he better for him to move hack to London.
+Ground Truth: They afterwards went to a public-house at Greenwich, and defendant treated him to drink, and told him it would be better for him to move back to London.
+
+OCR Text: He declined, however, and went on to Woolwich.
+Ground Truth: He declined, however, and went on to Woolwich.
+
+OCR Text: The defendant was setting up evidence on be- half of Mrs. Gladstone.
+Ground Truth: The defendant was getting up evidence on behalf of Mrs. Gladstone.
+
+OCR Text: He would call evidence in regard to the summons before the Court that day, and then ask for an ad- journmeit with regard to other matters, which would include that of conspiracy.
+Ground Truth: He would call evidence in regard to the summons before the Court that day, and then ask for an adjournment with regard to other matters, which would include that of conspiracy.
+
+OCR Text: Francis Colville, who said he was a bom- bardier in H battery of the 2nd Brigade Royal artillery, residing at Woolwich, gave evidence bearing out the statement of Mr. Smyth, and in closs-examination said:-I resided at the Westminster Palace hotel during the time the trial lasted.
+Ground Truth: Francis Colville, who said he was a bombardier in H battery of the 2nd Brigade Royal artillery, residing at Woolwich, gave evidence bearing out the statement of Mr. Smyth, and in cross-examination said:-I resided at the Westminster Palace hotel during the time the trial lasted.
+
+OCR Text: I was with witnesses who appeared on behalf of the Queen's Proctor.
+Ground Truth: I was with witnesses who appeared on behalf of the Queen's Proctor.
+
+OCR Text: There might have been some 25 of them.
+Ground Truth: There might have been some 25 of them.
+
+OCR Text: I knew defendant by sight. h at did not then know his name.
+Ground Truth: I knew defendant by sight, but did not then know his name.
+
+OCR Text: It was ininiediately after Itold defendant I had business in London that he gave me the money.
+Ground Truth: It was immediately after I told defendant I had business in London that he gave me the money.
+
+OCR Text: I was surprised rather, but I had no idea what it was meant for.
+Ground Truth: I was surprised rather, but I had no idea what it was meant for.
+
+OCR Text: I said nothing before giving my evideneb to the Queen's Proctor as to the interview with defendant, and what had transpired.
+Ground Truth: I said nothing before giving my evidence to the Queen's Proctor as to the interview with defendant, and what had transpired.
+
+OCR Text: I did not tell Captain Gladstone.-The case was then adjourned.
+Ground Truth: I did not tell Captain Gladstone. —The case was then adjourned.

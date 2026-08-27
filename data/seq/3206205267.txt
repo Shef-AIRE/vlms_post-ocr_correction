@@ -1,0 +1,32 @@
+OCR Text: S C O T LAND.
+Ground Truth: SCOTLAND.
+
+OCR Text: DARING THEFT OP £175 FROM A BANK COUNTER.
+Ground Truth: DARING THEFT OF £175 FROM A BANK COUNTER.
+
+OCR Text: -A Mr. Forrester baker, Gordon-street, proceeded to the Royal bank-, shortly before the time of closing, to lodge a sum of money.
+Ground Truth: —A Mr. Forrester, baker, Gordon-street, proceeded to the Royal bank, shortly before the time of closing, to lodge a sum of money.
+
+OCR Text: Raving counted out 1751. in large notes he placed thef in a bundle on the tellg-table, and was about to count out some small notes to make up the sun he wished to lodge, when a party asked him if he could give him ather note for five 11. notes.
+Ground Truth: Having counted out 175l. in large notes he placed them in a bundle on the telling-table, and was about to count out some small notes to make up the sum he wished to lodge, when a party asked him if he could give him a 5l. note for five 1l. notes.
+
+OCR Text: This he was about to do, when, on turning round, he haw or thought he saw, a hand hastily drawn fero the counter, and when he looked more parichularly, found to his surprise that his mde pof a1i5l hadlf disappeaued.
+Ground Truth: This he was about to do, when, on turning round, he saw, or thought he saw, a hand hastily drawn from the counter, and when he looked more particularly, found to his surprise that his bundle of 175l. had disappeared.
+
+OCR Text: He then observed a smat litle f llo astily leaving the bank, whom bel smarthittes witho wIch would heur inma he at once suspected of the theft, andwho heyim- mediately followed. On getting to the street, how- ever, the fellow bad turned the corner before Mr. Fofrester could giv the alaro i The daring thief consequently escaped butawe hope onlyto be captured. information was at once given to the police, hut as yet we have not heard of any traces of the rascl hav- ing been found. -GlasgowO Jestuoia.
+Ground Truth: He then observed a smart little fellow hastily leaving the bank, whom he at once suspected of the theft, and whom he immediately followed. On getting to the street, however, the fellow had turned the corner before Mr. Forrester could give the alarm. The daring thief consequently escaped but we hope only to be captured. Information was at once given to the police, but as yet we have not heard of any traces of the rascal having been found. —Glasgow Journal.
+
+OCR Text: Cjoot APRsPoFATLIfoN. -A "gentleman, dressed in tip-top fashion, arrived at the Golden Lion hotel, Stirling, driving a gig which he had hired in Ala.
+Ground Truth: COOL APPROPRIATION. —A "gentleman," dressed in tip-top fashion, arrived at the Golden Lion hotel, Stirling, driving a gig which he had hired in Alloa.
+
+OCR Text: Having partaken of refreshment and otherwise made himse comfertable, he informed Mr. Campbell, the hatelkeeper, that as he had to visit a gentleman in the neighbourhood, and as his gig was a little dusty, he would avail himself of the use of one of Mr. Camp- bell's machines, with which he would return in an hour or so, when he would pay for the conveyance and return to Alloa.
+Ground Truth: Having partaken of refreshment and otherwise made himself comfortable, he informed Mr. Campbell, the hotel keeper, that as he had to visit a gentleman in the neighbourhood, and as his gig was a little dusty, he would avail himself of the use of one of Mr. Campbell's machines, with which he would return in an hour or so, when he would pay for the conveyance and return to Alloa.
+
+OCR Text: He accordingly got possession of a horse and ggto visit his friend, but has not since returned.
+Ground Truth: He accordingly got possession of a horse and gig to visit his friend, but has not since returned.
+
+OCR Text: It ths been ascertained that the fellow, in company with an accomplice whom he had picked up about tbe outskirts of the town, drove on to Falkirkc, whesre he changed horses at the Red Lion hotel, and drove on through Linlithgow into Edinburgh, where he has in the meantime been lost sight of.
+Ground Truth: It has been ascertained that the fellow, in company with an accomplice whom he had picked up about the outskirts of the town, drove on to Falkirk, where he changed horses at the Red Lion hotel, and drove on through Linlithgow into Edinburgh, where he has in the meantime been lost sight of.
+
+OCR Text: He has thus succeeded in victisnising Mr. Campbell of a gig, and Mr. Scott, of Falkirk, of a horse, and what is still more wonderful, he travelled the whole way from Alicia to Linlithg ow without paying a single toll- having at each bar represented that he would pay on returning, thus managing to do the toll-keepers.,- Stirling Journael.
+Ground Truth: He has thus succeeded in victimising Mr. Campbell of a gig, and Mr. Scott, of Falkirk, of a horse, and what is still more wonderful, he travelled the whole way from Alloa to Linlithgow without paying a single toll having at each bar represented that he would pay on returning, thus managing to do the toll-keepers. —Stirling Journal.

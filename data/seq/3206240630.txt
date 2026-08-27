@@ -1,0 +1,29 @@
+OCR Text: MEDICAL PR{OSECUTION.
+Ground Truth: MEDICAL PROSECUTION.
+
+OCR Text: On Friday, at Bow-street police-court, Charles Wcdsme, otherwise "Dr. Watson, 1, South-6resoent, Bedford.square, governor of the Look hospital, mem- ber of the Royal College of Physicians and Surgeons, &e.," who was also ldvertised as Ds. HiP, Berkeley house, Bedford square. was brought up on a charge of publishig an obsence book.-Evidence of publication saving beea given it was proved that 4,190 copies of the work in question were seized in the defendant's realidence.
+Ground Truth: On Friday, at Bow-street police-court, Charles Watson, otherwise "Dr. Watson, 1, South-crescent, Bedford-square, governor of the Look hospital, member of the Royal College of Physicians and Surgeons, &c.," who was also advertised as Dr. Hill, Berkeley house, Bedford-square, was brought up on a charge of publishing an obscene book. —Evidence of publication having been given it was proved that 4,190 copies of the work in question were seized in the defendant's residence.
+
+OCR Text: The work had beenexteoisivelv advertised throughout the country, and it was stated that it had been disseminated by hundreds of thousands for the purpose of terrifying the weak-minded, and bringing them within the power: f the so called " Doctor."-
+Ground Truth: The work had been extensively advertised throughout the country, and it was stated that it had been disseminated by hundreds of thousands for the purpose of terrifying the weak-minded, and bringing them within the power of the so-called "Doctor."—
+
+OCR Text: Mr. Serjeant Sleigh, on the part of the defendant, urged that he wee a duly-qualified medical man in America, and that the w ork was a scientific publica- tisn, no more immoral than eimilar worke by Dr. Ceurtuey and other English medical men.-Ar. Flowerse thought the case raised a very grave question, 2nd he committed the defendant for trial.
+Ground Truth: Mr. Serjeant Sleigh, on the part of the defendant, urged that he was a duly-qualified medical man in America, and that the work was a scientific publication, no more immoral than similar works by Dr. Courtney and other English medical men. —Mr. Flowers thought the case raised a very grave question, and he committed the defendant for trial.
+
+OCR Text: TiE BEmsotnsEYESxptosiox.-Mr. W. J. Payne resumed the adjourned inquest upon Samuel and George Stmmonds, the victims of the Bermondsey beiler explosion, at Guy's hospital, on Friday.
+Ground Truth: THE BERMONDSEY EXPLOSION. —Mr. W. J. Payne resumed the adjourned inquest upon Samuel and George Simmonds, the victims of the Bermondsey boiler explosion, at Guy's hospital, on Friday.
+
+OCR Text: -John Walker, of the firm of'Cater and Walker, the makers of the boiler, gave evidence, and said he believed the blier was safe to work up to between cl5b. and 601b. presaure,-Mr. J. Brlofarlane. the Inspector, said the rivets, where the explosion took place, were through 1-16 and 7.16 inch plates.
+Ground Truth: —John Walker, of the firm of Cater and Walker, the makers of the boiler, gave evidence, and said he believed the boiler was safe to work up to between 50lb. and 60lb. pressure. —Mr. J. Macfarlane the inspector, said the rivets, where the explosion took place, were through 5-16 and 7-16 inch plates.
+
+OCR Text: The tubs was too weak far the pressure to which it was subjected, and ought cot to have been worked at the very most at more than 251b. per square inch.
+Ground Truth: The tubs was too weak for the pressure to which it was subjected, and ought not to have been worked at the very most at more than 25lb. per square inch.
+
+OCR Text: In his judgment all the tine the pressure was more than 251b., the tube had eet on the verme of destruction.
+Ground Truth: In his judgment all the time the pressure was more than 25lb., the tube had been on the verge of destruction.
+
+OCR Text: The boiler was in 65irt-ete condition, and was broken downfrom sheer Ver.pressre
+Ground Truth: The boiler was in first-rate condition, and was broken down from sheer over pressure.
+
+OCR Text: The C oroner summed up at great dengta and the jury returned a verdict of " Acci- future death with the recommendation that, in G~vet e' 5and steam boilers should be subject to oroher strit supervision, and that a oPh'd shcald he hang up in every engine-room Sclgtheamnountatwhich theenglnenuaybeworked.
+Ground Truth: —The Coroner summed up at great length, and the jury returned a verdict of "Accidental death," with the recommendation that, in future, all land steam boilers should be subject to Government or other strict supervision, and that a placard should be hung up in every engine-room showing the amount at which the engine may be worked.

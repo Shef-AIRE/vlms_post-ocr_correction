@@ -1,0 +1,14 @@
+OCR Text: DEATH OF A SCHOOLBOY THROUGH VIO- LENCE.-Of Thursday Mr. Payne held a lengthy inquiry at the Board-room of St. George's, Southwark, as to the death of Charles Carrill, aged six andi a half years, living with his parents at 8, Harrow-street, nounicwarlk, who met with his death by violence at the Ihounali Catholic school, Higlt-street, Borough, on Wednesday lait week.
+Ground Truth: DEATH OF A SCHOOLBOY THROUGH VIOLENCE. –On Thursday Mr. Payne held a lengthy inquiry at the Board-room of St. George’s, Southwark, as to the death of Charles Carrill, aged six and a half years, living with his parents at 8, Harrow-street, Southwark, who met with his death by violence at the Roman Catholic school, High-street, Borough, on Wednesday last week.
+
+OCR Text: FTors the evidence of tile mother, it appeared that the boy went to school o0t itse Wednesday afternoon at two o'clock quite well, but on returning at four o'clock he was very ill, and said " a big boy had kicked him in the stomach."
+Ground Truth: From the evidence of the mother, it appeared that the boy went to school on the Wednesday afternoon at two o’clock quite well, but on returning at four o’clock he was very ill, and said “a big boy had kicked him in the stomach.”
+
+OCR Text: On Thursday a doctor w:ts sent for, who attended him till his death, which occurred on Saturday last.
+Ground Truth: On Thursday a doctor was sent for, who attended him till his death, which occurred on Saturday last.
+
+OCR Text: Notting could be ascertained as to what boy had committed the assault.
+Ground Truth: Nothing could be ascertained as to what boy had committed the assault.
+
+OCR Text: The coroner summed uip, and the Jury, after 15 ntimiutes' deliberation, retuiined a verdict " That the deceased died tihrosigh violence receiced at the schools, but there is not self. licient evidence toshow by whom caused."
+Ground Truth: The coroner summed up, and the jury, after 15 minutes’ deliberation, returned a verdict “That the deceased died through violence received at the schools, but there is not sufficient evidence to show by whom caused.”

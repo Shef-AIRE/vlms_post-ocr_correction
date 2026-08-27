@@ -1,0 +1,38 @@
+OCR Text: 1ROB BfltRY fROoM AN HOTEL. - +1q in- - nsl.,Thmnpes Bench. a wvell-dre, a
+Ground Truth: ROBBERTY FROM AN HOTEL.
+
+OCR Text: BsEo011E the Kingston.on-Thames Bench, a wvell-dres55e young woman, named Bridget Donovan, tsvwenty5 ° years of age, was brought up on remand chaec t stealing from the Oak Olue, Surbiton, between a datcit February this year and the 4th of April a jacet ash sunshaide, valued £5, the property (if Helen N'ewt5v- wife of Mr. Harry Isaac 2Newton, the landlord,
+Ground Truth: BEFORE the Kingston-on Thames Bench, a well-dressed young woman, named Bridget Donovan, twenty-one years of age, was brought up on remand charged with stealing from the Oak Hotel, Surbiton, between a date is February this year and the 4th of April a jacket and a sunshade, value £5, the property of Helen Newton, wife of Mr. Harry Isaac Newton, the landlord.
+
+OCR Text: Mr. G. Washington Foxanppsered to promcuite, and Ur, T Young defended.
+Ground Truth: Mr. G. Washington Fox appeared to prosecute, and Mr. T. Young defended.
+
+OCR Text: Mrs. Newton stated that the prisonel had been employed at the Oak Hotel as housemaid si,' Christmas last, and was given notice to leave in Cel" quence of ,itebehavioir.
+Ground Truth: Mrs. Newton stated that the prisoner had been employed at the Oak Hotel as housemaid since Christmas last, and was given notice to leave in consequence of misbehavior.
+
+OCR Text: Witness ws alway from heg from thte 1th of Febixnary until the 5th of April, sal upon returning on the latter date discovered that a lsr t number ofarticles belonging to her hacd been stolen, 0l that plato and jewellery to tihe amount of shout f0 wcl also gone.
+Ground Truth: Witness was away from home from the 19th of February until the 5th of April, and upon returning on the latter date discovered that a large number of articles belonging to her had been stolen, and the plate and jewellery to the amount of about £50 were also gone.
+
+OCR Text: Witness went to 22, Adelaide-road, PeOPE where ths prisoner was employed as a IdomrestiecervaYT and there identifled the jacket and the sunshade PI! duced.
+Ground Truth: Witness went to 22, Adelaide-road, Penge, where the prisoner was employed as a domestic servant, and there identified the jacket and the sunshade produced.
+
+OCR Text: The prisoner, she understood, had obtained tIi situation without givinga character.
+Ground Truth: The prisoner, she understood, had obtained this situation without giving a character.
+
+OCR Text: Till answer toly1 Young, the prisoner said that thu articles were lbefL charge of her husband and her mother, hut the prii,0 had access to them,
+Ground Truth: In answer to Mr. Young, the prisoner said that the articles were left in charge of her husband and her mother, but the prisoner had access to them.
+
+OCR Text: oiecntbeJhsnsait at Penge, deposed to arresting til prisonr 2A laide-road, Penge, when Eshe produced thle jacket and it sunishade, alleging that she bought the jacket at alwa'a robe shop at Walton, and that the suiusa)H'de woo g10V to hier.
+Ground Truth: Police-constable Johnson, stationed at Penge, deposed to arresting the prisoner at 22, Adelaide-road, Penge, when she produced the jacket and the sunshade, alleging that she bought the jacket at a wardrobe shop at Walton, and that the sunshade was given to her.
+
+OCR Text: Detective-sergeant Morley stated that inqus't'! had been made to try end recover thte remainder ef te stolen property, but with~out success, tho prisoner dcnYl~ all noedge ofit.
+Ground Truth: Detective sergeant Morley stated that inquiries had been made to try and recover the remainder of the stolen property, but without success, the prisoner denying all knowledge of it.
+
+OCR Text: Mr. Young then ad dressd te magistrate for the defence, putting stress upon t hitherto respectable character of the prisoner. as upon that of her parente, in Herahail.
+Ground Truth: Mr. Young then addressed the magistrate for the defence, putting stress upon the hitherto respectable character of the prisoner, as well as upon that of her parents, in Hersham.
+
+OCR Text: She haidfalSt been in thimservice of the Durchess of AlIb~isY at Chili mornt, F-her.
+Ground Truth: She had formerly been in the service of the Duchess of Albany, at Claremont, Esher.
+
+OCR Text: The niap~istrates dealt wvitrh hler unde~r First Odffnders' AcUt, and bound hier over in tiSe 511151 L£10 to tome up for judgment wheis carlled 011011.
+Ground Truth: The magistrates dealt with her under the First Offenders’ Act, and bound her over in the sum of £10 to come up for judgment when called upon.

@@ -1,0 +1,35 @@
+OCR Text: C11A-.GE O' MURTlDUnAT PLYMOtOTiT.-The Plymouth magistrates, on Monday, committed a labourer, named Derrett, for trial on a charge of murdering his wife by stabbing her to the heart on the 4:h nlt,
+Ground Truth: CHARGE OF MURDER AT PLYMOUTH. —The Plymouth magistrates, on Monday, committed a labourer, named Derrett, for trial on a charge of murdering his wife by stabbing her to the heart on the 4th ult.
+
+OCR Text: They had been married only four monthit.
+Ground Truth: They had been married only four months.
+
+OCR Text: The man appeared to have been subj'eted to considerable provocation from thle deceased, with whom be formerly lodged.
+Ground Truth: The man appeared to have been subjected to considerable provocation from the deceased, with whom he formerly lodged.
+
+OCR Text: Her, former husband had been dead about twelve months, and her grown-up daughters opposed the marriage.
+Ground Truth: Her former husband had been dead about twelve months, and her grown-up daughters opposed the marriage.
+
+OCR Text: Tamn SHOCKING CAHtAGE AGAINST AN INSPECTOR,-
+Ground Truth: THE SHOCKING CHARGE AGAINST AN INSPECTOR.—
+
+OCR Text: Lionel Hans Hamilton, forty-five, lately Government Inspector of Factoriesfor the North-Eastern Districet, and Henry Dady, twenty-two, clerk, were charged, at New- castle, on Wednetsday, jointly and separately, with inde- cency, and with having conspired to induce others to commit hooking offences.
+Ground Truth: Lionel Hans Hamilton, forty-five, lately Government Inspector of Factories for the North-Eastern District, and Henry Dady, twenty-two, clerk, were charged, at New castle, on Wednesday, jointly and separately, with indecency, and with having conspired to induce others to commit shocking offences.
+
+OCR Text: Aftersome evidence had been taken the further hearing of the case was adjourned for a week.
+Ground Truth: After some evidence had been taken the further hearing of the case was adjourned for a week.
+
+OCR Text: Hamilton held a good position in society, and the scandal has caused considerable sensation.
+Ground Truth: Hamilton held a good position in society, and the scandal has caused considerable sensation.
+
+OCR Text: ARSON AT TOTTEN11Am-On Thursday morning, at twenty minutes to six, a small coal shop in Stamford-road Tottenham, kept by a Mr. Ayres, was found to be well alight,
+Ground Truth: ARSON AT TOTTENHAM. —On Thursday morning, at twenty minutes to six, a small coal shop in Stamford-road Tottenham, kept by a Mr. Ayres, was found to be well alight.
+
+OCR Text: The fire was ultimately extinguished, and the damage was confined to the building.
+Ground Truth: The fire was ultimately extinguished, and the damage was confined to the building.
+
+OCR Text: There have been four other unsuccessful attempts to bhrn the place, priu- cipally directed egainst the rear of the building, and in cresqtepee the outbuildin~gs have been pulled down.
+Ground Truth: There have been four other unsuccessful attempts to burn the place, principally directed against the rear of the building, and in consequence the outbuildings have been pulled down.
+
+OCR Text: A fortight ago Mr. Ayres received an anonymous letter chreatenihg that aineb the writers could not burn him osit at the bhack they w~buld "blow his brains out at the front."'
+Ground Truth: A fortnight ago Mr. Ayres received an anonymous letter threatening that since the writers could not burn him out at the back they would "blow his brains out at the front."

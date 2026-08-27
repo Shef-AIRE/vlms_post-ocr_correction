@@ -1,0 +1,41 @@
+OCR Text: THE GREAT SEIZURE OF ARMS.
+Ground Truth: THE GREAT SEIZURE OF ARMS.
+
+OCR Text: At Bow-stree.± on Monday, Tkomas Walsh was brought up for Wnal examination on the charge of treason-felony.-Henry Johnson, licensed carmRn, of 9, Milk-street, C"heapside, stated that he knew the prisoner by the name of Walsh since August, 1879, to February, 1882, during which time lie had been in the habit of hiring witness's vans.
+Ground Truth: At Bow-street, on Monday, Thomas Walsh was brought up for final examination on the charge of treason-felony. –Henry Johnson, licensed carman, of 9, Milk-street, Cheapside, stated that he knew the prisoner by the name of Walsh since August, 1879, to February, 1882, during which time he had been in the habit of hiring witness's vans.
+
+OCR Text: (A list of the carmen accompanying the vans was produced,)
+Ground Truth: (A list of the carmen accompanying the vans was produced.)
+
+OCR Text: In February. 1880, prisoner hired a loft in some stables belonging to witness at 18 Wharf, Macclesfield- street, City-Toad.
+Ground Truth: In February, 1880, prisoner hired a loft in some stables belonging to witness at 18 Wharf, Macclesfield-street, City-road.
+
+OCR Text: On one occasion witness saw him engaged in "tinkering up" some old guns-John Dean, who was formerly employed at Messrs. Goe- deske's, of Jewin-crescent, City, and knew the pri. sonerby the nameof Walsh, deposed tothepurchase of several rifles and revolvers fromh the firm by the prisoeer.-Edward Beard, chief armnourer at the Tower of London, said the rifles seized were old Enfield rifles converted into Sniders.
+Ground Truth: On one occasion witness saw him engaged in "tinkering up" some old guns. —John Dean, who was formerly employed at Messrs. Goedecke's, of Jewin-crescent, City, and knew the prisoner by the name of Walsh, deposed to the purchase of several rifles and revolvers from the firm by the prisoner. –Edward Beard, chief armourer at the Tower of London, said the rifles seized were old Enfield rifles converted into Sniders.
+
+OCR Text: They were not of Government make, and the marks of the Crown and the word Tower were imitations.
+Ground Truth: They were not of Government make, of the Crown and the word Tower imitations.
+
+OCR Text: There were 30 Colt's revolvers, 27 being broechloaddrs.
+Ground Truth: There were 30 Colt's revolvers, 27 being breechloaders.
+
+OCR Text: The rifles refetred to in evidence and brought by the police from Ireland were of the same description as those deposited at the Tower.-Mr. Abrahams then addressed the ma- gistrate on behalf of the defendant, subtting that no evidence had been adduced bearing upon the chargo of treason-felony.
+Ground Truth: The rifles referred to in evidence and brought by the police from Ireland were of the same description as those deposited at the Tower. –Mr. Abrahams then addressed the magistrate on behalf of the defendant, submitting that no evidence had been adduced bearing upon the charge of treason-felony.
+
+OCR Text: He felt strongly the task lie had before Lim in asking for the pri. soner's discharge, bat lie contended that he could not be held as the charge was now framed.
+Ground Truth: He felt strongly the task he had before him in asking for the prisoner's discharge, but he contended that he could not be held as the charge was now framed.
+
+OCR Text: The Drisoner must be shown to have taken part in a treasonable conspiracy of confederation against the Queen or the Government before Iis committal on the present charge could be justified.
+Ground Truth: The prisoner must be shown to have taken part in a treasonable conspiracy of confederation against the Queen or the Government before his committal on the present charge could be justified.
+
+OCR Text: The arms were not sent over to Ireland with any treasonable object, and no evidence had been brought by the prosecution to show that esch was the case-Sir James Ingham committed the prisoner for trial.
+Ground Truth: The arms were not sent over to Ireland with any treasonable object, and no evidence had been brought by the prosecution to show that such was the case. —Sir James Ingham committed the prisoner for trial.
+
+OCR Text: It is stated that a curious circumstance in connec- tionwith the prisoner Walsh,who is now at the House of Detention, Olerkenwell. awaiting his trial on a charge of treason-felony, has just come to light.
+Ground Truth: It is stated that a curious circumstance in connection with the prisoner Walsh, who is now at the House of Detention, Clerkenwell, awaiting his trial on a charge of treason-felony, has just come to light.
+
+OCR Text: When his linenwas sent into thegaol on Wednesday, the authorities discovered a stone-coloured india- rubber ball with his name on it carefully con- cealed in the bundle,
+Ground Truth: When his linen was sent into the gaol on Wednesday, the authorities discovered a stone-coloured india-rubber ball with his name on it carefully concealed in the bundle.
+
+OCR Text: Taken by itself, this, it is added, would not be considered a very important thing, but when it is remembered that immediately before the walls of the House of Detention were blown down in 1867, a similar ball was thrown over as a signal, the authorities have felt themselves jus- tified, in case of any surprise being attempted, in doubling the guard outside the prison,
+Ground Truth: Taken by itself, this, it is added, would not be considered a very important thing, but when it is remembered that immediately before the walls of the House of Detention were blown down in 1867, a similar ball was thrown over as a signal, the authorities have felt themselves justified, in case of any surprise being attempted, in doubling the guard outside the prison.

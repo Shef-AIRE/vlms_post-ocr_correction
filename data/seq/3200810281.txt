@@ -1,0 +1,53 @@
+OCR Text: A SMAIT CAPTU2MN, : i: A r - -11
+Ground Truth: A SMART CAPTURE.
+
+OCR Text: JAMES MORRIS, a tailor, giving an address in Cow- fr per-street, City-road, was charged before Mr. Curtis- to Bennett, at the West London Police-court, with C' being a suspeoted perfot.
+Ground Truth: JAMES MORRIS, a tailor, giving an address in Cowper-street, City-road, was charged before Mr. Curtis-Bennett, at the West London Police-court, with being a suspected person.
+
+OCR Text: DeteotivE-serpgeantBrowvp, at F Divlsion, deposed that on Wednesday evening he was in a train which arrived at Migh-street, Keonsing- ton Stastlol, on its way to Kiog's Otoms.
+Ground Truth: Detective-sergeant Brown, F Division, deposed that on Wednesday evening he was in a train which arrived at High-street, Kensington Station, on its way to King’s Cross.
+
+OCR Text: He looked S . out of the window and saw tbe prisoner on the plat. t i form in the company of two other men.
+Ground Truth: He looked out of the window and saw the prisoner on the platform in the company of two other men.
+
+OCR Text: Suspecting Sr 3them he immediately alighted,,and saw the two men i hurry in front of a lady who was malilg her way to v a third-olass carriage, the pisoner following behind, 1.
+Ground Truth: Suspecting them he immediately alighted, and saw the two men hurry in front of a lady who was making her way to a third-class carriage, the prisoner following behind.
+
+OCR Text: 5The two men pretended to get in rad kept the lady back.
+Ground Truth: The two men pretended to get in and kept the lady book.
+
+OCR Text: The prisoner went up with a paper in his -ti left hand, and passed the right under it into the e lady's pocket.
+Ground Truth: The prisoner went up with a paper in his left hand, and passed the right under it into the lady’s pocket.
+
+OCR Text: Tbinking he had taked out something;, i witness caught hold of both his sreas and held hirm f
+Ground Truth: Thinking he had # out something, witness caught hold of both his arms and held him.
+
+OCR Text: ; The prisoner struggled andd eaid, "What are yu I , doing-you bave made a mistake; where are your, 1d d witnesses t''
+Ground Truth: The prisoner struggled and said, “What are you doing—you have made a mistake; where are your witnesses?”
+
+OCR Text: He tola him, to, be quiet and said ha Y would tell him.
+Ground Truth: He told him to be quiet and said he would tell him.
+
+OCR Text: He called for assistance but no one n oame, and the two men went off ly the train in Y another compartment.b.l
+Ground Truth: He called for assistance but no one came, and the two men went off by the train in another compartment.
+
+OCR Text: He took him to the palice. tr station, and while the chagae was being preforrod rthe prisoner said, "You say the right hbnd was t put into the lady's pocket, I always thought that it was the lefr,"
+Ground Truth: He took him to the police-station, and while the charge was being preferred the prisoner said, “You say the right hand was put into the lady’s pocket, I always thought that it was the left.”
+
+OCR Text: Ia answer to the charge the cisoner h uaid. the officer had made a, mistake.
+Ground Truth: In answer to the charge the prisoner said the officer had made a mistake.
+
+OCR Text: No one was f with him.
+Ground Truth: No one was with him.
+
+OCR Text: Mr. Ourtie.-manlott aSked the pniLoner to ir give an account of himseal and to call witnesesa on ly his behalf.
+Ground Truth: Mr. Curtis-Bennett asked the prisoner to give an account of himself and to call witnesses on his behalf.
+
+OCR Text: BEe said if the prisoner was a sraupectable I re man he could clI them.
+Ground Truth: He said if the prisoner was a respectable man he could call them.
+
+OCR Text: The prisonor said his I friends were in Paris and Monte Carlo.
+Ground Truth: The prisoner said his friends were in Paris and Monte Carlo.
+
+OCR Text: 1-r.. Qrtis.- tBenuet cammitted the .prisoner to gvl, for three isrt months with. hard hbabeur.
+Ground Truth: Mr. Curtis-Bennett committed the prisoner to goal, for three months with hard labour.

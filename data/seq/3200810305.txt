@@ -1,0 +1,53 @@
+OCR Text: S ADLY NEGLUCTED CHLDREN.
+Ground Truth: SADLY NEGLECTED CHILDREN.
+
+OCR Text: HENRY Howx, who called himnolf a jobbing carpenter and farniture porter, with no fixed abode, was charged at the Westminster Police-oourt with cruelty and negleot to his three children, aged respectively six, eight, and ten.
+Ground Truth: HENRY HOWE, who called himself a jobbing carpenter and furniture porter, with no fixed abode, was charged at the Westminster Police-court with cruelty and neglect to his three children, aged respectively six, eight, and ten.
+
+OCR Text: On the Ist inat. a constable saw the prisoner begging at public-houses with thres wretchedly-clad little girls, and hoard him use very bad language to them.
+Ground Truth: On the 1st inst. a constable saw the prisoner begging at public-houses with three wretchedly-clad little girls, and heard him use very bad language to them.
+
+OCR Text: The children were in a fear- fully neglected state, and after prisoner was arrested inquiries were made, which resulted In the present prosecutioa.
+Ground Truth: The children were in a fearfully neglected state, an after prisoner was arrested inquiries were made, which resulted in the present prosecution.
+
+OCR Text: It was given -in evidence that in Frebrnary lmst the family occupied an underground atone floor kitdhenUin Kennington-lane, and that from there the mother' of the girls (prisoner's wife) was removed to the workhouse infirmary, dying from consumption.
+Ground Truth: It was given in evidence that in February last the family occupied an underground stone floor kitchen in Kennington-lane, and that from there the mother of the girls (prisoner’s wife) was removed to the workhouse infirmary, dying from consumption.
+
+OCR Text: Agnes Thompson, wife of a gais woiks foreman, deposed that she was a lodger in 'the same house, and that both before snd after the removal of the mother the children were half-starved and filhy.
+Ground Truth: Agnes Thompson, wife of a gas works foreman, deposed that she was a lodger in the same house, and that both before and after the removal of the mother the children were half-starved and filthy.
+
+OCR Text: Witness had heard the poor woman groaning and the children crying, but she could only tielp them to a limited extent.
+Ground Truth: Witness had heard the poor woman groaning and the children crying, but she could only help them to a limited extent.
+
+OCR Text: She had given the little girls. food, and had known them make their way to the top of the house to beg for bread.
+Ground Truth: She had given the little girls food, and had known them make their way to the top of the house to beg for bread.
+
+OCR Text: One night, after the mother's death, witness went for' a policeman, as the children were huddled together on khe stones without fire, light, food, covering, or furniture.
+Ground Truth: One night, after the mother’s death, witness went for a policeman, as the children were huddled together on the stones without fire, light, food, covering, or furniture.
+
+OCR Text: The only thing in the room was a tin pail.
+Ground Truth: The only thing in the room was a tin pail.
+
+OCR Text: There were four panes of glass oub of the windows, and it was freezing hard and snouwing heavily.
+Ground Truth: There were four panes of glass out of the windows, and it was freezing hard and snowing heavily.
+
+OCR Text: Prisoner'spractioewastocomehomedrunk between twelve and one in the morning.
+Ground Truth: Prisoner’s practice was to come home drunk between twelve and one in the morning.
+
+OCR Text: Hle wnt out about ten in the day, and did not trouble about the children at all.
+Ground Truth: He went out about ten in the day, and did not trouble about the children at all.
+
+OCR Text: Police-constable 122 L fully corroborated the foregoing evidence as to the con- dition of the children and room.
+Ground Truth: Police-constable 122 L fully corroborated the foregoing evidence as to the condition of the children and room.
+
+OCR Text: He found the little girls otothed only in rags, and book them to the' workhouse.
+Ground Truth: He found the little girls clothed only in rage, and took them to the workhouse.
+
+OCR Text: The very day after the children had been cleansed and looked after in the workhonse the! prisonertook them out, though he had no home or habitation, and that from that time forth and till lately he had been with his family in and out of varions workhouses, aending the little ones out to beg in the daytime and taking the money they obtained.
+Ground Truth: The very day after the children had been cleansed and looked after in the workhouse the prisoner took them out, though he had no home or habitation, and that from that time forth and till lately he had been with his family in and out of various workhouses, sending the little ones out to beg in the daytime and taking the money they obtained.
+
+OCR Text: Trlree monthe' hard labour.
+Ground Truth: Three months’ hard labour.
+
+OCR Text: The children were tken care of by an official from the Flower Girls' Mission.
+Ground Truth: The children were taken care of by an official from the Flower Girls’ Mission.

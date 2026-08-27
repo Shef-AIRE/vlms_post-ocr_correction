@@ -1,0 +1,104 @@
+OCR Text: MUTINY ON BOARD A QUMN'S SHIP.
+Ground Truth: MUTINY ON BOARD A QUEEN'S SHIP.
+
+OCR Text: At the Mansion.house, on Tuesday, Richard Edwards and James Meek were brought before Alderman Gibbs, upon the charge of having endeavoured to excite a revolt on board her Majesty's caUtter Gossamer, on the Dutch coast.
+Ground Truth: At the Mansion-house, on Tuesday, Richard Edwards and James Meek were brought before Alderman Gibbs, upon the charge of having endeavoured to excite a revolt on board her Majesty's cutter Gossamer, on the Dutch coast.
+
+OCR Text: The prisoners had been brought home in irons.-
+Ground Truth: The prisoners had been brought home in irons.
+
+OCR Text: Mr. Swainson, fromn the office of the solicitor to the Ad. miralty, attended for the prosecution; Mr. Wontner ap- peared for the prisossers.-The following is the essential part of the evidence, which was detailed at considerable length:-
+Ground Truth: Mr. Swainson, from the office of the solicitor to the Admiralty, attended for the prosecution; Mr. Wontner appeared for the prisoners. —The following is the essential part of the evidence, which was detailed at considerable length: —
+
+OCR Text: Mr. D. Hall, second master in her Majesty's navy, and commander of her majesty's cutter Gossamer, said: - The prisoners were able seamen on board the Gossamer, which was at the time I speak of surveying on the coast of the Netherlands.
+Ground Truth: Mr. D. Hall, second master in her Majesty's navy, and commander of her majesty's cutter Gossamer, said: —The prisoners were able seamen on board the Gossamer, which was at the time I speak of surveying on the coast of the Netherlands.
+
+OCR Text: I believe them to be under martial law.
+Ground Truth: I believe them to be under martial law.
+
+OCR Text: I hired them bothinher Majesty'3 service.
+Ground Truth: I hired them both in her Majesty's service.
+
+OCR Text: On the 16th of September, about eight in the morning, the vessel was lying in the port-of Nieudiep, in the Netherlands.
+Ground Truth: On the 16th of September, about eight in the morning, the vessel was lying in the port of Nieudiep, in the Netherlands.
+
+OCR Text: Edwards advised the crew to come aft to meon the quar- ter-deck.
+Ground Truth: Edwards advised the crew to come aft to me on the quarter-deck.
+
+OCR Text: I went on deck and found the crew there.
+Ground Truth: I went on deck and found the crew there.
+
+OCR Text: One of the crew, named Widyer, said be thought himself not properly treated; upon' which the prisoner' Edwards turned round and 'demanded his discharge of me.
+Ground Truth: One of the crew, named Widyer, said he thought himself not properly treated; upon which the prisoner Edwards turned round and demanded his discharge of me.
+
+OCR Text: I re. monstrated with him and with the rest of the crew, and explained to themn the fully of anch conduct, mentioning at the same time that the ship had been robbed of two muskets, which formed part of her ammunition.
+Ground Truth: I remonstrated with him and with the rest of the crew, and explained to them the folly of such conduct, mentioning at the same time that the ship had been robbed of two muskets, which formed part of her ammunition.
+
+OCR Text: They said' they were sorry for it, or something to that eff-ct; and I said, perhaps when we overhaul the vessel we shall find the fourth gib gone; upon hearing which the prisoner Meek became so violent that some of the other men were obliged to bold him bacit
+Ground Truth: They said they were sorry for it, or something to that effect; and I said, perhaps when we overhaul the vessel we shall find the fourth gib gone; upon hearing which the prisoner Meek became so violent that some of the other men were obliged to hold him back.
+
+OCR Text: Speaking of me, and poigting at me, he said, " Let me at-;" Edwards, pointing at Meek, saidd, I know wbat that man is if he gets from the saen " meaning, as I believed, that he had no command of himself.
+Ground Truth: Speaking of me, and pointing at me, he said, "Let me at—;" Edwards, pointing at Meek, said, "I know what that man is if he gets from the men;" meaning, as I believed, that he had no command of himself.
+
+OCR Text: To avoid the violence with which I considered myself to be threatened I took refuge in the cabin.
+Ground Truth: To avoid the violence with which I considered myself to be threatened I took refuge in the cabin.
+
+OCR Text: I was compelled to leave the quarter. deck for my personal safety.
+Ground Truth: I was compelled to leave the quarter-deck for my personal safety.
+
+OCR Text: While in the cabin or adjoining it, I heard Ed. wards remark, " that he would be - if he would go to sea in the ship, or if he did,'he would not work, neither would he let ma ;" iand he said at the same time, if I took him to sea he would throw me overboard' as 1 was heavL. ing the log.'
+Ground Truth: While in the cabin or adjoining it, I heard Edwards remark, "that he would be — if he would go to sea in the ship, or if he did, he would not work, neither would he let me;" and he said at the same time, if I took him to sea he would throw me overboard as I was heaving the log.
+
+OCR Text: The position in which I should be in throw- ing the log would be with my back to the crew, so'that I' could be thrown over the ganwals.
+Ground Truth: The position in which I should be in throwing the log would be with my back to the crew, so that I could be thrown over the gunwale.
+
+OCR Text: I then went on deck and' desired them to go to their duty.
+Ground Truth: I then went on deck and desired them to go to their duty.
+
+OCR Text: The prisoners re. mained amongst the men, as l had no means of shutting thes up.
+Ground Truth: The prisoners remained amongst the men, as I had no means of shutting them up.
+
+OCR Text: All returned to thedit duty except Edwards.
+Ground Truth: All returned to their duty except Edwards.
+
+OCR Text: Meek returned to his duty; but observing that he was not sober, I recommiended him togo to bed.
+Ground Truth: Meek returned to his duty; but observing that he was not sober, I recommended him to go to bed.
+
+OCR Text: I next directed 'te rnen to go' to breakfast
+Ground Truth: I next directed the men to go to breakfast.
+
+OCR Text: After breakfast I allotted eachb' man his work, when Edwards coming up, and seeing Widyer at viork,"put himself in a boxing attitude, and tried to'excite him to go ashore and fight.
+Ground Truth: After breakfast I allotted each man his work, when Edwards coming up, and seeing Widyer at work, put himself in a boxing attitude, and tried to excise him to go ashore and fight.
+
+OCR Text: I ordered Widyer to go belowr to avoid, any injury, and Edwordo theli de. -minded his dischrbge, swearing that he did not care a- for ine or all the. cons.ls on shore.
+Ground Truth: I ordered Widyer to go below to avoid any injury, and Edwards then demanded his discharge, swearing that he did not care a — for me or all the consuls on shore.
+
+OCR Text: I replied, '4Yo4 are in, a foreign port, and I cannot diisebage you without suf- ficlent funds to pay your passage home; besides which, your services are requsred here to take the vessel back to England."
+Ground Truth: I replied, "You are in a foreign port, and I cannot discharge you without sufficient funds to pay your passage home; besides which, your services are required here to take the vessel back to England."
+
+OCR Text: He went below, and said he would'be- if he would go in the vessel, because 'he knew that when we got to Griusby I should imprison bin.
+Ground Truth: He went below, and said he would be — if he would go in the vessel, because he knew that when we got to Grimsby I should imprison him.
+
+OCR Text: 'Finding'tbat he could not get his discharge, he called' Meek, and said he would notgo, without his old chasmie(Meek); and then both of them went down, packed up their things, and brought them one deck, demanding of me their register tickets.
+Ground Truth: Finding that he could not get his discharge, he called Meek, and said he would not go without his old chummie (Meek), and then both of them went down, packed up their things, and brought them on deck, demanding of me their register tickets.
+
+OCR Text: I told them again I would not discharge them, and Edwards said he was discharged' by me; and when told by Mrk.Jones, the miaser's assistant, that I had done nothing of the hindi he said the assistant was a - liar.
+Ground Truth: I told them again I would not discharge them, and Edwards said he was discharged by me; and when told by Mr. Jones, the master's assistant, that I had done nothing of the kind, he said the assistant was a — liar.
+
+OCR Text: At that moment-leek attacked another of thecrew, named John Webb, whom I was obliged to send (bleeding at the ear) out of tbe lp te avoid further violence.
+Ground Truth: At that moment Meek attacked another of the crew, named John Webb, whom I was obliged to send (bleeding at the ear) out of the ship to avoid further violence.
+
+OCR Text: After this trafdIction the 'remainder ot the crew told me they did hot think 'it 'sak, to go with tbe vessel if those men re- mained, and I obtained the assistance of some Dutch soldiers, end had the prisoners conveyed to the guard ship, Vhih lay tear the Gossamer.'
+Ground Truth: After this transaction the remainder of the crew told me they did not think it safe to go with the vessel if those men remained, and I obtained the assistance of some Dutch soldiers, and had the prisoners conveyed to the guard ship, which lay near the Gossamer.
+
+OCR Text: Mr. Woniner said the prisonfra never bad'entertaii&ed tie most remote idei'of exciting a revolt."
+Ground Truth: Mr. Wontner said the prisoners never had entertained the most remote idea of exciting a revolt.
+
+OCR Text: They were, in fact, itwo Yrmitouth fishermeh, who had been hired for duty in a' Qaeens ship, with' the strict regulations of which they were not acquainted..
+Ground Truth: They were, in fact, two Yarmouth fishermen, who had been hired for duty in a Queen's ship, with the strict regulations of which they were not acquainted.
+
+OCR Text: They wanted to go ashore to get fresb provisions, to which they had, always been accu5toreed; and having got drunk, their preidence off course lef t 'theim, and they' were met by the intemperate adthority of tie commsander, who was n4t disposed 'to ntake any aUowance for thei' formser hahiti os condition.
+Ground Truth: They wanted to go ashore to get fresh provisions, to which they had always been accustomed; and having got drunk, their prudence of course left them, and they were met by the intemperate authority of the commander, who was not disposed to make any allowance for their former habits or condition.
+
+OCR Text: Aldermcan giibbs said he wrould look Qyer'the deposi. tions, sand give his decision upon the case on Fday.
+Ground Truth: Alderman Gibbs said he would look over the depositions, and give his decision upon the case on Friday.

@@ -1,0 +1,44 @@
+OCR Text: THE MURDER OF AN ARRAN TOURIST.
+Ground Truth: THE MURDER OF AN ARRAN TOURIST.
+
+OCR Text: A letter, which the police consider to be genuine, has been received by the editor of a Glasgow evening paper from J. W. Laurie, the person suspected of having murdered Mr. Rose, whom he accompanied on a mountain excursion in the Island of Arran.
+Ground Truth: A letter, which the police consider to be genuine, has been received by the editor of a Glasgow evening paper from J. W. Laurie, the person suspected of having murdered Mr. Rose, whom he accompanied on a mountain excursion in the Island of Arran.
+
+OCR Text: The writer denies that he had anything to do with the death of Mr. Rose, and says he has no intention Of giving himself up.
+Ground Truth: The writer denies that he had anything to do with the death of Mr. Rose, and says he has no intention of giving himself up.
+
+OCR Text: SUPPOSED TRIPLE INFANTICIDE.-At an inquest held at Newport (Mon.) on Tuesday shocking dis- closures were made of supposed infanticide in Cross- street, one of the slums of the town.
+Ground Truth: SUPPOSED TRIPLE INFANTICIDE. —At an inquest held at Newport (Mon.) on Tuesday shocking disclosures were made of supposed infanticide in Cross-street, one of the slums of the town.
+
+OCR Text: A young woman named Cautwell, employed at a f'our stores, was shown to be the mother of three infants, who had all been beaten to death by blows on the temple nnd the remains concealed in a box kept under her bed in the room where she slept with another sister.
+Ground Truth: A young woman named Cantwell, employed at a flour stores, was shown to be the mother of three infants, who had all been beaten to death by blows on the temple and the remains concealed in a box kept under her bed in the room where she slept with another sister.
+
+OCR Text: The sister declared that she had no suspicion of what was happening.
+Ground Truth: The sister declared that she had no suspicion of what was happening.
+
+OCR Text: At first the detectives went to the house and accused the young woman, and going up- stairs took the remains of one baby, a month dead, from the box.
+Ground Truth: At first the detectives went to the house and accused the young woman, and going upstairs took the remains of one baby, a month dead, from the box.
+
+OCR Text: Several hours afterwards the police were induced to pay another visit, and on examining the box found the bodies of two more infants.
+Ground Truth: Several hours afterwards the police were induced to pay another visit, and on examining the box found the bodies of two more infants.
+
+OCR Text: The medical evidence was that both bad been in the box some time, perhaps years, but the one was of greater age than the other.
+Ground Truth: The medical evidence was that both had been in the box some time, perhaps years, but the one was of greater age than the other.
+
+OCR Text: The nose and lips were flattened in each case as though from heavy blows, which fracturedthefrontpart of the skull.
+Ground Truth: The nose and lips were flattened in each case as though from heavy blows, which fractured the front part of the skull.
+
+OCR Text: Thecoroner deoided to adjourn the inquest for the attendance of the brothers, who had kept the house since the death of the mother.
+Ground Truth: The coroner decided to adjourn the inquest for the attendance of the brothers, who had kept the house since the death of the mother.
+
+OCR Text: ATTErPTED MURDER ON THE Vicronta EmBANKi MENT.-While a police-constable was going his rounds on the Victoria-embankment on Saturday night he saw two men running along, and simulta neouslysawa woman struggling in the Thames.
+Ground Truth: ATTEMPTED MURDER ON THE VICTORIA EMBANKMENT. —While a police-constable was going his rounds on the Victoria-embankment on Saturday night he saw two men running along, and simultaneously saw a woman struggling in the Thames.
+
+OCR Text: Being a good swimmer he instantly plunged in and rescued her.
+Ground Truth: Being a good swimmer he instantly plunged in and rescued her.
+
+OCR Text: She stated that the two men had thrown her in.
+Ground Truth: She stated that the two men had thrown her in.
+
+OCR Text: The men got away.
+Ground Truth: The men got away.

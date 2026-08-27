@@ -1,0 +1,62 @@
+OCR Text: THE PROVINCES.
+Ground Truth: THE PROVINCES.
+
+OCR Text: DORSETSHIIE._EXECUODTION AT DOR- CHEsrTR-Henry Wrm. Young, 27, a shoe- maker, was executed at Dorchester castle, on Monday morning, for the murder of his wife's illegitimate child at Poole, in February last, by crushing it to death as it lay in bed during its mother's absence.
+Ground Truth: DORSETSHIRE. —EXECUTION AT DORCHESTER. —Henry Wm. Young, 27, a shoemaker, was executed at Dorchester castle, on Monday morning, for the murder of his wife's illegitimate child at Poole, in February last, by crushing it to death as it lay in bed during its mother's absence.
+
+OCR Text: Strong efforts were made after his conviction to obtain a reprieve, on the ground that he had been driven to commit the deed by the misconduct of his wife, whom he bitterly reproached, and ol whom he laid the blame for his melancholy fate; but the Home Secretary declined to interfere.
+Ground Truth: Strong efforts were made after his conviction to obtain a reprieve, on the ground that he had been driven to commit the deed by the misconduct of his wife, whom he bitterly reproached, and on whom he laid the blame for his melancholy fate; but the Home Secretary declined to interfere.
+
+OCR Text: Since his condemna- tion the culprit behaved in an exemplary manner, and appeared deeply penitent, pay- ing the closest attention to the ministrations of the chaplain, to whom he made a full con- fession of his crime.
+Ground Truth: Since his condemnation the culprit behaved in an exemplary manner, and appeared deeply penitent, paying the closest attention to the ministrations of the chaplain, to whom he made a full confession of his crime.
+
+OCR Text: fie was visited during last week by his father, mother, two brothers. and sister-in-law.
+Ground Truth: He was visited during last week by his father, mother, two brothers, and sister-in-law.
+
+OCR Text: He was quite resigned to his fate, and repeatedly expressed himself ready to die.
+Ground Truth: He was quite resigned to his fate, and repeatedly expressed himself ready to die.
+
+OCR Text: He received the holy commi- nion on Sunday and again on Monday morn- ing, when, after having slept well, he ate a good breakfast.
+Ground Truth: He received the holy communion on Sunday and again on Monday morning, when, after having slept well, he ate a good breakfast.
+
+OCR Text: Berry, the executioner, entered the cell shortly before eight o'clock.
+Ground Truth: Berry, the executioner, entered the cell shortly before eight o'clock.
+
+OCR Text: After being pinioned, Young walked firmly to the scaffold, which was arected in an outbuilding.
+Ground Truth: After being pinioned, Young walked firmly to the scaffold, which was erected in an outbuilding.
+
+OCR Text: The bolt was quickly drawn, and the culprit's body fell six feet, death taking place immediately without a struggle.
+Ground Truth: The bolt was quickly drawn, and the culprit's body fell six feet, death taking place immediately without a struggle.
+
+OCR Text: The whole proceedings, from the timeb of Berry entering the cell to the drawing of the bolt, only took three and a half minutes.
+Ground Truth: The whole proceedings, from the time of Berry entering the cell to the drawing of the bolt, only took three and a half minutes.
+
+OCR Text: The culprit left behind him a letter earnestly warning young men to beware of his fate.
+Ground Truth: The culprit left behind him a letter earnestly warning young men to beware of his fate.
+
+OCR Text: LANCASHIRE.-SELF ACCUSED OF MU1R- DER.-A rough-looking man, who gave the name of Wm. Watts, was charged at Staly- bridge, on Monday, on his own confession with the murder of a gamekeeper, named Copley, near Pontefract, on the 29th ult.
+Ground Truth: LANCASHIRE. —SELF ACCUSED OF MURDER. –A rough-looking man, who gave the name of Wm. Watts, was charged at Staly-bridge, on Monday, on his own confession with the murder of a gamekeeper, named Copley, near Pontefract, on the 29th ult.
+
+OCR Text: Late on Sunday night the prisoner visited a local innkeeper whom he knew, and, after pledging him to secrecy, told him he had committed the crime.
+Ground Truth: Late on Sunday night the prisoner visited a local innkeeper whom he knew, and, after pledging him to secrecy, told him he had committed the crime.
+
+OCR Text: Ho made a detailed statement as to how it was done, and said he. had since walked to Dunford-bridge in company with Pilmore and Roberts, for whom a reward is offered, and who has since gone to Holmfirth.
+Ground Truth: He made a detailed statement as to how it was done, and said he had since walked to Dunford-bridge in company with Pilmore and Roberts, for whom a reward is offered, and who has since gone to Holmfirth.
+
+OCR Text: The police were communi- cated with, and the prisoner was arrested in a lodging-house.
+Ground Truth: The police were communicated with, and the prisoner was arrested in a lodging-house.
+
+OCR Text: In custody he repeated the story, and said the gun was at Street Town, near Wakefield.
+Ground Truth: In custody he repeated the story, and said the gun was at Street Town, near Wakefield.
+
+OCR Text: On Monday morning he denied the statement, said he was drunk when he made it, and that he had been living in Oldham for a long time.
+Ground Truth: On Monday morning he denied the statement, said he was drunk when he made it, and that he had been living in Oldham for a long time.
+
+OCR Text: He was remanded for inquiries.
+Ground Truth: He was remanded for inquiries.
+
+OCR Text: IN SELF-DEEnNCE.-Lars Swenson was charged at Liverpool on Tuesdaywith having caused the death of Thomas Kavanagh, second mate of the Annie Gondey, at sea, on April 13.
+Ground Truth: IN SELF-DEFENCE. —Lars Swenson was charged at Liverpool on Tuesday with having caused the death of Thomas Kavanagh, second mate of the Annie Gondey, at sea, on April 13.
+
+OCR Text: The magistrate, holding that the prisoner had merely acted in self-defence, discharged him.
+Ground Truth: The magistrate, holding that the prisoner had merely acted in self-defence, discharged him.

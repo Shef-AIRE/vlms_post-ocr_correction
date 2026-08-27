@@ -1,0 +1,44 @@
+OCR Text: I THE SIN OF CHRISTMAS BOXES. I
+Ground Truth: THE SIN OF CHRISTMAS BOXES.
+
+OCR Text: In the City of London Court on Monday, an action was brought by Reuben Mug- geridge, errand boy, against Mr. B. Stock. dale, printer, Great Winchester-street, to recover wages due.-In the course of the case it transpired that the defendant had stopped 2s. out of the lad's Christmas-box, whereupon the learned Commissioner in- quired the reason.
+Ground Truth: In the City of London Court on Monday, an action was brought by Reuben Muggeridge, errand boy, against Mr. E. Stockdale, printer, Great Winchester-street, to recover wagos due. —In the course of the case it transpired that the defendant had stopped 2s. out of the lad's Christmas-box, whereupon the learned Commissioner inquired the reason.
+
+OCR Text: The Defendant: Be- cause he made mistakes.
+Ground Truth: —The Defendant: Because he made mistakes.
+
+OCR Text: One of the mis- takes cost mue 21. Es.-Hii5 Honour: But I fail to see what right you had to stop 2s. out of the boy's 0hristmas-box.-The De- fendant: Well, it was not taken from his wages.
+Ground Truth: One of the mistakes takes cost me 2l. 8s. —His Honour: But I fail to see what right you had to stop 2s. out of the boy's Christmas-box. —The Defendant: Well, it was not taken from his wages.
+
+OCR Text: The Christmas-box money came from me.-The Plaintiff: Yoo said I was to ask the customers--HisHonour: These Christmas-boxes are a great pie :e of impos- ture.
+Ground Truth: The Christmas-box money came from me. —The Plaintiff: You said I was to ask the customers. —His Honour: These Christmas-boxes are a great piece of imposture.
+
+OCR Text: I want to know what right you had to deduct 2s., because it is very absurd to give a boy 56., and keep back 2s.
+Ground Truth: I want to know what right you had to deduct 2s., because it is very absurd to give a boy 5s., and keep back 2s.
+
+OCR Text: From whom did he get the money P'-The Defen- dant: From various customers.-His Honour: That is a vile system.
+Ground Truth: From whom did he get the money? —The Defendant: From various customers. —His Honour: That is a vile system.
+
+OCR Text: But what business hadyoutostopanyportion of these gifts from customers
+Ground Truth: But what business had you to stop any portion of these gifts from customers?
+
+OCR Text: .-The Defendant.. Well, I submit to that-His Honour: You had bet- ter (laughter).
+Ground Truth: —The Defendant: Well, I submit to that. —His Honour: You had better (laughter).
+
+OCR Text: You complain of insubordi- nation.
+Ground Truth: You complain of insubordination.
+
+OCR Text: What was it ?-The Defendant: He refused to get something for the men.-The Plaintiff's Mother: The boy was kept work- ing till 11 o'clock at night without food.-
+Ground Truth: What was it? —The Defendant: He refused to get something for the men. —The Plaintiff's Mother: The boy was kept working till 11 o'clock at night without food.—
+
+OCR Text: His Honour (to the defendant): Tell me what was the nature of the insubordination.
+Ground Truth: His Honour (to the defendant): Tell me what was the nature of the insubordination.
+
+OCR Text: Recent experience shows that when a woman opens her mouth in a court of law she goes on for a week (laughter).-TheDe- fen dant: He burnt candles by deliberately throwing them into the fire.-The, Plaintiff I burnt not one.-His Honour: I am afraid this is all rubbish.
+Ground Truth: Recent experience shows that when a woman opens her mouth in a court of law she goes on for a week (laughter). —The Defendant: He burnt candles by deliberately throwing them into the fire. —The Plaintiff I burnt not one. —His Honour: I am afraid this is all rubbish.
+
+OCR Text: Pay the boy his wages and behave differently in future.
+Ground Truth: Pay the boy his wages and behave differently in future.
+
+OCR Text: Instead of deducting money from Christmas-boxes, you would confer a boon on society by stop. ping them altogether, because they only encourage drinking.
+Ground Truth: Instead of deducting money from Christmas-boxes, you would confer a boon on society by stopping them altogether, because they only encourage drinking.

@@ -1,0 +1,62 @@
+OCR Text: SERIOPS INJURY TO A CONSTABLE.
+Ground Truth: SERIOUS INJURY TO A CONSTABLE.
+
+OCR Text: TROMIAs BARxBY, also known as Thomas Marks, and stated to be a convict at large on licence, was charged, before Mr. Bushby, at the Worship-streetb Police. court, with having been concerned with others not in custody in stealing from the person of Samuel Hawley a silver -watch, and further with violently assaulting hin.
+Ground Truth: THOMAS BARNBY, also known as Thomas Marks, and stated to be a convict at large on licence, was charged, before Mr. Bushby, at the Worship-street Police-court, with having been concerned with others not in custody in stealing from the person of Samuel Hawley a silver watch, and further with violently assaulting him.
+
+OCR Text: There*was a secbnd charg engailstet1Be prisoner' of having, in concert with others, violently assaulted Police-constable Heath, 479 G, and occasioned him bodily harm.
+Ground Truth: There was a second charge against the prisoner of having, in concert with others, violently assaulted Police-constable Heath, 479 G, and occasioned him bodily harm.
+
+OCR Text: At a quarter to ten o'clock on the night of the- 2nd inst. the prosecdtor, Mr. Hawley, who resides in King Henry-road, Ball's Pond, was at the tramway terminus, Finsbury-pavement, where he was bustled, and be then discovered that his watch was missing.
+Ground Truth: At a quarter to ten o'clock on the night of the 2nd inst. the prosecutor, Mr. Hawley, who resides in King Henry-road, Ball's Pond, was at the tramway terminus, Finsbury-pavement, where he was hustled, and he then discovered that his watch was missing.
+
+OCR Text: Ile accused ar man, who he could not be certain was the prisoner, and was assaulted, thrown down, and kicked.
+Ground Truth: He accused a man, who he could not be certain was the prisoner, and was assaulted, thrown down, and kicked.
+
+OCR Text: Police-constable .47 G, who was on duty near the spot, rendered assistance, and was severely maltreated, being knocked down and kicked.
+Ground Truth: Police-constable 479 G, who was on duty near the spot, rendered assistance, and was severely maltreated, being knocked down and kicked.
+
+OCR Text: He was badly injured about the body and head, lost several teeth, and received a fr.tctare of the jaw.
+Ground Truth: He was badly injured about the body and head, lost several teeth, and received a fracture of the jaw.
+
+OCR Text: He is not yet in a condition to give evidence.
+Ground Truth: He is not yet in a condition to give evidence.
+
+OCR Text: The prisoner escaped at the time, but was apprehended several days after- wards by Detective-sergeant Merroney, G Division.
+Ground Truth: The prisoner escaped at the time, but was apprehended several days after- wards by Detective-sergeant Merroney, G Division.
+
+OCR Text: The prisoner was remanded by Mr. Bushby till such time as thle constable can give evidence.
+Ground Truth: The prisoner was remanded by Mr. Bushby till such time as the constable can give evidence.
+
+OCR Text: WILLIAM HEGARTY and Robert Vallance, both labourers, were charged with being concerned in violently assaulting Po]ice-constable 517, T Division,
+Ground Truth: WILLIAM HEGARTY and Robert Vallance, both labourers, were charged with being concerned in violently assaulting Police-constable 517, T Division.
+
+OCR Text: It appeared that on Tuesday afternoon the constable, who was off duty in plain clothes, was passing through Imperial-road, Fulham, when he saw the prisoners stripped, fighting.
+Ground Truth: It appeared that on Tuesday afternoon the constable, who was off duty in plain clothes, was passing through Imperial-road, Fulham, when he saw the prisoners stripped, fighting.
+
+OCR Text: He went up to separate them, and was knocked down by Vallance.
+Ground Truth: He went up to separate them, and was knocked down by Vallance.
+
+OCR Text: While down he was kicked by Hegarty.
+Ground Truth: While down he was kicked by Hegarty.
+
+OCR Text: He rose and took Hegarty into custody, but that prisoner was resoned by a number of roughs.
+Ground Truth: He rose and took Hegarty into custody, but that prisoner was rescued by a number of roughs.
+
+OCR Text: The prisoners went to the bank of the river and renewed the fight.
+Ground Truth: The prisoners went to the bank of the river and renewed the fight.
+
+OCR Text: Witness followed and arrested Hegarty, but was again knocked down and thrown over on to the foreshore.
+Ground Truth: Witness followed and arrested Hegarty, but was again knocked down and thrown over on to the foreshore.
+
+OCR Text: Two other constables came to his assistance and the prisoners were secured.
+Ground Truth: Two other constables came to his assistance and the prisoners were secured.
+
+OCR Text: The prisoner Hegarty, who stated that he bad knocked off work on account of the rain, alleged that he was not aware that 517 was acon- stable.
+Ground Truth: The prisoner Hegarty, who stated that he had knocked off work on account of the rain, alleged that he was not aware that 517 was a constable.
+
+OCR Text: The constable said-he was.knoor to Hegarty.
+Ground Truth: The constable said he was known to Hegarty.
+
+OCR Text: Mri. Cartis-Bennott sentenced He-arty to ids; weeks and Vallance to one month's imprisonment.
+Ground Truth: Mr. Curtis-Bennett sentenced Hegarty to six weeks and Vallance to one month's imprisonment.

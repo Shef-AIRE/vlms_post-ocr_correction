@@ -1,0 +1,35 @@
+OCR Text: THE COURT.
+Ground Truth: THE COURT.
+
+OCR Text: The Queen and Prince Albert, accompanied by the Prince of Wale. PA4 the Duke and Duchess of Saxe Cobourg, left Clare- mont at ten minutes past three o'clock, on Monday afternoon, in a carriage and four, escorted by a party of the 12th Lancers, for town.
+Ground Truth: The Queen and Prince Albert, accompanied by the Prince of Wales and the Duke and Duchess of Saxe Cobourg, left Claremont at ten minutes past three o’clock on Monday afternoon, in a carriage and four, escorted by a party of the 12th Lancers, for town.
+
+OCR Text: Prince Alfred, the Princess Royal, the Princess Alice, and Count Arthur Mensdorff, and the royal suite followed in thsree carriages and four.
+Ground Truth: Prince Alfred, the Princess Royal, the Princess Alice, and Count Arthur Mensdorff, and the royal suite followed in three carriages and four.
+
+OCR Text: The august party arrived at Bucking- ham Palace at twenty-five minutes before five o'clock.
+Ground Truth: The august party arrived at Buckingham Palace at twenty-five minutes before five o’clock.
+
+OCR Text: Her Majesty held a court on Tuesday, at B1uckingham Palace, when the Bishop of Chester had-an audience.
+Ground Truth: Her Majesty held a court on Tuesday, at Buckingham Palace, when the Bishop of Chester had an audience.
+
+OCR Text: Her Majesty and Prince Albert, accompanied by their Royal Highnesses the Duke and Duchess of Saxe Coburg and Count Arthur Mensdorff, honoured |ier Majesty's Theatre With' their presence in the evening.
+Ground Truth: Her Majesty and Prince Albert, accompanied by their Royal Highnesses the Duke and Duchess of Saxe Coburg and Count Arthur Mensdorff, honoured her Majesty’s Theatre with their presence in the evening.
+
+OCR Text: The Iroyal suite consisted of the Marchioness of Douro, Madame la Baronne de Wangenheim, the Earl of Morley, Colonel Buckley, and Baron Fritsch.I
+Ground Truth: The royal suite consisted of the Marchioness of Douro, Madame la Baronne de Wangenheim, the Earl of Morley, Colonel Buckley, and Baron Fritsch.
+
+OCR Text: Her Royal Highness the Duchess of Cam- bridge, accompanied by his Serene Highness Prince Frederick of _esse, and attended by Baron Kniesebeck, honoured the per- formance at the Haymarket Theatre with their presence on the same evening.
+Ground Truth: Her Royal Highness the Duchess of Cambridge, accompanied by his Serene Highness Prince Frederick of Hesse, and attended by Baron Knesebeck, honoured the performance at the Haymarket Theatre with their presence on the same evening.
+
+OCR Text: A deputation of officers of the Armty and Navy had an audience of his Royal Highness Prince Albert on Tues- day morning at Bsickingham Palace.
+Ground Truth: A deputation of officers of the Army and Navy had an audience of his Royal Highness Prince Albert on Tuesday morning at Buckingham Palace.
+
+OCR Text: DuKE OF CAMRIUDG'5s BIRTHDAY.-Thursday being the natal day of his Royal Highness the Duke of Cambridge, the children ofthe Queen's'free gramrmar school, Kew, about seventy in number, were regaled with. a good dinner in honour of the auspicious occasioni, and in the. evening the tradesmen to his royal. highness dined together, and drank " Long life and hap- piness to their royal patron."
+Ground Truth: DUKE OF CAMBRIDGE’S BIRTHDAY. —Thursday being the natal day of his Royal Highness the Duke of Cambridge, the children of the Queen’s free grammar school, Kew, about seventy in number, were regaled with a good dinner in honour of the auspicious occasion, and in the evening the tradesmen to his royal highness dined together, and drank “Long life and happiness to their royal patron.”
+
+OCR Text: The poor of the district were not forgotten, a plentiful supply of coals; under the supervision of the churchwarden, being sent to each.
+Ground Truth: The poor of the district were not forgotten, a plentiful supply of coals, under the supervision of the churchwarden, being sent to each.
+
+OCR Text: His royal highness has attained his 74th year.
+Ground Truth: His royal highness has attained his 74th year.

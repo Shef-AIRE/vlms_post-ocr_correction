@@ -1,0 +1,74 @@
+OCR Text: FAITAV ZAMS13GS ACCIDENT.
+Ground Truth: FATAL CARRIAGE ACCIDENT.
+
+OCR Text: A .CA&VAG accident, which was attended with fatal ear results,'happened in Broad-street, the bnsieet thorough- ley fare of sleading.
+Ground Truth: A CARRIAGE accident, which was attended with fatal results, happened in Broad-street, the busiest thoroughfare of Reading.
+
+OCR Text: Mrl. Pope, an aged lady, who wns on ing a, visit to the town, wae driving iln a o3d-tsshioned phactom, accorripanied by her brother, r:med Mr. Burrougia, and whenoapposite the Goeired Post Office, at in attempting to turn in tha oppesiler direction, the ied vehicle sw49ved, and the aged occupo mq.s were precipi- oto tated into the roadiway.
+Ground Truth: Mrs. Pope, an aged lady, who was on a visit to the town, was driving in an old-fashioned phaeton, accompanied by her brother, named Mr. Burroughs, and when apposite, the General Post Office, at in attempting to turn in the opposite direction, the vehicle swerved, and the aged occupants were precipitated into the roadway.
+
+OCR Text: Unfortun tely she horse was nd not stopped -until one of the wheedla hl passed over Mrs. 3en Pope's bead.
+Ground Truth: Unfortunately, the horse was and not stopped until one of the wheels had passed over Mrs. Pope's head.
+
+OCR Text: Medical aid wvns at (nce obtained, but life lly. was found to b8.extinct.
+Ground Truth: Medical aid was at once obtained, but life was found to be extinct.
+
+OCR Text: ;Mr. Burrouhs esoaped without his serious injury.
+Ground Truth: Mr. Burroughs escaped without his serious injury.
+
+OCR Text: ath en A RAWKEI named Jahn Barton, sixty-four, belonging in to Sheffeld, wae arrested on Friday morning in Glangow 02e in connection with the death, zt 31, Lyon-street, of I(atherineCampbell,or Stewart, with wbomn he had lived.
+Ground Truth: A HAWKER named John Burton, sixty-four, belonging in to Sheffield, was arrested on Friday morning in Glasgow me in connection with the death, at 31, Lyon-street, of Catherine Campbell, or Stewart, with whom he had lived.
+
+OCR Text: on The dleceaed, whoirr the polioc al3ege to be a convict, a was found dead In bed.
+Ground Truth: The deceased, whom the police allege to be a convict, was found dead in bed.
+
+OCR Text: Her face, wrists, aod variors n- parts of ber body bore marks of recent violence, as of Rloking.
+Ground Truth: Her face, wrists, and various parts of her body bore marks of recent violence, as of kicking.
+
+OCR Text: Burton was deank when arrested.
+Ground Truth: Burton was drunk when arrested.
+
+OCR Text: Je Wkr jhe beon favoured with specimen numbers of at' Oar Brbble n'a charming* p!eriodical for children.
+Ground Truth: WE have been favoured with specimen numbers of "Our Babble"—a charming periodical for children.
+
+OCR Text: It is t dited by Dr. Barnardo, which vouohes for the in- Os eireesting nature of its contents,
+Ground Truth: It is edited by Dr. Barnardo, which voucher for the interesting nature of its contents.
+
+OCR Text: It is most profusely illustrated,
+Ground Truth: It is most profusely illustrated.
+
+OCR Text: The number iider mention coutains no lees ig than sixteen illustrations, beautifully printed in chrome- r. lithograpby, and vwe can assure our little friends that h there is no magazine in the oiprkot more likely to take a their falny than " Our Bubble," which we wish every 'success.
+Ground Truth: The number under mention contains no less than sixteen illustrations, beautifully printed in chromolithography, and we can assure our little friends that there is no magazine in the market more likely to take their fancy than "Our Bubble," which we wish every success.
+
+OCR Text: d 150 FTO rxN Two DAys.-Dr. King-Houchin, the :r Deputy-coroner for East London, bnld an inquest at the Bow Vestry Hall on the body of Harriett Webb, aged othirty-three years, lately -living at the Institute for nWorking Girls, Fairdfeld-road, Bow.
+Ground Truth: 150 FITS IN TWO DAYS. —Dr. King-Houchin, the Deputy-coroner for East London, held an inquest at the Bow Vestry Hall on the body of Harriett Webb, aged thirty-three years, lately living at the Institute for Working Girls, Fairfield-road, Bow.
+
+OCR Text: The deceased for asome time past has sold newspapers outside the Bow- s road Station.
+Ground Truth: The deceased for some time past has sold newspapers outside the Bow-road Station.
+
+OCR Text: On Friday she was found unconscious in a the. street,, and was taken home.
+Ground Truth: On Friday she was found unconscious in the street, and was taken home.
+
+OCR Text: Between that time D 'and Sunday she had no fewer than 150 fits.
+Ground Truth: Between that time and Sunday she had no fewer than 150 fits.
+
+OCR Text: The medical evidence showed that denth was due to exhausotion, following an exceos orepileptlo fits.
+Ground Truth: The medical evidence showed that death was due to exhaustion, following an excess of epileptic fits.
+
+OCR Text: The jury refurned s-a verdict in accordance with the mnedical evidence.
+Ground Truth: The jury returned a verdict in accordance with the medical evidence.
+
+OCR Text: ] ANOPH1ER BOY HERO OF Tam TfAelrs-While bathing in the Thames near Cannon-street railway-bridge, 1f. W. Newman and a boy named Chapman were carried off their feet, and Newman was drowned.
+Ground Truth: ANOTHER BOY HERO OF THE THAMES. —While bathing in the Thames near Cannon-street railway-bridge, F. W. Newman and a boy named Chapman were carried off their feet, and Newman was drowned.
+
+OCR Text: At the i3quest a on Wednesday, William Gladstone Strong, a boy of four- teen, said he saw them struggling in the water, and, without a moment's hesitation, plunged in.
+Ground Truth: At the inquest on Wednesday, William Gladstone Strong, a boy of fourteen, said he saw them struggling in the water, and, without a moment's hesitation, plunged in.
+
+OCR Text: Ee eue- ceeded in rescuingg Chapmao, but by the time he had got him ashore Newman had sunk.
+Ground Truth: He succeeded in rescuing Chapman, but by the time he had got him ashore Newman had sunk.
+
+OCR Text: The coronerpsid Strong averj high compliment, and said that it transpired that *1 the boy had been the means ofsaving life from drowning I nn previous ocoasions.
+Ground Truth: The coroner paid Strong a very high compliment, and said that it transpired that the boy had been the means of saving life from drowning on previous occasions.
+
+OCR Text: He is also the Iholder of esventeen eC first puriee for, swimming, and 'bad been styled in the spontlngg paper,s; aaP',t ,h' wonderful swimming6 midget 'of i Ecre4eptial 4eeit~b :l, :- . .. '-
+Ground Truth: He is also the holder of seventeen eff first prizes for swimming, and had been styled in the sporting papers “the wonderful swimming midget of the city of London." The jury returned a verdict of an accidental death.

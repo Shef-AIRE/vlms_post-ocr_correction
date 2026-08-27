@@ -1,0 +1,65 @@
+OCR Text: TILMI XOBBERS IN PARIS.
+Ground Truth: TRAM ROBBERS IN PARIS.
+
+OCR Text: AN extraordinary inoident oconrred the other night in r Paris.
+Ground Truth: AN extraordinary incident occurred the other night in Paris.
+
+OCR Text: At a late hour a steam tram was passing through a the usually peaceful suburb of Puteaux, when the driver a perceived a man standing on the line a few yards ahead of the oncoming engine and holding at thick stick.
+Ground Truth: At a late hour a steam tram was passing through the usually peaceful suburb of Puteaux, when the driver perceived a man standing on the line a few yards ahead of the oncoming engine and holding a thick stick.
+
+OCR Text: The driver reversed his machine, in order not to run over the 1, man, and got down to demand why the latter xefused to d move off.
+Ground Truth: The driver reversed his machine, in order not to run over the man, and got down to demand why the latter refused to move off.
+
+OCR Text: Six fellows, who had been hidden by the l, darkness, thereupon sprang out and assaulted the driver and the stoker, who Ead come to his colleague's assist- it ance, and who was severely wounded with some blunt d weapon.
+Ground Truth: Six fellows, who had been hidden by the darkness, thereupon sprang out and assaulted the driver and the stoker, who had come to his colleague's assistance, and who was severely wounded with some blunt weapon.
+
+OCR Text: Fortunately, at this juncture, the guards and some passengers flew to the rescue and put the would-be a brigands to flight,
+Ground Truth: Fortunately, at this juncture, the guards and some passengers flew to the rescue and put the would-be brigands to flight.
+
+OCR Text: VTIE HoWAnD DC WALDEN CASE.-The recent applica. a tion by Mr. Searle for the impounding of the documents in the Howard de Walden divorce suits is not to be both Ithe beginning and end of the matter.
+Ground Truth: THE HOWARD DE WALDEN CASE. —The recent application by Mr. Searle for the impounding of the documents in the Howard de Walden divorce suits is not to be both the beginning and end of the matter.
+
+OCR Text: It is stated that the Treasury have determined to take criminal proceed- ings for perjury in respect of certain testimony which was given during the hearing of the suits.
+Ground Truth: It is stated that the Treasury have determined to take criminal proceedings for perjury in respect of certain testimony which was given during the hearing of the suits.
+
+OCR Text: A FAMILY MURDRUED.-A horrible crime has been rcommitted at Salmadoriff, a place situated between Munich and Vienna.
+Ground Truth: A FAMILY MURDERED. —A horrible crime has been committed at Salmsdorff, a place situated between Munich and Vienna.
+
+OCR Text: Early on Wednesday morning a family, consisting of mother and three daughters, from thirteen to twenty years of age, were cruelly murdered.
+Ground Truth: Early on Wednesday morning a family, consisting of mother and three daughters, from thirteen to twenty years of age, were cruelly murdered.
+
+OCR Text: The murderers, after stealing all they could lay hands upon, set fire to the house and managed to escape.
+Ground Truth: The murderers, after stealing all they could lay hands upon, set fire to the house and managed to escape.
+
+OCR Text: The fire brigade found the vietimh still alive, but all Ahd in a few hours.
+Ground Truth: The fire brigade found the victims still alive, but all died in a few hours.
+
+OCR Text: A FonRETFUL VICAR,-A curious incident oecurred at the pariah church in a certain village in thbe Weald of Kent on Sunday.
+Ground Truth: A FORGETFUL VICAR. —A curious incident occurred at the parish church in a certain village in the Weald of Kent on Sunday.
+
+OCR Text: The bells had been rung' for morning service, and the congregation, were seated, awaiting the arrival of the vicar.
+Ground Truth: The bells had been rung for morning service, and the congregation, were seated, awaiting the arrival of the vicar.
+
+OCR Text: As he failed to put in an appearance, the churchwardens, after waiting for a considerable time, proceeded to the vicarage.
+Ground Truth: As he failed to put in an appearance, the churchwardens, after waiting for a considerable time, proceeded to the vicarage.
+
+OCR Text: Contrary to their expects. tions, they found their pastor there in his usual health, but, from some unexplained cause, he had forgotten the day was Sunday.
+Ground Truth: Contrary to their expectations, they found their pastor there in his usual health, but, from some unexplained cause, he had forgotten the day was Sunday.
+
+OCR Text: THE SANDOATic DISAsTBI1.-The Sandgate Relief Committee have received a cheque for £25 from the Queen, together with a letter expressing sympathy with the sufferers.
+Ground Truth: THE SANDGATE DISASTER. —The Sandgate Relief Committee have received a cheque for £25 from the Queen, together with a letter expressing sympathy with the sufferers.
+
+OCR Text: Her Majesty adds that she is unable to become a patron of the fund.
+Ground Truth: Her Majesty adds that she is unable to become a patron of the fund.
+
+OCR Text: A very heavy wind pre- vailed at Sandgate on Thursday, and fears are enter. tamed that Spring House will fall altogether should the 4 gale continue.
+Ground Truth: A very heavy wind pre vailed at Sandgate on Thursday, and fears are entertained that Spring House will fall altogether should the gale continue.
+
+OCR Text: It is considered fortunate that most of the fissures have been filled up, otherwise the probability is that the heavy rains of Thursday would have pene- trated to the level of the galt, and so contributed to another subsidence.
+Ground Truth: It is considered fortunate that most of the fissures have been filled up, otherwise the probability is that the heavy rains of Thursday would have penetrated to the level of the galt, and so contributed to another subsidence.
+
+OCR Text: Subscriptions do not come In very fast.
+Ground Truth: Subscriptions do not come in very fast.
+
+OCR Text: The total amount is about 2'5 000, which will go but a very short way towards replacing the losses many have sustained.
+Ground Truth: The total amount is about £5 000, which will go but a very short way towards replacing the losses many have sustained.

@@ -1,0 +1,65 @@
+OCR Text: |CHARGES AT iVIARLBOROUGH STREET.
+Ground Truth: CHARGES AT MARLBOROUGH STREET.
+
+OCR Text: I LouIsA GILL.ESir; an actress, was charged with being drunik anc riotous in Bear-sbreet, an Thursday evening.
+Ground Truth: LOUISA GILLESPIE, an actress, was charged with being drank and riotous in Bear-street, on Thursday evening.
+
+OCR Text: , She promenaded, shouting and making somne unearthly o noises as she went along.
+Ground Truth: She promenaded, shouting and making some unearthly noises as she went along.
+
+OCR Text: Then she tripped and fell, and. r her nose owming in contact with the payement, blood Ii i flowed freely.
+Ground Truth: Then she tripped and fell, and her nose coming in contact with the pavement, blood Flowed freely.
+
+OCR Text: When at the station a surgeon was sent. c e for to attend'to the injuries; and in the morning, saying el a that "such a thing had never happened to her. before," h a she was leniently dealt with wibb, and let off with the pay- id ment of 5i., including the doctor's fee. a
+Ground Truth: When at the station a surgeon was sent for to attend to the injuries; and in the morning, saying that "such a thing had never happened to her before," she was leniently dealt with with, and let off with the payment of 5s., including the doctor's fee.
+
+OCR Text: Annie Price, shortly before twelve on Thursday night, 0 r showed signs of combativeness, and when a woman whom e :she regarded as a rival confronted her, a set-two followed, SI d ' and they scratched each other furiously until aconstable C d appeared and separated them.
+Ground Truth: Annie Price, shortly before twelve on Thursday night, showed signs of combativeness, and when a woman whom she regarded as a rival confronted her, a set-two followed, and they scratched each other furiously until a constable appeared and separated them.
+
+OCR Text: The rival retired, bet the ' prisoner, not having had satisfaction, madefor her again, E and another combat ensued, and again they were pulled apart,
+Ground Truth: The rival retired, but the prisoner, not having had satisfaction, made for her again, and another combat ensued, and again they were pulled apart.
+
+OCR Text: The other woman then took to her heels, but as the prisoner remained and challenged the authority of the ,e constable to remove her, she was very soon ushered g within the walls, of the police-station.
+Ground Truth: The other woman then took to her heels, but as the prisoner remained and challenged the authority of the constable to remove her, ale was very soon ushered within the walls of the police station.
+
+OCR Text: She was fined 10.s E or seven days in default.
+Ground Truth: She was fined 10s. or seven days in default.
+
+OCR Text: Soemethingfldew irto my head all at once, and then I a g went gidddy," was the defence offered by Robert Knaight,r e an old cabman, .who wa ohrged.with being. drank whilst s in charge of : his horse and ansom in the Haymarlret on ,z Thursday night.
+Ground Truth: "Something flew into my head all at once, and then I went gidddy," was the defence offered by Robert Knight, an old cabman, who was charged with being drunk whilst in charge of his horse and hansom in the Haymarket on Thursday night.
+
+OCR Text: He was so far. gono as to drive on the wrong side of the road, and for that. and his insobriety 4e he was fired'20s.
+Ground Truth: He was so far gone as to drive on the wrong side of the road, and for that and his insobriety he was fined 20s.
+
+OCR Text: n 'William Padgham, another hansom driver, who was f 1? also charged with.being drunk at midnight on Thursday, pleaded the awkwardness of .his horse and his surprise r . that a constable should have been so uncharitable as to t take him to the station, although he assured the magis- g e trate that he had only a drop or two and went away asa g quietly as a lamb.
+Ground Truth: William Padgham, another hansom driver, who was also charged with being drunk at midnight on Thursday, pleaded the awkwardness of his horse and his surprise that a constable should have been so uncharitable as to take him to the station, although he assured the magistrate that he had only a drop or two and went away as quietly as a lamb.
+
+OCR Text: The same fine was imposed.
+Ground Truth: The same fine was imposed.
+
+OCR Text: Thomas Braid was also fined 5s. for being unsteady in his; ait whllen off the bor: of his hansom, in Piccadilly at, J 'a half-past twvelve o01 Friday morning.
+Ground Truth: Thomas Braid was also fined 5s. for being unsteady in his gait when off the box of his hansom in Piccadilly at half-past twelve on Friday morning.
+
+OCR Text: As an excuse he said that he bad lnot had anything to drink for a long time, t when, unfortunately for him, a fare gave him a couple h of glasses of whisky, and then his legs seemed .to overlap :eeAh other....
+Ground Truth: As an excuse he said that he had not had anything to drink for a long time, t when, unfortunately for him, a fare gave him a couple of glasses of whisky, and then his legs seemed to overlap each other.
+
+OCR Text: e Ihwalr drunk, I know; but it was the first time during twenty years," said V'William- Winhuret, who. was c inebriated when with his cab in Piccadilly-circus at I twenty minutes to eleven the other night, and as, fine had to be paid :
+Ground Truth: "I was drunk, I know, but it was the first time during twenty years," said William Winhurst, who was inebriated when with his cab in Piccadilly-circus at twenty minutes to eleven the other night, and a 5s, fine had to ho paid.
+
+OCR Text: 'James Wight pleaded guilty to being' diunkr while in 1 d charge of a hansom in Piecadilly at eleven o'clock at f night, and in this cases r. Newton said that if lie was I, roolght before him again under similar, circumstances his licence would very likely.. be cancelled .
+Ground Truth: James Wight pleaded guilty to being drunk while in charge of a hansom in Piccadilly at eleven o'clock at night, and in this case Mr. Newton said that if he was brought before him again under similar circumstances his licence would very likely be cancelled.
+
+OCR Text: He was s ordrered to pay 20s. or go to prison for fourteen days.
+Ground Truth: He was ordered to pay 20s. or go to prison for fourteen days.
+
+OCR Text: r Thomas Jacques, a labourer; was charged with being I 10disorderly in Whitfield-street the othernight, vith.refus- ing to quit the Lamb Tavern when ordered to do go, and .C n with assaulting Mdr. Max Meyers, the landlord, ann ,e Alfred Foakes, his potman, by biting their.bgrnds,
+Ground Truth: Thomas Jacques, a labourer, was charged with being disorderly in Whitfield-street the other night, with refusing to quit the Lamb Tavern when ordered to do go, and with assaulting Mr. Max Meyers, the landlord, Ann Alfred Foakes, his potman, by biting their hands.
+
+OCR Text: Pri- f se soner was very noisy and quarrelsome, and on the land- f i- lord telling him that he was like an old woman he became t if exceedingly abusive. and was ordered to' leave the bar.
+Ground Truth: Prisoner was very noisy and quarrelsome, and on the landlord telling him that he was like an old woman he became exceedingly abusive, and was ordered to leave the bar.
+
+OCR Text: se Herefused, and when physical force had.to be used- he I 0 threw himself down and fixed his teeth into the hands II. of the complainants.
+Ground Truth: Ho refused, and when physical force had to be used he threw himself down and fixed his teeth into the hands of the complainants.
+
+OCR Text: He was fined twenty shillings for ar each assault, or be imprisoned for a month.
+Ground Truth: He was fined twenty shillings for each assault, or be imprisoned for a month.

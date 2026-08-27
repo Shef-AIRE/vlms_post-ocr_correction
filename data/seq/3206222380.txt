@@ -1,0 +1,38 @@
+OCR Text: ,, NG CASE OF CHILD MMDER.
+Ground Truth: STRANGE CASE OF CHILD MURDER.
+
+OCR Text: ,_7 a.vn-hL & vnlnl' woman ml -hLeeds tvo 5l-au - UuiI WOUi fl Att1lngs domestic servant, was charged with dinap the birth of her infant child.
+Ground Truth: At the Leeds town-hall, a young woman named Selina Hollings, domestic servant, was charged with concealing the birth of her infant child.
+
+OCR Text: The pri- ,Opcn Palo has been previously convicted of a similar ,,Dprass on Friday, the 21st instant, committed 3 It the assizes, under the orn war t, httrltijial murder of her infant.
+Ground Truth: The prisoner, who has been previously convicted of a similar offence was on Friday, the 21st instant, committed for trial at the assizes, under the coroner's warrant, for the wilful murder of her infant.
+
+OCR Text: She badbeen the service of the Rev. Jabez Tinnioliffe, gvF lte officiating minister at the Burmantoftsi, vbo 15 ,Leeds, but left sudddenly on Sunday night tejeter nt to reside with Mrs. Waite, of Napier- ,ecK, ntofts, who is the married daughter of , ae niliffe
+Ground Truth: She had been living in the service of the Rev. Jabez Tunnicliffe, who is the officiating minister at the Burmantofts cemetery, Leeds, but left suddenly on Sunday night week, and went to reside with Mrs. Waite, of Napier-street, Burmantofts, who is the married daughter of Mr. Tunnicliffe.
+
+OCR Text: Mrs. Waite did not at the time per- a!, 5tht the girl was in the family way, but Hol- ceega to be il shortly after her arrival, and on l0 Tsaesday night following told Mrs. Waite that beae ceete, andthat Mr. W. H. Tununiliffe(Mrs. shet;qse brother) was the father of the infant which Wtes expecting.
+Ground Truth: Mrs. Waite did not at the time perceive that the girl was in the family way, but Hollings began to be ill shortly after her arrival, and on the Tuesday night following told Mrs. Waite that she was enceinte, and that Mr. W. H. Tunnicliffe (Mrs. Waite’s brother) was the father of the infant which she was expecting.
+
+OCR Text: Iolongs also further stated that Ie iticipatedbeingconfined the same night, and W5r, Waite asking her how she would manage, oilner replied, "'l manage; I have managed lbP Pis,
+Ground Truth: Hollings also further stated that she anticipated being confined the same night, and on Mrs. Waite asking her how she would manage, the prisoner replied, “I’ll manage; I have managed before.”
+
+OCR Text: Al,,s, Waite then went to bed, but got up thefot, night, and returned to the kitchen, where lr th soner.
+Ground Truth: Mrs. Waite then went to bed, but got up during the night, and returned to the kitchen, where the found the prisoner.
+
+OCR Text: Upon her entering. Hollings mef glad it is over," and pointed to the top of t ot where she observed the body of the child thesel'
+Ground Truth: Upon her entering, Hollings said, “I’m glad it is over,” and pointed to the top of the set-pot, where she observed the body of the child in a towel.
+
+OCR Text: Next (Wednesday) morning, W. H. Tun- isffde went to the house, ascertained that Selina Ead beeD delivered, that the child was dead, aad he thereupon persuaded his sister (Mrs. Waite) to e it u to the cemetery, where he placed the body D h oupet of the toolhouse, and interred it, with in distance of a gravedigger named Joy.
+Ground Truth: Next (Wednesday) morning, W. H. Tunnicliffe went to the house, ascertained that Selina had been delivered, that the child was dead, and be thereupon persuaded his sister (Mrs. Waite) to take it up to the cemetery, where he placed the body in a box out of the toolhouse, and interred it, with the assistance of a gravedigger named Joy.
+
+OCR Text: It ,as rthe latter "splittiug" about the transaction t the whole facts came out, and the body was sub- tcitly disinterred and submitted to Mr. Sam jiltbl sIlrTgeOn, who came to the conclusion, from , Ostnsortem examination, that the child had born aOlive, but had not had a vigorous exist- te its b1reathing not having been full.
+Ground Truth: It was from the latter “splitting” about the transaction that the whole facts came out, and the body was subsequently disinterred and submitted to Mr. Sam Smith, surgeon, who came to the conclusion, from his post-mortem examination, that the child had been born alive, but had not had a vigorous existence, its breathing not having been full.
+
+OCR Text: Hereupon oe ,,rl EolhfinPs was taken into custody, and comr- euted for trial by the coroner for wilful murder, gah ,round that no preparation of clothes or linen t beenmade; that the prisoner had declined the seistase of another female and a medical man, and seletially that she had consequently intended to, d bad made away wvith, the life of the infant.
+Ground Truth: Hereupon the girl Hollings was taken into custody, and committed for trial by the coroner for wilful murder, on the ground that no preparation of clothes or linen had been made; that the prisoner had declined the assistance of another female and a medical man, and inferentially that she had consequently intended to, and had made away with, the life of the infant.
+
+OCR Text: Be- ' the magstrates, only sufficient evidence was ea to justify a remand of Selina Hollings, but the wst so satisfied the concealment was premedi- iateithat warrants were issued for the apprehension f AE. Tunnielifle and Mirs. W~aite. on the ground hrt they bad been alders and abettors in the con- 'rneat.
+Ground Truth: Before the magistrates, only sufficient evidence was taken to justify a remand of Selina Hollings, but the court was so satisfied the concealment was premeditated that warrants were issued for the apprehension of W. H. Tunnicliffe and Mrs. Waite, on the ground that they had been aiders and abettors in the concealment.
+
+OCR Text: The brother and sister avo both been ap- prsbelldedg and though. bail was offered on behalf of A, Waits the mayor declined to adrmither to it.- Mawchester E~xasnrincr.
+Ground Truth: The brother and sister have both been apprehended, and though bail was offered on behalf of Mrs. Waite the mayor declined to admit her to it. –Manchester Examiner.

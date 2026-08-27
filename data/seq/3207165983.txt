@@ -1,0 +1,53 @@
+OCR Text: BRENTFORD PETTY SESSIONS.
+Ground Truth: BRENTFORD PETTY SESSIONS.
+
+OCR Text: THE BITER BIT-SINGULAR CASE.
+Ground Truth: THE BITER BIT-SINGULAR CASE.
+
+OCR Text: Yesterday William Quantill, John Detforges, ant Joln Spratley, a coachman, ostler, and post-boy, in the employ of Mr. Cullin, the landlord of the Castle tavern, Brent- ford, were charged with appropriating to their own use the sum of 301.
+Ground Truth: Yesterday William Quantill, John Desforges, and John Spratley, a coachman, ostler, and post-boy, in the employ of Mr. Cullin, the landlord of the Castle tavern, Brentford, were charged with appropriating to their own use the sum of 30l.
+
+OCR Text: From the evidence produced, it appeared that, a few days since, Spratley was hired by a lady and gentleman who alighted at the Castle, from Williams's Reading coach, to drive them to Clapham.
+Ground Truth: From the evidence produced, it appeared that, a few days since, Spratley was hired by a lady and gentleman who alighted at the Castle, from Williams's Reading coach, to drive them to Clapham.
+
+OCR Text: On his return he gave a 201. note, No. 12,688, and a 101., 14,420, to Quantill to take to London and get changed for sovereigns, saying he hod found them In the chaise after he had put his fare down.
+Ground Truth: On his return he gave a 20l. note, No. 12,688, and a 10l., 14,420, to Quantill to take to London and get changed for sovereigns, saying he had found them in the chaise after he had put his fare down.
+
+OCR Text: Quantill, after his return, gave Spratley only X24, saying he should keep the other for his trouble.
+Ground Truth: Quantill, after his return, gave Spratley only £24, saying he should keep the other for his trouble.
+
+OCR Text: Spratley, not much pleased with his conduct, gave 21 sovereigns to the prisoner, Disforges, to keep for him, and on his asking him for them on Saturday, he refused to return him more than: 14.
+Ground Truth: Spratley, not much pleased with his conduct, gave 21 sovereigns to the prisoner, Disforges, to keep for him, and on his asking him for them on Saturday, he refused to return him more than £14.
+
+OCR Text: Spratley accordingly applied to the magistrates on the same dai, for a summons against his fellow-prisoners.
+Ground Truth: Spratley accordingly applied to the magistrates on the same day for a summons against his fellow-prisoners.
+
+OCR Text: When the magistrates became acquainted with the above circumstances, they ordered all three to be taken into custody.
+Ground Truth: When the magistrates became acquainted with the above circumstances, they ordered all three to be taken into custody.
+
+OCR Text: The Driver of Williams's coach remembered bringing a lady and gentleman to the Castle, Brentford, but he did not bonow who they were, as they came to the coach in a post-chaise.
+Ground Truth: The Driver of Williams's coach remembered bringing a lady and gentleman to the Castle, Brentford, but he did not know who they were, as they came to the coach in a post-chaise.
+
+OCR Text: Inspector Marchant informed the Bench, that he had that morning received a letter from the Inspector at Claphain, to whom he had written, stating that although he bad used every endcavour, he had been unable to ascertain who the parties were whom the prisoner Spratley had driven in his chaise.
+Ground Truth: Inspector Marchant informed the Bench, that he had that morning received a letter from the Inspector at Clapham, to whom he had written, stating that although he had used every endeavour, he had been unable to ascertain who the parties were whom the prisoner Spratley had driven in his chaise.
+
+OCR Text: The prisoners, having nothing to say, were remanded for re. examination.
+Ground Truth: The prisoners, having nothing to say, were remanded for reexamination.
+
+OCR Text: IMPORTANT TO LICENSED VICTUALLERS.
+Ground Truth: IMPORTANT TO LICENSED VICTUALLERS.
+
+OCR Text: Messrs. TsHOaAS HOtynRDand WILLIAM ENGLISH, the landlords of the Chequers and the Ball public-houses, at Islesworth, were each fined 1li, and 12s. costs, for selling beer previous to their respective licentces being transferred.
+Ground Truth: Messrs. THOMAS HOLFORD and WILLIAM ENGLISH, the landlords of the Chequers and the Ball public-houses, at Isleworth, were each tined £5, and 12s. costs, for selling beer previous to their respective licences being transferred.
+
+OCR Text: The loforoiatioas wvere laid by a common informer, named Johin Thomas, whose witness, George Bowley, stated, that on the 2Sth of October last he wsent into the defendants' houses, in the first of which he was served with a pint of porter, and In the other with a pot.
+Ground Truth: The information’s were laid by a common informer, named John Thomas, whose witness, George Bowley, stated, that on the 20th of October last he went into the defendants' houses, in the first of which he was served with a pint of porter, and in the other with a pot.
+
+OCR Text: The licences of the houses were not trans. ferred until the following day, the 21 at ult.
+Ground Truth: The licences of the houses were not transferred until the following day, the 21st ult.
+
+OCR Text: The MAoIsTRATES expressed great regret at being compelled to convict in cases of the above nature, and hoped that some member, friendly to licensed victuahlers, would bring In a bill to repeal the 9th Geo. IV., cap. 61, sec. 18, under which Act they had no option.
+Ground Truth: The MAGISTRATES expressed great regret at being compelled to convict in cases of the above nature, and hoped that some member, friendly to licensed victuallers, would bring in a bill to repeal the 9th Geo. IV., cap. 61, sec. 18, under which Act they had no option.
+
+OCR Text: It was as painful to them to convict as it was to the defendants to be convicted,
+Ground Truth: It was as painful to them to convict as it was to the defendants to be convicted.

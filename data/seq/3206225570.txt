@@ -1,0 +1,83 @@
+OCR Text: I ANOTEH qHARIG OF'INDECENTACSSOLT I
+Ground Truth: ANOTHER CHARGE OF INDECENT ASSAULT.
+
+OCR Text: i On Thursday, at the Worslip-street police-court, ,eormg Reger, thirty years of age, residing at No. 3, Marshamn-atreet, Westminster, was charged with in- decently assaulting Helena Luke, while in a railway carnage, and during transit from Woolwich to Lon- don, on the Great Eastern line. L Z : ;
+Ground Truth: On Thursday, at the Worship-street police-court, George Riger, thirty years of age, residing at No. 3, Marsham-street, Westminster, was charged with indecently assaulting Helena Luke, while in a railway carriage, and during transit from Woolwich to London, on the Great Eastern line.
+
+OCR Text: The complainant; who is twenty-five years of age; appears to be of German extraction.
+Ground Truth: The complainant, who is twenty-five years of age, appears to be of German extraction.
+
+OCR Text: She was' showily-attired, and is known to belong to that class of gay women who frequent public gardens in the I skirtsof. thetown,
+Ground Truth: She was showily-attired, and is known to belong to that class of gay women who frequent public gardens in the skirts of the town.
+
+OCR Text: Nevertheless, shegaveherevidence with apparent truthfulness.
+Ground Truth: Nevertheless, she gave her evidence with apparent truthfulness.
+
+OCR Text: She stated : I am single, and live in Back-road, St. George's.
+Ground Truth: She stated: I am single, and live in Back-road, St. George's.
+
+OCR Text: I left Woolwich gardens at twelve o'clock on Wednesday night, and got into a railway carriage to corhe'to Shoreditch.
+Ground Truth: I left Woolwich gardens at twelve o'clock on Wednesday night, and got into a railway carriage to come to Shoreditch.
+
+OCR Text: There were several persons in the car- riage.
+Ground Truth: There were several persons in the carriage.
+
+OCR Text: One gentleman got out at Barking-road, and directly afterwards this person (defendant) began to molest me.
+Ground Truth: One gentleman got out at Barking-road, and directly afterwards this person (defendant) began to molest me.
+
+OCR Text: Mr. Cooke: But there were other parties In the same carriage, you say 7-Complainant: Yes, three more, but they were his friends, and did' not-inter- fere.
+Ground Truth: Mr. Cooke: But there were other parties in the same carriage, you say? —Complainant: Yes, three more, but they were his friends, and did not interfere.
+
+OCR Text: 'He tried to expose me to them.
+Ground Truth: He tried to expose me to them.
+
+OCR Text: When he found he could not do so, he kicked me in the chest.
+Ground Truth: When he found he could not do so, he kicked me in the chest.
+
+OCR Text: Cross-examined by the defendant: I did'see you last Sunday, and you wanted my company, but it was not convenient.
+Ground Truth: Cross-examined by the defendant: I did see you last Sunday, and you wanted my company, but it was not convenient.
+
+OCR Text: . Oh, yes, I will speak all'the truth.
+Ground Truth: Oh, yes, I will speak all the truth.
+
+OCR Text: You had not any money.-Defendant: Yes, I said so, certainly.
+Ground Truth: You had not any money. —Defendant: Yes, I said so, certainly.
+
+OCR Text: William Twist (inspector on the Tne)-:Athalf- past twelve o'clock I was on the platform of the Afile-end station, when the last train from Wuolwich came in.
+Ground Truth: William Twist (inspector on the line): At half-past twelve o'clock I was on the platform of the Mile-end station, when the last train from Woolwich came in.
+
+OCR Text: In a second-clas carriage I saw the com- plainant; she was sitting in a corner, her hat was off, and she was crying very much.
+Ground Truth: In a second-class carriage I saw the complainant; she was sitting in a corner, her hat was off, and she was crying very much.
+
+OCR Text: I inquired what was the matter, and she replied that defendant had tried to expose her to others in the carriage.
+Ground Truth: I inquired what was the matter, and she replied that defendant had tried to expose her to others in the carriage.
+
+OCR Text: I ap- pealed to three other persons who were there as to the truth of this statement, but none of' them would say anything about it.
+Ground Truth: I appealed to three other persons who were there as to the truth of this statement, but none of them would say anything about it.
+
+OCR Text: They are friends of the defendant's, who with them, belongs to the hand ,of musicians at Wooiwioh-gardns.
+Ground Truth: They are friends of the defendant's, who, with them, belongs to the band of musicians at Woolwich-gardens.
+
+OCR Text: Defendalnt: I have witnesses who will confute this woman's statement.
+Ground Truth: Defendant: I have witnesses who will confute this woman's statement.
+
+OCR Text: Benjamin Boddy, sworn: I am a musician, and reside in the. Hackney-road.
+Ground Truth: Benjamin Roddy, sworn: I am a musician, and reside in the Hackney-road.
+
+OCR Text: I was present in the carriage on the occasion.
+Ground Truth: I was present in the carriage on the occasion.
+
+OCR Text: Complainant was sitting with her clothes over the knees -of a gentleman in a very improper manner.
+Ground Truth: Complainant was sitting with her clothes over the knees of a gentleman in a very improper manner.
+
+OCR Text: He got out at the Bark6ng- road station.
+Ground Truth: He got out at the Barking-road station.
+
+OCR Text: She and defendant then got into con- versation and quarrelled.
+Ground Truth: She and defendant then got into conversation and quarrelled.
+
+OCR Text: He did not raise her dress or kick or strike her; he did push her.
+Ground Truth: He did not raise her dress or kick or strike her; he did push her.
+
+OCR Text: It wans at this point mentioned that testimony of a thoroughly impartial character could be. most proha- bll obtained if a remand was allowed, and- !kr. Cooke txerenpon adopted that course, bult ad mitted defendant to hail.
+Ground Truth: It was at this point mentioned that testimony of a thoroughly impartial character could be most probably obtained if a remand was allowed, and Mr. Cooke thereupon adopted that course, but admitted defendant to bail.

@@ -1,0 +1,83 @@
+OCR Text: I ANOPHER MURDER AT DUNDRY.
+Ground Truth: ANOTHER MURDER AT DUNDRY.
+
+OCR Text: The excitement consequent on the terrible murder of old Mrs. Waterman, for which her murderers, Matthew Wedmore and Charleo Wedmore, were executed at Taunton as recently as Friday week, has not had time to subside ere the committal of another very barbarous homicide hsm been discovered In the same neighbourhood.
+Ground Truth: The excitement consequent on the terrible murder of old Mrs. Waterman, for which her murderers, Matthew Wedmore and Charles Wedmore, were executed at Taunton as recently as Friday week, has not had time to subside ere the committal of another very barbarous homicide has been discovered in the same neighbourhood.
+
+OCR Text: The circumstances connected! with the discovery are ae follows*-
+Ground Truth: The circumstances connected with the discovery are as follows:-
+
+OCR Text: At a distane of a hundred yards or so from the cottage in which the former terrible tragedy was en- anted. is an ion called the Thrae Compasses, kept by a person named Stsllard.
+Ground Truth: At a distance of a hundred yards or so from the cottage in which the former terrible tragedy was enacted, is an ion called the Three Compasses, kept by a person named Stallard.
+
+OCR Text: Attached to this house is a field, which strangely enocgh formed part of a fatm the occupier of whicb, sin elderly man named! Hazell, VWas murdered, under circumstances which bsve not up to the present been thoroughly elucidated, sorre nine or ten years ago.
+Ground Truth: Attached to this house is a field, which strangely enough formed part of a farm the occupier of which, an elderly man named Hazell, was murdered, under circumstances which have not up to the present been thoroughly elucidated, some nine or ten years ago.
+
+OCR Text: In this field is a ponk, to which, on Saturday afternoon, a duaghter of Mr. Stallerdwout, for the purpose of dipping out some walter.
+Ground Truth: In this field is a pond, to which, on Saturday afternoon, a daughter of Mr. Stallard went, for the purpose of dipping out some water.
+
+OCR Text: On approasbing it, she observed something floating, which she for the moment thiought wase ab heeps head, and supposigthat there hadbeen aome sheepatealing going On, she called her brother.
+Ground Truth: On approaching it, she observed something floating, which she for the moment thought was a sheep's head, and supposing that there had been some sheep stealing going on, she called her brother.
+
+OCR Text: He procuredl ai stick, and got it cut, and they then dis. covered to their horror thstit was the mutilated body of a child.
+Ground Truth: He procured a stick, and got it cut, and they then discovered to their horror that it was the mutilated body of a child.
+
+OCR Text: Shortly afterwards, concealed in a hole at the side of the pond, they discovered some clothes, which had apparently belonged to the same child.
+Ground Truth: Shortly afterwards, concealed in a hole at the side of the pond, they discovered some clothes, which had apparently belonged to the same child.
+
+OCR Text: Mr.. Stutlard. the surgeon, was at once aoplied to, anil discovered, on exsnlLning the body, that the shkU of the deceased had been fractured, apparently, by being beaten in on the top with a thres cornered stone asad also that a -wound six inches long had been inflicted on the back of the neck
+Ground Truth: Mr. Sturland, the surgeon, was at once applied to, and discovered, on examining the body, that the skull of the deceased had been fractured, apparently, by being beaten in on the top with a three cornered stone, and also that a wound six inches long had been inflicted on the back of the neck.
+
+OCR Text: Information was at once given to the police, and Superintendent Jones, Po. lice sergeant Drewett, and Aoting. sergeant Moore% of the county constabulary, were immediately en. gaged in investigating the matter.
+Ground Truth: Information was at once given to the police, and Superintendent Jones, Police sergeant Drewett, and Acting sergeant Moore, of the county constabulary, were immediately engaged in investigating the matter.
+
+OCR Text: Suspicion falls oG a woran of bad charicter, who is well known to the police as cohabiting with, and having had childrem by a rnan.who lives at Bedminatar Down.
+Ground Truth: Suspicion falls on a woman of bad character, who is well known to the police as cohabiting with, and having had children by a man who lives at Bedminster Down.
+
+OCR Text: A short time ago she was at Dundry anrd had with her a child of about four months old, similar to that found.
+Ground Truth: A short time ago she was at Dundry and had with her a child of about four months old, similar to that found.
+
+OCR Text: She called at the Compasses tavern, and Mrs. Stellard no- ticed that the little creature appeared as if neglected, sand mentioned her opinion to the mother.
+Ground Truth: She called at the Compasses tavern, and Mrs. Stellard noticed that the little creature appeared as if neglected, and mentioned her opinion to the mother.
+
+OCR Text: Some davs after the woman. was there again, but without tho child, which Ehe said she had buried at Bdistol.
+Ground Truth: Some days after the woman was there again, but without the child, which she said she had buried at Bristol.
+
+OCR Text: The clothes found were submitted to Mrs. Stellard's Inspection, and she expresses the strongest belief that they are the sanie which the child had oo the evening when the woman brought it with her to the house.
+Ground Truth: The clothes found were submitted to Mrs. Stellard's inspection, and she expresses the strongest belief that they are the same which the child had on the evening when the woman brought it with her to the house.
+
+OCR Text: The police bave been successfal in tracing out the woman alluded to; bat as she was enabled to pro- duce evidence corroborative ef her statement, she was, of course, left at liberty.
+Ground Truth: The police have been successful in tracing out the woman alluded to; but as she was enabled to produce evidence corroborative of her statement, she was, of course, left at liberty.
+
+OCR Text: The suspicion has now been transferred to another party.
+Ground Truth: The suspicion has now been transferred to another party.
+
+OCR Text: An inquest on the body of the murdered child has been opened, at which Mr. Gould, the chief of police, obtained en adjournment of the inquest for a week, in order to afford time for au isquiry.
+Ground Truth: An inquest on the body of the murdered child has been opened, at which Mr. Gould, the chief of police, obtained an adjournment of the inquest for a week, in order to afford time for an inquiry.
+
+OCR Text: The police, he stated, were asing efforts to endeavour to traes out I the perpetralor of the wicked crime, and it might assiEt them if the inquest were left in such a state ar that fresh witnesses might be brought before them.
+Ground Truth: The police, he stated, were using efforts to endeavour to trace out the perpetrator of the wicked crime, and it might assist them if the inquest were left in such a state as that fresh witnesses might be brought before them.
+
+OCR Text: TEE CHILD MURDER AT HORNSEBY.
+Ground Truth: THE CHILD MURDER AT HORNSEY.
+
+OCR Text: On Thursday, AnneReed1 eighteen, a good looking YOung Vwoman, waAS indicted at the Old Bailey for the wilful murder of bar female illegitimate child by cutting its thrcat.-The prisoner appeared to be saf- fering great mental anguish, and was nearly in a faintimg state during the trial.-It appeared that thi prisener was a domestic servant, and that on the 18th, of JAnusry she was delivered of thechild in question, and on the same day ehe went to the house of a per. son named Maritu, at HEorney, rin a very exhauate4 and feeble state, and Krs. Martin pult her to bad.
+Ground Truth: On Thursday, Anne Reed, eighteen, a good looking young woman, was indicted at the Old Bailey for the wilful murder of her female illegitimate child by cutting its threat. —The prisoner appeared to be suffering great mental anguish, and was nearly in a fainting state during the trial. —It appeared that the prisoner was a domestic servant, and that on the 18th of January she was delivered of the child in question, and on the same day she went to the house of a person named Martin, at Hornsey, in a very exhausted and feeble state, and Mrs. Martin put her to bed.
+
+OCR Text: The prisoner was then aeked for the key of her box, tid cbe said that she had lest it lea the cab; but sbortly afterwards Mra. Martia found the key ia her gown pocket, and upon opening the box she discovered the dead body of a child in a pie. diab, with its throat ent from ear to ea.
+Ground Truth: The prisoner was then asked for the key of her box, and she said that she had lost it in the cab; but shortly afterwards Mrs. Martin found the key in her gown pocket, and upon opening the box she discovered the dead body of a child in a pie-dish, with its throat cut from ear to ear.
+
+OCR Text: Two euedical gentleman, named Jsmes and Horner, were called in, and upon examining 'the child they ob. served appearances which indaoed them to believe that the child WAS a fadllgrown child, and that lt hal been born alive.
+Ground Truth: Two medical gentlemen, named James and Horner, were called in, and upon examining the child they observed appearances which induced them to believe that the child was a full-grown child, and that it had been born alive.
+
+OCR Text: They also stated that the deathx was no doubt oceasioned by loss of blood, but they were unable to say whethr thic loss of blood was the result of the wound in the throator from the prisoner not having profensscnal assistance at the time of the birth,
+Ground Truth: They also stated that the death was no doubt occasioned by loss of blood, but they were unable to say whether this loss of blood was the result of the wound in the throat or from the prisoner not having professional assistance at the time of the birth.
+
+OCR Text: These gentlemen now etxprassed theamselvee unable to give any pos've opinion whether the woued ln the threa; was itflieted immedlately before or after the death of the child.
+Ground Truth: These gentlemen now expressed themselves unable to give any positive opinion whether the wound in the throat was inflicted immediately before or after the death of the child.
+
+OCR Text: Mr. T. Atkinean made a moist feeling appeal to the jury en bebthlf of the priaoner, and he urged that upoe the testimony that had been given by the mae- dictl gentlemen it would be impoasible to return a, vcr:diet 138alnet the prisoner thit would immediately have tbo eCsl7t of conigir g her to the scaffold.
+Ground Truth: Mr. T. Atkinson made a most feeling appeal to the jury on behalf of the prisoner, and he urged that upon the testimony that had been given by the medical gentlemen it would be impossible to return a verdict against the prisoner that would immediately have the effect of consigning her to the scaffold.
+
+OCR Text: The jury, after a short conseulstlon, found the P'iscner cot guilty of wilful murder, but guilty oE CnceoaEiog the bitth.-Mr. U'Donuell, on tbo part O Mr. AtHcsos, reminded tle court that the ptiesner san aeeptly bean between three nwd four month" izt priren.-The prisoner was settenzed to be impdisoned and kept to herd labour for ore year.
+Ground Truth: The jury, after a short consultation, found the prisoner no’s guilty of wilful murder, but guilty of concealing the birth. —Mr. M'Donnell, on the part of Mr. Atkinson, reminded the court that the prisoner had already been between three and four months in prison. —The prisoner was sentenced to be imprisoned and kept to hard labour for one year.

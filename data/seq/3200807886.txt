@@ -1,0 +1,47 @@
+OCR Text: A GANG OF YOUTHFUL BURGLARS.
+Ground Truth: A GANG OF YOUTHFUL BURGLARS.
+
+OCR Text: AT the Dalston Police-court Frederickl Bnshell, rc . fifteen, boot finisher, of Crozier-terrace, Hackney ; cc James Arnold, fourteen, errand boy, of Oswald-street, o H Hackney-wick; and Noah Dunkley, twelve, school- ol boy, of Overberry-road, Hackney-wick, were charged sc on remand with being in a disused oilcloth factory in rt Glyn-road, Clapton-park, supposed for the purpose tr - of committing a felony.
+Ground Truth: AT the Dalston Police-court Frederick Bushell, fifteen, boot finisher, of Crozier-terrace, Hackney; James Arnold, fourteen, errand boy, of Oswald-street, Hackney-wick; and Noah Dunkley, twelve, school-boy, of Overberry-road, Hackney-wick, were charged on remand with being in a disused oilcloth factory in Glyn-road, Clapton-park, supposed for the purpose of committing a felony.
+
+OCR Text: The boys were found in the building at ten o'clock on the previous Saturday pi morning.
+Ground Truth: The boys were found in the building at ten o'clock on the previous Saturday morning.
+
+OCR Text: They had evidently made the place their m nhome.
+Ground Truth: They had evidently made the place their home.
+
+OCR Text: The elder boy was armed with a catapult, a, and in his' 'possession were a number of lead pellets, at
+Ground Truth: The elder boy was armed with a catapult, and in his possession were a number of lead pellets.
+
+OCR Text: The extenwive building had been almost stripped of c its piping, and there were evidences that the lead so re - obtained had been melted down to make pellets bi L for the catapults, which were used to shoot the m 3 numerous birds nested in the roof of the building, bh which were afterwards cooked and eaten,
+Ground Truth: The extensive building had been almost stripped of its piping, and there were evidences that the lead so obtained had been melted down to make pellets for the catapults, which were used to shoot the numerous birds nested in the roof of the building, which were afterwards cooked and eaten.
+
+OCR Text: On the I house where Arnold resided bheing searched a chisel fashioned like a blurglar's "jenimly" was found, P 3 together with a silver-plated teapot and cream jug, tc 7 and several plated spoons, which it was ascertained I had been stolen from a house in Percy-terrace, Mande- y ville-strect, Clapton.
+Ground Truth: On the house where Arnold resided being searched a chisel fashioned like a burglar's "jemmy" was found, together with a silver-plated teapot and cream jug, and several plated spoons, which it was ascertained had been stolen from a house in Percy-terrace, Mandeville-street, Clapton.
+
+OCR Text: The owner was not present, t and Constable 208 J said there was no further D evidence to connect the prisoners with the robbery El 7 at that house.
+Ground Truth: The owner was not present, and Constable 208 J said there was no further evidence to connect the prisoners with the robbery at that house.
+
+OCR Text: A solicitor representing the owner, fi, who is away in Russia, said that during the past I few years £700 worth of damage had beer, done to t the buildings by boys.
+Ground Truth: A solicitor representing the owner, who is away in Russia, said that during the past few years £700 worth of damage had been done to the buildings by boys.
+
+OCR Text: A wall eight feet high turol rounded the building, and as the inner staircase bad ti long since disappeared he was at a loss to know how 1t the boys got to the top floor.
+Ground Truth: A wall eight feet high surrounded the building, and as the inner staircase had long since disappeared he was at a loss to know how the boys got to the top floor.
+
+OCR Text: Arnold said they got l over the outer wall from some gardens at the back, So . and, having forced the windows, they climbed up the beams to the top floor.
+Ground Truth: Arnold said they got over the outer wall from some gardens at the back, and, having forced the windows, they climbed up the beams to the top floor.
+
+OCR Text: The solicitor added that tl 3 great daneer might arise to adjoining property by so the boys Iinidling fires on the floor.
+Ground Truth: The solicitor added that great danger might arise to adjoining property by the boys kindling fires on the floor.
+
+OCR Text: Time boys seemed t) to have been neglected by their parents, one mother e admitting that she had taken a situation as a house- X keeper and left the boy to shift for himself
+Ground Truth: The boys seemed to have been neglected by their parents, one mother admitting that she had taken a situation as a house keeper and left the boy to shift for himself.
+
+OCR Text: Mr. 0. Corser said Bushell appeared to be the ringleader, h and he probably had led the other boys away.
+Ground Truth: Mr. Corser said Bushell appeared to be the ringleader, and he probably had led the other boys away.
+
+OCR Text: He e would have ten days' imprisonment and be detained .for five years in a reformatory.
+Ground Truth: He would have ten days' imprisonment and be detained for five years in a reformatory.
+
+OCR Text: The younger boys Q would go to the workhouse for a week, and Mr.r f Hiscocks, the School Board officer, would find t] e indiustrial schools for them.
+Ground Truth: The younger boys would go to the workhouse for a week, and Mr. Hiscocks, the School Board officer, would find industrial schools for them.

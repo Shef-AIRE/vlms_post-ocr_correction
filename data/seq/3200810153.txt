@@ -1,0 +1,107 @@
+OCR Text: A FORGED TIMLEGRArd.
+Ground Truth: A FORCED TELEGRAM.
+
+OCR Text: :ROnBIsT MAnseD, twenty-nine, who sobbed during the whole of the proceedings, was charged with uttering a forged telegram.
+Ground Truth: ROBERT MARSH, twenty-nine, who sobbed during the whale of the proceedings, was charged with uttering a forged telegram.
+
+OCR Text: Mr. Breton Osborn prosecuted on 2 behalf of the Post Office authorities, and said that the prisoner was oharged with forging a telegram in order to obtain 10s.
+Ground Truth: Mr. Breton Osborn presented on behalf of the Post Office authorities, and said that the prisoner was charged with forging a telegram in order to obtain 10s.
+
+OCR Text: It appeared that he went on Saturday to a WI j post-office in Peckham, and obtained ID3. in payment of two postal orders.
+Ground Truth: It appeared that he went on Saturday to a post-office in Peckham, and obtained 15s. is payment of two postal orders.
+
+OCR Text: This sum included 6 half-sovereign, and ster in the day le went beck to the office and gave e the clerk in charge a gilt Jubilee sixpenco, saying it had ,' been handed to him by her in the morning for a half- 3 sovereign.
+Ground Truth: This sum included a half-sovereign, and Iater in the day he went back to the office and gave the clerk is charge a gilt Jubilee sixpence, saying it had been handed to him by her in the morning for a half-sovereign.
+
+OCR Text: Miss Smith, the clerk, said sie had not given Ca i him the coin, and declined to change it.
+Ground Truth: Miss Smith, the clerk, said she had not given him the coin, and declined to change it.
+
+OCR Text: The prisoner I then appears to have gone to ondon Bridge Railway 11 e Station, and, saying he could not write, asked the tele- Me graph cierk to write the following telegram for him :- '- miss Sausjmerville, Rye-lane Post Offi0e, Peckham.- Ta rlease pay Elizabeth Cecilia Walkeling a half-sovereign in Se exchange for the bad one."
+Ground Truth: The prisoner then appears to have gone to London Bridge Railway Station, and, saying he could not write, asked the telegraph clerk to write the following telegram for him: "—Miss Summerville, Rye-lane Post Office, Peckham. — Please pay Elizabeth Cecilia Wakeling a half-sovereign in exchange for the bad one."
+
+OCR Text: This message the prisoner Pi, directed to be sigLed, "From the Postmaster."
+Ground Truth: This message the prisoner directed to be signed, "From the Postmaster."
+
+OCR Text: He ant afterwards bad the words " and one shilling and sixpene F0 afewa and Hi d expenses f added.
+Ground Truth: He afterwards had the words "and one shilling and sixpence expenses" added.
+
+OCR Text: The Pest Office orders which the pri. T es soner had obtained payment for in the morning were pay- RE . able to E. Cecilia Wakeling.
+Ground Truth: The Post Office orders which the prisoner had obtained payment for in the morning were payable to E. Cecilia Wakeling.
+
+OCR Text: Mr. Osborn suggested that Hii the ase came under the 11th section of the Postmasters' TI d Protection Act, e and 47 Vic., which was meant to meet :o the difficulties which might arise with regard to forged _ telegrams-the prisoner would also be charged with forging an authority for the payment of money.
+Ground Truth: Mr. Osborn suggested that the case came under the 11th section of the Postmasters’ Protection Act, 40 and 47 Vic., which was meant to meet the difficulties which might arise with regard to forged telegrams—the prisoner would also be charged with forging an authority for the payment of money.
+
+OCR Text: In M y addition to the torgery it appeared a most impudent 'sattempt to obtain money by fraud.
+Ground Truth: In addition to the forgery it appeared a most impudent attempt to obtain money by fraud.
+
+OCR Text: Miss Julia Smith i. said that she was clerk in charge at the Pockham branch of the South-EBasteirn district office.
+Ground Truth: Miss Julia Smith said that she was clerk in charge as the Peckham branch of the South-Eastern district office.
+
+OCR Text: She had been in service eighteen yesrsef and was accustomed to the cash- _ ing of postal orders.
+Ground Truth: She had been in serving eighteen years, and was accustomed to the cashing of postal orders.
+
+OCR Text: On Saturday last the prisoner 0O called at the office at abest eleven o'clock in the morn- ing, and cashed two postal orders for 10s. 6d, and 4s. 6d. ( respectively.
+Ground Truth: On Saturday last the prisoner on called at the office at about eleven o'clock in the morning, and cashed two postal orders for 10s. 6d. and 4s. 6d. respectively.
+
+OCR Text: She gave half a sovereign and 53. in silver.
+Ground Truth: She gave half a sovereign and 5s. in silver.
+
+OCR Text: She was sure theat the half-sovereign was a, good one.
+Ground Truth: She was sure that the half-sovereign was a good one.
+
+OCR Text: The prisoner came into the offiec again at about three in at the afteruoon, and prodneed a gilt Jubilee sixpence, 01 stating that she had given it him that morning for at half-sovereign.
+Ground Truth: The prisoner came into the office again at about three in the afternoon, and produced a gilt Jubilee sixpence, stating that she had given is him that morning for a half sovereign.
+
+OCR Text: She examined the coin, and noticed at - once that it was light in colour and weight, and had no N ring,
+Ground Truth: She examined the coin, and noticed at one that it was light in colour and weight, and had no ring.
+
+OCR Text: She told him that she vwsa quite sure that she had not given it to him, and' declined to exchange it, and he left the office, leavhig it behind him.
+Ground Truth: She told him that she was quite sure that she had not given it to him, and declined to exchange it and be left the office, leaving it behind him.
+
+OCR Text: He1 returned in three-quarters of an irour, and again de- maicded a half-sovereign, and she referred him to the t Sotth-Eastern district postmaster, in Blackman-street.
+Ground Truth: He returned in three-quarters of an hour, and again demanded a half-sovereign, and she referred him to the South Eastern district postmaster, in Blackman-street.
+
+OCR Text: He- said he would go and see the postmaster, but declined _ to take the coin with him.
+Ground Truth: He said he would go and see the postmaster, but declined to take the coin with him.
+
+OCR Text: He canne back between four and five, and asked her whether she had received a 1 telegram from the postmaster ii)strueting her to J pay him.
+Ground Truth: He came back between four and five, and asked her whether she had received a telegram from the postmaster instructing her to pay him.
+
+OCR Text: She said "No."
+Ground Truth: She said “No.”
+
+OCR Text: Telegrams addressed to al Rye-lane wculd be delivered from her office..
+Ground Truth: Telegrams addressed to Rye-lane would be delivered from her office.
+
+OCR Text: He said she p would receive one, as he had seen the postmaster.
+Ground Truth: He said she would receive one, as he had seen the postmaster.
+
+OCR Text: He P returnedl again, and said that there was a telegram i intended for her which had been sent to the wrong office.
+Ground Truth: He returned again, and said that there was a telegram intended for her which had been sent to the wrong office.
+
+OCR Text: She said she would send in a special report, to the Post- master, and he then asked for the sixpene-, which she gave him.
+Ground Truth: She said she would send is a special report to the Post master, and he then asked for the sixpence, which she gave him.
+
+OCR Text: The prisoner said he must, have been out of his mind.
+Ground Truth: The prisoner said he must have been out of his mind.
+
+OCR Text: He was not aware of the consequenres when he sent the tsIegram.
+Ground Truth: He was not aware of the consequences when he sent the telegram.
+
+OCR Text: Sidney Thomas Birkenshaw, clerk at London-bridge Station, gave evidence in support of 2 DIr. Osborn's opening statement,
+Ground Truth: Sidney Thomas Birkenshaw, clerk at London-bridge Station, gave evidence in support of Mr. Osborn's opening statement.
+
+OCR Text: Herbert Henry Ureen- slade, a messenger attached to the Ptekbam branch office, sAid' that le encountered the prisoner, who told him that he knew what was in the nmessage he was carrying, and that it was intended for the office down the street.
+Ground Truth: Herbert Henry Green-slade, a messenger attached to the Peckham branch office, said that he encountered the prisoner, who told him that to knew what was in the message he was carrying, and that it was intended for the office down the street.
+
+OCR Text: He asked him to- give him the telegram, but the witness declined.
+Ground Truth: He asked him to give him the telegram, but the witness declined.
+
+OCR Text: The Sautli-Eastern district postmaster stated b that he bad never had any interview with the prisoner, and' M0at the telegram had not been sent by his authority; d and Mh'. W. T. Edwards, of the Confidential Ihquiry Department, deposed that when interrogated as to what he had done with the gilt sixpence the prisoner replied that he had chang-st it at a tobacconist's in High-street, ry Peckham, as half a sovereign.
+Ground Truth: The South-Eastern district postmaster stated that he had never had any interview with the prisoner, and that the telegram had not been sent by his authority; and Mr. W. T. Edwards, of the Confidential Inquiry Department, deposed that when interrogated as to what he had done with the gilt sixpence the prisoner replied that he had changed it at a tobacconist’s in High-street, Peckham, as half a sovereign.
+
+OCR Text: He said, respecting the ne telegram, that he did mot know the consequences oi it, e and that if' he had Ire should never have done suob a tentrick.
+Ground Truth: He said, respecting the telegram, that he did not know the consequence of it, and that if he had he should never have done wash a trick.
+
+OCR Text: The prisoner was reman del. o rer
+Ground Truth: The prisoner was remanded.

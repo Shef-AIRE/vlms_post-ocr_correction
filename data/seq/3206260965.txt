@@ -1,0 +1,65 @@
+OCR Text: ATTEMPTED MURDER AT CAMBERS it - _ I WELL.
+Ground Truth: ATTEMPTED MURDER AT CAMBERWELL.
+
+OCR Text: At Lambeth police-court, on Tuesdays Jeolu Connor, 23, living in Aboulir-street, Old Kent-road, labourer, was charged before Mr. Biron with unlawfully wounding Ruth Laws, by stabbing her with a knife in St. George's-road, Camberwell,
+Ground Truth: At Lambeth police-court, on Tuesday, John Connor, 23, living in Aboukir-street, Old Kent-road, labourer, was charged before Mr. Biron with unlawfully wounding Ruth Laws, by stabbing her with a knife in St. George's-road, Camberwell.
+
+OCR Text: The complainant, a married woman, living in Cator-street, Peckbam, stated that the prisoner was her sister'4husband.
+Ground Truth: The complainant, a married woman, living in Cator-street, Peckham, stated that the prisoner was her sister's husband.
+
+OCR Text: They were aU out together on Uonday.
+Ground Truth: They were all out together on Monday.
+
+OCR Text: In the evening they left a public-house, and whilst in the St. George's-road the prisoner said, " I have got a knife."
+Ground Truth: In the evening they left a public-house, and whilst in the St. George's-road the prisoner said, "I have got a knife."
+
+OCR Text: Seeing him aiming a blow with a knife at her, she put up her right arm to protect herself.
+Ground Truth: Seeing him aiming a blow with a knife at her, she put up her right arm to protect herself.
+
+OCR Text: The knife struck her on the arm, causing a wound.
+Ground Truth: The knife struck her on the arm, causing a wound.
+
+OCR Text: She became insensible for a time, and after- wards found herself attended by a doctor.
+Ground Truth: She became insensible for a time, and afterwards found herself attended by a doctor.
+
+OCR Text: William Roberts, a porter, said all the parties were the worse for drink.
+Ground Truth: William Roberts, a porter, said all the parties were the worse for drink.
+
+OCR Text: He saw the prisoner aim the blow, which evidently looked as if he meant to stab her.
+Ground Truth: He saw the prisoner aim the blow, which evidently looked as if he meant to stab her.
+
+OCR Text: She put up her arm, and caught the blow on it.
+Ground Truth: She put up her arm, and caught the blow on it.
+
+OCR Text: The prisoner also ran at the youngest sister of the prosedutrix, apparently to stab her, but she got out of the way.
+Ground Truth: The prisoner also ran at the youngest sister of the prosecutrix, apparently to stab her, but she got out of the way.
+
+OCR Text: The prisoner fob lowed the prosecutrix to the doctor's house, still haviig the knife.
+Ground Truth: The prisoner followed the prosecutrix to the doctor's house, still having the knife.
+
+OCR Text: Police-constable 526f W said he was in- formedof the affair, and found the prisoner outside the doctor's house.
+Ground Truth: Police-constable 526 W said he was informed of the affair, and found the prisoner outside the doctor's house.
+
+OCR Text: He was trying to force his way in.
+Ground Truth: He was trying to force his way in.
+
+OCR Text: Witness took hold of him, and said he would he charged with stabbing his sister-in-law, Prisoner said, " Yes, and I'll settle her new," and he thens tried again to get into the surgery.
+Ground Truth: Witness took hold of him, and said he would be charged with stabbing his sister-in-law, Prisoner said, "Yes, and I'll settle her now," and he then tried again to get into the surgery.
+
+OCR Text: Witness struggled with the prisoner and measged to get the knife produced from his pocket.
+Ground Truth: Witness struggled with the prisoner and managed to get the knife produced from his pocket.
+
+OCR Text: At the station the prisoner said "If I am not locked up I'll do for her yet. I'opened the big blade."
+Ground Truth: At the station the prisoner said "If I am not locked up I'll do for her yet. I opened the big blade."
+
+OCR Text: Hie afterwards said he did not know be had a knife in his pocket, and that he only tried to get into the doctor's place to see if hehad hurt her much.
+Ground Truth: He afterwards said he did not know he had a knife in his pocket, and that he only tried to get into the doctor's place to see if he had hurt her much.
+
+OCR Text: In answer to Mr. Biron, the police offices said all the parties had evidently been drinlong.
+Ground Truth: In answer to Mr. Biron, the police officer said all the parties had evidently been drinking.
+
+OCR Text: The husband of the prosecutriz said it was not the fist time the prisones had threatened her with violence.
+Ground Truth: The husband of the prosecutrix said it was not the first time the prisoner had threatened her with violence.
+
+OCR Text: Mr. Biron remanded the prisoner.
+Ground Truth: Mr. Biron remanded the prisoner.

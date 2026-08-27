@@ -1,0 +1,35 @@
+OCR Text: THE GUE&T BOND ROBBERY.
+Ground Truth: THE GREAT BOND ROBBERY.
+
+OCR Text: WALTER SELWYN, forty-six, aliag Archibald Herbert Melville, well dressed, and described as having no aoca- pation, and as residing at the Hotel Continental, Paris, was charged on a warrant, before Mr. Newton, at the Marlborough-street Police-court, with having been con- cerned with a man named Peach, who is now awaiting his trial, in conspiring to obtain the sum of £8!0 from George Willis Scears in exchange for a quantity of Turkish Priority Bonds, which were alleged to have been stolen from a Channel steamer.
+Ground Truth: WALTER SELWYN, forty-six, alias Archibald Herbert Melville, well dressed, and described as having no occupation, and as residing at the Hotel Continental, Paris, was charged on a warrant, before Mr. Newton, at the Marlborough-street Police-court, with having been concerned with a man named Peach, who is now awaiting his trial, in conspiring to obtain the sum of £800 from George Willis Scears in exchange for a quantity of Turkish Priority Bonds, which are alleged to have been stolen from a Channel steamer.
+
+OCR Text: Mr. St. John Wontner, solicitor, prosecuted.
+Ground Truth: Mr. St. John Wontner, solicitor, prosecuted.
+
+OCR Text: DetePtive-sergeant Lowe, of Scot- land-yard, deposed that at about htlf-past five on Wed- nesday afternoon he and Sergeant Nash went to a house hir jarewood-square.
+Ground Truth: Detective-sergeant Lowe, of Scotland-yard, deposed that at about half-past five on Wednesday afternoon he and Sergeant Nash went to a house in Harewood-square.
+
+OCR Text: The prisoner opened the door, and on the witness asking if he were Mr. Melville (a name which Peach's companion is alleged to have assumed), replied in the, negative, and said that his name was W. Selwyn.
+Ground Truth: The prisoner opened the door, and on the witness asking if he were Mr. Melville (a name which Peach’s companion is alleged to have assumed), replied in the negative, and said that his name was W. Selwyn.
+
+OCR Text: When the warrant was read to him he exclaimed. "So help me God I am innocent. I am having a life-sized photograph taken to show to witnesses who have sworn to me. I have just come to town for the purpose of going to the court at the trial as a witness."
+Ground Truth: When the warrant was read to him he exclaimed. “So help me God I am innocent. I am having a life-sized photograph taken to show to witnesses who have sworn to me. I have just come to town for the purpose of going to the court at the trial as a witness.”
+
+OCR Text: While they were oen their way to the Vine-street Police- station lie added, " I called at Peach's house on the night of his arrest, and if I had known there were any bonds there you can take your oath they would not have been found. If I had liked I could have been at Baenos Ayres."
+Ground Truth: While they were on their way to the Vine-street Police-station he added, “I called at Peach’s house on the night of his arrest, and if I had known there were any bonds there you can take your oath they would not have been found. If I had liked I could have been at Buenos Ayres.”
+
+OCR Text: Among the papers in his rooms the witness found a bundle of documents relating to California and a letter from Peach's son, similae to drafts found in Peach's pos- session.
+Ground Truth: Among the papers in his rooms the witness found a bundle of documents relating to California and a letter from Peach’s son, similar to drafts found in Peach’s possession.
+
+OCR Text: As they were leaving the house they saw the solicitor who defended Peach approaching, whereupon Selwyn exclaimed, "I have been reading through the depositions in Peach's case with Peach's solicitor."
+Ground Truth: As they were leaving the house they saw the solicitor who defended Peach approaching, whereupon Selwyn exclaimed, “I have been reading through the depositions in Peach’s case with Peach’s solicitor.
+
+OCR Text: About the ptiaoner's person and in a hat-box was found altogether about £90.
+Ground Truth: About the prisoner’s person and in a hat-box was found altogether about £90.
+
+OCR Text: From letters he had it appeared that Selwyn was living in Harewvood-.quare under the name of "F. baldren."
+Ground Truth: From letters he had it appeared that Selwyn was living in Harewood-square under the name of “F. Daldren.”
+
+OCR Text: A portion of the depositions taken in Peach's case having been read over, Mr. Newton re- manded the prisoner till Monday, refusing bail.
+Ground Truth: A portion of the depositions taken in Peach’s case having been read over, Mr. Newton remanded the prisoner till Monday, refusing bail.

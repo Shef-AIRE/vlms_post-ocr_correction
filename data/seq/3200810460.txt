@@ -1,0 +1,53 @@
+OCR Text: ATTEMPTED MURDER AT HOXTON I ,!1 _ ! i i
+Ground Truth: ATTEMPTED MURDER AT HOXTON.
+
+OCR Text: 'ALBERT 'BunoCS, twenty-eight, of HoMnur-6trcet, Hoxton,. and Henry Monroi eighteen, of Squarry- street, Bethnal-green, were charged, at Clerkenwell Police-court, on Friday, with being concerned with another man - not in custody in attempting to murder Harry Ruakin by throwing him into the Regent's Canal,
+Ground Truth: ALBERT BRIGGS, twenty-eight, of Honzer-street, Hoxton, and Henry Monro, eighteen, of Squarry-street, Bethnal-green, were charged, at Clerkenwell Police-court, on Friday, with being concerned with another man not in custody in attempting to murder Harry Ruskin by throwing him into the Regent’s Canal.
+
+OCR Text: The prosecutor, a coachman. said -he had known Briggafor about a fortnight.
+Ground Truth: The prosecutor, a coachman, said he had known Briggs for about a fortnight.
+
+OCR Text: Daring Thtinsdy afternobn he was in the company of the two prisoners and an'other man; they visited several public-hou.es.
+Ground Truth: During Thursday afternoon he was in the company of the two prisoners and another man; they visited several public-houses.
+
+OCR Text: .At eleven o'clock they left the Angel, at Islington, and dwaked towards Nile-street, Hoxton.
+Ground Truth: At eleven o’clock they left the Angel, at Islington and walked towards Nile-street, Hoxton.
+
+OCR Text: They stopped.on the-way, on Danbury-bridge, and stood looking into the canal, talking.
+Ground Truth: They stopped on the way on Danbury-bridge, and stood looking into the canal, talking.
+
+OCR Text: Brigge sud- denly seized hold .of witness, who :was leaning on the parapet, and said, " Go over and drown, you-" Prosecutor clung to the parapet, and Briggs knocked his hands away, and, lifting him up by the waist, threw him over into the canal.
+Ground Truth: Briggs suddenly seized hold of witness, who was leaning on the parapet, and said, “Go over and drown, you ----” Prosecutor clung to the parapet, and Briggs knocked his hands away, and lifting him up by the waist, threw him over into the canal.
+
+OCR Text: Ho was becoming unconscious in the water when he was rescued by a bargeman.
+Ground Truth: He was becoming unconscious in the water when he was rescued by a bargeman.
+
+OCR Text: Mrs. Anne Woods said she was walking over the bridge and eaw the man lening ever the parapet.
+Ground Truth: Mrs. Anne Woods said she was walking over the bridge and saw the man leaning over the [] parapet.
+
+OCR Text: She heard one dof them ssy, " Yrown, you-," and then a sRntEah.
+Ground Truth: She heard one of them say, “Drown you----,” and then a splash.
+
+OCR Text: POiNbe-QpeCtor Daybell and other efcers. proved arreating th'e prisoners the same night.
+Ground Truth: Police-inspector Daybell and other officers proved arresting the prisoners the same night.
+
+OCR Text: S riggs denied hiaving : been in Ruskin's company, eand Monro saie'hoeinew ;inothingofthemattier.
+Ground Truth: Briggs denied having been in Ruskin’s company, and Monro said he knew nothing of the matter.
+
+OCR Text: Witness,Mrs.Woode, said die could not identify the men who were standing-ateiae bridge, because they walked rapidly evay after .Ruskin fell in the water.
+Ground Truth: Witness, Mrs. Woods, said she could not identify the men who were standing at the bridge, because they walked rapidly away after Ruskin fell in the water.
+
+OCR Text: The peseo0ator, ques. tioned by the magistrate, sAid that while he -was in I Briggs' company an Thurmday evening the latter urged him to. saetch a watek and chain froim an old gentleman who was standing outside theogricullural Hall.
+Ground Truth: The prosecutor, questioned by the magistrate, said that while he was in Briggs’ company on Thursday evening the latter urged him to snatch a watch and chain from an old gentleman who was standing outside the Agricultural Hall.
+
+OCR Text: Briggs said, "1I'll knock him diwn if you run away with e watch."
+Ground Truth: Briggs said, “I’ll knock him down if you run away with the watch.”
+
+OCR Text: Witness declined.
+Ground Truth: Witness declined.
+
+OCR Text: Mr. Eros I haiv nob the elightest doubt that this man w uld have been droined had it wet noS esen for the premptness with which the lady raiaed the alarm and the readiness with which 'the bargeman rescued hiaL. I hope theCeurtb which tries this case will take saore noetice of the conduct ¢f these vit- nesses.
+Ground Truth: Mr. Bros: I have not the slightest doubt that this man would have been drowned had it not been for the promptness with which the lady raised the alarm and the readiness with which the bargeman rescued him. I hope the court which tries this case will take some notice of the conduct of these witnesses.
+
+OCR Text: The prisorairs were committed6 ir btril
+Ground Truth: The prisoners were committed for trial.

@@ -1,0 +1,50 @@
+OCR Text: MYSTERIOUS DEATH IN THE RIVER.
+Ground Truth: MYSTERIOUS DEATH IN THE RIVER.
+
+OCR Text: On Wednesday night Mr. Richards held an inquiry at the White Lion tavern, High-street, Shadwel], on the body of Mr. Henry Canny. aged 60 years. who was alleged-to have come to his death under sus- picious circumstances.-Mr. Henry Canny, an artist, residing at 97, Devonshire-road, Holloway, stated that the deceased was his lather.
+Ground Truth: On Wednesday night Mr. Richards held an inquiry at the White Lion tavern, High-street, Shadwell, on the body of Mr. Henry Canny, aged 60 years, who was alleged to have come to his death under suspicious circumstances. –Mr. Henry Canny, an artist, residing at 97, Devonshire-road, Holloway, stated that the deceased was his father.
+
+OCR Text: He had been assistant clerk to the Board of. Guardians at Bir. mingham and Manchester, and was' offered the situation of chief clerk to the Board, at Manches- ter, but refused it on account of ill health.
+Ground Truth: He had been assistant clerk to the Board of Guardians at Birmingham and Manchester, and was offered the situation of chief clerk to the Board, at Manchester, but refused it on account of ill health.
+
+OCR Text: The deceased afterwards entered the service of a Mr. Russell, at Gravesend, who, havinggiven up his house, of business, had to discharge him.
+Ground Truth: The deceased afterwards entered the service of a Mr. Russell, at Gravesend, who, having given up his house of business, had to discharge him.
+
+OCR Text: Witnesselad not seen binr for six months until he Identified him in the deadhouseonSundaylast.
+Ground Truth: Witness had not seen him for six months until he identified him in the dead house on Sunday last.
+
+OCR Text: Hehad no deathatbehad been in St. Luke's workbouse.-Sarah Canny, widon of the deceased, deposed that she had been house keeper to Mr. Russell, of Gravesend, where bet husband was employed.
+Ground Truth: He had no idea that he had been in St. Luke's workhouse. –Sarah Canny, widow of the deceased, deposed that she had been house keeper to Mr. Russell, of Gravesend, where her husband was employed.
+
+OCR Text: Four mnonths ago he lefi her, for the pu~rpose of coming to London to look after a situation, and she never saw him alive again.
+Ground Truth: Four months ago he left her, for the purpose of coming to London to look after a situation, and she never saw him alive again.
+
+OCR Text: He used of ten to complain of his head, and said he wished " the Lord would take him away, as he was tired of his life."-Henry Thatcher, porter at' St. Luke's workbouse, said that the deceased was admitted on the 8th of April, describing himself as a clerk, andleft on the 16th.
+Ground Truth: He used often to complain of his head, and said he wished the “Lord would take him away, as he was tired of his life." –Henry Thatcher, porter at St. Luke's workhouse, said that the deceased was admitted on the 8th of April, describing himself as a clerk, and left on the 15th.
+
+OCR Text: On admission heappeared in a destitute condition.
+Ground Truth: On admission he appeared in a destitute condition.
+
+OCR Text: He believedthereasonbh left was on account of the guardians making an order fot his removal to Ireland, where he belonged.
+Ground Truth: He believed the reason he left was on account of the guardians making an order for his removal to Ireland, where he belonged.
+
+OCR Text: About two days after his admission to the house the master, seeing his capabilities, employed him as clerk in the oilici, and upon his discharging himself gave him 5i.
+Ground Truth: About two days after his admission to the house the master seeing his capabilities, employed him as clerk in the office, and upon his discharging himself gave him 5s.
+
+OCR Text: One of the-clerks also gave him 5s., and the master, having made an application to the board, the guar dians granted bimn a new suit of black-clothes, which he had on when he left 'the worbhouse.
+Ground Truth: One of the clerks also gave him 5s., and the master, having made an application to the board, the guardians granted bim a new suit of black-clothes, which he had on when he left the workhouse.
+
+OCR Text: He ap peared quite happy when he: left.-Mr. Canny, the so i, here stated that when he saw his father in the deadhouse he had a severe wound on the top of the head over the eye, and upon making inquiries since he had ascertained that his father had been seen down Golden-lane on Tuesdav week with braises on his face and only a pair of soldier's trowsers on,
+Ground Truth: He appeared quite happy when he left. —Mr. Canny, the son, here stated that when he saw his father in the dead house he had a severe wound on the top of the head over the eye, and upon making inquiries since he had ascertained that his father had been seen down Golden-lane on Tuesday week with bruises on his face and only a pair of soldier's trowsers on.
+
+OCR Text: Witness believed that he had met with foul play, as there was no evidence to show what had become of the clothes he had received from the St. Luke's guardians,-John Myers, a waterman, of 12, Harding. street, deposed finding the body of deceased fuoating in the Thames off Rkickett's wharf on Saturday.
+Ground Truth: Witness believed that he had met with foul play, as there was no evidence to show what had become of the clothes he had received from the St. Luke's guardians. —John Myers, a waterman, of 12, Harding-street, deposed finding the body of deceased floating in the Thames off Rickett's wharf on Saturday.
+
+OCR Text: He searched the body, but found no. money.
+Ground Truth: He searched the body, but found no money.
+
+OCR Text: He was dressed in an old pair of soldier's trowners.
+Ground Truth: He was dressed in an old pair of soldier's trowsers.
+
+OCR Text: He saw wounds on the head and face, but what they were caused by he could not tel.-The Coroner ad- mitted thatthere was a mystery in the ease, but thought the best course for the jury to pursue was to return an open verdict, so that the police might follow the case up.-The jury then returned an open verdict, that ' The deceased was found dead in the waters of the River Thames, but how he came there there was no evidence to show."
+Ground Truth: He saw wounds on the head and face, but what they were caused by he could not tell. —The Coroner admitted that there was a mystery in the case, but thought the best course for the jury to pursue was to return an open, verdict, so that the police might follow the case up. —The jury then returned an open verdict, that "The deceased was found dead in the waters of the River Thames, but how he came there was no evidence to show."

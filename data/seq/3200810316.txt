@@ -1,0 +1,29 @@
+OCR Text: A YOUNQG THIEF LEADER.
+Ground Truth: A YOUNG THEIF LEADER.
+
+OCR Text: 1. WILLIAM WADE; fourteen, described as a van-boy, ir 'of 9, East-street, Striatford, wae.charged, at the West EHam Police-court, iwith stealing 201bs. of coals, valued at 6d., from a van'in- the High-street, Strat- 3r ford;' the property of 'William Chandler, a coal id mercbant,' of Leytonstope, an the 12th inst.
+Ground Truth: WILLIAM WADE, fourteen, described as a van-boy, of 9, East-street, Stratford, was charged at the West Ham Police-court, with stealing 201bs. of coals, valued at 6d., from a van in the High-street, Stratford, the property of William Chandler, a coal merchant, of Leytonstone, on the 12th inst.
+
+OCR Text: A carman in the prosecutor's employ was proceeding b along the High-street with 'a load of coals, when his atRtention. 'was directed to. the prisoner and another s- boy who were on the van, at the rear, putting some ir of the coal into a* sack.
+Ground Truth: A carman in the prosecutor’s employ was proceeding along the High-street with a load of coals, when his attention was directed to the prisoner and another boy who were on the van, at the rear, putting some of the coal into a sack.
+
+OCR Text: '-The prisoner's companion got away, and the prisoner, when asked by the car. man whatbhe 'had inthUe sack, replied, "Nothing of yours.',.
+Ground Truth: The prisoner’s companion got away, and the prisoner, when asked by the carman what he had in the sack, replied, “Nothing of yours.”
+
+OCR Text: Asked to be allowed to see what it contained, s, he threw the sack down' and ran away.
+Ground Truth: Asked to be allowed to see what it contained, he threw the sack down and ran away.
+
+OCR Text: He was s caught,' aid-handed 'over to Constable Tabb, 472 K nL A t thespi~ji~-satioa he .adinitted the offence.
+Ground Truth: He was caught, and handed over to Constable Tabb, 472 K. At the police-station he admitted the offence.
+
+OCR Text: The s officer;Uinformed' the magistrate that the prisoner , was thie leader of a' gang`Of young thieves who m irfesated the High-stibeet, and that it was impossible 6s for a policeman in uniform"' to catch them, for they js' kept sueb-'a sharp watch, and did nothing in the way le of robbery until out of sight.
+Ground Truth: The officer informed the magistrate that the prisoner was the leader of a gang of young thieves who infested the High-street, and that it was impossible for a policeman in uniform to catch them, for they kept such a sharp watch, and did nothing in the way of robbery until out of sight.
+
+OCR Text: The prisoner had been charged with stealing coal before, and was then fined.
+Ground Truth: The prisoner had been charged with stealing coal before, and was then fined.
+
+OCR Text: tt On -that ocoasion he said' they sold it where they r couldan'd'tiat if it was not purchased they threw it into the river.
+Ground Truth: On that occasion he said they sold it where they could, and that if it was not purchased they threw it into the river.
+
+OCR Text: 'The magistrate committed the , accused to prison for fourteen days" with hard Se labour.
+Ground Truth: The magistrate committed the accused to prison for fourteen days’ with hard labour.

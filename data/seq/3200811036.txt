@@ -1,0 +1,14 @@
+OCR Text: A CnHILn- Dairsw BODY IN AN ASEaPIT.-The body of a little girl, the fbour-year-old daughter of a widow named Annie Brown, living in Brooklyn-Atreet, Bradf~rd, was g found on Thursday by a rag-picker narned John Garner, e partly buried iii, an ash-pit near ths- Ct potration refuse destructor, by Nlammerton-atreOC.
+Ground Truth: A CHILD’S DEAD BODY IS AN ASH-PIT. –The body of a little girl, the four-year-old daughter of a widow named Annie Brown, living in Brooklyn-street, Bradford, was found on Thursday by a rag-picker named John Garner, partly buried in an ash-pit near the Corporation refuse destructor, by Hammerton-street.
+
+OCR Text: The girl had been V missing from home since the pro-souc morning.
+Ground Truth: The girl had been missing from home since the previous morning.
+
+OCR Text: An lI inqnest wasxopened on Friday on~the body.
+Ground Truth: An inquest was opened on Friday on the body.
+
+OCR Text: Toe murder theory was discredited by the evidence, it bei?!g shown r- that the- child was killed by the rupture of the liver, 'I caused probably by the tipping of rubbish on her while asleep oni the dust-heap.
+Ground Truth: The murder theory was discredited by the evidence, it being shown that the child was killed by the rupture of the liver, caused probably by the tipping of rubbish on her while asleep on the dust-heap.
+
+OCR Text: he inguiry was eadourned for haF weem.
+Ground Truth: The inquiry was adjourned for a week.

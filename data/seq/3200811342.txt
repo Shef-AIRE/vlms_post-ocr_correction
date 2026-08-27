@@ -1,0 +1,62 @@
+OCR Text: SCOTCH BANI- ROBBERY.
+Ground Truth: SCOTCH BANK ROBBERY.
+
+OCR Text: . IMroRtAI'l..AeTU rIN PFARS.
+Ground Truth: IMPORTANT CAPTURE IN PARIS.
+
+OCR Text: QN February, 16th, 1891, a young apprentice messenger was ou bi4:daiWY collecting rounds.
+Ground Truth: ON February, 16th, 1891, a young apprentice messenger was on his daily collecting rounds.
+
+OCR Text: In the, course of bhnsige.s: he'went to the Scotch Bank to collect some Won'ey,.due on a bill.
+Ground Truth: In the course of business, he went to the Scotch Bank to collect some money due on a bill.
+
+OCR Text: . He passed his order over to the .cashier, and plsced his leather wallet ecmtaining S11,580. 'in Bank of England uotes on the counter.
+Ground Truth: He passed his order over to the cashier, and placed his leather wallet containing £11,580 in Bank of England notes on the counter.
+
+OCR Text: While he was .waiting for the cashier to " olear " the bill, a man touched. him on the shoulder and pointing to a piece of paper on the ground said ". Excuseine,. sir, but I think ylu have dropped'something.'!
+Ground Truth: While he was waiting for the cashier to "clear" the bill, a man touched him on the shoulder and pointing to a piece of paper on the ground said "Excuse me, sir, but I think you have dropped something."
+
+OCR Text: The youth stooped down te pick up the pieqe of paper ritad- while hi8 eye was off the' .walet om.hon,--who WaB ev6dently. on the w'atoh,' satehed. up- the: parcel and hurried it away. from the bank.
+Ground Truth: The youth stooped down to pick up the piece of paper, and while his eye was off the wallet someone, who was evidently on the watch, snatched up the parcel and hurried it away from the bank.
+
+OCR Text: The event ereated great exbitement 'Rt the time, and althoUgh Inspector Outram; of :the Clty Police, succeeded in tracing one of the: notee -to Genoa, notbing more waa heard of the miesing .property until Tuesday.
+Ground Truth: The event created great excitement at the time, and although Inspector Outram, of the City, Police, succeeded in tracing one of the notes to Genoa, nothing more was heard of the missing property until Tuesday.
+
+OCR Text: * rOatrara alwrays -said that if a sufficient time wc allowed, to lapse an attempb would be made to pass the notes .
+Ground Truth: Inspector Outram always said that if a sufficient time was allowed to lapse an attempt would be made to pass the notes.
+
+OCR Text: In consequence of this belief Mr.. Outram has periodically sent to -eery money-changer'throughout the world a circular bsering the number of the stolen inrtes.
+Ground Truth: In consequence of this belief Mr. Outram has periodically sent to every money-changer throughout the world a circular bearing the number of the stolen notes.
+
+OCR Text: 'On Tuesday last a mhan, who gave the name of lolde, pressuted at a money-ch~uger's office inl Paris an English baikfi~ts fbo 1'900, ivolach the clerk ascertained from its zimmbei to be one-of tboA sFolen frdom the Scotch. Bau in: Londonbn February:16th, -1891.
+Ground Truth: On Tuesday last a man, who gave the name of Eckle, presented at a money changer's office in Paris an English banknote for £1,000, which the clerk ascertained from its number to be one of those stolen from the Scotch Bank in London on February 16th 1891.
+
+OCR Text: The man, who was.at onde-arrested; stated thapIhe ias sixty-threo years of age,:wasdf Als'atian origin, and--had lived in London f.i therlas4 ten years,,
+Ground Truth: The man, who was at once arrested, stated that he was sixty-three years of age, was of Alsatian origin, and had lived in London for the last ten years.
+
+OCR Text: He is believed by the police to be . ji relation with the well-known " International " gang, the members of. which make it their business to dispose of stolen potes.and securities.
+Ground Truth: He is believed by the police to be in relation with the well-known "International" gang, the members of which make it their business to dispose of stolen notes and securities.
+
+OCR Text: .It appeals 'he camne tc England ayout fourteen years *ago-'
+Ground Truth: It appears he came to England about fourteen years ago.
+
+OCR Text: -His residedee And bitsinsai'addresis -6, f0anton- .street.lPopla~i.E.
+Ground Truth: His residence and business address is 6, Canton street, Poplar, E.
+
+OCR Text: . His ti'ade was.sttpposed .to bethat of a yeast end rchemical merchant..
+Ground Truth: His trade was supposed to be that of a yeast and chemical merchant.
+
+OCR Text: The capture is con- sidered by ,the police to be a most importqnt one. .
+Ground Truth: The capture is considered by the police to be a most important one.
+
+OCR Text: -' -Tni M&ISING WWonr C0)IPATlTIONS.-?dr. Pearson annoitncesthat all embargo tuponioutstanding missing 'Vbrd --chequeq has been withdrawn. bi the authnrities,, and -that any. cheque which ispresented through a banker will be promptly honou1red.
+Ground Truth: THE MISSING WORD COMPETITIONS. —Mr. Pearson announces that all embargo upon outstanding missing word cheques has been withdrawn by the authorities, and that any cheque which is presented through a banker will be promptly honoured.
+
+OCR Text: Foua AT A Binrf.-Oii Monday the wife of a work. man at Sittingbourne gave birth to four ohildren-three girt- and s boly-who lived twenty-four hours and d-ed t'Ux TnesdtDY.
+Ground Truth: FOUR AT A BIRTH. —On Monday the wife of a work man at Sittingbourne gave birth to four children—three girls and a boy—who lived twenty-four hours, and died on Tuesday.
+
+OCR Text: -Tne parents whe have *Iht Rong boeen married, before the infants died had live childs en, all of them being bosn- In a year.
+Ground Truth: The parents, who have not long beer married, before the infants died had five children, all of them being born in a year.
+
+OCR Text: The medical attendant (Dr. F. Grayling, of Sittiughoulrne) has co)mmunicated with her M~aleaty with h view of obtaining-the Rtoyal bounty.
+Ground Truth: The medical attendant (Dr. F. Grayling, of Sittingbourne) has communicated with her Majesty with a view of obtaining the Royal bounty.

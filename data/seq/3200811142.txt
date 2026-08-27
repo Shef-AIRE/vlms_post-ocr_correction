@@ -1,0 +1,47 @@
+OCR Text: FORD LABOUR FOR AN EX-POLICEMAN;
+Ground Truth: HARD LABOUR FOR AN EX-POLICEMAN.
+
+OCR Text: to FFRZDERICK MALLETT, twenty-four, formerly in the b Metropolitan Police force, was charged with havinglb y rsaliciouply wounded William Neate, a police officer.
+Ground Truth: FREDERICK MALLETT, twenty-four, formerly in the Metropolitan Police force, was charged with having maliciously wounded William Neate, a police officer.
+
+OCR Text: 'Mr.be at Poynter prosecuted.
+Ground Truth: Mr. Poynter prosecuted.
+
+OCR Text: The prosecutor, who is a member the n of the F Division, stated that on the evening of August fat 24th he was going from the Marble-arch to the Padding- cb ton P'olice-station, when he met the prisoner in Harrow- road, who told him there were six burglars in Irongate at Wharf -road, and that three plain-clothes men were wate-e ing' them.
+Ground Truth: The prosecutor, who is a member of the F Division, stated that on the evening of August 24th he was going from the Marble-arch to the Paddington Police-station, when he met the prisoner in Harrow-road, who told him there were six burglars in Irongate Wharf-road, and that three plain-clothes men were watching them.
+
+OCR Text: Ile woent with the prisoner to the back of i the Running House public-house, and was there told to watch the third house.
+Ground Truth: He went with the prisoner to the back of the Running House public-house, and was there told to watch the third house.
+
+OCR Text: Prisoner told him to take his helmet off, as t.he burglars might see him, and pr directly afterwards Mallett, who at the time was in the Pr same division of police as the prosecutor, struck him he across the temple with either a stick or a trucheon.
+Ground Truth: Prisoner told him to take his helmet off, as the burglars might see him, and directly afterwards Mallett, who at the time was in the same division of police as the prosecutor, struck him across the temple with either a stick or a trucheon.
+
+OCR Text: On attempting to rise he was struck again on the left side, c14 and also, on the right arm.
+Ground Truth: On attempting to rise he was struck again on the left side, and also on the right arm.
+
+OCR Text: His finger was smashed, to but he could not exactly cay how it was done.
+Ground Truth: His finger was smashed, but he could not exactly say how it was done.
+
+OCR Text: The th next thing prosecutor 'remembered was that he wae in - c the public-house.
+Ground Truth: The next thing prosecutor remembered was that he was in the public-house.
+
+OCR Text: He had never had ary disagreement en with the prisoner.
+Ground Truth: He had never had any disagreement with the prisoner.
+
+OCR Text: In cross-examiination he denied that M heohad passed any remark about prisoner not having de paid his mess money.
+Ground Truth: In cross-examination he denied that he had passed any remark about prisoner not having paid his mess money.
+
+OCR Text: Inspector W3-burn stated that di X when Diallett was charged he-said, "I had no instru- sento u I struck him with my fist, and he fell against al the wail, whichbmust have caused the injury."
+Ground Truth: Inspector Wyburn stated that when Mallett was charged he said, “I had no instrument. I struck him with my fist, and he fell against the wall, which must have caused the injury."
+
+OCR Text: Prisoner and prosecutor' were then taken to Scotland-yard, where the Chief-Constable suspended Ilallett, pending further, inquiries and in' the meantime he absconded.
+Ground Truth: Prisoner and prosecutor were then taken to Scotland-yard, where the Chief-Constable suspended Mallett, pending further inquiries, and in the meantime he absconded.
+
+OCR Text: By order je of the Commnissionier a warrant was issued for his appre- i -ihension.
+Ground Truth: By order of the Commissioner a warrant was issued for his apprehension.
+
+OCR Text: 'Prisoner, in the course of his examination ofbi the several witnesses, tried to show there was a vel y al strong feeling among the men at his station against him, *and that the statement of the prosecutor could not be relied on.
+Ground Truth: Prisoner, in the course of his examination of the several, witnesses, tried to show there was a very strong feeling among the men at his station against him, and that the statement of the prosecutor could not be relied on.
+
+OCR Text: He was convicted and sentenced to twelve _ mouths' hard laboir.
+Ground Truth: He was convicted and sentenced to twelve months' hard labour.

@@ -1,0 +1,50 @@
+OCR Text: TRIALS AT THE ASSIZES.
+Ground Truth: TRIALS AT THE ASSIZES.
+
+OCR Text: Muintornous ATTACK BY A LTJNATIC.-Williinm Edward 'Wright, teacher, of Hull,vas charged lt York Assizes, on Tuesday, with attempting to murder his wife last June.
+Ground Truth: MURDEROUS ATTACK BY A LUNATIC. —William Edward Wright, teacher, of Hull, was charged at York Assizes, on Tuesday, with attempting to murder his wife last June.
+
+OCR Text: Mrs. Wright was a-woke by her husband attacking her with a knife.
+Ground Truth: Mrs. Wright was awoke by her husband attacking her with n knife.
+
+OCR Text: She received several dangerous wounilds.
+Ground Truth: She received several dangerous wounds.
+
+OCR Text: There was no motive for the attack, and it-was proWed that the prisoner had been subjectto delusion6.
+Ground Truth: There was no motive for the attack, and it was proved that the prisoner had been subject to delusions.
+
+OCR Text: The jury iound Wrli4lt insaue, and, lbe was ordered to be detained during Her Majesty's pleasurc.
+Ground Truth: The jury found Wright insane, and, he was ordered to be detained during Her Majesty's pleasure.
+
+OCR Text: A WON SRNTE?-ErD TO DEATH.-SaUrh Ann Albery was senteiiced to death at Notts Assizes on Thilrsday for the6 mni'der of hers illogitimate ehild'by d&oWniri' it-n h'the rilter Trent.
+Ground Truth: A WOMAN SENTENCED TO DEATH. —Sarah Ann Albery was sentenced to death at Notts Assizes on Thursday for the murder of her illegitimate child by drowning it in the river Trent.
+
+OCR Text: The jury mado a strorg' reofnmenda-. tion to mercy. -.
+Ground Truth: The jury made a strong recommendation to mercy.
+
+OCR Text: SOLICITOIN SiT3TEKCbD -'t Lceds Assizes,- on Thursday, Edwin:T. Bnarhrfifty, .a Leeds . Solicitor,. who.pleaded guilty .t. .embezzling: money helongiig to clients,was sentenced to three years' penal sorvitude.
+Ground Truth: SOLICITOR SENTENCED. —At Leeds Assizes, on Thursday, Edwin T. Barker, fifty, a Leeds solicitor, who pleaded guilty to embezzling money belonging to clients, was sentenced to three years' penal servitude.
+
+OCR Text: Prisoner had speculated in lund 'and buildings, and had done some betting.
+Ground Truth: Prisoner had speculated in land and buildings, and had done some betting.
+
+OCR Text: Hli, total defalcations amourit' to ovem. £20,000 '
+Ground Truth: His total defalcations amount to over £20,000.
+
+OCR Text: A LJFiDs BPes cOi OF PRpOmISsE.- Miss Glcedhill, daughter ot a draper at Golear, near' Huddersfield, was awarded £50 and costs, at Leedus Assijzos, eom Friday, against Mr. IV. Jilling, manufacturors;.ior breach of promise of mar- riage and'seduction. - -
+Ground Truth: A LEEDS BREACH OF PROMISE. —Miss Gledhill, daughter of a draper at Golcar, near Huddersfield, was awarded £50 and costs, at Leeds Assizes, on Friday, against Mr. W. Jilling, manufacturers, for breach of promise of marriage and seduction.
+
+OCR Text: AN GEr,. OFC - AitaTACE IN COURT.-
+Ground Truth: AN OFFER OF MARRIAGE IN COURT.
+
+OCR Text: Chamles Edwnrd Allfrcy, twenty-nine, police-~ constable, wnS indicted at Sussex -Assizes for impyroper conduct wvith a girl- namned Edith Hutson, under the age of- sixteen years, at Selmeston, near Lewes.
+Ground Truth: —Charles Edward Allfrey, twenty-nine, police-constable, was indicted at Sussex Assizes for improper conduct with a girl named Edith Hutson, under the age of sixteen years, at Selmeston, near Lowes.
+
+OCR Text: The prisoner was police-constable at the village, an'd lodged vith the girl's parents.
+Ground Truth: The prisoner was police-constable at the village, and lodged with the girl's parents.
+
+OCR Text: He pleaded "Guilty," and 6ffered 'to marrytheo presecutris, but the piarents declined to give their eonsent.
+Ground Truth: He pleaded "Guilty," and offered to marry the prosecutrix, but the parents declined to give their consent.
+
+OCR Text: Baron Pollocli imposed a sentence or four .months' hard labour.
+Ground Truth: Baron Pollock imposed a sentence of four months' hard labour.

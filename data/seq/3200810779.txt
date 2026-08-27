@@ -1,0 +1,44 @@
+OCR Text: AN ALL'EGED SHAM EXCISEd1,1N.
+Ground Truth: AN ALLEGED SHAM EXCISEMAN.
+
+OCR Text: AT the Edmonton Petty Sessions, on Saturday, Thomas E. Masters, thirty-two, of Stapleton Hall- ro-d, Hornsey, described as an undertaker's assistant, was brought up in custody on a charge of nnlawfully obtaining 2i. Gd. from Charles Edwin Ruasell by falsely representing himself to be ani officer of the Inland Rleverrue.
+Ground Truth: AT the Edmonton Petty Sessions, on Saturday, Thomas E. Masters, thirty-two, of Stapleton Hall- road, Hornsey, described as an undertaker's assistant, was brought up in custody on charge of unlawfully obtaining 2s 6d. from Charles Edwin Russell by falsely representing himself to be an officer of the Inland Revenue.
+
+OCR Text: The prosecutor, who keeps the Ship public-house in the High-road at Tottenham, deposed that on Friday the prisoner came in the bar and was served with a glass of beer.
+Ground Truth: The prosecutor, who keeps the Ship public-house in the High-road at Tottenham, deposed that on Friday the prisoner came in the bar and was served with a glass of beer.
+
+OCR Text: He made a communication to Mrs. Rassell, who was behind the bar, and left.
+Ground Truth: He made a communication to Mrs. Russell, who was behind the bar, and left.
+
+OCR Text: Later in the day he returned, and in conversation with wituoss, stated that he was an excise offi'er, adding, " You will have to look out, for two excise officers are coming down to-morrow to test your spirits. I am one of the officers, You will be asked for a pint of whisky or gin, so mind and give it right.'"
+Ground Truth: Later in the day he returned, and in conversation with witness, stated that he was an excise officer, adding, "You will have to look out, for two excise officers are coming down to-morrow to test your spirits. I am one of the officers. You will be asked for a pint of whisky or gin, so mind and give it right."
+
+OCR Text: Witness asked for his authority, and the prisoner produced a paper which bore the name of Mr. Tonlins, the inspector under the Food and Drugs Act, for the county.
+Ground Truth: Witness asked for his authority, and the prisoner produced a paper which bore the name of Mr. Tomlins, the inspector under the Food and Drugs Act, for the county.
+
+OCR Text: Witness asked, " Why don't you take the sample at once," and the prisoner replied, -' It doesn't matter now."
+Ground Truth: Witness asked, "Why don't you take the sample at once," and the prisoner replied, "It doesn't matter now.”
+
+OCR Text: They went together into the billiard room, and the accused pro- dticed a book in which was written, "Contribations towards the maintenance of a widow and four children, oue being blind, and all dependent on the mother for support."
+Ground Truth: They went together into the billiard room, and the accused produced a book in which was written, "Contributions towards the maintenance of a widow and four children, one being blind, and all dependent on the mother for support."
+
+OCR Text: Underneath that there were various entries of subscriptions, amounting to about £1.
+Ground Truth: Underneath that there were various entries of subscriptions, amounting to about £1.
+
+OCR Text: Prisoner said he was collecting these subscrip- tions for the widow of a brother officer, and witness gave him half a crown, and signed his iame in the book.
+Ground Truth: Prisoner said he was collecting these subscriptions for the widow of a brother officer, and witness gave him half a crown, and signed his name in the book.
+
+OCR Text: The prisoner then said, "I want to go down your cellar and test some of your spirits."
+Ground Truth: The prisoner then said, "I want to go down your cellar and test some of your spirits."
+
+OCR Text: He was allowed to enter the cellar, but did nothing in the way of testing the spirits.
+Ground Truth: He was allowed to enter the cellar, but did nothing in the way of testing the spirits.
+
+OCR Text: After a time be left the house, and information was given to the police.
+Ground Truth: After a time, he left the house, and information was given to the police.
+
+OCR Text: When arrested he was intoxicated.
+Ground Truth: When arrested he was intoxicated.
+
+OCR Text: Remanded.
+Ground Truth: Remanded.

@@ -1,0 +1,47 @@
+OCR Text: I ALLEGED ANSLUGTER AT WOOLWIC.
+Ground Truth: ALLEGED MANSLAUGHTER AT WOOLWICH.
+
+OCR Text: Mit. WOOD, deputy-coroner, held an inquiry at Woolwich into the death of Henry Cook, pensioner, 92, Brookhill.road, Woniwich, in connection with whose death a man named McCall was charged be. -fore the stipendiary at Woolwich and remanded.
+Ground Truth: MR. WOOD, deputy-coroner, held an inquiry at Woolwich into the death of Henry Cook, pensioner, 92, Brookhill-road, Woolwich, in connection with whose death a man named McCall was charged before the stipendiary at Woolwich and remanded.
+
+OCR Text: De-eased's widow stated that she and her husband were in the Sussex Armns when McCall spoke offensively-to her, and her husband resented i, on which McC1ll struck him, and be fell back.
+Ground Truth: Deceased’s widow stated that she and her husband were in the Sussex Arms when McCall spoke offensively to her, and her husband resented it, on which McCall struck him, and he fell back.
+
+OCR Text: William G. Baiiey,'an engineer, said ho was present, and .l"eord the dispute between Mrs. Cook and McCall, 'huei doeeased pushed McCall rather roughly.
+Ground Truth: William G. Bailey, an engineer, said he was present, and heard the dispute between Mrs. Cook and McCall, when deceased pushed McCall rather roughly.
+
+OCR Text: r cCall then pushed his fist in deceased's jaw, saying hl did'not waut to have anything to do with him.
+Ground Truth: McCall then pushed his fist in deceased’s jaw, saying he did not want to have anything to do with him.
+
+OCR Text: BDedeasoddfell back, and his head struck the edge of a seat.
+Ground Truth: Deceased fell back, and his head struck the edge of a seat.
+
+OCR Text: A'doctor was called, and all that deceased said was to tell his wife to pay him.
+Ground Truth: A doctor was called, and all that deceased said was to tell his wife to pay him.
+
+OCR Text: Dr. Fairland deposed to having made a post mortem examination.
+Ground Truth: Dr. Fairland deposed to having made a post mortem examination.
+
+OCR Text: There were no external marks of violence beyond a small cut half-an.inch long at the back of the head, apparently caused by falling against a hard substance.
+Ground Truth: There were no external marks of violence beyond a small cut half-an-inch long at the back of the head, apparently caused by falling against a hard substance.
+
+OCR Text: Death resulted from the fall, which need not necessarily have been a violent one,
+Ground Truth: Death resulted from the fall, which need not necessarily have been a violent one.
+
+OCR Text: He found no marks of a blow with the fist.
+Ground Truth: He found no marks of a blow with the fist.
+
+OCR Text: The jury, in return. ing averdict of accidental death, censured McCali mad expremad a hope that it would be a warning t;o bian in future.
+Ground Truth: The jury, in returning a verdict of accidental death, censured McCall and expressed a hope that it would be a warning to him in future.
+
+OCR Text: Mr. Greenep appeared for McCall, who, having been admitted to bail, was present, and expressed his regret at what had occurred.
+Ground Truth: Mr. Greenup appeared for McCall, who, having been admitted to bail, was present, and expressed his regret at what had occurred.
+
+OCR Text: CHARGE AGAINST A POLICe INSPECTOR.-At Croy- don, Jeremiah Flynn, Inspector of Metropolitanv Police, stationed at South Norwood, was charged iby Lillie Alice Violet Eales, of 49, Addison-road, Nror. wood, aged twelve, withindecentlyaseaultingher.
+Ground Truth: CHARGE AGAINST A POLICE INSPECTOR. –At Croydon, Jeremiah Flynn, Inspector of Metropolitan Police, stationed at South Norwood, was charged by Lillie Alice Violet Eales, of 49, Addison-road, Norwood, aged twelve, with indecently assaulting her.
+
+OCR Text: The evidence of the girl went to show that the offetce was committed while she was in the polioe sknti'n giving the inspector some money she had found in tiek road.
+Ground Truth: The evidence of the girl went to show that the offence was committed while she was in the police-station giving the inspector some money she had found in the road.
+
+OCR Text: Defendant was committed for trial, bail heig allowed.
+Ground Truth: Defendant was committed for trial, bail being allowed.

@@ -1,0 +1,68 @@
+OCR Text: A STABBING CASE.
+Ground Truth: A STABBING CASE.
+
+OCR Text: A boot and shoe maker named Fdward Moss, aged 45, vwas chaiged at Bow-street nolice-court, on Thursday, with feloniously buttinganli wounding Charles Winter, with intent to do hint grievous bodily harm.-
+Ground Truth: A boot and shoe maker named Edward Moss, aged 45, was charged at Bow-street police-court, on Thursday, with feloniously cutting and wounding Charles Winter, with intent to do him grievous bodily harm.–
+
+OCR Text: Elizabeth Ann Wilter, wife of the inJiuetd man, living at 10, Vittoria-place, Dike's- road, St PaIncras, deposed thast the pli saller was a lodger and occupied the par- i-oar.
+Ground Truth: Elizabeth Ann Winter, wife of the injured man, living at 10, Vittoria-place, Duke's-road, St. Pancras, deposed that the prisoner was a lodger and occupied the parlour.
+
+OCR Text: About half-past 12 oln WVednesdiy witnless's husiansd knocked at tihe door of thb prisoneres room and asked him why het had insulted witness.
+Ground Truth: About half-past 12 on Wednesday witness's husband knocked at the door of the prisoner's room and asked him why he had insulted witness.
+
+OCR Text: There bad been unpleasantness, and1 the prisoner had said that lie intended doing ftr her and her husband.
+Ground Truth: There had been unpleasantness, and the prisoner had said that he intended doing for her and her husband.
+
+OCR Text: Witnessheardthe prisoner molke use of soae na;sty laniguage to her husband, and thel heaird them strug- gling together.
+Ground Truth: Witness heard the prisoner make use of some nasty language to her husband, and then heard them struggling together.
+
+OCR Text: Sev went down and found her husband holding the prisoner against the wall.
+Ground Truth: She went down and found her husband holding the prisoner against the wall.
+
+OCR Text: The prisoner had a knife in his hand.
+Ground Truth: The prisoner had a knife in his hand.
+
+OCR Text: She saw him guilt it towarils her husitand, who was bleeding f-om the face.
+Ground Truth: She saw him push it towards her husband, who was bleeding from the face.
+
+OCR Text: She triei to zec tbe knife away fron the prisoner, but in doitig so receiveti a cut on the halnd.
+Ground Truth: She tried to get the knife away from the prisoner, but in doing so received a cut on the band.
+
+OCR Text: Ber husbaitd got awayand werit into the street, wlhere lie fell down.
+Ground Truth: Her husband got away and went into the street, where he fell down.
+
+OCR Text: Assis- tince was reldetred, and he was taken tortbie hospital, wheie it was found thi-at lie witsanfferi-ug from a woentd in the hreast, one a little lower down, and two cuts on the face.-Police-constable Sargeant, 404 1, deposed that tho prisoner went up to him in Vittoria-place, anot said, "I'll give myself up, policeman ; I have done it il self-defence."
+Ground Truth: Assistance was rendered, and he was taken to the hospital, where it was found that he was suffering from a wound in the breast, two little lower down, and a cuts on the face. —Police-constable 404 E, deposed that the prisoner went up to him in Vittoria-place, and said, “I’ll give myself up, policeman; I have done it in self-defence."
+
+OCR Text: lle produced a shoe. maker's linife. and handed it to the cotI- stable.
+Ground Truth: He produced a shoemaker's knife, and handed it to the constable.
+
+OCR Text: It .ied a very sharp edge.-Up to a lets hour last night feats were entertained ti-at the itijured man would not survive, but Inspector Clifford stated that he was much better, and would be enabled to give evideuce after lie had undergone a course of treatment.-The prisoner wasremanded.
+Ground Truth: It had a very sharp edge. —Up to a late hour last night fears were entertained that the injured man would not survive, but Inspector Clifford stated that he was much better, and would be enabled to give, evidence after he had undergone a course of treatment. –The prisoner was remanded.
+
+OCR Text: Loss Or A VESSEL AND ALL HANDS.-
+Ground Truth: LOSS OF A VESSEL AND ALL HANDS.—
+
+OCR Text: Early onl Thursdaiy in-ultitli the ketch Jtilles atid Sarah, belttOgihlg to tibe ptort of Bridgwater, suddenly founidered off the Gore sands. ntear 1urulnhatn, ot th-i Somer- setohire cotst, and tbe crew, consisting of William Shliartan (the captain), Henry Sharman (his brather), atid an unmarried man, atame unkoowit, were all Rrowned.
+Ground Truth: Early on Thursday morning the ketch James and Sarah, belonging to the port of Bridgwater, suddenly foundered off the Gore sands, near Burnham, on the Somersetshire coast, and the crew, consisting of William Sharman (the captain), Henry Sharman (his brother), and an unmarried man, name unknown, were all drowned.
+
+OCR Text: TetiutE MEN DUOurgDn--Thbe bodies of Patsy Ehadicall 9nd two otiler men sin- kitowvn were taken oust of t~he river at Mits'is ford, Chbesire, on Wetnitesday niglit by Captaiin William Brtook.
+Ground Truth: THREE MEN DROWNED. —The bodies of Patsy Radican and two other men unknown were taken out of the river at Winsford, Cheshire, on Wednesday night by Captain William Brook.
+
+OCR Text: 1They are supposed to have been goinlg down thes river on Situ- day night, and fallen in while utnder the influence of dritk.
+Ground Truth: They are supposed to have been going down the river on Sunday night, and fallen in while under the influence of drink.
+
+OCR Text: Three hats were found in the river on Monday.
+Ground Truth: Three hats were found in the river on Monday.
+
+OCR Text: VIOLEENT ASSAULTS.-AtWolverbamPton, on Wednesday, Philip Bulger, a powerful young fellow, was charged with outrageous assaults on two policemen and a civilian.
+Ground Truth: VIOLENT ASSAULTS. —At Wolverhampton, on Wednesday, Philip Bulger, a powerful young fellow, was charged with outrageous assaults on two policemen and a civilian.
+
+OCR Text: The previous nighlt prisoner wils violently assatiltng a shopkeeiier nimed Riclaisida, . whelVol ics-cotistahle Leo e;Alneon titae scne, anti, on seizing holi of the Prisoner, the .latter caugh7t; hold of his right thumb, put .it in his mouth, and bit it badly.
+Ground Truth: The previous night prisoner was violently assaulting a shopkeeper named Richards, when Police-constable Lee came on the scene, and, on seizing hold of the prisoner, the latter caught hold of his right thumb, put it in his mouth, and bit it badly.
+
+OCR Text: He also hbit him on one of his arms, and bratally )kicked a secondofficer.
+Ground Truth: He also bit him on one of his arms, and brutally a kicked a second officer.
+
+OCR Text: Prisoner was sen. tenced to six aouths' hard labour,
+Ground Truth: Prisoner was sentenced to six months' hard labour.

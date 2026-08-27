@@ -1,0 +1,53 @@
+OCR Text: __RO BBERY AT A BARONET'S. v
+Ground Truth: ROBBERY AT A BARONETS.
+
+OCR Text: EDWARn PRING, twenty-seven, caipentbr, was bro1ught up on remand at the Greenwich Police-court, charged with stealing jewellery to the Value of £100, the pro- pertyofSirRobert Cunliffe, Bart.,2,L1P., of37 Lot ndes- street, Beigravia.
+Ground Truth: EDWARD PRING, twenty-seven, carpenter, was brought up on remand at the Greenwich Police-court, charged with stealing jewellery to the value of £100, the property of Sir Robert Cunliffe, Bart., M.P., of 37 Lowndes street, Belgravia.
+
+OCR Text: Chief Inspector Phillips said there were a number of cbarges against the prisoner, all the robberies alleged being tinder similar circumstances.
+Ground Truth: Chief Inspector Phillips said there were a number of charges against the prisoner, all the robberies alleged being under similar circumstances.
+
+OCR Text: The prisoner was taken into custody, it appeared, on a charge of stealing a wxatch, and other articles, value £12, from the residence of Miss ,1Kene, 8 Belgrave- terrace, Lee.
+Ground Truth: The prisoner was taken into custody, it appeared, on a charge of stealing a watch, and other articles, value £12, from the residence of Miss Keene, 8 Belgrave terrace, Lee.
+
+OCR Text: ThP prisoner called at the house and represented that lie had been sent by the landlord to see to the blinds.
+Ground Truth: The prisoner called at the house and represented that he had been sent by the landlord to see to the blinds.
+
+OCR Text: He *was given access to the bedrooms, and after he had gone a watch, two rings, - and two lockets were eiliseed.
+Ground Truth: He was given access to the bedrooms, and after he had gone a watch, two rings, and two lockets were missed.
+
+OCR Text: His statement of having been sent to the house was found to be false.
+Ground Truth: His statement of having been sent to the house was found to be false.
+
+OCR Text: The prisoner was ultimately arrested on this charge, and he was sub- sequently charged withltherobbery fromiSir R, Cunliffe's upon information given by a young woman charged before the magistrate with the unlawvful possession of a diamond ring.
+Ground Truth: The prisoner was ultimately arrested on this charge, and he was subsequently charged with the robbery from Sir R. Cunliffe’s upon information given by a young woman charged before the magistrate with the unlawful possession of a diamond ring.
+
+OCR Text: Robert Yfoellam, footman to Sir Robert, deposed thbt on March 28 the prisoner came to thle house and said ha had rome to measure the blinds.
+Ground Truth: Robert Wollam, footman to Sir Robert, deposed that on March 23 the prisoner came to the house and said he had come to measure the blinds.
+
+OCR Text: Witn6ss said new blinds were not rdqoiifed, ,whereupon prkoner said he had been sent to put soime new springs.
+Ground Truth: Witness said new blinds were not required, whereupon prisoner said he had been sent to put some new springs.
+
+OCR Text: He was permitted to go upstairs, and witness afterwards let him out at the Front door.
+Ground Truth: He was permitted to go upstairs, and witness afterwards let him out at the front door.
+
+OCR Text: The house was being painted.
+Ground Truth: The house was being painted.
+
+OCR Text: Sir Robert Cunliffe was sworn, and said a quiantity ofjewellery *vhs missed on theevening of March 23 by Lady Cunliffe, with whom he had been out during the day.
+Ground Truth: Sir Robert Cunliffe was sworn, and said a quantity of jewellery was missed on the evening of March 23 by Lady Cunliffe, with whom he had been out during the day.
+
+OCR Text: It was taken from the drawets in her &assin-table.
+Ground Truth: It was taken from the drawers in her dressing-table.
+
+OCR Text: He had since identified a pair of paste buckles, gold locket, emerald ring, two diamold rings pair of crystal studs, Nor- mandy cross, single taste bucklel, earbuncle locket, pair of earrings, and two eter rings.
+Ground Truth: He had since identified a pair of paste buckles, gold locket, emerald ring, two diamond rings, pair of crystal studs, Normandy cross, single paste buckle, carbuncle locket, pair of earrings, and two other rings.
+
+OCR Text: Other articles of jwllery and a purse containing £4 in gold and a £5 note were stoleh.
+Ground Truth: Other articles of jewellery and a purse containing £4 in gold and a £5 note were stolen.
+
+OCR Text: Jane Pring, mother of the pri- sonller proved pledging several of the articles at hWr son's request.
+Ground Truth: Jane Pring, mother of the prisoner, proved pledging several of the articles at her son’s request.
+
+OCR Text: The prisoner was further remanded for a week.
+Ground Truth: The prisoner was further remanded for a week.

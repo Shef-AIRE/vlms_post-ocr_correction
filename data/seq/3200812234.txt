@@ -1,0 +1,56 @@
+OCR Text: nODIANTIC STORY OF A STOLEN CHILD.
+Ground Truth: ROMANTIC STORY OF A STOLEN CHILD.
+
+OCR Text: A YOUNG woman, aged twenty, who., gave the name of Florence Davis, and stated she came from Torquay, was placed In the dook, befnre Mr. Sheil, at the West- minster Police-court, on Moriday, charged with kid- napping a girl named Kate Rorke, aged four years, and with robbing her of a pair of earrings.
+Ground Truth: A YOUNG woman, aged twenty, who gave the name of Florence Davis, and stated she came from Torquay, was placed in the door, before Mr. Sheil, at the West-minster Police-court, on Monday, charged with kidnapping a girl named Kats Rorke, aged four years, and with robbing her of a pair of earrings.
+
+OCR Text: The prisoner warB rurther charged with attempting to commit suicide in the police cell.
+Ground Truth: The prisoner was further charged with attempting to commit suicide in the police cell.
+
+OCR Text: The child, who was in court, was, flaxen-haired, and bore some resemblance to the prisoner.
+Ground Truth: The child, who was in court, was flaxen-haired, and bore some resemblance to the prisoner.
+
+OCR Text: The mother, the wife of a coal porter, living at 9, Carpenter-street, Westminster, on Thursday forernoon allowed the little girl out to play with other' children.
+Ground Truth: The mother, the wife of a coal porter, living at 9, Carpenter-street, Westminster, on Thursday forenoon allowed the little girl out to play with other children.
+
+OCR Text: They went to St, John's Recreation Ground, where it was alleged the prisoner decoyed the little one away.
+Ground Truth: They went to St. John’s Recreation Ground, where it was alleged the prisoner decoyed the little one away.
+
+OCR Text: Her companions vere found on a seat, having' been told to wait there till Katie came back,
+Ground Truth: Her companions were found on a seat, having been told to wait there till Katie came back.
+
+OCR Text: The parents, greaty distressed, communicated with the police; but nothing was heard of the stolen child till Saturday eight.
+Ground Truth: The parents, greatly distressed, communicated with the police; but nothing was heard of the stolen child till Saturday night.
+
+OCR Text: Then a constable of the S Division, proceeding along Provost-road, Hampstead, noticed that the kitchen window of an empty house was slightly open.
+Ground Truth: Then a constable of the S Division, proceeding along Provost-road, Hampstead, noticed that the kitchen window of an empty house was slightly open.
+
+OCR Text: Gaining admission, he discovered the prisoner. apparently asleep,. on the floor with a little girl.
+Ground Truth: Gaining admission, he discovered the prisoner, apparently asleep, on the floor with a little girl.
+
+OCR Text: The accused said she was destitute, and at the police-station she told Inspector Bill such a precise and circumstantial story that she was believed and sent with the child as poor wayfarers to. Hampstead Wor khouse.
+Ground Truth: The accused said she was destitute, and at the police-station she told Inspector Bill such a precise and circumstantial story that she was believed and sent with the child as poor wayfarers to Hampstead Workhouse.
+
+OCR Text: She said she ran away from home at Torquay nearly five years ago with a young gentleman named Graham, who promised her marriage.
+Ground Truth: She said she ran away from home at Torquay nearly five years ago with a young gentleman named Graham, who promised her marriage.
+
+OCR Text: On her arrival in London she lived with Graham, who deserted' her, shortly after her baby was born.
+Ground Truth: On her arrival in London she lived with Graham, who deserted her, shortly after her baby was born.
+
+OCR Text: Katie's birthday, she declared was on the 4th February.
+Ground Truth: Katie’s birthday, she declared was on the 4th February.
+
+OCR Text: After she had' gone to the workhouse the Inspector made some inquiries, and learning that a girl had been stolen from Westminster, he communicated with the police of the district.
+Ground Truth: After she had gone to the workhouse the Inspector made some inquiries and learning that a girl had bene stolen from Westminster, he communicated with the police of the district.
+
+OCR Text: The result was the father of theo child went to the workhouse and itlentified her.
+Ground Truth: The result was the father of the child went to the workhouse and identified her.
+
+OCR Text: The, girl, in the presence of the prisoner, repeatedly said, " This lady took my earrings," and she made no answer to the accusation.
+Ground Truth: The girl, in the presence of the prisoner, repeatedly said, “This lady took my earrings,” and she made no answer to the accusation.
+
+OCR Text: On Sunday afternoon, in the police cell, she tried to take her life by tying a portion of an. apron tightly round her neck, and then completely covering herself with a rug.
+Ground Truth: On Sunday afternoon, in the police cell, she tried to take her life by tying a portion of an apron tightly round her neck, and then completely covering herself with a rug.
+
+OCR Text: Mr. Sbeil remanded her, and there was some hissing from the public as she was removed from the dock.
+Ground Truth: Mr. Sheil remanded her, and there was some hissing from the public as she was removed from the dock.

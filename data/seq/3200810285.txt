@@ -1,0 +1,74 @@
+OCR Text: APP=B2NDED ON TEH&: HONZI0N-
+Ground Truth: APPREHENDED ON THE HONEYMOON.
+
+OCR Text: AT the lRi:gston-on-Thames County Police-court, Lily White, twenty-four, a servant, of White Cross, Halla- trow, Somerset, and Charles W. White, sixte3n, her husband, were charged on a warrant with having stolen since tha N!t of December a goldring, value 255., the pro- perty or Beatrice Mary Fulton, of Surbiton.
+Ground Truth: AT the Kingston-on-Thames County Police-court, Lily White, twenty-four, a servant, of White Cross, Hallatrow, Somerset, and Charles W. White, sixteen, her husband, were charged on a warrant with having stolen since the 1st of December a gold ring, value 28s, the property of Beatrice Mary Fulton, of Surbiton.
+
+OCR Text: The female prisone' was farther charged with stealing other articles belonging to Mrs. Fulton, and with having obtained by false pnetences from Mr. H. iM. Judd, of Surbiton, three ladiasg'undervests, value 1Ri. 10d.
+Ground Truth: The female prisoner was further charged with stealing other articles belonging to Mrs. Fulton, and with having obtained by false pretences from Mr. H. H. Judd, of Surbiton, three ladies undervests, value 11s. 10d.
+
+OCR Text: Mr. D. J. Harsh de- fend'bd.
+Ground Truth: Mr. B. J. Marsh defended.
+
+OCR Text: The evidence showed that tie female was engaged as general servant by Mrs. IttlIen foar months ago.
+Ground Truth: The evidence showed that the female was engaged as general servant by Mrs. Fulton four months ago.
+
+OCR Text: While the woman was with Irs. Fulton several articles of jewellery were missed; and tha prisoner denied all Itmowledge of them.
+Ground Truth: While the woman was with Mrs. Fulton several articles of jewellery were missed, and the prisoner denied all knowledge of them.
+
+OCR Text: :2rly in January a young lady visited prosecutrix, and during her stay she lost a ring.
+Ground Truth: Early in January a young lady visited prosecutrix, and during her stay she lost a ring.
+
+OCR Text: A fortnight ago the feonale prisoner left her employment at the expiration of no/coe, and the wale prisoner took her boxes away.
+Ground Truth: A fortnight ago the female prisoner left her employment at the expiration of notice, and the male prisoner took her boxes away.
+
+OCR Text: Knowing that the parents of the male pri- soeer were highly respectable peopie;
+Ground Truth: Knowing that the parents of the male prisoner were highly respectable people.
+
+OCR Text: Mrs. Fulton warned the boy against the girl, but she hadi since heard that they had got married.
+Ground Truth: Mrs. Falton warned the boy against the girl, but she had since heard that they had got married.
+
+OCR Text: The police were QommOWunicated with, and the prisoners were apprehended at Templeclough, where they were spending their honeymoon.
+Ground Truth: The police were communicated with, and the prisoners were apprehended at Templeclough, where they were spending their honeymoon.
+
+OCR Text: The male prisoner denied all knowledge of the ring, but he after- wards stated that he gave 1s0,. and the ring to Mr. Thornas, jeweller, of Surbiton, in exchange for a wedding ring.
+Ground Truth: The male prisoner denied all knowledge of the ring, but he afterwards stated that he gave 10s, and the ring to Mr. Thomas, jeweller, of Surbiton, in exchange for a wedding ring.
+
+OCR Text: ]He admitted that the female prisoner gave him the ring, but he said he had no idea that it was stolen.
+Ground Truth: He admitted that the female prisoner gave him the ring, but he said he had no idea that it was stolen.
+
+OCR Text: Mr. Marsh said the girl had induced the boy to. mary her -whilst she w5as in a pregnant condition, and that when the girl stole the things she was not account- able for ber actions.
+Ground Truth: Mr. Marsh said the girl had induced the boy to marry her whilst she was in a pregnant condition, and that when the girl stole the things she was not accountable for her actions.
+
+OCR Text: The magistrates were of opinion that the lad was led into, the adair by the womnen, and dismissed the case against him.
+Ground Truth: The magistrates were of opinion that the lad was led into the affair by the woman, and dismissed the case against him.
+
+OCR Text: They sent the female prisoner to gaol for a month without hard labour.
+Ground Truth: They sent the female prisoner to gaol for a month without hard labour.
+
+OCR Text: The other charges were mot proceeded with.
+Ground Truth: The other charges were not proceeded with.
+
+OCR Text: SHOOTING A, WIFEI AT EAsILSWOOD.
+Ground Truth: SHOOTING A WIFE AT EARLSWOOD.
+
+OCR Text: -OnQ Satur- day, atRedhill, before the mayor, a wretehed-looking man, named Henry Burchell, of White Bushes Cot- tages, Earlswood, was charged with shooting at his wife with intent to do her grievous bodily harm.
+Ground Truth: —On Saturday, at Redhill, before the mayor, a wretched-looking man, named Henry Burchell, of White Bushes Cottages, Earlswood, was charged with shooting at his wife with intent to do her grievous bodily harm.
+
+OCR Text: Edward Styles, a platelayer, said he was in his garden, some thirty yards away, when 'e heard the report of a gun.
+Ground Truth: Edward Styles, a platelayer, said he was in his garden, some thirty yards away, when he heard the report of a gun.
+
+OCR Text: Mrs. Burchell was at that time outside her house, leaning against the window, and as he approached her she eaid, "He has shot me.
+Ground Truth: Mrs. Burchell was at that time outside her house, leaning against the window, and as he approached her she said, "He has shot me."
+
+OCR Text: With the assistance of some ueighbours witness con- veyed the woman indoors, and he af terwards informe the police.
+Ground Truth: With the assistance of some neighbours witness conveyed the woman indoors, and he afterwards informed the police.
+
+OCR Text: Dr. Harle, of Rarlswood, said be found the woman had been shot through the thigh.
+Ground Truth: Dr. Harle, of Earlswood, said he found the woman had been shot through the thigh.
+
+OCR Text: The wound was so serious that her removal from the house would be dangerous.
+Ground Truth: The wound was so serious that her removal from the house would be dangerous.
+
+OCR Text: She was in a crition con' dition. Remanded.
+Ground Truth: She was in a critical condition. Remanded.

@@ -1,0 +1,161 @@
+OCR Text: TRIAL OF MRS. OSBORNE. PLEA OF GUILTYt
+Ground Truth: TRIAL OF MRS. OSBORNE. PLEA OF GUILTY.
+
+OCR Text: SENTENCE OF NINE MONTHS' ]IARD LAssoU. T
+Ground Truth: SENTENCE OF NINE MONTHS' HARD LABOUR.
+
+OCR Text: [SUBJECT OFT ILL ISTJATION l:
+Ground Truth: [SUBJECT OF ILLUSTRATION.]
+
+OCR Text: YT closing stage in the noted pearl stealing case h wsN5erhe ,'-at the Central.!rP -inal Court, on Wedueada, htnrnin, .yhere MArs. Obone was for- i mally indicted, before J1dstice Smith, f r -the theft of b Mrs. EHargreve's jewels,: and for wilful and-corrupt ti perjury, in the'libel action which she broughtagrinst tl Major and Mrs. Hargreaves.
+Ground Truth: THE closing stage in the noted pearl stealing case was reached, at the Central Criminal Court, on Wednesday morning, where Mrs. Osborne was formally indicted, before Justice Smith, for the theft of Mrs. Hargreaves’s jewels, and for wilful and corrupt perjury, in the libel action which she brought against Major and Mrs. Hargreaves.
+
+OCR Text: Among the early sr arrivals were Major and Mrs. Hargreaves, who were al seated at the solicitors' table, and Mr. Benjamin, or whose unexpected interposition in the libel action a, produced such startling results.
+Ground Truth: Among the early arrivals were Major and Mrs. Hargreaves, who were seated at the solicitors' table, and Mr. Benjamin, whose unexpected interposition in the libel action produced such startling results.
+
+OCR Text: The jury wore ti sworn in a few minutes after ten.
+Ground Truth: The jury were sworn in a few minutes after ten.
+
+OCR Text: The counsel for a, the prosecution were Mr. Gill and Mr. Forrest Falton, a, while for the defence Sir Charles Russell, Mr. n Coward, and Mr. C. Mathews were briefed.
+Ground Truth: The counsel for the prosecution were Mr. Gill and Mr. Forrest Fulton, while for the defence Sir Charles Russell, Mr. Coward, and Mr. C. Mathews were briefed.
+
+OCR Text: .Captain u Osborne arrived soon after ton, and was accoinmo- ru dated with a seat among the junior counsel.
+Ground Truth: Captain Osborne arrived soon after ten, and was accommodated with a seat among the junior counsel.
+
+OCR Text: The p learned judge and Lord Mayor entered the-court at v half.past ten. c .alf-past ten
+Ground Truth: The learned judge and Lord Mayor entered the court at half-past ten.
+
+OCR Text: MRS. OSBORNE IN THE DOCK. n
+Ground Truth: MRS. OSBORNE IN THE DOCK.
+
+OCR Text: Mrs. Osborne was at once brought into the dock. c,
+Ground Truth: Mrs. Osborne was at once brought into the dock.
+
+OCR Text: She was supported around the waist by a femalei warder, who helped her into a chair.
+Ground Truth: She was supported around the waist by a female warder, who helped her into a chair.
+
+OCR Text: She was at n once charged with the theft and the perjury, and in is an inaudible voice pleaded guilty to both charges. is
+Ground Truth: She was at once charged with the theft and the perjury, and in an inaudible voice pleaded guilty to both charges.
+
+OCR Text: Mr. Forrest Fulton said he was instructed to prose- S I cute on behalf of the Treasury, and would briefly nar- rate facts.
+Ground Truth: Mr. Forrest Fulton said he was instructed to prosecute on behalf of the Treasury, and would briefly narrate facts.
+
+OCR Text: Justice Smith: I have all the depositions li before me, and therefore know the facts.
+Ground Truth: Justice Smith: I have all the depositions before me, and therefore know the facts.
+
+OCR Text: MRIS. HARGMEAVES SPEAKS. a
+Ground Truth: MRS. HARGREAVES SPEAKS.
+
+OCR Text: AMrs. Hargreaves: May I say, my lord- The a Judge: I cannot hear you unless you are going to h make an appeal for mercy.
+Ground Truth: Mrs. Hargreaves: May I say, my lord— The Judge: I cannot hear you unless you are going to make an appeal for mercy.
+
+OCR Text: Mrs. Hargreaves: Indeed, I am, my lord, with all my heart. (Sobbing.)
+Ground Truth: Mrs. Hargreaves: Indeed, I am, my lord, with all my heart. (Sobbing.)
+
+OCR Text: . I have known her and loved her all her life, and am perfectly convinced she was not in her right mind 'when she took the jewels. ;. I
+Ground Truth: I have known her and loved her all her life, and am perfectly convinced she was not in her right mind when she took the jewels.
+
+OCR Text: w r TI[1D HrSENTEC.,
+Ground Truth: THE SENTENCE.
+
+OCR Text: Justice Smith- then proceeded to pass sentence, the n prisoner, who wEs crying bitterly, still remaining a seated.
+Ground Truth: Justice Smith then proceeded to pass sentence, the prisoner, who was crying bitterly, still remaining seated.
+
+OCR Text: He said, " You stole the jewels of your t friend.
+Ground Truth: He said, "You stole the jewels of your friend.
+
+OCR Text: You converted them into money.
+Ground Truth: You converted them into money.
+
+OCR Text: You P appropriated the money to your own use, and when f suspicion pointed to you as being the actual thief you v commenced an action in order to vindicate your 5 character.
+Ground Truth: You appropriated the money to your own use, and when suspicion pointed to you as being the actual thief you commenced an action in order to vindicate your character.
+
+OCR Text: In that action you falsely and corruptly r swore to facts which were intended to lead the jury E to believe you did not steal the jewels.
+Ground Truth: In that action you falsely and corruptly swore to facts which were intended to lead the jury to believe you did not steal the jewels.
+
+OCR Text: I do not know what would have been the result had it not been t for the interposition of one man, who was able to r prodnee a document with your endorsement.
+Ground Truth: I do not know what would have been the result had it not been for the interposition of one man, who was able to produce a document with your endorsement.
+
+OCR Text: But I i 1 am sure of one thing.
+Ground Truth: But I am sure of one thing.
+
+OCR Text: If your wilful and corrupt f perjury had succeeded, your friends Major and Mrs. I Hargreaves would have left that court with the stain of indelible ignominy upon them.
+Ground Truth: If your wilful and corrupt perjury had succeeded, your friends Major and Mrs. Hargreaves would have left that court with the stain of indelible ignominy upon them.
+
+OCR Text: Fortunately it did not succeed.
+Ground Truth: Fortunately, it did not succeed.
+
+OCR Text: This is a serious matter.
+Ground Truth: This is a serious matter.
+
+OCR Text: The maximum penalty for perjury is seven years' penal servitude.
+Ground Truth: The maximum penalty for perjury is seven years' penal servitude.
+
+OCR Text: I am not going to inflict that, but I do intend to give a severe punishment for one in your position.
+Ground Truth: I am not going to inflict that, but I do intend to give a severe punishment for one in your position.
+
+OCR Text: I know the jewels andthe misappropriated 3 money have been returned, and all the costs paid, and 2 I bear that in mind.
+Ground Truth: I know the jewels and the misappropriated money have been returned, and all the costs paid, and I bear that in mind.
+
+OCR Text: You have been some time in I y.prison ; you surrendered yourself to justice ; yourI condition is known to me; and Mrs. Hargreaves, as I well as your counsel, have appealed for mercy.
+Ground Truth: You have been some time in prison; you surrendered yourself to justice; your condition is known to me; and Mrs. Hargreaves, as well as your counsel, have appealed for mercy.
+
+OCR Text: The I 3 sentence is that you be imprisoned for nine months I and put to such hard labour as the state of your I 3 health will permit.
+Ground Truth: The sentence is that you be imprisoned for nine months and put to such hard labour as the state of your health will permit.
+
+OCR Text: THE CLOSING SCENE.
+Ground Truth: THE CLOSING SCENE.
+
+OCR Text: Prisoner was then carried from the dock sobbing bitterly, and apparently astounded at the sentence.
+Ground Truth: Prisoner was then carried from the dock sobbing bitterly, and apparently astounded at the sentence.
+
+OCR Text: Her husband and Mrs. Hargreaves were also deeply affected.
+Ground Truth: Her husband and Mrs. Hargreaves were also deeply affected.
+
+OCR Text: With the sentence passed upon Mrs. Osborne on Wednesday the curtain falls upon as pitiable a drama n of real life as ever was presented to the public gaze.
+Ground Truth: With the sentence passed upon Mrs. Osborne on Wednesday the curtain falls upon as pitiable a drama of real life as ever was presented to the public gaze.
+
+OCR Text: To comment now upon the unhappy lady's offence i and its punishment is needless.
+Ground Truth: To comment now upon the unhappy lady's offence and its punishment is needless.
+
+OCR Text: We need only say a I last word of sympathy for her relatives, and, above all, for her husband, who has played the part of a gallant gentleman while overwhelmed by the most s cruel blows of wholly undeserved misfortune.
+Ground Truth: We need only say a last word of sympathy for her relatives, and, above all, for her husband, who has played the part of a gallant gentleman while overwhelmed by the most cruel blows of wholly undeserved misfortune.
+
+OCR Text: To one feature of the case we would, however, call e attention.
+Ground Truth: To one feature of the case we would, however, call attention.
+
+OCR Text: It was stated in the course of the trial e that the Public Prosecutor had taken action in con- a sequence of Mrs. Osborne's perjury alone; that, if e there had been no other charge against her, his action would not have been taken.
+Ground Truth: It was stated in the course of the trial that the Public Prosecutor had taken action in consequence of Mrs. Osborne's perjury alone; that, if there had been no other charge against her, his action would not have been taken.
+
+OCR Text: Thissuddenawakening of the official conscience to the wickedness of perjury e is remarkable.
+Ground Truth: This sudden awakening of the official conscience to the wickedness of perjury is remarkable.
+
+OCR Text: Not that there is no need of increased l. activity in that matter.
+Ground Truth: Not that there is no need of increased activity in that matter.
+
+OCR Text: On the contrary, the judges e have long been periodically deploring the terrible n increase in the crime of false swearing.
+Ground Truth: On the contrary, the judges have long been periodically deploring the terrible increase in the crime of false swearing.
+
+OCR Text: One of themn t even went so far as to say recently that he believed1 e that in the majority of the cases he tried perjury was Is committed on one side or the other, and very' fre- .e quently on both.
+Ground Truth: One of them even went so far as to say recently that he believed that in the majority of the cases he tried perjury was committed on one side or the other, and very frequently on both.
+
+OCR Text: So far, then, it is an excellent r thing that the Public Prosecutor should have become it alive to the existence of a grave public scandal.
+Ground Truth: So far, then, it is an excellent thing that the Public Prosecutor should have become alive to the existence of a grave public scandal.
+
+OCR Text: o Bat we hope that the fact that it has required an i, extremely sensational case, involving persons in a i high social position, to effect this awakening does y not mean that the commonplace.perjurers are to con- 'I tinue to go Scot free.
+Ground Truth: But we hope that the fact that it has required an extremely sensational case, involving persons in a high social position, to effect this awakening does not mean that the common place perjurers are to continue to go scot free.
+
+OCR Text: Cases quite as flagrant, though . .t not so sensational, are occurring day by day, and it the obscure offenders are never pounced upon by-the w Public Prosecutor, or only very rarely.
+Ground Truth: Cases quite as flagrant, though not so sensational, are occurring day by day, and the obscure offenders are never pounced upon by the Public Prosecutor, or only very rarely.
+
+OCR Text: Now, how- n ever, we shall look forward to a new departure, and d the equal punishment of all perjurers, high. and low.
+Ground Truth: Now however, we shall look forward to a new departure, and the equal punishment of all perjurers, high and low.
+
+OCR Text: to We do not like "any procedure that suggests that dthe law is not the same for all classes of the corm- fd munity, whether it be the rich or the poor who may Srsuffer the mostby such improper distinctions.
+Ground Truth: We do not like any procedure that suggests that the law is not the same for all classes of the community, whether it be the rich or the poor who may suffer the most by such improper distinctions.
+
+OCR Text: Our artist has made some sketches of the prison life of the unfortunate woman.
+Ground Truth: Our artist has made some sketches of the prison life of the unfortunate woman.
+
+OCR Text: A prisoner has to be sorely tried and to put up with a number of indignities in prison especially those belonging to the t, better class, but Mrs. Osborne has erred in no at small degree and she must pay the penalty of her .e misdeeds.
+Ground Truth: A prisoner has to be sorely tried and to put up with a number of indignities in prison especially those belonging to the better class, but Mrs. Osborne has erred in no small degree and she must pay the penalty of her misdeeds.

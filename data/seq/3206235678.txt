@@ -1,0 +1,50 @@
+OCR Text: LATEST OLD BAILEY TRIAU.
+Ground Truth: LATEST OLD BAILEY TRIALS.
+
+OCR Text: TiE ALLIEED OUTEAGEL AT HIGRGATE,-Four young men, named Georgeg Shannos, Kingwefl, and M'VCarthy, were charged with feloniously wounding James Fairweather, with the intent to murder him.
+Ground Truth: THE ALLEGED OUTRAGE AT HIGHGATE. —Four young men, named George, Shannon, Kingwell, and M'Carthy, were charged with feloniously wounding James Fairweather, with the intent to murder him.
+
+OCR Text: -In this ease it will be recollected that the pro- secutor bad given evidence against the father of the prisoner George upon some charge that was made against him, and it was alleged that the offence now imputed to the prisoners was committed out of revenge.
+Ground Truth: —In this case it will be recollected that the prosecutor had given evidence against the father of the prisoner George upon some charge that was made against him, and it was alleged that the offence now imputed to the prisoners was committed out of revenge.
+
+OCR Text: The prosecutor and George met acciden- tally on the day following the proceeding at Marl- borough-street, and they went to a publichouse and drank together; and M'Carthy came in and there was some talk about fighting.
+Ground Truth: The prosecutor and George met accidentally on the day following the proceeding at Marlborough-street, and they went to a publichouse and drank together; and M'Carthy came in and there was some talk about fighting.
+
+OCR Text: The prosecutor was then inducedto accompany George and M'Carthy in a cab to Higbgate, and it appeared that they were followed by the other prisoners in another cab, and when he got out he was set upon and assaulted in a most brutal manner, the injuries he received being of such a character that his life was for some time considered to be in danger.-The defence was that the prosecutor had challenged a man named Brown to fight, and that he went to Highgafe will- ingly for that purpose, and that he rubbed his knuckles with gin at a publichouse in Tottenham- court-road for the purpose of hardening them.-
+Ground Truth: The prosecutor was then induced to accompany George and M'Carthy in a cab to Highgate, and it appeared that they were followed by the other prisoners in another cab, and when he got out he was set upon and assaulted in a most brutal manner, the injuries he received being of such a character that his life was for some time considered to be in danger. —The defence was that the prosecutor had challenged a man named Brown to fight, and that he went to Highgate willingly for that purpose, and that he rubbed his knuckles with gin at a publichouse in Tottenham-court-road for the purpose of hardening them.—
+
+OCR Text: Witnesses were called for the purpose of making out this defence.-The jury found all the pri- soners " Guilty " of wounding with intent to do grievous bodily harm.
+Ground Truth: Witnesses were called for the purpose of making out this defence. —The jury found all the prisoners “Guilty” of wounding with intent to do grievous bodily harm.
+
+OCR Text: It was proved that M'Carthy bad been twice summarily convicted of felony, and he had been several times convicted of assaults upon different persons.
+Ground Truth: It was proved that M'Carthy bad been twice summarily convicted of felony, and he had been several times convicted of assaults upon different persons.
+
+OCR Text: The other prisoners appeared to have previously borne very rood aha. racters.-The prisoners George and h'Carthy were sentenced to five years' penal servitude.
+Ground Truth: The other prisoners appeared to have previously borne very good characters. The prisoners George and M'Carthy were sentenced to five years' penal servitude.
+
+OCR Text: The other two prisoners. Kingwell and Shannon, were sentenced to 18 months' hard labour.
+Ground Truth: The other two prisoners, Kingwell and Shannon, were sentenced to 18 months' hard labour.
+
+OCR Text: TNE DESPATCH OF. RIFLES TO FRANCE.-Th0aS Arthur, a well-dressed young man, described as a commission agent, appeared to his recognisances to answer a charge of conspiring with one Ernest de Lusada. commonly called the Count de Lusada, not in custody, to cheat and defraud one David Forrest of the sum of 1001.-After the case for the proseca- tion, which bad reference to a transaction in rifes for the French Government, had been opened, and some preliminary evidence adduced, the Recorder, interposing, said emphatically that he could see nothing in either the opening or the proof to support the charge, end unless other evidence was forth- coming to subataniate it he should direct the jury to acquit the defendant.-Mr. Ribton said that after that intimation from the Bench he would with- draw from the proseeution-Upon that the jury at once " Acquitted " the defendant, and he WAs dis- charged.-Fir. Metcalfe applied to have the costs of the defence allowed, and the Recorder granted the application.
+Ground Truth: THE DESPATCH OF RIFLES TO FRANCE. —Thomas Arthur, a well-dressed young man, described as a commission agent, appeared to his recognisances to answer a charge of conspiring with one Ernest de Lusada, commonly called the Count de Lusada, not in custody, to cheat and defraud one David Forrest of the sum of 100l. —After the case for the prosecution, which had reference to a transaction in rifles for the French Government, had been opened, and some preliminary evidence adduced, the Recorder, interposing, said emphatically that he could see nothing in either the opening or the proof to support the charge, and unless other evidence was forth- coming to substantiate it he should direct the jury to acquit the defendant. —Mr. Ribton said that after that intimation from the Bench he would withdraw from the prosecution. —Upon that the jury at once Acquitted" the defendant, and he was discharged. —Mr. Metcalfe applied to have the costs of the defence allowed, and the Recorder granted the application.
+
+OCR Text: THROWIrN A ConRiorvE FLacD.-Loesu, Gustave Droz, 38, watchmaker, a native of Switzerland, was charged with throwing a quantity of aquafortis upon Harriet Droz, with intent to do her grievous bodily harm.
+Ground Truth: THROWING A CORROSIVE FLUID. —Louis Gustave Droz, 38, watchmaker, a native of Switzerland, was charged with throwing a quantity of aquafortis upon Harriet Droz, with intent to do her grievous bodily harm.
+
+OCR Text: This was a painful case.
+Ground Truth: This was a painful case.
+
+OCR Text: The prosecutrix was the wife of prisoner, and they had been married for 18 years at the time the occurrence took place.
+Ground Truth: The prosecutrix was the wife of prisoner, and they had been married for 18 years at the time the occurrence took place.
+
+OCR Text: Owing, however, to the cruel treatment of the prisoner the prosecutrix had applied to the Divorce court and obtained a decree of judicial separation on the 10th of June this year.
+Ground Truth: Owing, however, to the cruel treatment of the prisoner the prosecutrix had applied to the Divorce court and obtained a decree of judicial separation on the 10th of June this year.
+
+OCR Text: The prisoner appeared to have constantly waylaid the prosecutrix, and annoyed her after she had obtained the decree, and she never went out without having some one toaccompany her.
+Ground Truth: The prisoner appeared to have constantly waylaid the prosecutrix, and annoyed her after she had obtained the decree, and she never went out without having someone to accompany her.
+
+OCR Text: On the 2nd of October, she had been to Dr. Cum- mings' church, in Covent-garden, and when she came out she saw the prisoner, and he went upio her, and she saw him drop his hand, and, at the same moment, she smelt a strong smell, and found that her (prosecutrix's) dress had been burned, and there was no doubt that the prisoner bad tliown a quan. tity of aquafortis, an ingredient which he was in the habit of using in his trade as a watchmaker, upon the clothes of the prosecutlix, but fortunately no part of her person was burned.-The prisoner was "Acquitted" on this charge, but was found "Guilty" of a common assault.
+Ground Truth: On the 2nd of October, she had been to Dr. Cummings' church, in Covent-garden, and when she came out she saw the prisoner, and he went up to her, and she saw him drop his hand, and, at the same moment, she smelt a strong smell, and found that her (prosecutrix's) dress had been burned, and there was no doubt that the prisoner had thrown a quantity of aquafortis, an ingredient which he was in the habit of using in his trade as a watchmaker, upon the clothes of the prosecutrix, but fortunately no part of her person was burned. —The prisoner was 'Acquitted" on this charge, but was found "Guilty" of a common assault.
+
+OCR Text: -The Judge sentenqed the pri- soner to eight months' hard labour, and to enter into his own recognisances in 1001. to keep the peace to- wards the prosecutrix for 12 months.
+Ground Truth: —The Judge sentenced the prisoner to eight months' hard labour, and to enter into his own recognisances in 100l. to keep the peace to- wards the prosecutrix for 12 months.

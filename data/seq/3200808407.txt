@@ -1,0 +1,83 @@
+OCR Text: LONDONr COUNTY SESSIONS. . - h _A b ,l
+Ground Truth: LONDON COUNTY SESSIONS.
+
+OCR Text: EBOWAIUD SMITuH, eig&6cepn, a professional shoplifter, ra 1loaded guilty to aoe..ing a pieoe of bacun from a a choesemouger'a sehop in Marylebone.
+Ground Truth: EDWARD SMITH, eighteen, a professional shoplifter, pleaded guilty to stealing a piece of bacon from a chcesemonger’s shop in Marylebone.
+
+OCR Text: A detective Pi having proved rever3l convictions for similar offences, - the learned chairman sentb him to prison for one m yetr, vith hard labour, remarking that he was th eoidently on the road to penal Servitude.
+Ground Truth: A detective having proved several convictions for similar offences, the learned chairman sent him to prison for one year, with hard labour, remarking that he was evidently on the road to penal servitude.
+
+OCR Text: The pe prisoner, who laughed at this, tripped lightly out of m ?ho dock. ba
+Ground Truth: The prisoner, who laughed at this, tripped lightly out of the dock.
+
+OCR Text: Richard Grey, thirty-6ight, labourer, pleaded he guilty to stealing a parcel of the value of about 5d., WI the property of a person whose name in unknown. M
+Ground Truth: Richard Grey, thirty-eight, labourer, pleaded ha guilty to stealing a parcel of the value of about 5s., the property of a person whose name is unknown.
+
+OCR Text: Re01ty Evans, police-conatable 130 L, proved thab in au Sanuary of this year he was sentenced to nix months' St hard lAbour for steallrga clock.
+Ground Truth: Henry Evans, police-constable 150 L, proved that in January of this year he was sentenced to six months' hard labour for stealing a clock.
+
+OCR Text: The learned Chair- tb man: Prlsoner, you seem to Spend your time in be misa'rable pilfering of articles of trifling value, for tb which you hbve sufferedlongimprisonments. Although fo the articles are of smll value the court must take th th6 nature ol toe life you lead into consideration. to ysoru must go to prison for nine months.
+Ground Truth: The learned Chairman: Prisoner, you seem to spend your time in miserable pilfering of articles of trifling value, for which you have suffered long imprisonments. Although the articles are of small value the court must take the nature of the life you lead into consideration. You must go to prison for nine months.
+
+OCR Text: John Lawronce, thirty-eight, labourer,wam indicted at Eor stealing a cushion, value £2 10s., the property of SU the London and North-Western Railway Company, or fromn a third-class carriage as Willesden Station.
+Ground Truth: John Lawrence, thirty-eight, labourer, was indicted at for stealing a cushion, value £2 10s., the property of the London and North-Western Railway Company, from a third-class carriage at Willesden Station.
+
+OCR Text: He w pleaded not guilty.
+Ground Truth: He pleaded not guilty.
+
+OCR Text: Chief Inspector Pearson attended ja an behalf of the railway company.
+Ground Truth: Chief Inspector Pearson attended on behalf of the railway company.
+
+OCR Text: The cushion, which waa stuffed with horsehair, was stolen on the tb 16th of October.
+Ground Truth: The cushion, which was stuffed with horsehair, was stolen on the 16th of October.
+
+OCR Text: The next day Detective Bucking. wv ham, engaged at Willesden Station, met the prisoner SI wi'th r.not her man In the IJxbridge-road, and told him or 'e tshould take him into custody on suspicion of of ' absing thecoushion.
+Ground Truth: The next day Detective Buckingham, engaged at Willesden Station, met the prisoner with another man in the Uxbridge-road, and told him or he should take him into custody on suspicion of stealing the cushion.
+
+OCR Text: He said he did not abeal it, but 'di knew wyhere its conteuts had been disposed of.
+Ground Truth: He said he did not steal it, but know where its contents had been disposed of.
+
+OCR Text: He is was carryinga nack at the time, and in it was some TVl loose horsehair which corresponded with the hair W stolen from the cushion.
+Ground Truth: He in was carrying a sack at the time, and in it was some loose horsehair which corresponded with the hair stolen from the cushion.
+
+OCR Text: The prisoner said that all P1 ho had oui of the job was the price of two half-pints ir of beer.
+Ground Truth: The prisoner said that all he had out of the job was the price of two half-pints in of beer.
+
+OCR Text: The ntxb day the detective went to the b shop of a marine store dealer named Gregory, t( 22oker's-laue, Ealing, where a quantity of the stolen tl Jhair was found.
+Ground Truth: The next day the detective went to the shop of a marine store dealer named Gregory, to Baker's-lane, Ealing, where a quantity of the stolen hair was found.
+
+OCR Text: Oa Monday John Shaw, manager S !to Cg-rory, was called as a witness, and admitted h reciving thle hair from a man he did not know.
+Ground Truth: On Monday John Shaw, manager to Gregory, was called as a witness, and admitted receiving the hair from a man he did not know.
+
+OCR Text: Heo v. paid fourpence per pound for it.
+Ground Truth: He paid fourpence per pound for it.
+
+OCR Text: He made no entry a of the transaction.
+Ground Truth: He made no entry of the transaction.
+
+OCR Text: They had other eatablishments at S Hounslow, Chertsey, and Brentford.
+Ground Truth: They had other establishments at Hounslow, Chertsey, and Brentford.
+
+OCR Text: The learned a] Ohairman directed the witness Shaw not to leave B the court, as ho should have a word or two to say to B him.
+Ground Truth: The learned Chairman directed the witness Shaw not to leave g the court, as he should have a word or two to say to him.
+
+OCR Text: The jury found the prisoner guilty.
+Ground Truth: The jury found the prisoner guilty.
+
+OCR Text: It was q proved that he had before been convicted of stealing d comumunication cords from carriages.
+Ground Truth: It was proved that he had before been convicted of stealing communication cords from carriages.
+
+OCR Text: The learned r Chairman said there could be no doubt that he was 0 a dangerous, mischievous person, and would have to } undergo nine months' hard laboar.
+Ground Truth: The learned Chairman said there could be no doubt that he was a dangerous, mischievous person, and would have to undergo nine months' hard labour.
+
+OCR Text: He ordered the t witness Shaw to stand forward, and, addressing him, nid: In my opinion your conduct is very little short P of veceiving stolen goods. Morally, you are as bad a ae the prisoner, and I shall disallow your cxpenses. ' 3aand down, sir.
+Ground Truth: He ordered the witness Shaw to stand forward, and, addressing him, said: In my opinion your conduct is very little short of receiving stolen goods. Morally, you are as bad as the prisoner, and I shall disallow your expenses. Stand down, sir.
+
+OCR Text: George Jchneon, twenty, pleaded guilty to stealing C thirty-two yards of serge, value £3 lOs., the pro- X psrty of the Great Eastern Railway Company.
+Ground Truth: George Johnson, twenty, pleaded guilty to stealing thirty-two yards of serge, value £3 10s, the property of the Great Eastern Railway Company.
+
+OCR Text: The i parcel was stolen from one of the company's vans I whIle in transit to Ipswioh.
+Ground Truth: The parcel was stolen from one of the company's vans while in transit to Ipswich.
+
+OCR Text: A-former conviction for housebreaking was proved, and a sentencs of five c y3ers' penal servitude was passed upon him.t
+Ground Truth: A former conviction for housebreaking was proved, and a sentence of five years' penal servitude was passed upon him.

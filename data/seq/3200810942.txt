@@ -1,0 +1,77 @@
+OCR Text: LONDON COUNTY SnSSEIONS, -41-MUL %WvUXI L---.u
+Ground Truth: LONDON COUNTY SESSIONS.
+
+OCR Text: tEOILRIGIBrms.-Walter Clifford, sixty-four, clerk, was brought up to be dealt with as an incorrigible rogue.
+Ground Truth: IRCORRIGIBLES. —Walter Clifford, sixty-four, clerk, was brought up to be dealt with as an incorrigible rogue.
+
+OCR Text: Coltman, an officer of the Mendicity Society, proved a v long list of previous convictions,
+Ground Truth: Coltman, an officer of the Mendicity Society, proved a long list of previous convictions.
+
+OCR Text: t was stated that pri- soneo walked into the police-station in the King's-road, Chelsea; and voluntarily gave himself up.
+Ground Truth: It was stated that prisoner walked into the police-station in the King's-road, Chelsea, and voluntarily gave himself up.
+
+OCR Text: He made a statement, which he subsequently put into writing, to the effect that he was afraid of being charged with steal- ing a coat from ahouse in which he was a, lodger, andalso for having obtained a sovereign by means of false pre-I tences from Lady Rothschild's hou ekeeper.
+Ground Truth: He made a statement, which he subsequently put into writing, to the effect that he was afraid of being charged with stealing a coat from a house in which he was a lodger, and also for having obtained a sovereign by means of false pretences from Lady Rothschild's housekeeper.
+
+OCR Text: He was J sentenced to nine months' hard labour.-Charles Otten- C nan, forty, labourer, was also brought up to be dealt with I as an incorrigible.
+Ground Truth: He was sentenced to nine months' hard labour. —Charles Ottoman, forty, labourer, was also brought up to be dealt with as an incorrigible.
+
+OCR Text: Bosley, an oflicer of the Mendicity i Society, described the prisoner as going absut in a filthy ' condition, insulting persons who refused to give him C money, and being very violent when arrested.
+Ground Truth: Bosley, an officer of the Mendicity Society, described the prisoner as going about in a filthy condition, insulting persons who refused to give him money, and being very violent when arrested.
+
+OCR Text: There were nine previous convictions against him.
+Ground Truth: There were nine previous convictions against him.
+
+OCR Text: He was P sentenced to six months' hard labour.
+Ground Truth: He was sentenced to six months' hard labour.
+
+OCR Text: ROnBaEaY FROU TFIM GROATr NoIrEHERN RAILWAY.- Arthur Joseph Langshaw, twenty-six, painter, was indicted for having stolen a mantle, and also a box of eggs, the property of his masters, the Great Northern : Railway Company.
+Ground Truth: ROBBERY FROM THE GREAT NORTHERN RAILWAY. —Arthur Joseph Langshaw, twenty-six, painter, was indicted for having stolen a mantle, and also a box of eggs, the property of his masters, the Great Northern Railway Company.
+
+OCR Text: Mr. Kersbaw prosecoted.
+Ground Truth: Mr. Kershaw prosecuted.
+
+OCR Text: The pri- soner, who had been in the employ of the company as a I labourer and carman, pleaded guilty.
+Ground Truth: The prisoner, who had been in the employ of the company as a labourer and carman, pleaded guilty.
+
+OCR Text: His duty was to take goods from the arrival platform to the engineers' department; bhat he had no right to take any other goods than those directed to that department.
+Ground Truth: His duty was to take goods from the arrival platform to the engineers' department; but he had no right to take any other goods than those directed to that department.
+
+OCR Text: He had been . suspected for some time, and on the 8th October was seen to take the box of eggs.
+Ground Truth: He had been suspected for some time, and on the 8th October was seen to take the box of eggs.
+
+OCR Text: Twenty-four pawntickets were found upon him, and. among others one relating to the mantle.
+Ground Truth: Twenty-four pawntickets were found upon him, and among others one relating to the mantle.
+
+OCR Text: Otbers related to knives and forks, which had been stolen from luncheon baskets, and workmen's tools. I
+Ground Truth: Others related to knives and forks, which had been stolen from luncheon baskets, and workmen's tools.
+
+OCR Text: He was sentenced to twelve months' hard labour. e
+Ground Truth: He was sentenced to twelve months' hard labour.
+
+OCR Text: THE EARL OF ROSSLYN's LUOGAGIc,-George Jarvis, seventeen, groom, was indicted for having stolen two portmanteaus and other articles, value £200, the goods of the Earl of Rosslyn.
+Ground Truth: THE EARL OF ROSSLYN'S LUGGAGE. —George Jarvis, seventeen, groom, was indicted for having stolen two portmanteaus and other articles, value £200, the goods of the Earl of Rosslyn.
+
+OCR Text: On the Rth October a quantity of luggage, the property of .the Earl of Rosslyn, was placed in a cab at the King's Cross Station, and the driver was ordered to drive to the Turf Club.
+Ground Truth: On the 5th October a quantity of luggage, the property of the Earl of Rosslyn, was placed in a cab at the King's Cross Station, and the driver was ordered to drive to the Turf Club.
+
+OCR Text: There the person hiring'the cab got out.
+Ground Truth: There the person hiring the cab got out.
+
+OCR Text: Shortly afterwards the prisoner came out of the club and ordered the cabman- to drive to Charing Cross.
+Ground Truth: Shortly afterwards the prisoner came out of the club and ordered the cabman to drive to Charing Cross.
+
+OCR Text: He then told him to drive on to an hotel in Villiers-street, and the goods were taken inside.
+Ground Truth: He then told him to drive on to an hotel in Villiers-street, and the goods were taken inside.
+
+OCR Text: The waiter at the hotel paid the cabman l 4s; 6d., and the prisoner gave him 3d.
+Ground Truth: The waiter at the hotel paid the cabman 4s. 6d., and the prisoner gave him 6d.
+
+OCR Text: Sergeant Par- menter, C Division, arrested the prisoner next day, and i then found a quantity of the goods in Villiers-street and the remainder in a house in Percy-street, Tottenham- court-road.
+Ground Truth: Sergeant Parsmenter, C Division, arrested the prisoner next day, and then found a quantity of the goods in Villiers-street and the remainder in a house in Percy-street, Tottenham court-road.
+
+OCR Text: Prisoner's defence was that he had been led into it by another man.
+Ground Truth: Prisoner's defence was that he had been led into it by another man.
+
+OCR Text: Sir P. H. Edlin sentenced him to six months' hard labour.
+Ground Truth: Sir P. H. Edlin sentenced him to six months' hard labour.

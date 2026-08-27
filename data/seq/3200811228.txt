@@ -1,0 +1,53 @@
+OCR Text: THE REMARKABLE BLACKMAILTNG CASE.
+Ground Truth: THE REMARKABLE BLACKMAILING CASE.
+
+OCR Text: TEN YEARS' PENAL SERVITUDE,
+Ground Truth: TEN YEARS' PENAL SERVITUDE.
+
+OCR Text: S C[SUBJECT OF ILLUSTRATION.]
+Ground Truth: [SUBJECT OF ILLUSTRATION.]
+
+OCR Text: 3 AT the Central Criminal Court, before the Common t Scrjeant, Sir Forrest Fulton, Q.C., the trial of e Joseph Kopelwitz, twenty-six, and Maria Kopelwity, his wife, Russian Jews, who were indicted for having administered a stupefying drug to Abraham Isaac Friedman, a Polish Jew, military outfitter, carrying on business in Spitalfields, with intent to enable them to rob him, and with having administered the said drug to compel and induce Friedman to execute a valuable security, was continued and concluded.
+Ground Truth: AT the Central Criminal Court, before the Common Serjeant, Sir Forrest Fulton, Q.C., the trial of Joseph Kopelwitz, twenty-six, and Maria Kopelwitz, his wife, Russian Jews, who were indicted for having administered a stupefying drug to Abraham Isaac Friedman, a Polish Jew, military outfitter, carrying on business in Spitalfields, with intent to enable them to rob him, and with having administered the said drug to compel and induce Friedman to execute a valuable security, was continued and concluded.
+
+OCR Text: t There were other indictments charging the prisoners with having stolen a scarf pin and the sum of £2; with having forged a promissory note for the sum l of £150; and for having demanded that sum of money from Friedman.
+Ground Truth: There were other indictments charging the prisoners with having stolen a scarf pin and the sum of £2; with having forged a promissory note for the sum of £150; and for having demanded that sum of money from Friedman.
+
+OCR Text: The case occupied the atten- tion of the court for four days, a great number of witnesses having been called on either side, and ., their testimony having been of a very conflicting .pcharacter.
+Ground Truth: The case occupied the attention of the court for four days, a great number of witnesses having been called on either side, and their testimony having been of a very conflicting character.
+
+OCR Text: The allegations made by the prosecution were that there was a plot between the peisoners to induce the prosecutor to go to a house in the Nether- wood-road, Addison-road, wbzere they drugged him, t partiallystripped him, and placed him inabedroomin )t a compromising situation with the woman, and sub- In sequently, by charging him with immorality and s threatening him, compelled him to sign a paper, l which they afterwards produced in the form of a II promissory note, for £150, which money was de- i. manded of Friedman.
+Ground Truth: The allegations made by the prosecution were that there was a plot between the prisoners to induce the prosecutor to go to a house in the Nether wood-road, Addison-road, where they drugged him, partially stripped him, and placed him in a bedroom in a compromising situation with the woman, and subsequently, by charging him with immorality and threatening him, compelled him to sign a paper, which they afterwards produced in the form of a promissory note, for £150, which money was demanded of Friedman.
+
+OCR Text: For the defence of the male n prisoner witnesses were called who swore that e Friedman duly executed the promissory note in d satisfaction of certain advances of money, which *0 Kopelwitz made to him, and that he had actually 1. been carrying on en immoral intrigue with Mrs. a Kopelwitz.
+Ground Truth: For the defence of the male prisoner witnesses were called who swore that Friedman duly executed the promissory note in satisfaction of certain advances of money, which Kopelwitz made to him, and that he had actually been carrying on an immoral intrigue with Mrs. Kopelwitz.
+
+OCR Text: The Common Serjeant, in summing-up r the case to the j cry, said the charge against the pri- d eoners was one of the gravest known to the law.
+Ground Truth: The Common Serjeant, in summing-up the case to the jury, said the charge against the prisoners was one of the gravest known to the law.
+
+OCR Text: As 3f regarded the woman, it had been laid down by the bMaster of the Rolls, in a case singularly analogous to the present one, that if it was proved that the wife e acted in the matter independently of her husband, g she could not shield herself behind the presumption g of the law that she was acting under the coercion of 9 her husband.
+Ground Truth: As regarded the woman, it had been laid down by the Master of the Rolls, in a case singularly analogous to the present one, that if it was proved that the wife acted in the matter independently of her husband, she could not shield herself behind the presumption of the law that she was acting under the coercion of her husband.
+
+OCR Text: The jury found both prisoners guilty, t but recommended the female prisoner to mercy Gn it the ground that she acted, in great measure, under the influence of her husband.
+Ground Truth: The jury found both prisoners guilty, but recommended the female prisoner to mercy on the ground that she acted, in great measure, under the influence of her husband.
+
+OCR Text: The Common Sur- jeant : I think it right in this case to ask you, 1 t though it does not directly arise by your verdict, s whether you think there is no foundation what- ,ever for the gross charges made against Friedman ?
+Ground Truth: The Common Serjeant: I think it right in this case to ask you, though it does not directly arise by your verdict, whether you think there is no foundation whatever for the gross charges made against Friedman?
+
+OCR Text: n The Foreman: That is our opinion,
+Ground Truth: The Foreman: That is our opinion.
+
+OCR Text: The Common Serjeant, in passing sentence, said the prisoners had been found guilty or a most terrible crime, viz., that ir of beguiling a manl to their house through the instru- e mentality of the male prisoner's own wife, and there o drugging him and afterwards bringing a false accu- n sation against him for the purpose of levying black- e mail
+Ground Truth: The Common Serjeant, in passing sentence, said the prisoners had been found guilty of a most terrible crime, viz., that of beguiling a man to their house through the instrumentality of the male prisoner's own wife, and there drugging him and afterwards bringing a false accusation against him for the purpose of levying black mail.
+
+OCR Text: lie was glad to say that thiq crime was one g which was alien to the English people, and did not d often come before the courts, but it was one so serious as to be punishable with penal servitude for , life.
+Ground Truth: He was glad to say that this, crime was one which was alien to the English people, and did not often come before the courts, but it was one so serious as to be punishable with penal servitude for life.
+
+OCR Text: He did not purpose to inflict so serious a punishment as that in this case, but the sentence of the court was that prisoner be sent into penal servl- tude for ten years.
+Ground Truth: He did not purpose to inflict so serious a punishment as that in this case, but the sentence of the court was that prisoner be sent into penal servitude for ten years.
+
+OCR Text: The female prisoner would be sen- f tenced to eighteen months' imprisonment with hard labour.
+Ground Truth: The female prisoner would be sentenced to eighteen months' imprisonment with hard labour.
+
+OCR Text: His lordship then ordered the witness Kossman to stand forward, and gave him Into the custody of Serjeant James, on a charge of having I committed wilful and corrupt perjury.
+Ground Truth: His lordship then ordered the witness Kossman to stand forward, and gave him into the custody of Serjeant James, on a charge of having committed wilful and corrupt perjury.

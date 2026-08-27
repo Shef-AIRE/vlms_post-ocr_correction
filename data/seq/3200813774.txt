@@ -1,0 +1,113 @@
+OCR Text: CROYDON.
+Ground Truth: CROYDON.
+
+OCR Text: AT the borough police-court, Eliza Gillard, an elderly woman, was. charged with refractory conduct and refusing to perform her allotted task at the Union Workhouse.
+Ground Truth: AT the borough police-court, Eliza Gillard, an elderly woman, was charged with refractory conduct and refusing to perform her allotted task at the Union Workhouse.
+
+OCR Text: Murdoch Mitchell, the labour superintendent, stated that the prisoner was admitted into the work- house as a casual on Sunday night, and on the Following morning she was set to clean some pannikins and spoons.
+Ground Truth: Murdoch Mitchell, the labour superintendent, stated that the prisoner was admitted into the work house as a casual on Sunday night, and on the following morning she was set to clean some pannikins and spoons.
+
+OCR Text: This she refused to do without assistance, saying that she would pre- fer picking onkum.
+Ground Truth: This she refused to do without assistance, saying that she would prefer picking oakum.
+
+OCR Text: He afterwards found that she had been smoking, and she handed him a pipe.
+Ground Truth: He afterwards found that she had been smoking, and she handed him a pipe.
+
+OCR Text: The master ordered the witness to give prisoner a pound of oakum.
+Ground Truth: The master ordered the witness to give prisoner a pound of oakum.
+
+OCR Text: Witness told her that (Tuesday) morning her husband had left the house, and she threw the oakumll into the road after picking about an ounce of it.
+Ground Truth: Witness told her that (Tuesday) morning her husband had left the house, and she threw the oakum into the road after picking about an ounce of it.
+
+OCR Text: The prisoner told the magistrates that she and her husband and child were obliged to leave their furnished lodgings, and being unable to obtain others they had to seek shelter in the casual wards.
+Ground Truth: The prisoner told the magistrates that she and her husband and child were obliged to leave their furnished lodgings, and being unable to obtain others they had to seek shelter in the casual wards.
+
+OCR Text: So far from doing no work she cleaned thirty-two spoons, eleven brass handles, and other things.
+Ground Truth: So far from doing no work she cleaned thirty-two spoons, eleven brass handles, and other things.
+
+OCR Text: She had to dress herself in a cold room with the windows wideopen, and having a bad chest she asked the official to put her into a warm room.
+Ground Truth: She had to dress herself in a cold room with the windows wide open, and having a bad chest she asked the official to put her into a warm room.
+
+OCR Text: The wife of the labour superintendent said, "You tramps will be wanting a fire directly."
+Ground Truth: The wife of the labour superintendent said, "You tramps will be wanting a fire directly."
+
+OCR Text: As to smoking,herdoctor had advised her todo so, but the pipe referred to belonged to another woman.
+Ground Truth: As to smoking, her doctor had advised her to do so, but the pipe referred to belonged to another woman.
+
+OCR Text: Mitchell, reealled, said the prisoner was in a lavatory, but she was put into the oakum room to pick oakuln.
+Ground Truth: Mitchell, recalled, said the prisoner was in a lavatory, but she was put into the oakum room to pick oakum.
+
+OCR Text: There was no fire in the room, nor was it heated.
+Ground Truth: There was no fire in the room, nor was it heated.
+
+OCR Text: The prisoner was in there two hours without a fire.
+Ground Truth: The prisoner was in there two hours without a fire.
+
+OCR Text: Prisoner: I asked to see the doctor, and you said I might have to wait till two o'clock.
+Ground Truth: Prisoner: I asked to see the doctor, and you said I might have to wait till two o'clock.
+
+OCR Text: Alitehell, in answer to the Bench, said the floor of tile oakum room was of concrete.
+Ground Truth: Mitchell, in answer to the Bench, said the floor of the oakum room was of concrete.
+
+OCR Text: Elizabeth Everton, a witness called by the prisoner, said she knew nothing of the latter until she asked her to fetch a policeman, " because they were screwing her hands round the bars of the gate."
+Ground Truth: Elizabeth Everton, a witness called by the prisoner, said she knew nothing of the latter until she asked her to fetch a policeman, "because they were screwing her hands round the bars of the gate."
+
+OCR Text: The prisoner said it was the first time they had been to the workhouse.
+Ground Truth: The prisoner said it was the first time they had been to the workhouse.
+
+OCR Text: Air. Arnold Pye-Smith (chairman) said the Bench felt that the prisoner was insubordinate, for if she went into the vorkhouse she6must do as she was told.
+Ground Truth: Mr. Arnold Pyo-Smith (chairman) said the Bench felt that the prisoner was insubordinate, for if she went into the workhouse she must do as she was told.
+
+OCR Text: They thought, however, that she was not treated with the consideration that might have been shown her, being put in a cold room, and so on, and she would be discharged,
+Ground Truth: They thought, however, that she was not treated with the consideration that might have been shown her, being put in a cold room, and so on, and she would be discharged,
+
+OCR Text: Prisoner: Thank you, sir; they ought to be made to treat poor people better.
+Ground Truth: Prisoner: Thank you, sir; they ought to be made to treat poor people better.
+
+OCR Text: THE TROUBLES OF A MUSICAL CLOWN.
+Ground Truth: THE TROUBLES OF A MUSICAL CLOWN.
+
+OCR Text: THu case of "Caminada v. O'Gust" came before his honour Judge Lumley Smith, Q.C., in theIWestminster County Court, and 'was a claim for 50s., for scoring a waltz for the defendant, a musical clown at the Palace Theatre.
+Ground Truth: THE case of "Camainada v. O'Gust" came before his honour Judge Lumley Smith, Q.C., in the Westminster County Court, and was a claim for 50s., for scoring a waltz for the defendant, a musical clown at the Palace Theatre.
+
+OCR Text: The defendant admitted that the plaintiff took down a waltz -which he 'Whistled and scored it for him, but he said that was done as a friend, and besides that the plaintiff was to participate in the profits.
+Ground Truth: The defendant admitted that the plaintiff took down a waltz which he whistled and scored it for him, but he said that was done as a friend, and besides that the plaintiff was to participate in the profits.
+
+OCR Text: His Honour said he did not think the work was done as a friend, and gave judgment for the amount claimed, with costs.
+Ground Truth: His Honour said he did not think the work was done as a friend, and gave judgment for the amount claimed, with costs.
+
+OCR Text: The defendant asked for time to pay, as he had a large family.
+Ground Truth: The defendant asked for time to pay, as he had a large family.
+
+OCR Text: His Honour: What do you mean by a large family
+Ground Truth: His Honour: What do you mean by a large family?
+
+OCR Text: A A gentleman who acted as interpreter for the defendant replied that he had to keel? his wife, four children, four brothers, and his mother. (Laughe.
+Ground Truth: A gentleman who acted as interpreter for the defendant replied that he had to keep his wife, four children, four brothers, and his mother. (Laughter.)
+
+OCR Text: (M. Oliver, for the plaintiff, said his salary was £25 a week at the Palace.
+Ground Truth: Mr. Oliver, for the plaintiff, said his salary was £25 a week at the Palace.
+
+OCR Text: An order to pay by instalments was made.
+Ground Truth: An order to pay by instalments was made.
+
+OCR Text: A COr;STABLE'S FREAKE.
+Ground Truth: A CONSTABLE'S FREAK.
+
+OCR Text: PoLIC6-COINSTABLE G-OERGE ST. AUBYN, 214 Y, aged twenty-three, was charged recently on a warrant, at the North London Police- court, with having absconded from the police 1 service.
+Ground Truth: POLICE-CONSTABLE GEORGE ST. AUBYN, 214 Y, aged twenty-three, was charged recently on a warrant, at the North London Police-court, with having absconded from the police service.
+
+OCR Text: It was stated that the prisoner should have paraded for duty on November 22, and as he did not do so a warrant was obtained fo: his arrest.
+Ground Truth: It was stated that the prisoner should have paraded for duty on November 22, and as he did not do so a warrant was obtained for his arrest.
+
+OCR Text: Subsequently the prisoner surrendered at Holloway Police-station, and stated that he had gone into the country to see friends, and could not get back.
+Ground Truth: Subsequently the prisoner surrendered at Holloway Police-station, and stated that he had gone into the country to see friends, and could not get back.
+
+OCR Text: He repeated that state- ment to the magistrate.
+Ground Truth: He repeated that statement to the magistrate.
+
+OCR Text: Inspector Davies mentioned that a pony and trap which the prisoner had hired from a tradesman on the morning that be had absconded had not been returned, and the police desired to ascertain whether the prisoner's story concerning them 'was a true one.
+Ground Truth: Inspector Davies mentioned that a pony and trap which the prisoner had hired from a tradesman on the morning that he had absconded had not been returned, and the police desired to ascertain whether the prisoner's story concerning them was a true one.
+
+OCR Text: A reniand Was ordered, on bail.
+Ground Truth: A remand was ordered, on bail.

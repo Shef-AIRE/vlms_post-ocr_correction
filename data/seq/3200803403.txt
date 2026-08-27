@@ -1,0 +1,98 @@
+OCR Text: I ATTEMPTED MURDER AT STAMFORD HILL.
+Ground Truth: ATTEMPTED MURDER AT STAMFORD HILL.
+
+OCR Text: ON Saturday night an extraordinary and apparently deliberate attempt to murder a woman, the wife of a house and estate agent named Tomlinson, of 7, Champion-terrace, Stamford Hill, took place in the public thoroughfare, about one hundred yards dis- tance from her residence.
+Ground Truth: ON Saturday night an extraordinary and apparently deliberate attempt to murder a woman, the wife of a house and estate agent named Tomlinson, of 7, Champion-terrace, Stamford Hill, took place in the public thoroughfare, about one hundred yards’ distance from her residence.
+
+OCR Text: She left home at twenty minutes past nine for the purpose of making a few purchases, and was almost immediated accosted by a man from behind.
+Ground Truth: She left home at twenty minutes past nine for the purpose of making a few purchases, and was almost immediated accosted by a man from behind.
+
+OCR Text: She turned round at once, and found that it was her sister's husband, William Eiworthy.
+Ground Truth: She turned round at once, and found that it was her sister's husband, William Esworthy.
+
+OCR Text: He walked by her side for a second or two, and then suddenly fired a pistol at the back of her head.
+Ground Truth: He walked by her side for a second or two, and then suddenly fired a pistol at the back of her head.
+
+OCR Text: She secreamed. "Murder; I am shot i and fell to the ground insensible.
+Ground Truth: She screamed, "Murder; I am shot!" and fell to the ground insensible.
+
+OCR Text: A'girl living on the spot ran across the road and recognised Mrs. Tomlinson as she lay bleeding on the pavement.
+Ground Truth: A girl living on the spot ran across the road and recognised Mrs. Tomlinson as she lay bleeding on the pavement.
+
+OCR Text: Being Saturday night there were many people about.
+Ground Truth: Being Saturday night there were many people about.
+
+OCR Text: A crowdsoon assembled, and the. injured woman having been car- ried into her own house, Dr. Duncan, of Amherst Park, was sent for.
+Ground Truth: A crowd soon assembled, and the injured woman having been carried into her own house, Dr. Duncan, of Amherst Park, was sent for.
+
+OCR Text: He soon arrived, and found her suffering from a bullet wound behind the right ear, but the bullet had not penetrated the skull, having bounded off after striking the bone.
+Ground Truth: He soon arrived, and found her suffering from a bullet wound behind the right ear, but the bullet had not penetrated the skull, having bounded off after striking the bone.
+
+OCR Text: Search was subsequently made for the bullet, but it could not be found.
+Ground Truth: Search was subsequently made for the bullet, but it could not be found.
+
+OCR Text: After the woman fell Esworthy hurried to the opposite side of the street, and threw something over a fence.
+Ground Truth: After the woman fell Esworthy hurried to the opposite side of the street, and threw something over a fence.
+
+OCR Text: He had been seen to fire the pistol by some passers by, and was seized by several men, who took him towards the Stoke Newington Police-station.
+Ground Truth: He had been seen to fire the pistol by some passers by, and was seized by several men, who took him towards the Stoke Newington Police-station.
+
+OCR Text: They were met, however, by Sergeant Collins, of the N Division, to whom they reported the circumstances of the case, and gave the man into his custody.
+Ground Truth: They were met, however, by Sergeant Collins, of the N Division, to whom they reported the circumstances of the case, and gave the man into his custody.
+
+OCR Text: Collins, accompanied by a great many persons, conveyed Esworthy to the Tottenham Police-station.
+Ground Truth: Collins, accompanied by a great many persons, conveyed Esworthy to the Tottenham Police-station.
+
+OCR Text: There he was charged with "shooting and wounding with intent to murder one Harriet Tomlinson, at the High-road, Stamford Hill. In the parieh of Tottenham."
+Ground Truth: There he was charged with "shooting and wounding with intent to murder one Harriet Tomlinson, at the High-road, Stamford Hill, in the parish of Tottenham."
+
+OCR Text: He gave the name of William Esworthy, ngedtwenty-eight, address 29, South-street, Manchester-square; business, commis- sion agent.
+Ground Truth: He gave the name of William Esworthy, aged twenty-eight, address 29, South-street, Manchester-square; business, commission agent.
+
+OCR Text: On the charge being read over to him he remarked, "She did it herself, and I took the revolver away from her, and threw it over a fence on the opposite side of the road."
+Ground Truth: On the charge being read over to him he remarked, "She did it herself, and I took the revolver away from her, and threw it over a fence on the opposite side of the road."
+
+OCR Text: On being searched a few coins and a cleaning-rod of a pistol was found upon him, but no ammunition.
+Ground Truth: On being searched a few coins and a cleaning-rod of a pistol was found upon him, but no ammunition.
+
+OCR Text: The prisoner having been locked up, Inspector Ashwell and Sergeant Collins proceeded to the spot Indicated by him to search for the revolver; but, after a close inspec- tion for an hour or so, they had not succeeded in finding it,
+Ground Truth: The prisoner having been locked up, Inspector Ashwell and Sergeant Collins proceeded to the spot indicated by him to search for the revolver; but, after a close inspection for an hour or so, they had not succeeded in finding it.
+
+OCR Text: The search then discontinued; it was re- sumed on Sunday morning at daylight by Sergeant Collins, and at a quarter-past five o'clock he dis- covered the revolver in a builder's yard, almost opposite where the crime was committed.
+Ground Truth: The search then discontinued; it was resumed on Sunday morning at daylight by Sergeant Collins, and at a quarter past five o'clock he discovered the revolver in a builder's yard, almost opposite where the crime was committed.
+
+OCR Text: It is a weapon with seven chambers, six of which were loaded when It was picked up.
+Ground Truth: It is a weapon with seven chambers, six of which were loaded when it was picked up.
+
+OCR Text: It was, therefore, fully charged when the attack was made upon Mrs. Tomlinson.
+Ground Truth: It was, therefore, fully charged when the attack was made upon Mrs. Tomlinson.
+
+OCR Text: In investigating the matter on Sunday the police ascertained that the prisoner spent nearly the whole of Saturday afternoon and evening watching the playing of cricket on some vacant land at the rear of Champion-terrace.
+Ground Truth: In investigating the matter on Sunday the police ascertained that the prisoner spent nearly the whole of Saturday afternoon and evening watching the playing of cricket on some vacant land at the rear of Champion-terrace.
+
+OCR Text: After the match was over he was seen to pass Tomlinson's place of business and go to a public-house, where he had some whisky.
+Ground Truth: After the match was over he was seen to pass Tomlinson's place of business and go to a public-house, where he had some whisky.
+
+OCR Text: He then repassed the shop, and evidently waited about in the expectation that Mrs. Tomlinson would come out, as she eventually did, to make Saturday night's purchases.
+Ground Truth: He then repassed the shop, and evidently waited about in the expectation that Mrs. Tomlinson would come out, as she eventually did, to make Saturday night's purchases.
+
+OCR Text: As to the motive for the outrage, it Is stated that there had been serious disagreements between the prisoner and his wife, and that Mrs. Tomlinson had supported her sister's cause, and invited herto come to Stamford Hill and stay there on several occasions, which she had done.
+Ground Truth: As to the motive for the outrage, it is stated that there had been serious disagreements between the prisoner and his wife, and that Mrs. Tomlinson had supported her sister's cause, and invited her to come to Stamford Hill and stay there on several occasions, which she had done.
+
+OCR Text: Mrs. Tom- linson, is the mother of two children, and is much respected by her neighbours, who express great sym- pathy towards her in her suffering, and make anxious inquiries as to her condition,
+Ground Truth: Mrs. Tomlinson, is the mother of two children, and is much respected by her neighbours, who express great sympathy towards her in her suffering, and make anxious inquiries as to her condition.
+
+OCR Text: It is clear that she had a miraculous escape from death.
+Ground Truth: It is clear that she had a miraculous escape from death.
+
+OCR Text: As it is she is badly wounded, and her system has received a very severe shock, but there is scarcely any fear of her ultimate recovery.
+Ground Truth: As it is she is badly wounded, and her system has received a very severe shock, but there is scarcely any fear of her ultimate recovery.
+
+OCR Text: On Sunday evening the symp- toms were highly favourable to that view.
+Ground Truth: On Sunday evening the symptoms were highly favourable to that view.
+
+OCR Text: As may be imagined, the affair, happening in a crowded thoroughfare at a busy time on Saturday night, created intense excitement.
+Ground Truth: Ae may be imagined, the affair, happening in a crowded thoroughfare at a busy time on Saturday night, created intense excitement.
+
+OCR Text: Prisoner will be taken before the magistrates at Edmonton in a day or two.
+Ground Truth: Prisoner will be taken before the magistrates at Edmonton in a day or two.

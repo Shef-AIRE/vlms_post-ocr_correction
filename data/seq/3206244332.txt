@@ -1,0 +1,23 @@
+OCR Text: The following also ran :-Strathern, Discord, Laucastrian, Afarshal scott, Westbourne, Ru- perra, Zut, Blue Blood, Unc'as, Vrsconti, 13ute.
+Ground Truth: The following also ran: --Strathern, Discord, Lancastrian, Marshal Scott, Westbourne, Ruperra, Zut, Blue Blood, Uncas, Visconti, Bute.
+
+OCR Text: Betting at starting.-11 to 4 tgest Discord- S to 1 agst Bayon di~r-7 to 1 agst Cadogan- S to 1 agst Marshal Scott-S to 1 agst Viscontil- 100 to G' agst Ruporra-10 to G aes Blue Blood -100to aget GuR nerebury-0 to1 agI t Strath. ern-s t e 1t 61rf. r),2,,.iI , eru-xo to i agat unaribert.
+Ground Truth: Betting at starting. –11 to 4 agst Discord – 5 to 1 agst Rayond d’Or—7 to 1 agst Cadogan – 8 to 1 agst Marshal Scott— 9 to 1 agst Visconti – 100 to 6 agst Gunnersbury – 20 to 1 agst Strathern – 25 to 1 agst Charibert.
+
+OCR Text: Immediately they began to rise the hill Charibert sliot oalt wvith a clear lead Of Cadogan and Rayon (d'Or, and Lord Falmouth's colt, having the race in hand from11 the point named, won easily by a Ieogthand a halffrom Cadogan, who finished four lengths in advance of Rayon d'Or, who was third.
+Ground Truth: Immediately they began to rise the hill Charibert shot out with a clear lead of Cadogan and Rayon d’Or, and Lord Falmouth’s colt, having the race in hand from the point named, won easily by a length and a half from Cadogan, who finished four lengths in advance of Rayon d’Or, who was third.
+
+OCR Text: 'Iise, lmin. lsec.
+Ground Truth: Time, 1min. 51sec.
+
+OCR Text: Mlay Stakes. - Colorado, 3 yir, 7set sb (1); Lyra c, 3 yrs, est 91b (2); Gourmet, 3 yrs, 7st (3).
+Ground Truth: May Stakes. –Colorado, 3 yrs, 7st 9lb (1); Lyrac, 3 yrs, 6st 9lb (2); Gourmet, 3 yrs, 7st (3).
+
+OCR Text: Prince of Wales, Stakes, for Four-yr-olds.- Inal, 8st 10lb (1); Lord Clive. Sst 101b (2); Cle- mentine, 8st 5ib (3).
+Ground Truth: Prince of Wales’ Stakes, for Four-yr-olds. –Inval, 8st 101b (1); Lord Clive. 8st 101b (2); Clementine, 8st 51b (3).
+
+OCR Text: First Foal Stakes, for Thbre-yr-olds.
+Ground Truth: First Foal Stakes, for Three-yr-olds.
+
+OCR Text: - Hing Duncan. Set 121b (1) - Ringleader. 8st 121b (2).
+Ground Truth: –King Duncan. 8st 121b (1); Ringleader, 8st 121b (2).

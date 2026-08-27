@@ -1,0 +1,56 @@
+OCR Text: IRELAND.
+Ground Truth: IRELAND.
+
+OCR Text: The possession of the late James Carey's seat it the Dublin Town council was decided on Moonday
+Ground Truth: The possession of the late James Carey's seat in the Dublin Town council was decided on Monday.
+
+OCR Text: The candidates were the same as on the electior which has since been declared invalid, Dr. Wade (Liberal) and M1r. Shanks (Conservative), and at before Dr. Wade was returned.
+Ground Truth: The candidates were the same as on the election which has since been declared invalid, Dr. Wade (Liberal) and Mr. Shanks (Conservative), and as before Dr. Wade was returned.
+
+OCR Text: The numbers were -Wade, 124; Shanks, 110.
+Ground Truth: The numbers were –Wade, 124; Shanks, 110.
+
+OCR Text: In tile Nisi Prius Court, an application was made oin Tuesday in the case of s "Conuolly v. Carroll," on behalf of the defendant, for extension of time to de- fend.
+Ground Truth: In the Nisi Prius Court, an application was made on Tuesday in the case of "Connolly v. Carroll," on behalf of the defendant, for extension of time to defend.
+
+OCR Text: The action was brought to recover 2,0001. for alleged slander arising out of the case under investi- gation at Bruff, county Limericli, in which the plain- tiff in the present proceedings, Dr. Connolly, is charged, with his brother, with having conspired to murder Carroll, the defendant.
+Ground Truth: The action was brought to recover 2,000l. for alleged slander arising out of the case under investigation at Bruff, county Limerick, in which the plaintiff the present proceedings, Dr. Connolly, is charged, with his brother, with having conspired to murder Carroll, the defendant.
+
+OCR Text: The slander com- plained of is the statement of Carroll that the plain- tiff had conspired to murder him.
+Ground Truth: The slander complained of is the statement of Carroll that the plaintiff had conspired to murder him.
+
+OCR Text: The application was granted.
+Ground Truth: The application was granted.
+
+OCR Text: At the Kilmeague, county IKildare, Petty Ses- sions, on Tuesday, the Rev. S. G. Cotton, manager of the Coragh orphanage, was summoned for com- mitting all aggravated assault upon five orphans by chaining and logging their legs.
+Ground Truth: At the Kilmeague, county Kildare, Petty Sessions, on Tuesday, the Rev. S. G. Cotton, manager of the Coragh orphanage, was summoned for committing an aggravated assault upon five orphans by chaining and logging their legs.
+
+OCR Text: Defendant took a prslimiiiary objection to the presence of one of the magistrates on the bench, Mr. Bury, alleging that he had an animus against him.
+Ground Truth: Defendant took a preliminary objection to the presence of one of the magistrates on the bench, Mr. Bury, alleging that he had an animus against him.
+
+OCR Text: MIr. Bury declined to withdraw.
+Ground Truth: Mr. Bury declined to withdraw.
+
+OCR Text: The case was eventually adjourned for a fortnight.
+Ground Truth: The case was eventually adjourned for a fortnight.
+
+OCR Text: On Thursday the Rev. Thomas Ferris, Castle Lyons, county Cork, was evicted from his residence, a small farm which he held on the estate of Mr. John WalkerPerrett.
+Ground Truth: On Thursday the Rev. Thomas Ferris, Castle Lyons, county Cork, was evicted from his residence, a small farm which he held on the estate of Mr. John Walker Perrett.
+
+OCR Text: A large force of military and constabulary accompanied the sub-sheriff.
+Ground Truth: A large force of military and constabulary accompanied the sub-sheriff.
+
+OCR Text: The Rev. T. Ferris was the first priest who espoused the Land League proghamme in the East Riding of CorIr.
+Ground Truth: The Rev. T. Ferris was the first priest who espoused the Land League programme in the East Riding of Cork.
+
+OCR Text: On Friday night three farmers, named Casey, Sumlmer, and Nester, were lodged in Limerick gaol, charged with having fired at and wounded a man naimed Culhane, who took a farm from which a farmer namted Naughton had been evicted for non- payment of rent.
+Ground Truth: On Friday night three farmers, named Casey, Summer, and Nester, were lodged in Limerick gaol, charged with having fired at and wounded a man named Culhane, who took a farm from which a farmer named Naughton been evicted for non-payment of rent.
+
+OCR Text: Three shots vere fired at Culhane, whose son, a police-constable, was with him at the time.
+Ground Truth: Three shots were fired at Culhane, whose son, a police-constable, was with him at the time.
+
+OCR Text: Aui important discovery of concealed arms was made on Taesday in a bakery establislunent at 121, North Main-street, Cork, and three respectable- looking young men, named Michael Sweeney, John Fitzgerald, and Joseph Stack, were brought before Mr. MI'Dermott, R.M., at the police-office, and charged with having possession of the arms.
+Ground Truth: An important discovery of concealed arms was made on Tuesday in a bakery establishment at 121, North Main-street, Cork, and three respectable looking young men, named Michael Sweeney, John Fitzgerald, and Joseph Stack, were brought before Mr. M'Dermott, R.M., at the police-office, and charged with having possession of the arms.
+
+OCR Text: The prisoners were remanded for eight days on bail,
+Ground Truth: The prisoners were remanded for eight days on bail.

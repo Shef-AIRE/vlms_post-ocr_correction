@@ -1,0 +1,68 @@
+OCR Text: THE SUPPOSED MURDER AT CAMBERWELL.
+Ground Truth: THE SUPPOSED MURDER AT CAMBERWELL.
+
+OCR Text: CONctU5SION OF TRa INQUlRY.
+Ground Truth: CONCLUSION OF THE INQUIRY.
+
+OCR Text: On Wednesday evening, Mr. Carter resumed the adjourned inquest on the body of Hanalh Bead, aged welve yeas, who was found drowned in the Grand Surrey canal, as reported in another column.
+Ground Truth: On Wednesday evening, Mr. Carter resumed the adjourned inquest on the body of Hannah Read, aged twelve years, who was found drowned in the Grand Surrey canal, as reported in another column.
+
+OCR Text: The sister, Sarah ead, was now present, and said he saw her ster last alive on Thursday morning, at nine o'clock, at Mrs. Horaley'e, in Add ngton squire, where she had been employed for nine months.
+Ground Truth: The sister, Sarah Read, was now present, and said she saw her sister last alive on Thursday morning, at nine o'clock, at Mrs. Horsley's, in Addington square, where she had been employed for nine months.
+
+OCR Text: Mrs. Horsley said that she had paid the deceased ls. for milk on the previous day.
+Ground Truth: Mrs. Horsley said that she had paid the deceased 1s. for milk on the previous day.
+
+OCR Text: Witness asked the de- ceased what she had done with it, and she said either, I I gave it to mother," or "' I am going to give it to mother."
+Ground Truth: Witness asked the deceased what she had done with it, and she said either, "I gave it to mother," or "I am going to give it to mother."
+
+OCR Text: By the coroner: If her mother had said that she had not received the io. she would be- lieve her.
+Ground Truth: By the coroner: If her mother had said that she had not received the ls. she would believe her.
+
+OCR Text: She said the reason she was so late home on Wednesday night was, that she stood up, as it rained to bard.
+Ground Truth: She said the reason she was so late home on Wednesday night was, that she stood up, as it rained too hard.
+
+OCR Text: Witness expected her to come home on Thursday night, but as she did not abe went to look for her, but could mot find her, and she returned home and saw nothing more of her till she heardthat she was dead.
+Ground Truth: Witness expected her to come home on Thursday night, but as she did not she went to lock for her, but could not find her, and she returned home and saw nothing more of her till she heard that she was dead.
+
+OCR Text: Some dissatisfaction had been ex- pressed by her mistrees that she cauelate of a morn- rg.
+Ground Truth: Some dissatisfaction had been expressed by her mistress that she came late of a morning.
+
+OCR Text: Did not know thalt she had formed any intimacy with any lad or boy.
+Ground Truth: Did not know that she had formed any intimacy with any lad or boy.
+
+OCR Text: Eer mother's house was near the canaL
+Ground Truth: Her mother's house was near the canal.
+
+OCR Text: She could not account for the fact of her being found in the water.
+Ground Truth: She could not account for the fact of her being found in the water.
+
+OCR Text: No difference was made in the treatment of the deceased from the other children.
+Ground Truth: No difference was made in the treatment of the deceased from the other children.
+
+OCR Text: She believed that some one must have got the shilling awIy or else that she lost it, as she wee too good a girl.
+Ground Truth: She believed that someone must have got the shilling away or else that she lost it, as she was too good a girl.
+
+OCR Text: Her firm opinion was that she did not throw herself into the water, as she was too timid, and would not go upstairs of a night without some one with her.
+Ground Truth: Her firm opinion was that she did not throw herself into the water, as she was too timid, and would not go upstairs of a night without someone with her.
+
+OCR Text: Mr. Horsley wished to know whether the can that had contained the milk had been found, as that might lead to the exact spot where she got into the water.
+Ground Truth: Mr. Horsley wished to know whether the can that had contained the milk had been found, as that might lead to the exact spot where she got into the water.
+
+OCR Text: The father of the deceased said that the child had been put into the water after after she was dead,
+Ground Truth: The father of the deceased said that the child had been put into the water after she was dead.
+
+OCR Text: He then mentioned the mames of several persons he sus- pected, but of course it would be impradent to men- tion them at present.
+Ground Truth: He then mentioned the names of several persons he suspected, but of course it would be imprudent to mention them at present.
+
+OCR Text: He also said that his windows bad been all broken by parties who htd threatened them,
+Ground Truth: He also said that his windows bad been all broken by parties who had threatened them.
+
+OCR Text: The mother of the child was recalled, and said the can was a tWO gallon can, with a brass cow impressed upon it, but is had not been found.
+Ground Truth: The mother of the child was recalled, and said the can was a two-gallon can, with a brass cow impressed upon it, but it had not been found.
+
+OCR Text: The jury, after consulting together, returned an open verdict of found drowned, there being no evidence to prove how aha came into the water.
+Ground Truth: The jury, after consulting together, returned an open verdict of found drowned, there being no evidence to prove how she came into the water.
+
+OCR Text: The proceedings then terminated.
+Ground Truth: The proceedings then terminated.

@@ -1,0 +1,65 @@
+OCR Text: I SHOCKflNG MURDER BY A LUNATIC. I
+Ground Truth: SHOCKING MURDER BY A LUNATIC.
+
+OCR Text: On Wednesday afternoflfl an inquest was held at the Duke of Cumberland public house, Eenley-hill, near Eastbourne, Sussex, before Mr. R. Blagdeo, coroner for the 'western divisuon of that county, on3 the body of Martha A-n Greenway, who had been murdered by her husband under the following fright. ful crcumstances.
+Ground Truth: On Wednesday afternoon, an inquest was held at the Duke of Cumberland public-house, Henley-hill, near Eastbourne, Sussex, before Mr. R. Blagden, coroner for the western division of that county, on the body of Martha Ann Greenway, who had been murdered by her husband under the following frightful circumstances.
+
+OCR Text: It appears that the murderer, who was in good cirnumStaces. 5cd occupied a house in the village, returned from Bethlehem hospital on Friday week where he had beeu confined for ten weeks, and was supposed to have perfectly recovered from his attack of insanity.
+Ground Truth: It appears that the murderer, who was in good circumstances, and occupied a house in the village, returned from Bethlehem hospital on Friday week, where he had been confined for ten weeks, and was supposed to have perfectly recovered from his attack of insanity.
+
+OCR Text: The murderer and his late wife were both about fifty years of age, and are said to have lived in perfect hsrmony together-
+Ground Truth: The murderer and his late wife were both about fifty years of age, and are said to have lived in perfect harmony together.
+
+OCR Text: Theyhad two children aged respectively two years and a half, and eight months, and the husband seemed to have a great affecton for the elder child, but did not pay the other any attention.
+Ground Truth: They had two children aged respectively two years and a half, and eight months, and the husband seemed to have a great affection for the elder child, but did not pay the other say attention.
+
+OCR Text: On Saturday Morning the ac. cused appeared quite well, but in the afternooa his conduct was observed to be rather' strange, and on Sunday morning he came down to breakfast with only his ebirt on, bcinging his favourite child with him.
+Ground Truth: On Saturday morning the accused appeared quite well, bat in the afternoon his conduct was observed to be rather strange, and on Sunday morning he came down to breakfast with only his shirt on, bringing his favourite child with him.
+
+OCR Text: In the middle of the day the servant girl went to church, leaving all the family at home and when she returned, about five o'clock, she cond hear and sce nothing stirring in the home.
+Ground Truth: In the middle of the day the servant girl went to church, leaving all the family at home, and when she returned, about five o'clock, she could hear and see nothing stirring in the house.
+
+OCR Text: She therefore went to her mother's, which was close by, and during the evening she proceeded to Greenway's honee three times, but all wae silent there, ed the girl concluded that her master and mistress had gone to FarrshmUst to chapel.
+Ground Truth: She therefore went to her mother's, which was close by, and during the evening she proceeded to Greenway's hence three times, but all was silent there, and the girl concluded that her master and mistress had gone to Farnhurst to chapel.
+
+OCR Text: About nine o'clock a neighbour heard a child cry, and a noise in a hedge adjoining Greenway's premises,
+Ground Truth: About nine o'clock a neighbour heard a child cry, and a noise in a hedge adjoining Greenway's premises.
+
+OCR Text: A constable was then sent for, several persons assem. bled on the spot in a short time, and a search was in. stituted, which ended in the discovery of the young. est child in the ditch.
+Ground Truth: A constable was then sent for, several persons assembled on the spot in a short time, and a search was instituted, which ended in the discovery of the youngest child in the ditch.
+
+OCR Text: The elder child was subse. quently found in bed, while at the front door of the house a shockiag scene presented Itself.
+Ground Truth: The elder child was absequently found in bed, while at the front door of the house a shocking scene presented itself.
+
+OCR Text: Lying there wes the mutilated body of Mrs. Greenway, who ap. peared to have been dead for several hours.
+Ground Truth: Lying there was the mutilated body of Mrs. Greenway, who appeared to have been dead for several hours.
+
+OCR Text: Her throat was cut from ear to ear.
+Ground Truth: Her throat was cut from ear to ear.
+
+OCR Text: She Was also cut on the right cheek, and through her dress to the breast bone.
+Ground Truth: She was also cut on the right cheek, and through her dress to the breast bone.
+
+OCR Text: There was another cut from the wound in the throat down to opposite the fourth rib, where the chest was penetrated, and another cut across the cheek to the jaw. bone.
+Ground Truth: There was another cut from the wound in the throat down to opposite the fourth rib, where the chest was penetrated, and another cut across the chook to the jaw bone.
+
+OCR Text: In the kitchen, immediately in front of the fire-place, was a pool of blood, and near it lsy two masses of the deceased's heir, coagulated with blood, and evidently torn violently from her head.
+Ground Truth: In the kitchen, immediately in front of the fire place, was a pool of blood, and near it lay two massed of the deceased's hair, coagulated with blood, and evidently torn violently from her head.
+
+OCR Text: The murder, no doubt, took place In the kitchen* but iere was no derangement of the fami. ture of the apartment, so that it did not appear that any great struggle hsd taken place.
+Ground Truth: The murder, no doubt, took place in the kitchen; but there was no derangement of the furniture of the apartment, so that it did not appear that any great straggle had taken place.
+
+OCR Text: The husband was meanwhile nowhere to be found, and a search in all directions proved fruitless.
+Ground Truth: The husband was meanwhile nowhere to be found, and a search in all directions proved fruitless.
+
+OCR Text: On Tuesday morn. ing, however, he went to a person at Elstead, and asked for money; but, as information of the murder had reached that place, he was immediately given Into custody.
+Ground Truth: On Tuesday morning, however, he went to a person at Elstead, and asked for money; but, as information of the murder had reached that place, he was immediately given into custody.
+
+OCR Text: Upon examination. it was found that the shirt he wore was bloody on the sleeves, and he was taken before Arnold Davis, Esq., one of the county magistrates at Midhurst, and remanded to the &djcurned inquest; and he now lies in Petworth gaol.
+Ground Truth: Upon examination it was found that the shirt he wore was bloody on the sleeves, and he was taken before Arnold Davis, Esq., one of the county magistrates at Midhurst, and remanded to the adjourned inquest; and he now lies in Petworth gaol.
+
+OCR Text: It iS presumed that the murder was omslmitted with a razor, which, covered with blood, together with a butcher's steel, was found near the pool of blood in the kitchon.
+Ground Truth: It is presumed that the murder was committed with a razor, which, covered with blood, together with n butcher's steel, was found near the pool of blood in the kitchen.
+
+OCR Text: Only two witnesses were examined on Wednesday, and the inquest was adjourned.
+Ground Truth: Only two witnesses were examined on Wednesday, and the inquest was adjourned.

@@ -1,0 +1,80 @@
+OCR Text: ALLEGED OUTRAGO IN T~iE WEST END.
+Ground Truth: ALLEGED OUTRAGE IN THE WEST END.
+
+OCR Text: Ox Saturday, at the Bow-street PAlco-courb, Thomas Jones, Dakee.street, Bloomsbury, a clerk, was sum- moned for an alleged assault on a women named Annie Ellis.
+Ground Truth: On Saturday, at the Bow-street Police-court, Thomas Jones, Duke-street, Bloomsbury, a clerk, was summoned for an alleged assault on a woman named Annie Ellis.
+
+OCR Text: The complainant made a sensational statement to Mr. Bridge on the previous Saturday, in which she alleged that at an early hour that morn- log she had been induced to accompany a man into a side street in Oxford street, where, she averred, he knocked her down and threatbned her if she called out.
+Ground Truth: The complainant made a sensational statement to Mr. Bridge on the previous Saturday, in which she alleged that at an early hour that morning she had been induced to accompany a man into a side street in Oxford street, where, she averred, he knocked her down and threatened her if she called out.
+
+OCR Text: At the same time she alleged that he had an opa: clasp-knife in his hand, aad covered her face with a white handkerchief.
+Ground Truth: At the same time she alleged that he had an open clasp-knife in his hand, and covered her face with a white handkerchief.
+
+OCR Text: She fartheralleged that the assault was seen by two witnesses, wha caught the man, but he escaped, and ran into a house.
+Ground Truth: She further alleged that the assault was seen by two witnesses, who caught the man, but he escaped, and ran into a house.
+
+OCR Text: She proceeded to the Tottenham-court-road Police-station with the two witnesses and gave information.
+Ground Truth: She proceeded to the Tottenham-court-road Police-station with the two witnesses and gave information.
+
+OCR Text: Mr. Bridge directed inquiries to b-a made, with the result that the present summons was issued.
+Ground Truth: Mr. Bridge directed inquiries to be made, with the result that the present summons was issued.
+
+OCR Text: Mr. P. T Blackwell appeared for the defence.
+Ground Truth: Mr. P. T Blackwell appeared for the defence.
+
+OCR Text: Referting to the detailed statement made by the woman on the last occasion, be said that he understood the woman had not been seen since,
+Ground Truth: Referring to the detailed statement made by the woman on the last occasion, he said that he understood the woman had not been seen since.
+
+OCR Text: She obhained some money from the magistrate.
+Ground Truth: She obtained some money from the magistrate.
+
+OCR Text: Mr. Vaughan asked if the police had made inquiries.
+Ground Truth: Mr. Vaughan asked if the police had made inquiries.
+
+OCR Text: Inspector Mulford said that he had telegraphed to the addresi the woman gave, at Woolwich, and a reply was received that she was not known, and head not been seen there.
+Ground Truth: Inspector Mulford said that he had telegraphed to the address the woman gave, at Woolwich, and a reply was received that she was not known, and had not been seen there.
+
+OCR Text: Mr. Bridge had given her li. 6 i. to pay her fare to Woolwich, and adviaed her to go to the workhouse,
+Ground Truth: Mr. Bridge had given her 1s. 6d. to pay her fare to Woolwich, and advised her to go to the work house.
+
+OCR Text: Witness afterwards saw her coming out of a public-house in Drery-lane.
+Ground Truth: Witness afterwards saw her coming out of a public-house in Deury-lane.
+
+OCR Text: Nothing was known of her in the nelghbourhood.
+Ground Truth: Nothing was known of her in the neighbourhood.
+
+OCR Text: Mr Blackwell said the fullest possible publicity was given to her statement, anid he wa i prepared to give the clearest possible account of the defendants movements on the evening in question.
+Ground Truth: Mr. Blackwell said the fullest possible publicity was given to her statement, and he was prepared to give the clearest possible account of the defendant's movements on the evening in question.
+
+OCR Text: Inspector Malford said the two men who had given their names did not apptar now as witnesses.
+Ground Truth: Inspector Mulford said the two men who had given their names did not appear now as witnesses.
+
+OCR Text: One had given a false address, and the other was described by his landlady as a person whose word could nob he relied upon.
+Ground Truth: One had given a false address, and the other was described by his landlady as a person whore word could not be relied upon.
+
+OCR Text: Mr. Blackwell was instructed that one of the witnesses called at Mr. Joneu's house that morning, but he refubed to see him.
+Ground Truth: Mr. Blackwell was instructed that one of the witnesses called at Mr. Jones's house that morning, but he refused to see him.
+
+OCR Text: Mr. Jones was a respectable young man, living-with his mother at the udiress -given.
+Ground Truth: Mr. Jones was a respectable young man, living with his mother at the address given.
+
+OCR Text: He attributed the annoyance and trouble caused him to the fact of having a fortnight ago charged a woman with stealing a sovereign purnce, which he wore in his waistcoat pocket.
+Ground Truth: He attributed the annoyance and trouble caused him to the fact of having a fortnight ago charged a woman with stealing a sovereign purse, which he wore in his waistcoat pocket.
+
+OCR Text: He afterwards found it in his overcoat pocket, mines the chain, and at once informed the policeofihefact, and theawomanwaidlecharged.
+Ground Truth: He afterwards found it in his overcoat pocket, minus the chain, and at once informed the police of the fact, and the woman was discharged.
+
+OCR Text: He thought this charge of alleged assault had been "gob up" in consequence.
+Ground Truth: He thought this charge of alleged assault had been "got up" in consequence.
+
+OCR Text: The complainant and her witnevses were ca!.le.I, but did not answer.
+Ground Truth: The complainant and her witnesses were called, but did not answer.
+
+OCR Text: Mr. TVaughan said the charge might have or iginated from an egregrious mfitake', or might have been a trumped- up one, buat the statement made by the woman bore on it the impress of truth and necessitated inqniries.
+Ground Truth: Mr. Vaughan said the charge might have originated from an egregious mistake, or might have been a trumped-up one, but the statement made by the woman bore on it the impress of truth and necessitated inquiries.
+
+OCR Text: Inasmuch as neither the complainant nor her wi::- !eeses were present it seemed that the only conclu- sion that could be arrived at was that it was a trumped-up case.
+Ground Truth: Inasmuch as neither the complainant nor her witnesses were present it seemed that the only conclusion that could be arrived at was that it was a trumped-up case.
+
+OCR Text: It was a charge that must have canued the drfendant a considerable ammunt of pain, but lie (Mr. Vaughan) could not do more under the circumstances than to say that the summons wound be dismissed, and he expressed his opinion that the charge was entirely unfounded.
+Ground Truth: It was a charge that must have caused the defendant a considerable amount of pain, but he (Mr. Vaughan) could not do more under the circumstances than to say that the summons would be dismissed, and he expressed his opinion that the charge was entirely unfounded.

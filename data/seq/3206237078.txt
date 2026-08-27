@@ -1,0 +1,44 @@
+OCR Text: TRIALS AT THE OLD BAIY.
+Ground Truth: TRIALS AT THE OLD BAILEY.
+
+OCR Text: The June session of the Central Criminal court was opened on Monday.
+Ground Truth: The June session of the Central Criminal court was opened on Monday.
+
+OCR Text: There were 97 prisoners for trial,
+Ground Truth: There were 97 prisoners for trial.
+
+OCR Text: SINGULAw PROCEEDINGS IN A CHARGE O PJEuIRY.
+Ground Truth: SINGULAR PROCEEDINGS IN A CHARGE OF PERJURY.
+
+OCR Text: -In the case of Thomas Joseph George (on bail), charged with perjury, Mr. Metcalfe, *ho prosecuted, stated that 'the charge arose owt of Chancarypoeeed- lags, and that the Vica.Chancellor had expressed 'his opinionastrongly that the prosecution ought not to proceed.-The Rlecorder said tbh course was rather 'novel, but he would allow the prisoner to go on his owvn recognisates ninti! Thursday, and he iould in the seanttime consult with the learned judges.'
+Ground Truth: —In the case of Thomas Joseph George (on bail), charged with perjury, Mr. Metcalfe, who prosecuted, stated that the charge arose out of Chancery proceedings, and that the Vice-Chancellor had expressed his opinion strongly that the prosecution ought not to proceed. —The Recorder said the course was rather novel, but he would allow the prisoner to go on his own recognisances until Thursday, and he would in the meantime consult with the learned judges.
+
+OCR Text: :boEGERY.-&S'erh 'S'svo'so, 53, domestic servant, was charged with uttering a forged cheque for 30.-
+Ground Truth: FORGERY. —Sarah Simpson, 53, domestic servant, was charged with uttering a forged cheque for 30l.—
+
+OCR Text: On the 3rd of March' prisoner,. who was cook in the service of Mrs. Stewart,'of Pcmbury-crescent, 'was sent'with a wrizttte'ordef for a cheque-book to *he Bayswater branch of the London and 'Cbinty bank.
+Ground Truth: On the 3rd of March prisoner, who was cook in the service of Mrs. Stewart, of Pembury-crescent, was sent with a written order for a cheque-book to the Bayswater branch of the London and County bank.
+
+OCR Text: A ,book containink 24 blank cheques'aud 'cunbrfoils was supplied.
+Ground Truth: A book containing 24 blank cheques and counterfoils was supplied.
+
+OCR Text: On the 9th Mrs. Stewart sent her with a cheq'ue for 20?.; and she duly rtuarried with the 'money.
+Ground Truth: On the 9th Mrs. Stewart sent her with a cheque for 20l., and she duly returned with the money.
+
+OCR Text: On the 15th she presenteda'oheque for SO,; aid rreoived the money.
+Ground Truth: On the 15th she presented a cheque for 30l., and received the money.
+
+OCR Text: The choqub-book was examined on the 30h,' ihen it iwasfound that four cheques 'and counterfoils . had beea' absbracted.
+Ground Truth: The cheque-book was examined on the 30th, when it was found that four cheques and counterfoils had been abstracted.
+
+OCR Text: Mrs. Stewart stated that she had 'kept the cheque-book in a safe place except when she sfot it by the prisoner to the bank; ancr it was proved'by a clerk from the London and County bank that the prisoner was the person who' presented the Forged chequei-For the defence. it wai urged that the pri- soner had entered the service of Mrs. Stewart with five years good chargoter, and that she previously ived upwards of 10 years in one place.
+Ground Truth: Mrs. Stewart stated that she had kept the cheque-book in a safe place except when she sent it by the prisoner to the bank; and it was proved by a clerk from the London and County bank that the prisoner was the person who presented the forged cheque. —For the defence, it was urged that the prisoner had entered the service of Mrs. Stewart with five years' good character, and that she previously lived upwards of 10 years in one place.
+
+OCR Text: She was a person who was not able to 'write well, ao that. the forgery must have been committed by some one else.
+Ground Truth: She was a person who was not able to write well, so that, the forgery must have been committed by someone else.
+
+OCR Text: onud ber " Guilty", of uttering, the it to be forged, but recommended ber to mercy on account of' her previous good ebarac- ter.-The 'Recorder thought it desirable to'respite jttdgment until next sessions, in' order that 'inquiry might be made as to the 'person who aommitted the forgery.
+Ground Truth: —The jury found her “Guilty” of uttering the cheque knowing it to be forged, but recommended her to mercy on account of her previous good character. —The Recorder thought it desirable to respite judgment until next sessions, in order that inquiry might be made as to the person who committed the forgery.
+
+OCR Text: EMazz susNr.-Alfld WiFialms, lawyesr' clerk, in the employ of Mr. Smith, solifitor in the Tem- ple, pleaded "Guilty" to embezzling 121. 13s. 6d., and stealing 8 wt.' of papers, the property of his em- ployer.-Mr. Besley, fotthe prosecutiot, said that the prisoner bad been 15 yens in the seryice 'of Mi. Smith, and had latterly given way to intemperance, but punishment would not have been pressed for had it not been tpaat the law papers; which belonged to 'a notable 'will cseh in Chancery had been sold for a penny a pound.-Mr. Turner, addressing the' Court in mitigation of punishment, urged that the prisoner had been driven into intemperance and crime through domestic affliction.-The Recorder sentenced him to 'nine months' imprisonment.
+Ground Truth: EMBEZZLEMENT. —Alfred Williams, lawyer's clerk, in the employ of Mr. Smith, solicitor in the Temple, pleaded "Guilty" to embezzling 12l. 13s. 6d., and stealing 8 cwt. of papers, the property of his employer. —Mr. Besley, for the prosecution, said that the prisoner had been 15 years in the service of Mr. Smith, and had latterly given way to intemperance, but punishment would not have been pressed for had it not been that the law papers which belonged to a notable will case in Chancery had been sold for a penny a pound. —Mr. Turner, addressing the Court in mitigation of punishment, urged that the prisoner had been driven into intemperance and crime through domestic affliction. —The Recorder sentenced him to nine months' imprisonment.

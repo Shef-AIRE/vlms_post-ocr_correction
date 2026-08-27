@@ -1,0 +1,89 @@
+OCR Text: ITHE MURDER IN SOMERSETSHIRE.
+Ground Truth: THE MURDER IN SOMERSETSHIRE.
+
+OCR Text: At a place called Lype, in the parish of Catcombe, on the old Minehead and Danster-road, at the northern ex- tremity of the Brendon-hill, and about six miles from Denster, lived a widow named Coles, with her son and daughter, the former about eighteen years of age, and the latter about eleven.
+Ground Truth: At a place called Lype, in the parish of Cutcombe, on the old Minehead and Dunster-road, at the northern extremity of the Brendon-hill, and about six miles from Dunster, lived a widow named Coles, with her son and daughter, the former about eighteen years of age, and the latter about eleven.
+
+OCR Text: It is a very lonely place, and the house in which they lived having been divided into two, the other was occupied by an aged woman named Nor- man.
+Ground Truth: It is a very lonely place, and the house in which they lived having been divided into two, the other was occupied by an aged woman named Norman.
+
+OCR Text: Near these houses was a barn, which had not been used for many years, and consequently it is in a very dilapidated state, the wooden floor being gone, and only some stone sleepers remaining.
+Ground Truth: Near these houses was a barn, which had not been used for many years, and consequently it is in a very dilapidated state, the wooden floor being gone, and only some stone sleepers remaining.
+
+OCR Text: The mother of the poor girl, Coles, the victim of this diabolical crime, left her house on the morning of Tnes- day, the 8th inst., to go to work, and shortly after the son also went to his work at a neighbouring quarry, the deceased being left at home to attend to the affairs of the house.
+Ground Truth: The mother of the poor girl, Coles, the victim of this diabolical crime, left her house on the morning of Tuesday, the 8th inst., to go to work, and shortly after the son also went to his work at a neighbouring quarry, the deceased being left at home to attend to the affairs of the house.
+
+OCR Text: About ten o'clock the old woman, Mary Norman, who is eighty-five years ot age, in going along the passage through the houses, observed that the door of Cole's house was open, and saw the deceased sitting en one side of the fire-place, while a man named Bailey, who lived at a short distance, was seated on the other.
+Ground Truth: About ten o'clock the old woman, Mary Norman, who is eighty-five years of age, in going along the passage through the houses, observed that the door of Cole's house was open, and saw the deceased sitting on one side of the fire-place, while a man named Bailey, who lived at a short distance, was seated on the other.
+
+OCR Text: The deceased was not seen alive after that time.
+Ground Truth: The deceased was not seen alive after that time.
+
+OCR Text: About eleven o'clock a man named Sedgbeer, who was working opposite the entrance to Lype, saw Bailey ad- vancing towards the place at which he (Sedgbeer) was in a hurried manner; and, on arriving at the spot where he stood, he observed that Bailey was labouring under excitement.
+Ground Truth: About eleven o'clock a man named Sedgbeer, who was working opposite the entrance to Lype, saw Bailey advancing towards the place at which he (Sedgbeer) was in a hurried manner; and, on arriving at the spot where he stood, he observed that Bailey was labouring under excitement.
+
+OCR Text: Bailey then proceeded to the quarry at which deceased's brother was working, and remained there, occasionaUy working for a short time, during which he partook of the dinner.
+Ground Truth: Bailey then proceeded to the quarry at which deceased's brother was working, and remained there, occasionally working for a short time, during which he partook of the dinner.
+
+OCR Text: At four o'clock Bailey left the quarry, and soon afterwards he called at the cottages at Lype, and inquired if "the old woman (Coles) or any of them" had returned.
+Ground Truth: At four o'clock Bailey left the quarry, and soon afterwards he called at the cottages at Lype, and inquired if "the old woman (Coles) or any of them" had returned.
+
+OCR Text: His mother replied in the nega, tive, and he then went away.
+Ground Truth: His mother replied in the negative, and he then went away.
+
+OCR Text: About seven o'clock the boy Coles returned, and, missing his sister, he went to meet his mother, who returned with him, and made in- quiries for the poor girl at some neighboaring cottages.
+Ground Truth: About seven o'clock the boy Coles returned, and, missing his sister, he went to meet his mother, who returned with him, and made inquiries for the poor girl at some neighbouring cottages.
+
+OCR Text: Failing to obtain any information respecting her, they searched their own premises, and ultimately the barn, the door of which they found closed.
+Ground Truth: Failing to obtain any information respecting her, they searched their own premises, and ultimately the barn, the door of which they found closed.
+
+OCR Text: The mother went in, and on going to a dark part of the barn discovered the body of her child, whose clothes had been thrown up over her person as far as the stays would admit.
+Ground Truth: The mother went in, and on going to a dark part of the barn discovered the body of her child, whose clothes had been thrown up over her person as far as the stays would admit.
+
+OCR Text: She carried the body to her hoase, and then it was seen that her throat had. een cut in a most horrible manner.
+Ground Truth: She carried the body to her house, and then it was seen that her throat had been cut in a most horrible manner.
+
+OCR Text: Information of the circumstances having been given to the constables, they immediately proceeded to the house of Bailey's father, who lives at a short distance from the cottages, hut whose house is in the parish of Luxborough.
+Ground Truth: Information of the circumstances having been given to the constables, they immediately proceeded to the house of Bailey's father, who lives at a short distance from the cottages, but whose house is in the parish of Luxborough.
+
+OCR Text: They found the son in bed, and, having stated that they were come to take him into custedy on a charge of mur- der, the prisoner exclaimed, " I didn't murder her ;" but he admitted that he had been at the house on his way from work, and stated that on leaving she accompanied hiam a short distance, and then returned.
+Ground Truth: They found the son in bed, and, having stated that they were come to take him into custody on a charge of murder, the prisoner exclaimed, " I didn't murder her;" but he admitted that he had been at the house on his way from work, and stated that on leaving she accompanied him a short distance, and then returned.
+
+OCR Text: On him was found a knife, which was, of course, taken from him.
+Ground Truth: On him was found a knife, which was, of course, taken from him.
+
+OCR Text: Oa examining the barn blood was found on some ashes near the door, and also part of a bucklestrap, which was identified as belonging to the prisoner; the other part was found upon him.
+Ground Truth: On examining the barn blood was found on some ashes near the door, and also part of a bucklestrap, which was identified as belonging to the prisoner; the other part was found upon him.
+
+OCR Text: Near the barn is a stream of water, and a little beyond this, from the barn, was discovered a footprint, which cor- responded with one of the prisoner's boots.
+Ground Truth: Near the barn is a stream of water, and a little beyond this, from the barn, was discovered a footprint, which corresponded with one of the prisoner's boots.
+
+OCR Text: This mark was in a place which a person weuld pass over in proceed. ing from tle barn to the spot at which Sedgbeer was when the prisoner weettowarda him.
+Ground Truth: This mark was in a place which a person would pass over in proceeding from the barn to the spot at which Sedgbeer was when the prisoner went towards him.
+
+OCR Text: On examining the prisoner's clothes blood was tound in different parts, and there was a line of blood over them fromn left to right, which had been partially washed cut
+Ground Truth: On examining the prisoner's clothes blood was found in different parts, and there was a line of blood over them from left to right, which had been partially washed out.
+
+OCR Text: On Friday, Mr. Hole, surgeon, made au examination of the body of the dereased, being accompanied by the coro- ner, Mr. Mmnckton, and marks of two cevere blows were found on the top ot the head, and also a mark of a severe blow over the left eve.
+Ground Truth: On Friday, Mr. Hole, surgeon, made an examination of the body of the deceased, being accompanied by the coroner, Mr. Munckton, and marks of two severe blows were found on the top of the head, and also a mark of a severe blow over the left eye.
+
+OCR Text: There were two stabs in the neck, one on each side, and these corresponded with the blade of the knife found on the prisoner.
+Ground Truth: There were two stabs in the neck, one on each side, and these corresponded with the blade of the knife found on the prisoner.
+
+OCR Text: There was a horrid gash right across the neck, from left to right, which di. vided all the principal parts down to the bone, and at the bottom o; this cut was the mark of another stab, between two of the vital vertebrae or neck bones.
+Ground Truth: There was a horrid gash right across the neck, from left to right, which divided all the principal parts down to the bone, and at the bottom of this cut was the mark of another stab, between two of the vital vertebrae or bones.
+
+OCR Text: From the appearanoes there could be no doubt that the murderer first stunned his victim by striking her on the head, and then dragged her to a darker part of the barn, where, placing the back of her neck on one of the stone sleepers, he completed the horrid crime.
+Ground Truth: From the appearances there could be no doubt that the murderer first stunned his victim by striking her on the head, and then dragged her to a darker part of the barn, where, placing the back of her neck on one of the stone sleepers, he completed the horrid crime.
+
+OCR Text: On Friday, the prisoner was taken before the Rev. G. F. Luttrell and Mr. Hele, at Danster, magistrates of the district, and an investigation into the circumstances took place.
+Ground Truth: On Friday, the prisoner was taken before the Rev. G. F. Luttrell and Mr. Hele, at Dunster, magistrates of the district, and an investigation into the circumstances took place.
+
+OCR Text: During the proceedings the prisoner remained in a sullen mood, and declined to say anything.
+Ground Truth: During the proceedings the prisoner remained in a sullen mood, and declined to say anything.
+
+OCR Text: His mother, who was preEent, appeared to be in a state little short of insanity from anguish and excitement.
+Ground Truth: His mother, who was present, appeared to be in a state little short of insanity from anguish and excitement.
+
+OCR Text: After a long in. vestization, the prisoner was fully committed for trial on the charge of wilful murder.-Ssmerset Courety Gazette,
+Ground Truth: After a long investigation, the prisoner was fully committed for trial on the charge of wilful murder. —Somerset County Gazette.

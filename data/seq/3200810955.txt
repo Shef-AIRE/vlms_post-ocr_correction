@@ -1,0 +1,110 @@
+OCR Text: ALLEGED UCrCeW?2DLY ASSAULT BY A 'AI.E ~-::IBT . S I
+Ground Truth: ALLEGED COWARDLY ASSAULT BY A MAGISTRATE.
+
+OCR Text: A.Tthel)WestminsI':r Police-court, onThuraday, befoie 1 Ari Sheil':Mr. Williasu Hayward, fifty-eight, ex- mayor and J1P. of AtJebnrgh, Suffolk rbsiding at 8 ,- Tachbrodk-street, Pimlico, sorrendered to his bail to answer a-charge of violently assaulting Mr. Harillton Lindsay Bueknall; civii engineer, of Okehampton, Devon,- staying, in London at 29, Colchester-street, S.W.
+Ground Truth: AT the Westminster Police-court, on Thursday, before Mr. Sheil, M. William Hayward, fifty-eight, ex- mayor and J.P. of Aldeburgh, Suffolk, residing at 8l, Tachbrook street, Pimlico, surrendered to his bail to answer a charge of violently assaulting Mr. Hamilton Lindsay Bucknall, civil engineer, of Okehampton, Devon, staying in London at 29, Colchester-street, S.W.
+
+OCR Text: ifMr. E:2D. Pvymer appeared for the defendant.
+Ground Truth: Mr. E. D. Rymer appeared for the defendant.
+
+OCR Text: M!Ir. Puerdin Daitton, solicitor for the prosecutor, said k he should ask for the committal of the defendant on a charge of unlawfullly wourldiun.
+Ground Truth: Mr. Duerdin Dutton, solicitor for the prosecutor, said he should ask for the committal of the defendant on a charge of unlawfully wounding.
+
+OCR Text: Air. Hayward lived with a, Mrs. Vernon, the divorced wife of an officer, and this lady soene years ag' was on very inti- mate terms with the prosecutor.
+Ground Truth: Mr. Hayward lived with a Mrs. Vernon, the divorced wife of an officer, and this lady some years ago was on very intimate terms with the prosecutor.
+
+OCR Text: Mr. Bucknall had occasion latelyto write avery proper letter complain- ing of the annoyance which he had received from Mrs. Vernon, and defendant takin" urnbr.sge at it consti- I tuted himself her champion and committed this I cowardly assault.
+Ground Truth: Mr. Bucknall had occasion lately to write a very proper letter complaining of the annoyance which he had received from Mrs. Vernon, and defendant taking umbrage at it constituted himself her champion and committed this cowardly assault.
+
+OCR Text: Not only was ar. B1acknall violently struck over the head with a wall ing-stick, but ho was kicked by the defendant.
+Ground Truth: Not only was Mr. Bucknall violently struck over the head with a walking-stick, but he was kicked by the defendant.
+
+OCR Text: Mr. Rvyner: Not a word was said aboutba kick when the charge was first made.
+Ground Truth: Mr. Rymer: Not a word was said about a kick when the charge was first made.
+
+OCR Text: Prosecutor deposed that late on the night of the 1'lth ult. he was fetched out of his rooms in Colchester-street by a message that a gentleman i desired to see hitn.
+Ground Truth: Prosecutor deposed that late on the night of the 17th ult. he was fetched out of his rooms in Colchester-street by a message that a gentleman desired to see him.
+
+OCR Text: He proceeded to the front door and saw Mrs. Vernon and the defendant.
+Ground Truth: He proceeded to the front door and saw Mrs. Vernon and the defendant.
+
+OCR Text: The latter excitedly demanded an explanation about a letter, and before witness could give it, hit him a blow on his forehead with a heavy stick.
+Ground Truth: The latter excitedly demanded an explanation about a letter, and before witness could give it, hit him a blow on his forehead with a heavy stick.
+
+OCR Text: Witness fell badly cut and bleeding,and while down defendantkicked him in the stomach.
+Ground Truth: Witness fell badly cut and bleeding, and while down defendant kicked him in the stomach.
+
+OCR Text: Mrr. l])tton put in the complainant's letter to the defendant, which had been referred to.
+Ground Truth: Mr. Dutton put in the complainant's letter to the defendant, which had been referred to.
+
+OCR Text: Tho communication was a polite request to. the defendant to use his influence with Mrs. Vernon to stop her asing offensive lauguage to him (Mr. Buck- nail) in public places, or at his residence, where he desired that her noisy visits should be discontinued.
+Ground Truth: The communication was a polite request to the defendant to use his influence with Mrs. Vernon to stop her using offensive language to him (Mr. Bucknall) in public places, or at his residence, where he desired that her noisy visits should be discontinued.
+
+OCR Text: Mr. Sheil remarked that it was a very proper letter to write, and not one to take offence at.
+Ground Truth: Mr. Sheil remarked that it was a very proper letter to write, and not one to take offence at.
+
+OCR Text: Prosecutor was then cross-examined by Mr. Rymer.
+Ground Truth: Prosecutor was then cross-examined by Mr. Rymer.
+
+OCR Text: He said that at one time he lived with Mrs. Vernon.
+Ground Truth: He said that at one time he lived with Mrs. Vernon.
+
+OCR Text: He should think it was about five years ago.
+Ground Truth: He should think it was about five years ago.
+
+OCR Text: He knew her before she was married, and after she was divorced from froti her husband, Mr. Granville fIar- court Vernon.
+Ground Truth: He knew her before she was married, and after she was divorced from, from her husband, Mr. Granville Harcourt Vernon.
+
+OCR Text: That gentleman's family objected to the marriage, and wished to get rid of her.
+Ground Truth: That gentleman's family objected to the marriage, and wished to get rid of her.
+
+OCR Text: He (1r. [ Bucknall) ]knew that she had £2,000 paid her.
+Ground Truth: He (Mr. Bucknall) knew that she had £2,000 paid her.
+
+OCR Text: Mr. Rymer: And did you help, her to spend best part of it? I believe defendant told you so.
+Ground Truth: Mr. Rymer: And did you help her to spend best part of it? I believe defendant told you so.
+
+OCR Text: Prosecutor: He never attempted to tell me such a despicable lie. She had plenty of! money from me, but I never had a halfpenny from her.
+Ground Truth: Prosecutor: He never attempted to tell me such a despicable lie. She had plenty of money from me, but I never had a halfpenny from her.
+
+OCR Text: Mr. Sheil said he would not allow.a lot of matters outside the charge to be gone linto.
+Ground Truth: Mr. Sheil said he would not allow a lot of matters outside the charge to be gone into.
+
+OCR Text: Mr. Rymer: I was only trying to show what ledup to it.
+Ground Truth: Mr. Rymer: I was only trying to show what led up to it.
+
+OCR Text: Dr. Neville, of 85, Sloane-street, deposed that on the night of the 17th ult. he was called to Gerald-road Police.station to see the prosecutor.
+Ground Truth: Dr. Neville, of 85, Sloane-street, deposed that on the night of the 17th ult. he was called to Gerald-road Police-station to the prosecutor.
+
+OCR Text: Air. Bucknell was quite sober, and was suffering from a star-shaped lacer- ated wound on-the left side of the front of the head.
+Ground Truth: Mr. Bucknall was quite sober, and was suffering from a star-shaped lacerated wound on the left side of the front of the head.
+
+OCR Text: The bone was exposed.
+Ground Truth: The bone was exposed.
+
+OCR Text: Mr. Sheil: It is a dangercus place on the temple ?
+Ground Truth: Mr. Sheil: It is a dangerous place on the temple?
+
+OCR Text: Dr. Neville: Fortunately the .stick fell on the thickest part of the bone, otherwise the: skall vwould have been fractured.
+Ground Truth: Dr. Neville: Fortunately, the stick fell on the thickest part of the bone, otherwise the skull would have been fractured.
+
+OCR Text: It was a serious W&oind, and MNr. Backnell has complained of irritability and loss of memory since.
+Ground Truth: It was a serious wound, and Mr. Bucknell has complained of irritability and loss of memory since.
+
+OCR Text: 'Mr. Brownie Pollier, landlord of 20, Colchester-street, corroborated I the evidence of the prosecutor.
+Ground Truth: Mr. Brownie Collier, landlord of 29, Colchester-street, corroborated the evidence of the prosecutor.
+
+OCR Text: Cross-examined: Bucknalt at one time lived in his house with MIrs. Vernon.
+Ground Truth: Cross-examined: Bucknall at one time lived in his house with Mrs. Vernon.
+
+OCR Text: Prosecutor did not suggest that Mr. Buck- nalt followed her.
+Ground Truth: Prosecutor did not suggest that Mr. Bucknall followed her.
+
+OCR Text: By sheer accident prosecutor, long after his intimacy with Mrs. Vernon had ceased, came to reside as a lodger in the same house with her and Hayward.
+Ground Truth: By sheer accident prosecutor, long after his intimacy with Mrs. Vernon had ceased, came to reside as a lodger in the same house with her and Hayward.
+
+OCR Text: This arrangement did not last long.
+Ground Truth: This arrangement did not last long.
+
+OCR Text: 5Mr. Sheil committed the defendant for trial, and accepted bail,
+Ground Truth: Mr. Sheil committed the defendant for trial, and accepted bail.

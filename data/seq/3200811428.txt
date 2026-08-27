@@ -1,0 +1,101 @@
+OCR Text: A PL UMSTRAD KOCAHO3.
+Ground Truth: A PLUMSTEAD ROMANCE.
+
+OCR Text: AT the Woolwich Police-court, on Saturday, Mrs. Isle, wife of the landlord of the Rose Inn, Plumstead, a ttodoed before the presiding magistrate to ask his aseist aeuce in endeavouring to recover her daughter, Mary Ann (kscown as Pblly), who disappeared ficiamiome nine days agoand who had not since been traced.
+Ground Truth: AT the Woolwich Police-court, on Saturday, Mrs. Slade, wife of the landlord of the Rose Inn, Plumstead, attended before the presiding magistrate to ask his assistance in endeavouring to recover her daughter, Mary Ann (known as Polly), who disappeared from home nine days ago, and who had not since been traced.
+
+OCR Text: She stated hat (her daughter, who would be sikteen next Sb tisemjer, 'had forned an attachment for the barman, holietianITeusny. ':spn 'pper, twenty-five years of 'age.
+Ground Truth: She stated that her daughter, who would be sixteen next September, had formed an attachment for the barman, Christian Tennyson Hopper, twenty-five years of age.
+
+OCR Text: Appliraihatnsid her husband dieappzoved dfit, and the basnan was des charged, shortly after whichtdhe girl disappeared at seven o'clock one mornibg.
+Ground Truth: Applicant said her husband disapproved of it, and the barman was discharged, shortly after which the girl disappeared at even o'clock one morning.
+
+OCR Text: ; 'A'day or two atrterwards they received the ftilowing letter from her :-" Dear mother; doi't worry about ae.
+Ground Truth: A day or two afterwards they received the following letter from her: —"Dear mother; don't worry about me.
+
+OCR Text: I am happy and in agood bause..
+Ground Truth: I am happy and in a good house.
+
+OCR Text: I am much happier than when I was at home, forldon't get a cross word said to a-e. 11 could not put up uwit-- any longer, for he vearly dmve me mad.
+Ground Truth: I am much happier than when I was at home, for I don't get a cross word said to me, I could not put up with any longer, for ho nearly drove me mad.
+
+OCR Text: I wonld not leeve this situation 4or £4 a week, for Lam very. Ihsppy and I know tbe plaoe is all right.
+Ground Truth: I would not leave this situation for £4 a week, for I am very happy and I know the place is all right.
+
+OCR Text: I maaTzome home to '-see you irh a litble 'ise, b ray do't worry.
+Ground Truth: I may come house to see you in a little time, but pray don't worry.
+
+OCR Text: You will beaurpriged when Tou see ,mehome again after a little time.
+Ground Truth: You will be surprised when you see me home again after a little time.
+
+OCR Text: Give nyllove to tbe boys (her bbathers).
+Ground Truth: Give my love to the bays (her brothers).
+
+OCR Text: E am as happy as a queeni
+Ground Truth: I am as happy as a queen.
+
+OCR Text: I wo~dld rather beohere than any- wheee else.
+Ground Truth: I would rather be here than anywhere else.
+
+OCR Text: When 3 eomehome I dont a-attosee-, only you, dear mother.
+Ground Truth: When I come home I don't want to see, only you, dear mother.
+
+OCR Text: Lam very happy.
+Ground Truth: I am very happy.
+
+OCR Text: Den't think I am rakieg tlae etreots, ford am far from that.
+Ground Truth: Don't think I am raking the streets; for I am far from that.
+
+OCR Text: Tbhs is all I havetozy abtresent.
+Ground Truth: This is all I have to say at present.
+
+OCR Text: Youraver lovingdaughter, .P. gLADE .'
+Ground Truth: Your ever loving daughter, P. SLADE."
+
+OCR Text: The 'letter bore the London, post marl:, and no addrems waagiwn.
+Ground Truth: The letter bore the London post mark, and no address was given.
+
+OCR Text: The aeme, left blank, does not refer to theisarmiu.
+Ground Truth: The name, left blank, does not refer to the barman.
+
+OCR Text: The miseinggirl is entibled, under her grmudfathees-vwili, to property worth £2iC0, besides £.200 ready zanoney 'in the WolIwich Equitable Buil&mng Soety.
+Ground Truth: The missing girl is entitled, under her grandfather's will, to property worth £2,000, besides £200 ready money in the Woolwich Equitable Building Society.
+
+OCR Text: flkquiries show that no attempt has beenmade to draw*ay of the latter sumnout, and se;far as is known sho left withoutmoney.
+Ground Truth: Inquiries show that no attempt has been made to draw any of the latter sum out, and so far as is known she left without money.
+
+OCR Text: Anoher letter has been received by Hopper spromisig to send himher, address when shegets settled, and ending her love and kisses.
+Ground Truth: Another letter has been received by Hopper promising to send him her address when she gets settled, and sending her love and kisses.
+
+OCR Text: Bills waelielaed offering £6 rerd for inforena- tion of her wkereabosts,,and this samis~eow increased; 7to M.
+Ground Truth: Bills were issued offering £5 reward for information of her whereabouts, and this sum is now increased to £20.
+
+OCR Text: Eopper's father is a foreman in the Royal Arsenal.
+Ground Truth: Hopper's father is a foreman in the Royal Arsenal.
+
+OCR Text: HiR eon, ( ;tristisn, first went t0 the Rose Inc as potrao, but wna caibqnntly made harman
+Ground Truth: His son, Christian, first went to the Rose Inn as potman, but was subsequently made barman.
+
+OCR Text: The family etat? that Pol~y's parents Ikuew they were attaehsed to each other, and that they al~ went 'tgether to the London theatres.
+Ground Truth: The family state that Polly's parents know they were attached, to each other, and that they all went together to the London theatres.
+
+OCR Text: -Ee gbought her an enggemnent rieg,~ whichek§e wore alsout the 'honse.
+Ground Truth: He bought her an engagement ring, which-eke wore about the house.
+
+OCR Text: They are also said to have known that the young people went ot and were photograkbed together, and rbat for sose months they offered no objection to tbhecourtsfip.
+Ground Truth: They are also said to have known that the young people went about and were photographed together, and beat for some months they offered no objection to the courtship.
+
+OCR Text: A month ago the parents, hebard seme false 'reports about)Hopper, who became ill and went hboe.
+Ground Truth: A month ago the parents heard some false reports about Hopper, who became ill and went home.
+
+OCR Text: iP.olly took him wine jelly, and other delicscies from 'her hsme, and with her parents' permission..
+Ground Truth: Polly took him wine jelly, and other delicacies from her home, and with her parents’ permission.
+
+OCR Text: One day 'he found a letter in the basket tatsingtbhaS his employer didsct require hiseservices any longer.
+Ground Truth: One day be found a letter in the basket stating that his employer did not require his services any longer.
+
+OCR Text: 'The letter eauaed !Lopper and te geirl' great, distress.
+Ground Truth: The letter caused Hopper and the girl great distress.
+
+OCR Text: A suggestion was enade to her parenss that the -ogagemenxt should be broken,odf for a year, and that if at the end o't~hat-time he coueld become manager ofa' goodhouse ond in a' better ,position, the acquaintance should be rea3wed, but thie wasauot listenedito, and she ran away.
+Ground Truth: A suggestion was made to her parents that the engagement should be broken off for a year, and that if at the end of that time he could become manager of a good house and in a better position, the acquaintance should be renewed, but this was not listened to, and she ran away.

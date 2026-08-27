@@ -1,0 +1,59 @@
+OCR Text: GREAT ROBBERY OF BONDS.
+Ground Truth: GREAT ROBBERY OF BONDS.
+
+OCR Text: On Wednesday, at Guildhall, George Williamn Bard- rick., clerk, and Citarles CGold were brought up, on remand, in charge of Detective-serjeants Randall and Lawley. who had brought the prisoners from Barcelona, in Spain, on the charge of having stolen foreign bonds and obligations to the amount of over 12,0001.
+Ground Truth: On Wednesday, at Guildhall, George William Bardrick, clerk, and Charles Gold were brought up, on remand, in charge of Detective-serjeant Randall and Lawley, who had brought the prisoners from Barcelona, in Spain, on the charge of having stolen foreign bonds and obligations to the amount of over 12,000l.
+
+OCR Text: Bardrick was further charged with em- bezzlipg money to the extent of hbout 5001., belong- ina to Messrs. Desborough and Sons, solicitors, of 18, Finsbury-pavement, the prisoners' masters.
+Ground Truth: Bardrick was further charged with embezzling money to the extent of about 500l., belonging to Messrs. Desborough and Sons, solicitors, of 18, Finsbury-pavement, the prisoners' masters.
+
+OCR Text: Mr. Learoyd said that he was now in a position to frame the charge into two forms.
+Ground Truth: Mr. Learoyd said that he was now in a position to frame the charge into two forms.
+
+OCR Text: One would affect Bard- rick alone for embezzling about o000., and the other would be against both for stealing bonds and obliga- tions to the amount of over 12,5001.
+Ground Truth: One would affect Bardrick alone for embezzling about 500l., and the other would be against both for stealing bonds and obligations to the amount of over 12,500l.
+
+OCR Text: Bardrick was cashier to the prosecutors, and it was his duty to re- ceive money from their customers, and from the two partners, and Mr. Dallimore, their managing clerk, and pay the money so received into their bankers to the account of the firm.
+Ground Truth: Bardrick was cashier to the prosecutors, and it was his duty to receive money from their customers, and from the two partners, and Mr. Dallimore, their managing clerk, and pay the money so received into their bankers to the account of the firm.
+
+OCR Text: In many in- stances he had not paid the money into the bankers at all, and in other eases lie had paid in only a por- tion of the sums entrusted to him.
+Ground Truth: In many instances he had not paid the money into the bankers at all, and in other cases he had paid in only a portion of the sums entrusted to him.
+
+OCR Text: Although the sale of the bonds had taken place in Gold's name, he had handed all the money he received over to Bardrick.
+Ground Truth: Although the sale of the bonds had taken place in Gold's name, he had handed all the money he received over to Bardrick.
+
+OCR Text: - Evidence was given at considerable length in support of the above charges,--Frederick Lawley, detective-serjeant of the City Police, said that he acconmpanied Serjeant Randall to Spain to apprehend the prisoners.
+Ground Truth: –Evidence was given at considerable length in support of the above charges. –Frederick Lawley, detective-serjeant of the City Police, said that he accompanied Serjeant Randall to Spain to apprehend the prisoners.
+
+OCR Text: On the 11th of September Gold made a statement on bioard the vessel coming over.
+Ground Truth: On the 11th of September Gold made a statement on board the vessel coming over.
+
+OCR Text: He said, "I have Been led into this affair by Bardick, who took the bonds from the strong room, handed them to me, and suggested that I should take them to Kulb and Co., and sell them, which I did.
+Ground Truth: He said, "I have been led into this affair by Bardrick, who took the bonds from the strong room, handed them to me, and suggested that I should take them to Kulb and Co., and sell them, which I did.
+
+OCR Text: Bardrick used to wait for me at the European. in the room upstairs, and as soon as I received the money I took it there, and gave it to him.
+Ground Truth: Bardrick used to wait for me at the European, in the room upstairs, and as soon as I received the money I took it there, and gave it to him.
+
+OCR Text: I received a very small portion of the money.
+Ground Truth: I received a very small portion of the money.
+
+OCR Text: Btrdrick took the first bond and sold it for 2001. just before he was married.
+Ground Truth: Bardrick took the first bond and sold it for 200l. just before he was married.
+
+OCR Text: He told me thatit would never be missed.
+Ground Truth: He told me that it would never be missed.
+
+OCR Text: I am aware now I did wrong.
+Ground Truth: I am aware now I did wrong.
+
+OCR Text: I ought to have told Mr. Desborough of it at once; butt Bardrick had great influence over me.
+Ground Truth: I ought to have told Mr. Desborough of it at once; but Bardrick had great influence over me.
+
+OCR Text: If I had told him I should have been saved from ruin.
+Ground Truth: If I had told him, I should have been saved from ruin.
+
+OCR Text: I an sorry, for r. Lawrence has alwaDs been a good friend to me.
+Ground Truth: I am sorry, for Mr. Lawrence has always been a good friend to me.
+
+OCR Text: If I had told him, I should not have been in my present unfortunate pasition."-Mr. Learoyd said that was his case, and he asked that the prisoners should be committed for trial.-lMr. Lickfold and Mr. Humphreys declined to make any remark, as the case must go for inquiry before anotber court.-Nfr. Alderman Fowler then committed them for trial, a-id refused bail.
+Ground Truth: If I had told him, I should not have been in my present unfortunate position." –Mr. Learoyd said that was his case, and he asked that the prisoners should be committed for trial. —Mr. Lickfold and Mr. Humphreys declined to make any remark, as the case must go for inquiry before another court. —Mr. Alderman Fowler then committed them for trial, and refused bail.

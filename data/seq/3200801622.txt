@@ -1,0 +1,35 @@
+OCR Text: COMPENSATION TO A PUBLICAN.
+Ground Truth: COMPENSATION TO A PUBLICAN.
+
+OCR Text: AT the Man sion Honso Police-court the Metropolitan and the ,Metropolitan District Railway Companies appeared before the Lord Mayor, M.P., by their repre- sentatives, in order that the amount of compensation claimed under 121st section of the Lands Clauses Con- solidation Act by Mr. Dow, the proprietor of the MIonument Tavern, Fish-stroet-hill, might be fixed.
+Ground Truth: AT the Mansion House Police-court the Metropolitan and the Metropolitan District Railway Companies appeared before the Lord Mayor, M.P., by their representatives, in order that the amount of compensation claimed under 121st section of the Lands Clauses Consolidation Act by Mr. Dew, the proprietor of the Monument Tavern, Fish-street-hill, might be fixed.
+
+OCR Text: Mr. Grantham said he appeared for Mr. Dew to ask his lordship to assess the amonnkt of compensation to whichl he was entitled under the 121st section of the Lands Clauses Consolidation Act, in consequence of the railway comnpani5m taking possession of his premises for purposes connected with the railway.
+Ground Truth: Mr. Grantham said he appeared for Mr. Dew to ask his lordship to assess the amount of compensation to which he was entitled under the 121st section of the Lands Clauses Consolidation Act, in consequence of the railway companies taking possession of his premises for purposes connected with the railway.
+
+OCR Text: When the in- terest of a, tenant was only from year to year the com- pensation had to be assessed by a magistrate.
+Ground Truth: When the interest of a tenant was only from year to year the compensation had to be assessed by a magistrate.
+
+OCR Text: The case was a simple ono, but bad been productive of a great deal of litigation.
+Ground Truth: The case was a simple one, but had been productive of a great deal of litigation.
+
+OCR Text: The details of the case having been goni into, the Lord Mayor fixed the total amount of the compensation due to Mr. Dew at269S 49. Id.
+Ground Truth: The details of the case having been gone into, the Lord Mayor fixed the total amount of the compensation due to Mr. Drew at £698 4s. 1d.
+
+OCR Text: Mr. Grantham then applied for costs, and the Lord Mayor granted twenty guineas costs.
+Ground Truth: Mr. Grantham then applied for costs, and the Lord Mayor granted twenty guineas costs.
+
+OCR Text: Ar the Cardiff Policeocourt, ol Saturday, Thomas Evaus was remanuded on a charge of having caused the death of John Collins, ol May 27th.
+Ground Truth: AT the Cardiff Police-court, on Saturday, Thomas Evans was remanded on a charge of having caused the death of John Collins, on May 27th.
+
+OCR Text: The parties, it was alleged, quarrelled and fought, and Collins fell and Ev.>ans knelt ol him and then kicked hiil until he was taleii up insensiblc.
+Ground Truth: The parties, it was alleged, quarrelled and fought, and Collins fell and Evans knelt on him and then kicked him until he was taken up insensible.
+
+OCR Text: H1 was taelen home, but lingered till Friday, when lie died.
+Ground Truth: He was taken home, but lingered till Friday, when he died.
+
+OCR Text: Prisoner was rernslald for a week.
+Ground Truth: Prisoner was remanded for a week.
+
+OCR Text: He is said to be a very violent man, and has been previously charged with killing a sman in a light.
+Ground Truth: He is said to be a very violent man, and has been previously charged with killing a man in a fight.

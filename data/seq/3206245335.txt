@@ -1,0 +1,35 @@
+OCR Text: I CENTRAL CRIMINAL COURT, YESTERDAY.
+Ground Truth: CENTRAL CRIMINAL COURT, YESTERDAY.
+
+OCR Text: SiYNtYLAi CISARGF..-Juttient Rowse and d11ary ifowce, man and wife, two young, well-dressed persons, sorreii- deied to take their triad for misdemneanour in having unlawfully endeavoured to conceal the birth of a child, of which the female prisoner bad been delivered.-It was stated that the prisoners had only recently been warried, anti they had gone on a tour in the country.
+Ground Truth: SINGULAR CHARGE. —James Rowe and Mary Rowe, man and wife, two young, well-dressed persons, surrendered to take their trial for misdemeanor in having unlawfully endeavoured to conceal the birth of a child, of which the female prisoner had been delivered. —It was stated that the prisoners had only recently been married, and they had gone on a tour in the country.
+
+OCR Text: It appeared, however, that the female was at the time of tbe marriage very far advanced in pregnancy, ad while they were staying at an hotel at plvtnouth, she was delivered of a stillborn child.
+Ground Truth: It appeared, however, that the female was at the time of the marriage very far advanced in pregnancy, and while hotel at they were staying at a hotel at Plymouth, she was delivered of a stillborn child.
+
+OCR Text: Her husband. in order to save the character of his wife, did not obtain any medical assistance, but the parties brounht the dteall body of the child to London, and at- tempted to dispose of the body by piacing it in a lady's garden near Wandsworth, and under these condit ons the present charge was preferred.
+Ground Truth: Her husband, in order to save the character of his wife, did not obtain any medical assistance, but the parties brought the dead body of the child to London, and attempted to dispose of the body by placing it in a lady's garden near Wandsworth, and under these conditions the present charge was preferred.
+
+OCR Text: It wvas admitted that the male prisoner had seduced his companion, and that subsequently mabhe her all the reparation in his power by marrying her, and what wvas done was merely witlithe object of saving the female prisoner from disgrace.
+Ground Truth: It was admitted that the male prisoner had seduced his companion, and that subsequently made her all the reparation in his power by marrying her, and what was done was merely with the object of saving the female prisoner from disgrace.
+
+OCR Text: The magistrate by vhoin the prisoners were committed for trial, Ir. Buseby, it apueared, had exoressed his opinion that a very slight puinishmemit Rould satisfy the require- ments of the law--The Comnion Serjeant said lie thought that upon these facts he should not be required to do more titan to pass a sentence of five days' imprison- merit on tie man, the effect of which would be that its no evidence was offered acainst the woman, they would both be at once discharged. -
+Ground Truth: The magistrate by whom the prisoners were committed for trial, Mr. Bushby, it appeared, had expressed his opinion that a very slight punishment would satisfy the requirements of the law. –The Common Serjeant said he thought that upon these facts he should not be required to do more than to pass a sentence of five days' imprisonment on the man, the effect of which would be that as no evidence was offered against the woman, they would both be at once discharged.
+
+OCR Text: INersoCENiT WOIim -John Julian Rochfort, the pro. prietor of a publication called Quiz, the Satirist, surrendered to take lils trial for publishing art in- decent and obscene libel, which the publication in quescienl was alleged to be.
+Ground Truth: INDECENT WORKS. —John Julian Rochfort, the proprietor of a publication called Quiz, the Satirist, surrendered to take his trial for publishing an indecent and obscene libel, which the publication in question was alleged to be.
+
+OCR Text: - Mr. Ieley arid Mr. Tickle prosecuted for the Society for bthe Suppression of Vice; Mr. Forest Fulton defended-The counsel for the pronecuton reed sonte portions of articles contained in the publication in qoestien, which he submitted were of a hicily immoral and disausting character.-The jury found the defendant "(Guilty," and sentence was de- ferred.
+Ground Truth: –Mr. Besley and Mr. Tickle prosecuted for the Society for the Suppression of Vice; Mr. Forest Fulton defended. –The counsel for the prosecution read some portions of articles contained in the publication in question, which he submitted were of a highly immoral and disgusting character. –The jury found the defendant 'Guilty," and sentence was deferred.
+
+OCR Text: Geoorge BEates, a newsagent in the Broadway, was charged with selling another obscene publication called The Peep Shemo.-Defendtant said he was not aware of the contents of the publication when he disposed of it.-
+Ground Truth: George Bates, a newsagent in the Broadway, was charged with selling another obscene publication called The Peep Show. —Defendant said he was not aware of the contents of the publication when he disposed of it.–
+
+OCR Text: The jury returned a verdict of " Not guilty."
+Ground Truth: The jury returned a verdict of "Not guilty."
+
+OCR Text: Jamies Sinipson. a newavenuor, carrying on business in Shoe-lane, was chtarged with a similar offence in Ielation to the bale of Quiz.-In this case also the jury returned a verilict of "Not guilty."'
+Ground Truth: James Simpson, a newsvendor, carrying on business in Shoe-lane, was charged with a similar offence in relation to the sale of Quiz. –In this case also the jury returned a verdict of "Not guilty."
+
+OCR Text: Rotei tEin nmt, publisher, of 11, Bride's-avenue, pleaded "Guilty " to selling the Londoen Peep Showv.-The Com- mon Sorleant sentenced Rochfort to six months' hard lttbonr, and ordered Emmet to Day a line of 501., and to be imprisoned until that line was paid.
+Ground Truth: Robert Emmet, publisher, of 11, Bride's-avenue, pleaded "Guilty" to selling the London Peep Show. —The Common Serjeant sentenced Rochfort to six months' hard labour, and ordered Emmet to pay a fine of 50l., and to be imprisoned until that fine was paid.

@@ -1,0 +1,98 @@
+OCR Text: ALLEGED CRUELrY TO A WORKHOUSE GIRL
+Ground Truth: ALLEGED CRUELTY TO A WORKHOUSE GIRL
+
+OCR Text: Msrs. Augwta Lailh, a lodging-house keeper cee aiding at 10, Park-place, Liverpool-road, appeared at Clerkenwell police-court, in answer to her vecog nizanceB, charged with committing a series olvioleat assaults upon Ann Dean, whom she had take, as servant from the Islington workhouse.
+Ground Truth: Mrs. Augusta Laigh, a lodging-house keeper, residing at 10, Park-place, Liverpool-road, appeared at Clerkenwell police-court, in answer to her recognizances, charged with committing a series of violent assaults upon Ann Dean, whom she had taken se servant from the Islington workhouse.
+
+OCR Text: Ellen Morgan, who said: I am seventeen yew of age, and am now an inmate of the workhouse of St, Mary, Islington.
+Ground Truth: Ellen Morgan, who said: I am seventeen years of age, and am now an inmate of the workhouse of St Mary, Islington.
+
+OCR Text: I used to be in the service of Yrs, Laigh.
+Ground Truth: I used to be in the service of Mrs. Laigh.
+
+OCR Text: I left her service about seven weeks ago, Oa the Tuesday before Christmas-
+Ground Truth: I left her service about seven weeks ago, on the Tuesday before Christmas.
+
+OCR Text: On the day before I left I do not recollect anything taking place.
+Ground Truth: On the day before I left I do not recollect anything taking place.
+
+OCR Text: Onthe Sunday before Christmas there wae some tea in the teapot.
+Ground Truth: On the Sunday before Christmas there was some tea in the teapot.
+
+OCR Text: Susan Dean poured it out into a cup.
+Ground Truth: Susan Dean poured it out into a cup.
+
+OCR Text: The I defendant came down to the kitchen and said, "Who has poured the tea out of the teapot?"
+Ground Truth: The defendant came down to the kitchen and said, "Who has poured the tea out of the teapot?"
+
+OCR Text: Deansaid, "I did."
+Ground Truth: Dean said, "I did."
+
+OCR Text: The defendant then said, " What business have you to take it out, when I wanted it myself ?" anathea hit Dean across the eyes with the back of her hand.
+Ground Truth: The defendant then said, "What business hare you to take it out, when I wanted it myself?" and then hit Dean across the eyes with the back of her hand.
+
+OCR Text: On the Saturday before I saw my mistress hlt De;n on the shoulder with a chopper.
+Ground Truth: On the Saturday before I saw my mistress hit Dean on the shoulder with a chopper.
+
+OCR Text: She strerl her because she upset a bath of water.
+Ground Truth: She struck her because she upset a bath of water.
+
+OCR Text: It was betweez seven and eightintheevening.
+Ground Truth: It was between seven and eight in the evening.
+
+OCR Text: OntheFridaybefore that the defendant hit her once on the head withthe poker.
+Ground Truth: On the Friday before that the defendant hit her once on the head with the poker.
+
+OCR Text: Dean bled very much from the effects of the blow from the poker.
+Ground Truth: Dean bled very much from the effects of the blow from the poker.
+
+OCR Text: On the Thursday the defend- ant hit the complainant with the poker on the heat, which also bled, because she could not wring linea with her right hand.
+Ground Truth: On the Thursday the defendant hit the complainant with the poker on the head, which also bled, because she could not wring linen with her right hand.
+
+OCR Text: She was left-handed.
+Ground Truth: She was left-handed.
+
+OCR Text: Witness put a wet cloth on complainant's head.
+Ground Truth: Witness put a wet cloth on complainant's head.
+
+OCR Text: Sosan Dean left on the Monday.
+Ground Truth: Susan Dean left on the Monday.
+
+OCR Text: Mr. F. G. Graves said: I was the resident medical officer of the workhouse.
+Ground Truth: Mr. F. G. Graves said: I was the resident medical officer of the workhouse.
+
+OCR Text: On the Monday before Christmas I saw Susan Dean at the workhouse,
+Ground Truth: On the Monday before Christmas I saw Susan Dean at the workhouse.
+
+OCR Text: I examined her head, and found five wounds at the back of her head, each of which was about an inch in length.
+Ground Truth: I examined her head, and found five wounds at the back of her head, each of which was about an inch in length.
+
+OCR Text: They were scalp wounds and through the skin.
+Ground Truth: They were scalp wounds and through the skin.
+
+OCR Text: There were also marks of two wounds in the front of the head.
+Ground Truth: There were also marks of two wounds in the front of the head.
+
+OCR Text: In my judgment the wound or the back of the head had been inflicted about a weet and the latest about four days.
+Ground Truth: In my judgment the wound the back of the head had been inflicted about a week, and the latest about four days.
+
+OCR Text: On the right arm, just below the elbow, there was an abscess.
+Ground Truth: On the right arm, just below the elbow, there was an abscess.
+
+OCR Text: There was an extensive wound on the right side and bhck
+Ground Truth: There was an extensive wound on the right side and back.
+
+OCR Text: The left eye was swollen and discoloured.
+Ground Truth: The left eye was swollen and discoloured.
+
+OCR Text: There was inflammation of the skin of the covering of the left binde-bone, and below the left elbow.
+Ground Truth: There was inflammation of the skin of the covering of the left blade-bone, and below the left elbow.
+
+OCR Text: Therewes also inflanmmation of the left knee, which might have been produced by a blow.
+Ground Truth: There was also inflammation of the left knee, which might have been produced by a blow.
+
+OCR Text: Mr. Lewis, for the defence, called witnesses with a view to show that the injuries were sustained by the girl during a ecuffle with Ellen Morgan, who was then also in the service of Mrs. Laigh.
+Ground Truth: Mr. Lewis, for the defence, called witnesses with a view to show that the injuries were sustained by the girl during a scuffle with Ellen Morgan, who was then also in the service of Mrs. Laigh.
+
+OCR Text: Mr. Tyrwhitt sent the case to be tried by a jury.
+Ground Truth: Mr. Tyrwhitt sent the case to be tried by a jury.

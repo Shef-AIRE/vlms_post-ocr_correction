@@ -1,0 +1,53 @@
+OCR Text: / rTHEe ALLAEGED MiIAW"SLA.UGUTER IN TH!:! r WEST.JUD. I
+Ground Truth: THE ALLEGED MANSLAUGHTER IN THE WEST-END.
+
+OCR Text: TwklA.i ]ITMrRAY, twenty, abolnrer, Poland-strect, Oxford-street, and Michaeel Munr:ry, twenty-seven, labourer, 1inpert-strect, Havmarkct, were charged, on remand, before Mr. Newton, at ilarlborough-street Police-court, with haiving been concerned with others not in custody in causing the death of Joseph Webb.
+Ground Truth: THOMAS MURRAY, twenty, labourer, Poland-street, Oxford-street, and Michael Murray, twenty-seven, labourer, Rupert-street, Haymarket, were charged, on remand, before Mr. Newton, at Marlborough-street Police-court, with having been concerned with others not in custody in causing the death of Joseph Webb.
+
+OCR Text: Mr. Bodokin, barrister, prosecuted on behalf of the Trea,;Ur7: and Mr. W, Iolloway, solicitor, defended Thomas IMnrray.
+Ground Truth: Mr. Bodkin, barrister, prosecuted on behalf of the Treasury; and Mr. W. Holloway, solicitor, defended Thomas Murray.
+
+OCR Text: It appeared from the evidence which had been reported that on the evening of the 1st of Jugnisi several boys and girls were dancing to an organ in Broad-street, Golden-square.
+Ground Truth: It appeared from the evidence which had been reported that on the evening of the 1st of August several boys and girls were dancing to an organ in Broad-street, Golden-square.
+
+OCR Text: The pave- ment was blocked by them.
+Ground Truth: The pavement was blocked by them.
+
+OCR Text: The deceased and his wife wished '.:o paRs by, and finding (lifliculty in doing so, the former exclaimed, ' You might make room to nass."
+Ground Truth: The deceased and his wife wished to pass by, and finding difficulty in doing so, the former exclaimed, "You might make room to pass."
+
+OCR Text: Thereupon some persons attacked the deceased, k-necked him down, and kicked him.
+Ground Truth: Thereupon some persons attacked the deceased, knocked him down, and kicked him.
+
+OCR Text: Ile was taken to the 1liddleqax Hospital, where it was discovered that his skul] was fractured, the man eventually dying from meningitis, brought on by the injury to his bead.
+Ground Truth: He was taken to the Middlesex Hospital, where it was discovered that his skull was fractured, the man eventually dying from meningitis, brought on by the injury to his head.
+
+OCR Text: It was alleged that Thomas Murray ivas one of the persons who kicked Webb.
+Ground Truth: It was alleged that Thomas Murray was one of the persons who kicked Webb.
+
+OCR Text: After Thomas Murray was arrested Michael Murray went on the 15th of August to the Marlborough-mews Police-station nrnd made a statement to Inspector Blenkinsopp, of the C Division, which was taken down in writing.
+Ground Truth: After Thomas Murray was arrested Michael Murray went on the 18th of August to the Marlborough-mews Police station and made a statement to Inspector Blenkinsopp, of the C Division, which was taken down in writing.
+
+OCR Text: It was to the effect that on the evening in question, while he was in the Star and Garter, Poland-street, his sister Lizzie came and told him that a man was hiding his sister Pops.
+Ground Truth: It was to the effect that on the evening in question, while he was in the Star and Garter, Poland-street, his sister Lizzie came and told him that a man was hiding his sister Pops.
+
+OCR Text: Ire thereupon left the bar and went and spoke to his sister Pops in Broad-street.
+Ground Truth: He thereupon left the bar and went and spoke to his sister Pops in Broad-street.
+
+OCR Text: While speaking to her ha received a blow from a man he did not know, which knocked him down.
+Ground Truth: While speaking to her he received a blow from a man he did not know, which knocked him down.
+
+OCR Text: He got up and struck the man, and knocked him down on the pavement.
+Ground Truth: He got up and struck the man, and knocked him down on the pavement.
+
+OCR Text: The man got up again, they had another round, and he (Michael Murray) knocked him down the second time, and fell with him.
+Ground Truth: The man got up again, they had another round, and he (Michael Murray) knocked him down the second time, and fell with him.
+
+OCR Text: The man did not get up again, but remained unconiscious.
+Ground Truth: The man did not get up again, but remained unconscious.
+
+OCR Text: Murray returned'to the Star and Garter:
+Ground Truth: Murray returned to the Star and Garter.
+
+OCR Text: Mr. Holloway, in defence, urged that there was no case against his client, but Mr. Newton took a different view of the matter, and com- mitted both the prisoners for trial.
+Ground Truth: Mr. Holloway, in defence, urged that there was no case against his client, but Mr. Newton took a different view of the matter, and committed both the prisoners for trial.

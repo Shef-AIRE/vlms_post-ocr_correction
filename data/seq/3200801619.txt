@@ -1,0 +1,38 @@
+OCR Text: THE POISONING CASE IN FRASNCE.
+Ground Truth: THE POISONING CASE IN FRANCE.
+
+OCR Text: Tll. trial oi Peton tle doblu chlarge of poisoning his first wife--his second is still living-and a servant who was also his mistress, has resulted in a verdict of ty guilty agaiust the prisoner on the second count, or althougbh the jury were unable to makeup their minds at to convict him on the first, notwithstanding the de- of clared presence of arsenic in the exhumed remains of ts his wife.
+Ground Truth: THE trial of Pel on the double charge of poisoning his first wife – his second is still living – and a servant who was also his mistress, has resulted in a verdict of guilty against the prisoner on the second count, although the jury were unable to make up their minds to convict him on the first, notwithstanding the declared presence of arsenic in the exhumed remains of his wife.
+
+OCR Text: Altbough these weae the only two charges ig preferred against Pcl, he is ;lso suspected of having n poisoned his mother as long ago as 1872, and of saving )n attempted the lives, in a similar muaneor, of an old in woman named Miria Mahoin ann' a girl named Eg Xug6nio Meiyer, both of whom wore at different g times in 'el's service.
+Ground Truth: Although these were the only two charges preferred against Pel, he is also suspected of having poisoned his mother as long ago as 1872, and of having attempted the lives, in a similar manner, of an old woman named Marie Mahoin and a girl named Eugénie Meyer, both of whom were at different times in Pel’s service.
+
+OCR Text: The girl aMeyer, indeed, as who freqauotly suffered from severe vomliting while aso she was in Pel's service, has never been seen since In Pet annoanced that she had left himi, and it was in asserted by the Public Prosecutor during the trial that re Pcl had poisened her and disposed of the body, as he ise is believed to havo disposed of that of Elise Blohliner, s- his servaut and umistrcss, whose case, therefore, is n- almost parallel witlh that of Eugp~uie Meyer.
+Ground Truth: The girl Meyer, indeed, who frequently suffered from severe vomiting while she was in Pel’s service, has never been seen since Pel announced that she had left him, and it was asserted by the Public Prosecutor during the trial that Pel had poisoned her and disposed of the body, as he is believed to have disposed of that of Elise Boehmer, his servant and mistress, whose case, therefore, is almost parallel with that of Eugénie Meyer.
+
+OCR Text: It must Io be said that l',l'e eqplonation as to what had becomlie of the missing womvlen, and the cause of death of his 7, mother and first wife, were somewhat lame, and in although the evidence against him was almost entirely s, circumstantial, it is scarcely surprising that a verdict ry of guilty was entered.
+Ground Truth: It must be said that Pel’s explanation as to what had become of the missing women, and the cause of death of his mother and first wife, were somewhat lame, and although the evidence against him was almost entirely circumstantial, it is scarcely surprising that a verdict of guilty was entered.
+
+OCR Text: There has, however, already mn been much comment on the fact that the prisoner was *st practically acquitted of tile charge agaiust his wife, th whose remains were found to contain poison, and con- ut victed of a charge of which absolutely no trace exists, as savo some cinders from the stove in which the victim's body is supposed to have becn burnt, and which are assumed to be all that remains of her icineratod corpso.
+Ground Truth: There has, however, already been much comment on the fact that the prisoner was practically acquitted of the charge against his wife, whose remains were found to contain poison, and convicted of a charge of which absolutely no trace exists, save some cinders from the stove in which the victim’s body is supposed to have been burnt, and which are assumed to be all that remains of her incinerated corpse.
+
+OCR Text: M M. Henri Rlochefort, in the lJsrualsiyeuflnt, says that ~al tevriP a tho verdict against Pe1 is the first instance of a man a being found guilty of murder for poison when neither e the Ipisoe nor the victim's body hRs been found.
+Ground Truth: M. Henri Rochefort, in the Intransigent, says that the verdict against Pel is the first instance of a man being found guilty of murder for poison when neither the poison nor the victim’s body has been found.
+
+OCR Text: La g Fr asnce calls attention to the lact that the jury gave a negative answer in the case of Pel's first wife, in whose remains distinct traces of arsenic woro discovered, and a an aflirmative answer in the indictment against the Y, prisoner for the murder of Eliso Boehiner, althoughl in n, the latter case the a cusaltion was only supported by rs medical conjedture.
+Ground Truth: La France calls attention to the fact that the jury gave a negative answer in the case of Pel’s first wife, in whose remains distinct traces of arsenic were discovered, and an affirmative answer in the indictment against the prisoner for the murder of Elise Boehmer, although in the latter case the accusation was only supported by medical conjecture.
+
+OCR Text: Lro Franca also calls attention to nt the lamentable defenco that wasv made on the prisoner's ce beihalf.
+Ground Truth: La France also calls attention to the lamentable defence that was made on the prisoner’s behalf.
+
+OCR Text: The Figaro thanks the jury for having reso- Id lutely saved society fromill le possible repetition of re similar crimes by bringing in a verdict of guilty.
+Ground Truth: The Figaro thanks the jury for having resolutely saved society from the possible repetition of similar crimes by bringing in a verdict of guilty.
+
+OCR Text: Pes m had been removed to the condemned cell at La Iloquette 3d prison
+Ground Truth: Pel had been removed to be condemned cell at La Roquette prison.
+
+OCR Text: Shine his coviction Put has displayed more ot enmotion, and continues to earnestly declare his Joo- re cence.
+Ground Truth: Since his conviction Pel has displayed more emotion and continues to earnestly declare his innocence.
+
+OCR Text: Pcll has been sentenced to death.
+Ground Truth: Pell has been sentenced to death.

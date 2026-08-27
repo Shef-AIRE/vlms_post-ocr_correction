@@ -1,0 +1,158 @@
+OCR Text: TEE MURDER IN THE LEEDS BARRACS.
+Ground Truth: THE MURDER IN THE LEEDS BARRACKS.
+
+OCR Text: TRIAL AND CO'NVGICION OF THE SOLDIER.
+Ground Truth: TRIAL AND CONVICTION OF THE SOLDIER.
+
+OCR Text: On Monday, at the York Assizes, Michael Stokes, twenty, was charged with the wilful murder of Marianne Garard, at Leeds, on the 20th of January last, by shooting her with a musket.
+Ground Truth: On Monday, at the York Assizes, Michael Stokes, twenty, was charged with the wilful murder of Marianna Garard, at Leeds, on the 20th of January last, by shooting her with a musket.
+
+OCR Text: The facts of the case are as follow:-William Garard, a private in the 57th Foot, was stationed at Leeds barracks on the 20th January; the prisoner was a private in the same regiment.
+Ground Truth: The facts of the case are as follow: --William Garard, a private in the 57th Foot, was stationed at Leeds barracks on the 20th January: the prisoner was a private in the same regiment.
+
+OCR Text: My wife, the deceased, was livinF with me in' barracks.
+Ground Truth: My wife, the deceased, was living with me in barracks.
+
+OCR Text: We occupied a room in which prisoner lived, and two or three other soldiers.
+Ground Truth: We occupied a room in which prisoner lived, and two or three other soldiers.
+
+OCR Text: On the evening of the 20th, I was in the room with the prisoner, mywife, and two other privates.
+Ground Truth: On the evening of the 20th, I was in the room with the prisoner, my wife, and two other privates.
+
+OCR Text: Dooley, was asked by the prisoner for a bees'-waxed rag, and Dooley said there were some in his havre- sack.
+Ground Truth: Dooley was asked by the prisoner for a bees’-waxed rag, and Dooley said there were some in his haversack.
+
+OCR Text: In about a minute I saw the prisoner doing something to his musket at the table.
+Ground Truth: In about a minute I saw the prisoner doing something to his musket at the table.
+
+OCR Text: My wife asked what it was o'clock, and I showed her my watch; it was about seven o'clock.
+Ground Truth: My wife asked what it was o'clock, and I showed her my watch; it was about seven o'clock.
+
+OCR Text: Immedi- ately I heard the report of a musket, -and turning round saw a musket drop from the prisoner's hands on to the floor.
+Ground Truth: Immediately I heard the report of a musket, and turning round saw a musket drop from the prisoner's hands on to the floor.
+
+OCR Text: My wife had fallen down against the closet door, with her hands and arms spread out.
+Ground Truth: My wife had fallen down against the closet door, with her hands and arms spread out.
+
+OCR Text: Sheexclaimed, " The Lord have mercy on me, what have ye done? "
+Ground Truth: She exclaimed, “The Lord have mercy on me, what have ye done?”
+
+OCR Text: I went up to the prisoner and asked if lie had shot my wife, and said I'd load my musket and shoot him; he replied, "load."
+Ground Truth: I went up to the prisoner and asked if he had shot my wife, and said I'd load my musket and shoot him; he replied, "load."
+
+OCR Text: Keenan and Dooley were present, who seized the prisoner.
+Ground Truth: Keenan and Dooley were present, who seized the prisoner.
+
+OCR Text: I laid my wife on the bed, and found, on examin- ing, that she had a wound on the right side of the navel.
+Ground Truth: I laid my wife on the bed, and found, on examining, that she had a wound on the right side of the navel.
+
+OCR Text: Ser- geant Jackson was sent for, but my wife died at half-past eight,
+Ground Truth: Sergeant Jackson was sent for, but my wife died at half-past eight.
+
+OCR Text: There are nine others sleep in the same room.
+Ground Truth: There are nine others sleep in the same room.
+
+OCR Text: There is gene- rally a married man to each room.
+Ground Truth: There is generally a married man to each room.
+
+OCR Text: Had never had any quarrel with the prisoner, but my wife had.
+Ground Truth: Had never had any quarrel with the prisoner, but my wife had.
+
+OCR Text: The prisoner seldom spoke to iary soldiers; he was a very close-minded man, hasty-temper- ed, and disagreeable.
+Ground Truth: The prisoner seldom spoke to any soldiers; he was a very close-minded man, hasty-tempered, and disagreeable.
+
+OCR Text: There was a bayonet wrenched from him once.
+Ground Truth: There was a bayonet wrenched from him once.
+
+OCR Text: W. Keenan, a private in the same regiment, corroborated this witness with respect to the facts conneeted with the murder.
+Ground Truth: W. Keenan, a private in the same regiment, corroborated this witness with respect to the facts connected with the murder.
+
+OCR Text: He added: Prisoner, immediately he fired, threw the firelock at my feet.
+Ground Truth: He added: Prisoner, immediately he fired, threw the firelock at my feet.
+
+OCR Text: He said, " There, now; that will do; I'm satisfied."
+Ground Truth: He said, “There, now; that will do: I'm satisfied."
+
+OCR Text: I made him prisoner.
+Ground Truth: I made him prisoner.
+
+OCR Text: I found the lead in two flat bits.
+Ground Truth: I found the lead in two flat bits.
+
+OCR Text: The pri- soner did not mix much with the other men.
+Ground Truth: The prisoner did not mix much with the other men.
+
+OCR Text: He was very moody and sullen.
+Ground Truth: He was very moody and sullen.
+
+OCR Text: I knew him try to commit suicide when he was drunk.
+Ground Truth: I knew him try to commit suicide when he was drunk.
+
+OCR Text: On that occasion he was handcuffed, and he went to the fire, laid hold of the poker, and hit himself with it on the head; but 2 did not injure himself, being handcuffed.
+Ground Truth: On that occasion he was handcuffed, and he went to the fire, laid hold of the poker, and hit himself with it on the head; but he did not injure himself, being handcuffed.
+
+OCR Text: On the same occasion he tried to put his hands in the fire.
+Ground Truth: On the same occasion he tried to put his hands in the fire.
+
+OCR Text: Jeremiah Dooley, another private, gave evidence to the same effect.
+Ground Truth: Jeremiah Dooley, another private, gave evidence to the same effect.
+
+OCR Text: Mr. J. Jackson, assistant-surgeon of the 57th Regiment of Foot, was called to attend the deceased, when lie found a small wound in the abdomen, such as would be caused by a musket- ball.
+Ground Truth: Mr. J. Jackson, assistant-surgeon of the 57th Regiment of Foot, was called to attend the deceased, when he found a small wound in the abdomen, such as would be caused by a musket ball.
+
+OCR Text: The ball went through her body.
+Ground Truth: The ball went through her body.
+
+OCR Text: She died about half- past eight.
+Ground Truth: She died about half past eight.
+
+OCR Text: Never noticed the prisoner in particular.
+Ground Truth: Never noticed the prisoner in particular.
+
+OCR Text: Had di- rected his attention to insanity amongst other subjects.
+Ground Truth: Had directed his attention to insanity amongst other subjects.
+
+OCR Text: Was ac- quainted with the works of Esquirol, Marc, Pritchard, and others.
+Ground Truth: Was acquainted with the works of Esquirol, Marc, Pritchard, and others.
+
+OCR Text: Insanity was divided into four classes.
+Ground Truth: Insanity was divided into four classes.
+
+OCR Text: [The witness went into details on this subject, which need not be reported.]
+Ground Truth: [The witness went into details on this subject, which need not be reported.]
+
+OCR Text: Men frequently may have insane impulses.
+Ground Truth: Men frequently may have insane impulses.
+
+OCR Text: An insane impulse may exist which may entirely take away a man's self-controlu
+Ground Truth: An insane impulse may exist which may entirely take away a man's self-control.
+
+OCR Text: The judge: I wonder who has found that out.-Mr. Dearsley: It is laid down by Pritchard that a person may be labouring un- der an insane impulse which may deprive him at that moment of self-control.- The judge: Even supposing the hangman was standing by to execute him for it?-Mr. Jackson: Yes.
+Ground Truth: The judge: I wonder who has found that out. —Mr. Dearsley: It is laid down by Pritchard that a person may be labouring under an insane Impulse which may deprive him at that moment of self-control. —The judge: Even supposing the hangman was standing by to execute him for it? —Mr. Jackson: Yes.
+
+OCR Text: There may be a thousand more madmen now in France since the revo- lution than there were before, chiefly arising from exciting causes.
+Ground Truth: There may be a thousand more madmen now in France since the revolution than there were before, chiefly arising from exciting causes.
+
+OCR Text: Such was the case at the last revolution, and he suppos- ed it would be so now,
+Ground Truth: Such was the case at the last revolution, and he supposed it would be so now.
+
+OCR Text: The treatment of insanity is Aodw very different from what it used to be.
+Ground Truth: The treatment of insanity is now very different from what it used to be.
+
+OCR Text: There were now no dungeons, no straw, and no chains.
+Ground Truth: There were now no dungeons, no straw, and no chains.
+
+OCR Text: Insanity is a very difficult subject of study.
+Ground Truth: Insanity is a very difficult subject of study.
+
+OCR Text: A man labouring under homicidal monomania may ex- hibit its symptoms very forcibly when intoxicated.
+Ground Truth: A man labouring under homicidal monomania may exhibit its symptoms vary forcibly when intoxicated.
+
+OCR Text: Mr. W. Price, surgeon, of Leeds, underwent a long examina- tion relative to insanity, but his answers being so similar to those of Mr. Jackson, we think it needless to give his evidence at length.
+Ground Truth: Mr. W. Price, surgeon, of Leeds, underwent a long examination relative to insanity, but his answers being so similar to those of Mr. Jackson, we think it needless to give his evidence at length.
+
+OCR Text: Mr. Dearsley having addressed the jury for the prisoner, Mr. Baron olfe summed up, in the course of which he said that it too frequently happened that offences were committed with little i,- no motive, and he conceived it was a very dangerous doctrine for i lie peace of society to contend that, because a man perpetrat- ed a dreadful crime without apparent motive, he should therefore Tdhejmu , ~after a very brief consultation, returned a verdict of "Guilty."
+Ground Truth: Mr. Dearsley having addressed the jury for the prisoner, Mr. Baron Rolfe summed up, in the course of which he said that it too frequently happened that offences were committed with little no motive, and he conceived it was a very dangerous doctrine for the peace of society to contend that, because a man perpetrated a dreadful crime without apparent motive, he should therefore be deemed insane. The jury, after a very brief consultation, returned a verdict of “Guilty.”
+
+OCR Text: R prisoner, being asked if he had anything to say why sentence O "<i7ath should not be passed upon him, said, " I hope, my lord, yo E ill have mercy on rme."-Mr. Baron Rolfe then pronounced sented a? of death.
+Ground Truth: The prisoner, being asked if he had anything to say why sentence of death should not be passed upon him, said, “I hope, my lord, you will have mercy on me." –Mr. Baron Rolfe than pronounced sentence of death.

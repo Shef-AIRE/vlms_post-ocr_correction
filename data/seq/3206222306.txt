@@ -1,0 +1,62 @@
+OCR Text: A PAINFUL CASE. a.
+Ground Truth: A PAINFUL CASE.
+
+OCR Text: An inquest was held on Monday, by Mir. Swan at Beeston, Notts, touching the death of a girl, nimeje Eliza Bollends, servant to the Alisses Cheethsm at Chilwell, which took place under very paisful acir cumstances.
+Ground Truth: An inquest was held on Monday, by Mr. Swan, at Beeston, Notts, touching the death of a girl, named Eliza Bollends, servant to the Misses Cheetham, at Chilwell, which took place under very painful circumstances.
+
+OCR Text: According to the evidence of Ellen Pill. man, fellow-servant of the deceased, she missed th& latter, who slept with her, early on Sunday mornin and, as she did not come back to bed, witness welff down stairs and found her sitting in the kitchen cor, ner.
+Ground Truth: According to the evidence of Ellen Rillman, fellow-servant of the deceased, she missed the latter, who slept with her, early on Sunday morning and, as she did not come back to bed, witness went down stairs and found her sitting in the kitchen corner.
+
+OCR Text: After some conversation sie admitted that sh0 had given birth to a child,
+Ground Truth: After some conversation she admitted that she had given birth to a child.
+
+OCR Text: A Mrs. Beoton was seat for and took the chid from her, and told her to go to bed, but she refused, 'dis Misses Oleettam aers informed of the circumstance, and they appeared very much annoyed.
+Ground Truth: A Mrs. Beeton was sent for and took the child from her, and told her to go to bed, but she refused, The Misses Cheetham were informed of the circumstance, and they appeared very much annoyed.
+
+OCR Text: When they heard that the de ceased wished to leave, they said it would he best she should dojes.
+Ground Truth: When they heard that the deceased wished to leave, they said it would be best she should do so.
+
+OCR Text: Witness nover knew that she wae inthe familt tay; she never mentioned thenat ter, hut on Saturday mornting said that a voung mans residing at Desping was the father of her child.
+Ground Truth: Witness never knew that she was in the family way; she never mentioned the matter, but on Saturday morning said that a young man residing at Deeping was the father of her child.
+
+OCR Text: No doctor was sent for before she left thehetole
+Ground Truth: No doctor was sent for before she left the house.
+
+OCR Text: The Misses Cheetham remained in bed until she had beed removed ; they wished the best attention to be paid to her.
+Ground Truth: The Misses Cheetham remained in bed until she had been removed; they wished the best attention to be paid to her.
+
+OCR Text: Airs. Beaton is a ntidswife, and it was thought she knew best what should be done.
+Ground Truth: Mrs. Beeton is a midwife, and it was thought she knew best what should be done.
+
+OCR Text: Itwvassl v0eer seven and eight o'clock when deceased was l enaiven from Chilweli.
+Ground Truth: It was between seven and eight o'clock when deceased was removed from Chilwell.
+
+OCR Text: Ellen Beeton, widow, of tillwepll corroborated a great portion of the previous aeih ness's evidence, and added tdiat she conesilcred she" ceased to be in a fit and secure state to be removed
+Ground Truth: Ellen Beeton, widow, of Chilwell corroborated a great portion of the previous witness's evidence, and added that she considered deceased to be in a fit and secure state to be removed.
+
+OCR Text: It was deceased's ptrrtsicular wvish. to be taeen to' Beeston.
+Ground Truth: It was deceased's particular wish to be taken to Beeston.
+
+OCR Text: Deceased lead given birth to a maide cilid which appeared to be full-grown, and was sill lsive3
+Ground Truth: Deceased had given birth to a male child which appeared to be full-grown, and was still alive.
+
+OCR Text: Ultimately she was removed to a Airs. Ceoas, at Beeston, where she had ex-pressed a wish to go, aui a surgeon was sent for.
+Ground Truth: Ultimately she was removed to a Mrs. Cox's, at Beeston, where she had expressed a wish to go, and a surgeon was sent for.
+
+OCR Text: Mr. J. Butler, who saw th deceased at Mrs. Cox's, deposed to the eXhaustel state in which he founs leer.
+Ground Truth: Mr. J. Butler, who saw the deceased at Mrs. Cox's, deposed to the exhausted state in which he found her.
+
+OCR Text: He adsnisistarejl stimulating medicines, but she ultimately died froen prostration, loss of blood, and exposure d6lin hss removal from Chilwell to Beeston.
+Ground Truth: He administered stimulating medicines, but she ultimately died from prostration, loss of blood, and exposure during hen removal from Chilwell to Beeston.
+
+OCR Text: If she had ham proper attention she might isave recovered.
+Ground Truth: If she had had proper attention she might have recovered.
+
+OCR Text: rhe coconer, in surmming up, said it Wxas qulitC cear that deceased bsed been sacrificeil for wvnt of propes at, tention.
+Ground Truth: The coroner, in summing up, said it was quite clear that deceased had been sacrificed for want of proper attention.
+
+OCR Text: The persons to vwhomn she was taken iverq poor, and ir. Butler was therefore not called ire until the last moment, whoali he could do naothin foc her.
+Ground Truth: The persons to whom she was taken were poor, and Mr. Butler was therefore not called in until the last moment, when he could do nothing for her.
+
+OCR Text: After considerable discussion the juroV ree to the following verdict :T- shat deceased lis3s died from exhaustion after being delivered of a child, and from exposure to cold oni being removed from Chil. well to Beeston, and for waant of proper moedical as. sistance."
+Ground Truth: After considerable discussion the jury agreed to the following verdict: --“That deceased has died from exhaustion after being delivered of a child, and from exposure to cold on being removed from Chilwell to Beeston, and for want of proper medical assistance."

@@ -1,0 +1,53 @@
+OCR Text: GHASTLY MUDEDR OF A GOVERNESS IS I i A WOOD.
+Ground Truth: GHASTLY MURDER OF A GOVERNESS IN A WOOD.
+
+OCR Text: , yETrN five and eight o'clock on Friday evening a brutal murder was committed at a lone farmhouse in Lambridge Wood, about a mile and a half from Hen- ley, the victim being Kate Daccy, governess and housekeeper for several years past in the family of Mr. Mash, a fruiterer, of Falham-road, London, who resides at the farm part of the year.
+Ground Truth: BETWEEN five and eight o'clock on Friday evening a brutal murder was committed at a lone farmhouse in Lambridge Wood, about a mile and a half from Henley, the victim being Kate Dancy, governess and housekeeper for several years past in the family of Mr. Mash, a fruiterer, of Fulham-road, London, who resides at the farm part of the year.
+
+OCR Text: George Dawson, the farm-hand in charge, lefb Lsambridge at five o'clock, when he says all was well.
+Ground Truth: George Dawson, the farm-hand in charge, left Lambridge at five o'clock, when he says all was well.
+
+OCR Text: About eight o'clock two boys who always sleep at the farmhouse, * went there as usual, but failed to gain admittance, the house being locked up, although lights were burning in the rooms.
+Ground Truth: About eight o'clock two boys, who always sleep at the farmhouse, went there as usual, but failed to gain admittance, the house being locked up, although lights were burning in the rooms.
+
+OCR Text: The two boys waited until ten o'clock, and then returned to the home of their parents, about half a mile distant.
+Ground Truth: The two boys waited until ten o'clock, and then returned to the home of their parents, about half a mile distant.
+
+OCR Text: Their parents informed Dawvaon, and he went to Lambridge with the boys.
+Ground Truth: Their parents informed Dawson, and he went to Lambridge with the boys.
+
+OCR Text: He found'the house still locked up, and on making a search in the vicinity he foun d the body of Miss Daucy in the wood near. by with her head i I smashed in, the ears cut, and gashes on the neck.
+Ground Truth: He found the house still looked up, and on making a search in the vicinity he found the body of Miss Dancy in the wood nearby with her head smashed in, the ears cut, and gashes on the neck.
+
+OCR Text: I She was quite dead, and bad evidently been murdered s some hours previously.
+Ground Truth: She was quite dead, and had evidently been murdered some hours previously.
+
+OCR Text: Word was at once sent to the police.
+Ground Truth: Word was at once sent to the police.
+
+OCR Text: Superintendent Keel was soon on the spot, and a with a constable entered-thehouse by a window.
+Ground Truth: Superintendent Keel was soon on the spot, and with a constable entered the house by a window.
+
+OCR Text: It soon became evident that the unfortunate woman was r first attacked in the house, for there were signs of a .rstruggle in the passage, blood splashes on the walls, r and a brooch and hairpins on the floor.
+Ground Truth: It soon became evident that the unfortunate woman was first attacked in the house, for there were signs of a struggle in the passage, blood splashes on the walls, and a brooch and hairpins on the floor.
+
+OCR Text: Just outside r the door of the passage the police found a portion of k a heavy cudgel, about an inch in diameter, and Y another part of it, as well as an Iron poker, were found near the body, where it was evident by the p state of the ground a second and prolonged struggle d had taken place between the victim and her mur- I darer.
+Ground Truth: Just outside the door of the passage the police found a portion of a heavy cudgel, about an inch in diameter, and another part of it, as well as an iron poker, were found near the body, where it was evident by the state of the ground a second and prolonged struggle had taken place between the victim and her murderer.
+
+OCR Text: The police have not yet obtained any clue e likely to lead to the arrest of the murderer.
+Ground Truth: The police have not yet obtained any clue likely to lead to the arrest of the murderer.
+
+OCR Text: Miss g, Dancy was about twenty-six years of age, and is de- ], soribed as an acoomplished young lady.
+Ground Truth: Miss Dancy was about twenty-six years of age, and is described as an accomplished young lady.
+
+OCR Text: She was the It daughter of a farmer at Tunbridge Wells.
+Ground Truth: She was the daughter of a farmer at Tunbridge Wells.
+
+OCR Text: Robbery a, appears to have been the motive, although nothing ie was touched in the house.
+Ground Truth: Robbery appears to have been the motive, although nothing was touched in the house.
+
+OCR Text: Deceased's pocket was I turned inside out; both doors were locked inside, but it the sitting-room window was open.-
+Ground Truth: Deceased's pocket was turned inside out; both doors were locked inside, but the sitting room window was open.
+
+OCR Text: 'An i nquest was opened at Henley on Monday, on 11 the body of the murdered lady, and a man of the r. name of Rathal was arrested during. the day on ly suspicion of being concrned in the crime,
+Ground Truth: An inquest was opened at Henley on Monday, on the body of the murdered lady, and a man of the name of Rathall was arrested during the day on suspicion of being concerned in the crime.

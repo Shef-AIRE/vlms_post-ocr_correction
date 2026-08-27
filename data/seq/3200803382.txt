@@ -1,0 +1,164 @@
+OCR Text: ATTEMPTED MURDER OF A MERCHANT.
+Ground Truth: ATTEMPTED MURDER OF A MERCHANT.
+
+OCR Text: AT the Bow-street Police-court, five men named James Palmer, Samuel Scandland, Leon Weiner, Adolphe Weiner, and Daniel Jacoby, have been charged with being concerned with a man (already convleted) named Dasant, with attempting to' murder Jules Tabak, a diamond merchant, and steal- in'g £2000 worth of diamonds,
+Ground Truth: AT the Bow-street Police-court, five men named James Palmer, Samuel Scandland, Leon Weiner, Adolphe Weiner, and Daniel Jacoby, have been charged with being concerned with a man (already convicted) named Dusant, with attempting to murder Jules Tabak, a diamond merchant, and stealing £2,000 worth of diamonds.
+
+OCR Text: Inspector Langrish deposed that from information received he went with other oflieers and arrested the accused on the present charge.
+Ground Truth: Inspector Languish deposed that from information received he went with other officers and arrested the accused on the present charge.
+
+OCR Text: ir. Taliak, a diamioed merchont, of 5. Belgrave-street, Eusten-road, deponed that on Me\arch 2,i,;h, two men camze to his house, a~nd esked him to show them some diamnonds.
+Ground Truth: Mr. Tabak, a diamond merchant of 5 Belgrave-street, Euston-road, deposed that on March 25th, two men came to his house, and asked him to show them some diamonds.
+
+OCR Text: Two parcels wero shown them,
+Ground Truth: Two parcels were shown them.
+
+OCR Text: While the men were lookingf at the diamonds the prisoner Palmer struck witnees two heavy blows on the head.
+Ground Truth: While the men were looking at the diamonds the prisoner Palmer struck witness to heavy blows on the head.
+
+OCR Text: He was stunned, the two men ran away, and stole one hundred and eighty carats of diarnonds, value £14100.
+Ground Truth: He was stunned, the two men ran away, and stole one hundred and eighty carats of diamonds, value £1,400.
+
+OCR Text: One of the meii' (Doeant) was arrested, and has since been convicted and sentenced to penal servitude.
+Ground Truth: One of the men (Dusant) was arrested, and has since been convicted and sentenced to penal servitude.
+
+OCR Text: He positively identified Palmer as the other man.
+Ground Truth: He positively identified Palmer as the other man.
+
+OCR Text: Mmr. TaNbalc was called, and identified Palmer as one of the men con- corned in the robbery.
+Ground Truth: Mrs. Tabak was called, and identified Palmer as one of the men concerned in the robbery.
+
+OCR Text: She did not identify him at, first,
+Ground Truth: She did not identify him at first.
+
+OCR Text: Eleanor Denunzio, the daugister of the man Dusant, deposed that on March 25th, the day of the robbery, the prisoner Palmer called on her and beckoned her to the corner of the street.
+Ground Truth: Eleanor Denunzio, the daughter of the man Dusant, deposed that on March 25th, the day of the robbery, the prisoner Palmer called on her and beckoned her to the corner of the street.
+
+OCR Text: He asked for her lather.
+Ground Truth: He asked for her father.
+
+OCR Text: Be said, "1 I struck the old man.
+Ground Truth: He said, “I struck the old man.
+
+OCR Text: Ho screamed, and his wife came upstairs and we were obliged to run away.
+Ground Truth: He screamed, and his wife came upstairs and we were obliged to run away.
+
+OCR Text: I daresay your father *will blame me for all this, but my brother was outside end did all he could to stop the servant,"
+Ground Truth: I daresay your father will blame me for all this, but my brother was outside and did all he could to stop the servant.”
+
+OCR Text: Witness asked if the servant waS stopped.
+Ground Truth: Witness asked if the servant was stopped.
+
+OCR Text: Prisoner replied in the negative,
+Ground Truth: Prisoner replied in the negative.
+
+OCR Text: She asked if her father had got away.
+Ground Truth: She asked if her father had got away.
+
+OCR Text: Prisoner replied, " No," and told her she had better pack up her luggage andl get away from the house at once, and leaye her luggage in the cloaki- roanI.
+Ground Truth: Prisoner replied, “No,” and told her she had better pack up her luggage and get away from the house at once, and leave her luggage in the cloakroom.
+
+OCR Text: le said," You know where Weiner lives,
+Ground Truth: He said, “You know where Weiner lives.
+
+OCR Text: You nmut go down to him and tell him to assist you.
+Ground Truth: You must go down to him and tell him to assist you.
+
+OCR Text: \WitneFs packed up her luggage and took it to Wettrino Station, and afterwards wont to AdoOlphe WAeiner's house,
+Ground Truth: Witness packed up her luggage and took it to Waterloo Station, and afterwards went to Adolphs Weiner’s house.
+
+OCR Text: She packed the luggage and scont 't to Waiterloo Station the saime day.
+Ground Truth: She packed the luggage and sent it to Waterloo Station the same day.
+
+OCR Text: She then wer t to C, Dyer's Buildings, and saw Adolphe Weiner.
+Ground Truth: She then went to 6, Dyer’s Buildings and saw Adolphe Weinger.
+
+OCR Text: Directly he saw her ho said, "For God's sake go awa: ;<y I I will meet you iri CLstle-etreet,"
+Ground Truth: Directly he saw her he said “For God’s sake go away! I will meet you in Castle-street.”
+
+OCR Text: She went ther!, wlhore he shortly joined her, and took her to a r.ina shop hi Chaneery-laus.
+Ground Truth: She went there, where he shortly joined her, and took her to a wine shop in Chancery lane.
+
+OCR Text: Witness raid, " You have got my father into this trouble, and I sh^all ex- pect you to get him out of it."
+Ground Truth: Witness said, “You have got my father into this trouble, and I shall expect you to get him out of it.”
+
+OCR Text: He denied at first that he knew anything aboat it.
+Ground Truth: He denied at first that he knew anything about it.
+
+OCR Text: She told him that her father had told her about the aifair fromn the beginning,
+Ground Truth: She told him that her father had told her about the affair from the beginning.
+
+OCR Text: Hee said that all he did was to get her father a situation,
+Ground Truth: He said that all he did was to get her father a situation.
+
+OCR Text: She said she henew that was false, and that he sent her father to MIr. Tabak.
+Ground Truth: She said she know that was false, and that he spent her father to Mr. Tabak,
+
+OCR Text: First he said he would not assist her at all, and Sthen he gave hfr 5s3., and said he would give h)er that every xv.ek until she got employment.
+Ground Truth: First he had said he would not assist her at all, and then he gave her 5s., and said he would give her that every week until she got employment.
+
+OCR Text: I-Ie -aid whatever she did sho rnust 1!0t come near Dyers- Bnildigi, because le, wa, watched.
+Ground Truth: He said whatever she did she must not come near Dyer’s Buildings, because he was watched.
+
+OCR Text: Then zlihe went to Jacoby's house, but he was not at hozae.
+Ground Truth: Then she went to Jacoby’s house, but he was not at home.
+
+OCR Text: She Sdw Hisll, hoeveoer, on the following Fri'av at hmis place in the Edgware road.
+Ground Truth: She saw him, however, on the following Friday at his place in the Edgware-road.
+
+OCR Text: He baid he (ii not know they were going to strike him.
+Ground Truth: He said he did not know they were going to strike him.
+
+OCR Text: Witness toid h1mr lie mnst takre t'he money for her fathber's m sin- teusence in the House of Detention.
+Ground Truth: Witness told him he must take the money for her father’s maintenance in the House of Detention.
+
+OCR Text: HEo promn.isedl to do -o, and met bwitn ss the urox'; night in Av.e: i- bnvsty:r eeet, C e l; euweli.
+Ground Truth: He promised to do so, and met witness the next night in Aylesbury-street, Clerkenwell.
+
+OCR Text: She gave h;.r l0 3s. fer he; fa-her.
+Ground Truth: She gave him 10s, for her father.
+
+OCR Text: On the following Monday she waS to mnet. hse elcer Wesiner, who promaised to give her f2 12;. for th. rent then due by her fether.
+Ground Truth: On the following Monday she was to meet the elder Weiner, who promised to give her £2 12s. for the rent then due by her father.
+
+OCR Text: Weiner did not turn up, bat subs-.cquently -he saw Jacisby, who ,,ave hez £X2' to pay the rent.
+Ground Truth: Weiner did not turn up, but subsequently she saw Jacoby, who gave her £3 to pay the rent.
+
+OCR Text: Ho told her no0 to go to i NATehier's place at all.
+Ground Truth: He told her not to go to Weiner’s place at all.
+
+OCR Text: He promiged to ml;eet h..r at the ll urlle Arch the following Woedesd ay, but by the II[ls'ice of PAeher and his wife she did not gc
+Ground Truth: He promised to meet her at the Marble Arch the following Wednesday, but by the advice of Palmer and his wife she did not go.
+
+OCR Text: On Marclh ui5th, after 8ecmiJPalrner, she weat to the hounon of his mother-in-law.
+Ground Truth: On March 25th, after seeing Palmer, she went to the house of his mother-in-law.
+
+OCR Text: He came in and scnt for bis wife.
+Ground Truth: He came in and sent for his wife.
+
+OCR Text: They took witness to their house, aod. sent for her luggage from Waterloo.
+Ground Truth: They took witness to their house, and sent for her luggage from Waterloo.
+
+OCR Text: She remained in the house for nine weeks.
+Ground Truth: She remained in the house for nine weeks.
+
+OCR Text: Witness kolemw the whole of the prisoners, who were in the hohit of coming to the house of witness's fathor.
+Ground Truth: Witness knew the whole of the prisoners, who were in the habit of coming to the house of witness’s father.
+
+OCR Text: Three weesle aftr Christ- inas Jacoby oalleu at their Is11us Vith a bsottle of chlorotorme,
+Ground Truth: Three weeks after Christmas Jacoby called at their house with a bottle of chloroform.
+
+OCR Text: Toney tried it on the hitten,
+Ground Truth: They tried it on the kitten.
+
+OCR Text: On o. sub- se(luent c asiva time -lder Waeiner took a), rabbit to the houQse aud wiitness was orderod out of the room.
+Ground Truth: On a subsequent occasion the elder Weiner took a rabbit to the house and witness was ordered out of the room.
+
+OCR Text: When she returned the windows were open, ernd there vyae a strong smell of chloroform il thu XrDom.
+Ground Truth: When she returned the windows were open, and there was a strong smell of chloroform im the room.
+
+OCR Text: She bLeIeved they had tried it on ths ralsdt.
+Ground Truth: She believed they had tried it on the rabbit.
+
+OCR Text: T!ie accused, v; ho proctstea t-heir innocence. were reminded. I
+Ground Truth: The accused, who protested their innocence, were remanded.

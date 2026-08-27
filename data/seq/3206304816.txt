@@ -1,0 +1,92 @@
+OCR Text: CHAR0.E OF ATTEMPT TO MURDER.
+Ground Truth: CHARGE OF ATTEMPT TO MURDER.
+
+OCR Text: Ols Wednesday, a young man of respectable exterior, named Vivian O'Keefe, was charged at the Liverpool police-court with having attempted to murder a girl named Jane Riley, onk the 13th of March last, by dis- charging the contents of a loaded gun at her, in a shoot- ijg gallery in Williamson-sqnare, near the Theatre Royal.
+Ground Truth: On Wednesday, a young man of respectable exterior, named Vivian O’Keefe, was charged at the Liverpool police-court with having attempted to murder a girl named Jane Riley, on the 13th of March last, by discharging the contents of a loaded gun at her, in a shooting gallery in Williamson-square, near the Theatre Royal.
+
+OCR Text: The hearing of the case had been deferred, in consequence of the inability of the prosecutrix to give evidence, owing to the precaeious state in which she has been since the occurrence.
+Ground Truth: The hearing of the case had been deferred, in consequence of the inability of the prosecutrix to give evidence, owing to the precarious state in which she has been since the occurrence.
+
+OCR Text: The prosecutrix, having been assisted into court, gave the following evidence.
+Ground Truth: The prosecutrix, having been assisted into court, gave the following evidence.
+
+OCR Text: She said: About twelve o'clock on the morning of the 13ih of March I went into a shoot- ing gallery in Murray-street, Williamson-square.
+Ground Truth: She said: About twelve o’clock on the morning of the 13th of March I went into a shooting gallery in Murray-street, Williamson-square.
+
+OCR Text: I wanted to see the master.
+Ground Truth: I wanted to see the master.
+
+OCR Text: As I went in I saw the pri. soner standing on the steps.
+Ground Truth: As I went in I saw the prisoner standing on the steps.
+
+OCR Text: I beard himnsay to a friend, " I will have another shot, and then I will go home."
+Ground Truth: I heard him say to a friend, “I will have another shot, and then I will go home.”
+
+OCR Text: He then followed me into the gallery.
+Ground Truth: He then followed me into the gallery.
+
+OCR Text: I went into a small room, called the snag, to see if the landlord was in.
+Ground Truth: I went into a small room, called the snug, to see if the landlord was in.
+
+OCR Text: Whilst I was there the prisoner came in and asked me to come to him.
+Ground Truth: Whilst I was there the prisoner came in and asked me to come to him.
+
+OCR Text: I did not speak to him.
+Ground Truth: I did not speak to him.
+
+OCR Text: He then smiled and took up a gun, and said he would shoot me.
+Ground Truth: He then smiled and took up a gun, and said he would shoot me.
+
+OCR Text: I thought he wras jolting, and said, "Oh, don't."
+Ground Truth: I thought he was joking, and said, “Oh, don’t.”
+
+OCR Text: I then tuned my back, and had hardly done so when the gun went off, and I felt a hal penetrate my shoulder.
+Ground Truth: I then turned my back, and had hardly done so when the gun went off, and I felt a ball penetrate my shoulder.
+
+OCR Text: I be- lieve 1 was afterwards taken to the infirnCary.
+Ground Truth: I believe I was afterwards taken to the infirmary.
+
+OCR Text: The pri. soner appeared rather tipsy.
+Ground Truth: The prisoner appeared rather tipsy.
+
+OCR Text: Mary Ann M'Laren, wife of the man whe keeps the shooting-gallery, corroborated the prosecutrix's evidence, and added that she saw the prisoner present the gun at the proesecutrix, and heard him say to her, "I'll shoot you."
+Ground Truth: Mary Ann MʻLaren, wife of the man who keeps the shooting-gallery, corroborated the prosecutrix's evidence, and added that she saw the prisoner present the gun at the prosecutrix, and heard him say to her, “I’ll shoot you.”
+
+OCR Text: After saying so, the prisoner pulled up the ham. mer of the gun, and fired at her.
+Ground Truth: After saying so, the prisoner pulled up the hammer of the gun, and fired at her.
+
+OCR Text: Prosecutrix screamed out, saying she vwas shot, and blood began to flow from her shoulder.
+Ground Truth: Prosecutrix screamed out, saying she was shot, and blood began to flow from her shoulder.
+
+OCR Text: Witness then said to prisoner, "You have shot the woman, and I'm ruined."
+Ground Truth: Witness then said to prisoner, “You have shot the woman, and I'm ruined.”
+
+OCR Text: He said nothing, but smiled, and left the place.
+Ground Truth: He said nothing, but smiled, and left the place.
+
+OCR Text: A police-officer deposed to taking the prisoner into cus- tody at his lodgings in Islington-terrace the next. morn- ing.
+Ground Truth: A police-officer deposed to taking the prisoner into custody at his lodgings in Islington-terrace the next morning.
+
+OCR Text: He denied all knowledge of the transaction, and said he did not remember having been in a shooting- gallery the evening before.
+Ground Truth: He denied all knowledge of the transaction, and said he did not remember having been in a shooting-gallery the evening before.
+
+OCR Text: The surgeon to the royal infirmary deposed to receiving the prosecutrix into the infirmary, as a patient, on the morning of the 13th oi March.
+Ground Truth: The surgeon to the royal infirmary deposed to receiving the prosecutrix into the infirmary, as a patient, on the morning of the 13th of March.
+
+OCR Text: On examining her, he found she had been shot in the shoulder.
+Ground Truth: On examining her, he found she had been shot in the shoulder.
+
+OCR Text: The charge hind entered the upper part of the shoulder, and passed into the spine.
+Ground Truth: The charge had entered the upper part of the shoulder, and passed into the spine.
+
+OCR Text: Had attended upon her since, and had not been able to extract the ball, but had traced it about four inches, and believed that it was at present lodged in the muscles of the back near the spine.
+Ground Truth: Had attended upon her since, and had not been able to extract the ball, but had traced it about four inches, and believed that it was at present lodged in the muscles of the back near the spine.
+
+OCR Text: He believed the prosecutrix to be at present out of danger.
+Ground Truth: He believed the prosecutrix to be at present out of danger.
+
+OCR Text: Mr. Snowbali, solicitor, appeared for the prisoner, and urged that there could not be a committal under the act of Parliament, as murder was not intended.-The ma- gistrate's clerk said that under the section of the act it would undoubtedly have been murder had the proseca. trix died; and after a few minutes' conversation the pre- siding magistrate said it was a very serious charge, and he felt bound to send it before a jury.
+Ground Truth: Mr. Snowball, solicitor, appeared for the prisoner, and urged that there could not be a committal under the act of Parliament, as murder was not intended. –The magistrate’s clerk said that under the section of the act it would undoubtedly have been murder had the prosecutrix died; and after a few minutes' conversation the presiding magistrate said it was a very serious charge, and he felt bound to send it before a jury.
+
+OCR Text: The prisoner was then committed for trial at the assizes.-Bail having been applied for, the prisoner's father came forward and said that ho was a housekeeper residing in Dblin, and con- nected with the press there.-The magistrates declined to accept his bail, and ordered the prisoner to find bail, himself in 100t., and two sureties resident in Liverpool in 01. each.
+Ground Truth: The prisoner was then committed for trial at the assizes. –Bail having been applied for, the prisoner's father came forward and said that he was a housekeeper residing in Dublin, and connected with the press there. –The magistrates declined to accept his bail, and ordered the prisoner to find bail, himself in 100l., and two sureties resident in Liverpool in 50l, each.
